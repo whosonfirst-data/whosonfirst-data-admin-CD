@@ -1,0 +1,67 @@
+{
+  "id": 1276511863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78716,-3.60396,17.78716,-3.60396",
+    "geom:latitude":-3.60396,
+    "geom:longitude":17.78716,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Beno",
+    "gn:country_code":"CD",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317156,
+    "gn:latitude":-3.60396,
+    "gn:longitude":17.78716,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Beno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317156
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c4d584dac7ae32d8ff25db7a0f9669a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1276511863,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276511863,
+    "wof:lastmodified":1537035449,
+    "wof:name":"Beno",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78716,
+    -3.60396,
+    17.78716,
+    -3.60396
+],
+  "geometry": {"coordinates":[17.78716,-3.60396],"type":"Point"}
+}

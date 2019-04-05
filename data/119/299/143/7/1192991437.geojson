@@ -1,0 +1,72 @@
+{
+  "id": 1192991437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4059,-9.44944,24.4059,-9.44944",
+    "geom:latitude":-9.44944,
+    "geom:longitude":24.4059,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Musangoi",
+    "gn:country_code":"CD",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207898,
+    "gn:latitude":-9.44944,
+    "gn:longitude":24.4059,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Musangoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musongoi",
+        "Musongoie",
+        "Musangoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207898
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f06b3b5416b3f72bdbdfff6f0933c8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1192991437,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1192991437,
+    "wof:lastmodified":1537590353,
+    "wof:name":"Musangoi",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4059,
+    -9.44944,
+    24.4059,
+    -9.44944
+],
+  "geometry": {"coordinates":[24.4059,-9.44944],"type":"Point"}
+}

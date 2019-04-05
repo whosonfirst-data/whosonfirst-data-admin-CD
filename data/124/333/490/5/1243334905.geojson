@@ -1,0 +1,67 @@
+{
+  "id": 1243334905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.69681,3.42336,25.69681,3.42336",
+    "geom:latitude":3.42336,
+    "geom:longitude":25.69681,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mboi",
+    "gn:country_code":"CD",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143632,
+    "gn:latitude":3.42336,
+    "gn:longitude":25.69681,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mboi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143632
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1a74cd8fdbb4e0e5c68b20892a59f5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1243334905,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243334905,
+    "wof:lastmodified":1536966250,
+    "wof:name":"Mboi",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.69681,
+    3.42336,
+    25.69681,
+    3.42336
+],
+  "geometry": {"coordinates":[25.69681,3.42336],"type":"Point"}
+}

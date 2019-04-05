@@ -1,0 +1,67 @@
+{
+  "id": 1276750867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3865,-3.05778,28.3865,-3.05778",
+    "geom:latitude":-3.05778,
+    "geom:longitude":28.3865,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zalya",
+    "gn:country_code":"CD",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203307,
+    "gn:latitude":-3.05778,
+    "gn:longitude":28.3865,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Zalya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203307
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c65a537805ca07d63d074c1cc0fe7be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1276750867,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1276750867,
+    "wof:lastmodified":1536716794,
+    "wof:name":"Zalya",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3865,
+    -3.05778,
+    28.3865,
+    -3.05778
+],
+  "geometry": {"coordinates":[28.3865,-3.05778],"type":"Point"}
+}

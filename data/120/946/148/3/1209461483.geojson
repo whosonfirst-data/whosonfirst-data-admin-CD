@@ -1,0 +1,61 @@
+{
+  "id": 1209461483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.63169,1.89935,25.63169,1.89935",
+    "geom:latitude":1.89935,
+    "geom:longitude":25.63169,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bombwa",
+    "gn:country_code":"CD",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218291,
+    "gn:latitude":1.89935,
+    "gn:longitude":25.63169,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bombwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218291
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fc19f06ddc89b6a2da45a3f4124df63c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209461483
+        }
+    ],
+    "wof:id":1209461483,
+    "wof:lastmodified":1536286365,
+    "wof:name":"Bombwa",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.63169,
+    1.89935,
+    25.63169,
+    1.89935
+],
+  "geometry": {"coordinates":[25.63169,1.89935],"type":"Point"}
+}

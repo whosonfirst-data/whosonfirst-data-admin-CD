@@ -1,0 +1,67 @@
+{
+  "id": 1210004979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.26998,0.31108,29.26998,0.31108",
+    "geom:latitude":0.31108,
+    "geom:longitude":29.26998,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mapata",
+    "gn:country_code":"CD",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329456,
+    "gn:latitude":0.31108,
+    "gn:longitude":29.26998,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mapata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329456
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c06c8d825e156ceb9b6ffa62aeed1930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1210004979,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1210004979,
+    "wof:lastmodified":1536374664,
+    "wof:name":"Mapata",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.26998,
+    0.31108,
+    29.26998,
+    0.31108
+],
+  "geometry": {"coordinates":[29.26998,0.31108],"type":"Point"}
+}

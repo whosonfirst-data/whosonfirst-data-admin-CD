@@ -1,0 +1,61 @@
+{
+  "id": 1209386415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46881,4.41929,25.46881,4.41929",
+    "geom:latitude":4.41929,
+    "geom:longitude":25.46881,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mopoyo",
+    "gn:country_code":"CD",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8242885,
+    "gn:latitude":4.41929,
+    "gn:longitude":25.46881,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mopoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8242885
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1d27acaa2f05a86ae5a67d8a8213059e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209386415
+        }
+    ],
+    "wof:id":1209386415,
+    "wof:lastmodified":1536288609,
+    "wof:name":"Mopoyo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46881,
+    4.41929,
+    25.46881,
+    4.41929
+],
+  "geometry": {"coordinates":[25.46881,4.41929],"type":"Point"}
+}

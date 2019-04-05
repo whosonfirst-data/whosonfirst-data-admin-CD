@@ -1,0 +1,73 @@
+{
+  "id": 1276416245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.749,-4.35976,20.749,-4.35976",
+    "geom:latitude":-4.35976,
+    "geom:longitude":20.749,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bakwa-Bilonda",
+    "gn:country_code":"CD",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219796,
+    "gn:latitude":-4.35976,
+    "gn:longitude":20.749,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bakwa-Bilonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakwea-Bilonde",
+        "Bwana Bilondo",
+        "Bwana Bilando",
+        "Bakwa-Bilonda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219796
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c4b860c8a5984ba8df6f6ff22f716ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276416245,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276416245,
+    "wof:lastmodified":1537590472,
+    "wof:name":"Bakwa-Bilonda",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.749,
+    -4.35976,
+    20.749,
+    -4.35976
+],
+  "geometry": {"coordinates":[20.749,-4.35976],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309772693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48333,-3.26667,24.48333,-3.26667",
+    "geom:latitude":-3.26667,
+    "geom:longitude":24.48333,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Shako",
+    "gn:country_code":"CD",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205667,
+    "gn:latitude":-3.26667,
+    "gn:longitude":24.48333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205667
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3acc83e31bd9254d415a23377a2013fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1309772693,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1309772693,
+    "wof:lastmodified":1536978347,
+    "wof:name":"Shako",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48333,
+    -3.26667,
+    24.48333,
+    -3.26667
+],
+  "geometry": {"coordinates":[24.48333,-3.26667],"type":"Point"}
+}

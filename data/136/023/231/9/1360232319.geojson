@@ -1,0 +1,72 @@
+{
+  "id": 1360232319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.92033,-4.83707,24.92033,-4.83707",
+    "geom:latitude":-4.83707,
+    "geom:longitude":24.92033,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kitele",
+    "gn:country_code":"CD",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212592,
+    "gn:latitude":-4.83707,
+    "gn:longitude":24.92033,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kitele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mininga Kitete",
+        "Kitete",
+        "Kitele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212592
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cfc515e872b91c115d1777319cce5016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1360232319,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1360232319,
+    "wof:lastmodified":1537590396,
+    "wof:name":"Kitele",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.92033,
+    -4.83707,
+    24.92033,
+    -4.83707
+],
+  "geometry": {"coordinates":[24.92033,-4.83707],"type":"Point"}
+}

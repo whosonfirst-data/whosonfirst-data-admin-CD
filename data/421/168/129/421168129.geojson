@@ -1,0 +1,104 @@
+{
+  "id": 421168129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.69001,-2.72037,17.69001,-2.72037",
+    "geom:latitude":-2.72037,
+    "geom:longitude":17.69001,
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041d\u0438\u043e\u043a\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Nioki"
+    ],
+    "name:dut_x_preferred":[
+        "Nioki"
+    ],
+    "name:eng_x_preferred":[
+        "Nioki"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30a6\u30fc\u30ad"
+    ],
+    "name:ron_x_preferred":[
+        "Nioki"
+    ],
+    "name:rum_x_preferred":[
+        "Nioki"
+    ],
+    "name:swe_x_preferred":[
+        "Nioki"
+    ],
+    "qs:gn_country":"CD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2311968,
+    "qs:gn_pop":40695,
+    "qs:name":"Nioki",
+    "qs:name_adm0":"R\u00e9publique D\u00e9mocratique du Congo",
+    "qs:name_adm1":"Bandundu",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1034827,
+    "qs:woe_adm0":23424780,
+    "qs:woe_id":1295375,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311968,
+        "gp:id":1295375,
+        "qs:id":1034827,
+        "wd:id":"Q7039359",
+        "wk:page":"Nioki"
+    },
+    "wof:country":"CD",
+    "wof:created":1459008755,
+    "wof:geomhash":"aab0161c36cde59df749dc62f6ddb3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":421168129,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":421168129,
+    "wof:lastmodified":1527716094,
+    "wof:name":"Nioki",
+    "wof:parent_id":85669985,
+    "wof:placetype":"locality",
+    "wof:population":40695,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.69001,
+    -2.72037,
+    17.69001,
+    -2.72037
+],
+  "geometry": {"coordinates":[17.69001,-2.72037],"type":"Point"}
+}

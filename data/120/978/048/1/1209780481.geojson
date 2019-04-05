@@ -1,0 +1,67 @@
+{
+  "id": 1209780481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.57308,-3.87686,17.57308,-3.87686",
+    "geom:latitude":-3.87686,
+    "geom:longitude":17.57308,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kibwanzai",
+    "gn:country_code":"CD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314822,
+    "gn:latitude":-3.87686,
+    "gn:longitude":17.57308,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kibwanzai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314822
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b582e06b7c6f008beb7f6e7fb7eda01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1209780481,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1209780481,
+    "wof:lastmodified":1536374223,
+    "wof:name":"Kibwanzai",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.57307999999999,
+    -3.87686,
+    17.57307999999999,
+    -3.87686
+],
+  "geometry": {"coordinates":[17.57307999999999,-3.87686],"type":"Point"}
+}

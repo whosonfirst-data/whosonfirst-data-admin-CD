@@ -1,0 +1,72 @@
+{
+  "id": 1293678005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73045,-4.53478,26.73045,-4.53478",
+    "geom:latitude":-4.53478,
+    "geom:longitude":26.73045,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pene-Mayenge",
+    "gn:country_code":"CD",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206320,
+    "gn:latitude":-4.53478,
+    "gn:longitude":26.73045,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Pene-Mayenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kimasa Pene Mayenge",
+        "Pene-Mayenge",
+        "Kimasa Mayenge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206320
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4d73d9fbde48faecbdfb1040db736ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1293678005,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1293678005,
+    "wof:lastmodified":1537590334,
+    "wof:name":"Pene-Mayenge",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73045,
+    -4.53478,
+    26.73045,
+    -4.53478
+],
+  "geometry": {"coordinates":[26.73045,-4.53478],"type":"Point"}
+}

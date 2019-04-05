@@ -1,0 +1,64 @@
+{
+  "id": 1209371205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75899,-10.73289,22.75899,-10.73289",
+    "geom:latitude":-10.73289,
+    "geom:longitude":22.75899,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kanyovu",
+    "gn:country_code":"CD",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923023,
+    "gn:latitude":-10.73289,
+    "gn:longitude":22.75899,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kanyovu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaniovu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923023
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"07824e9ef2a12f80f0f8a4063693fdfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209371205
+        }
+    ],
+    "wof:id":1209371205,
+    "wof:lastmodified":1537590492,
+    "wof:name":"Kanyovu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75899,
+    -10.73289,
+    22.75899,
+    -10.73289
+],
+  "geometry": {"coordinates":[22.75899,-10.73289],"type":"Point"}
+}

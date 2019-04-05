@@ -1,0 +1,67 @@
+{
+  "id": 1293087477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87461,3.4258,25.87461,3.4258",
+    "geom:latitude":3.4258,
+    "geom:longitude":25.87461,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mosua",
+    "gn:country_code":"CD",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143642,
+    "gn:latitude":3.4258,
+    "gn:longitude":25.87461,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mosua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143642
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7f74f6276cf85f37b29b55348291b54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1293087477,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293087477,
+    "wof:lastmodified":1536865481,
+    "wof:name":"Mosua",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87461,
+    3.4258,
+    25.87461,
+    3.4258
+],
+  "geometry": {"coordinates":[25.87461,3.4258],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242830803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46667,-9.96667,26.46667,-9.96667",
+    "geom:latitude":-9.96667,
+    "geom:longitude":26.46667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kabwekese",
+    "gn:country_code":"CD",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215359,
+    "gn:latitude":-9.96667,
+    "gn:longitude":26.46667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabwekese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215359
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a87b0a5c3357d144850c4d4f60816e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1242830803,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242830803,
+    "wof:lastmodified":1536699401,
+    "wof:name":"Kabwekese",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46667,
+    -9.96667,
+    26.46667,
+    -9.96667
+],
+  "geometry": {"coordinates":[26.46667,-9.96667],"type":"Point"}
+}

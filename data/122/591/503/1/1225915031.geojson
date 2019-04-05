@@ -1,0 +1,71 @@
+{
+  "id": 1225915031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.02583,-8.3995,28.02583,-8.3995",
+    "geom:latitude":-8.3995,
+    "geom:longitude":28.02583,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kinwa",
+    "gn:country_code":"CD",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212844,
+    "gn:latitude":-8.3995,
+    "gn:longitude":28.02583,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kinwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilwa",
+        "Kinwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212844
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ec2cfceddf179d922211080c1d678301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1225915031,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1225915031,
+    "wof:lastmodified":1537590399,
+    "wof:name":"Kinwa",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.02583,
+    -8.3995,
+    28.02583,
+    -8.3995
+],
+  "geometry": {"coordinates":[28.02583,-8.3995],"type":"Point"}
+}

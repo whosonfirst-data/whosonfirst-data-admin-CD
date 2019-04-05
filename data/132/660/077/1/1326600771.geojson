@@ -1,0 +1,67 @@
+{
+  "id": 1326600771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.47674,-11.22083,26.47674,-11.22083",
+    "geom:latitude":-11.22083,
+    "geom:longitude":26.47674,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lundumuna",
+    "gn:country_code":"CD",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10225659,
+    "gn:latitude":-11.22083,
+    "gn:longitude":26.47674,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lundumuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10225659
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ecb26d170c6ae80b514f35d816e17c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1326600771,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1326600771,
+    "wof:lastmodified":1536884773,
+    "wof:name":"Lundumuna",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.47674,
+    -11.22083,
+    26.47674,
+    -11.22083
+],
+  "geometry": {"coordinates":[26.47674,-11.22083],"type":"Point"}
+}

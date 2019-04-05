@@ -1,0 +1,61 @@
+{
+  "id": 1209208949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.16667,-4.76667,28.16667,-4.76667",
+    "geom:latitude":-4.76667,
+    "geom:longitude":28.16667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Makwamba",
+    "gn:country_code":"CD",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209898,
+    "gn:latitude":-4.76667,
+    "gn:longitude":28.16667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Makwamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209898
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"df2b50715b4bc45211d049d1a3090f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209208949
+        }
+    ],
+    "wof:id":1209208949,
+    "wof:lastmodified":1536294355,
+    "wof:name":"Makwamba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.16667,
+    -4.76667,
+    28.16667,
+    -4.76667
+],
+  "geometry": {"coordinates":[28.16667,-4.76667],"type":"Point"}
+}

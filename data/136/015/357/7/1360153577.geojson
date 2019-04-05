@@ -1,0 +1,70 @@
+{
+  "id": 1360153577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30793,-9.08175,22.30793,-9.08175",
+    "geom:latitude":-9.08175,
+    "geom:longitude":22.30793,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Satchikomb",
+    "gn:country_code":"CD",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205781,
+    "gn:latitude":-9.08175,
+    "gn:longitude":22.30793,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Satchikomb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Satshikomba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205781
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"66ff729f6a77ce95de290aa5f580881f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1360153577,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1360153577,
+    "wof:lastmodified":1537590328,
+    "wof:name":"Satchikomb",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30793,
+    -9.08175,
+    22.30793,
+    -9.08175
+],
+  "geometry": {"coordinates":[22.30793,-9.08175],"type":"Point"}
+}

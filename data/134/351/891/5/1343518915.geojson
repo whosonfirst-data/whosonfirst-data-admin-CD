@@ -1,0 +1,67 @@
+{
+  "id": 1343518915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.43212,2.16108,21.43212,2.16108",
+    "geom:latitude":2.16108,
+    "geom:longitude":21.43212,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Busu-Mbengo",
+    "gn:country_code":"CD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217584,
+    "gn:latitude":2.16108,
+    "gn:longitude":21.43212,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Busu-Mbengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217584
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4507eb5f0c69b06cb6672e85193d4e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1343518915,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343518915,
+    "wof:lastmodified":1536662019,
+    "wof:name":"Busu-Mbengo",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.43212,
+    2.16108,
+    21.43212,
+    2.16108
+],
+  "geometry": {"coordinates":[21.43212,2.16108],"type":"Point"}
+}

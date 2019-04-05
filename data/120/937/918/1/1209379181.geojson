@@ -1,0 +1,65 @@
+{
+  "id": 1209379181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.33559,-7.12018,23.33559,-7.12018",
+    "geom:latitude":-7.12018,
+    "geom:longitude":23.33559,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Tshilundu Sabwa",
+    "gn:country_code":"CD",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204889,
+    "gn:latitude":-7.12018,
+    "gn:longitude":23.33559,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshilundu Sabwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshilunda Sabwe",
+        "Tshilundu Sabwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204889
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0d111d8eaca3bc21c42d55144de90c29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209379181
+        }
+    ],
+    "wof:id":1209379181,
+    "wof:lastmodified":1537590317,
+    "wof:name":"Tshilundu Sabwa",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33559,
+    -7.12018,
+    23.33559,
+    -7.12018
+],
+  "geometry": {"coordinates":[23.33559,-7.12018],"type":"Point"}
+}

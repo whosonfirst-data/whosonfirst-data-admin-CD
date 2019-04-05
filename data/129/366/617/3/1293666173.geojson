@@ -1,0 +1,71 @@
+{
+  "id": 1293666173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.65258,-4.66859,28.65258,-4.66859",
+    "geom:latitude":-4.66859,
+    "geom:longitude":28.65258,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Lutshimu",
+    "gn:country_code":"CD",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210269,
+    "gn:latitude":-4.66859,
+    "gn:longitude":28.65258,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Lutshimu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lutshima",
+        "Lutshimu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210269
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c507f1e23e26a0cbee07bd83301acc02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1293666173,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1293666173,
+    "wof:lastmodified":1537590378,
+    "wof:name":"Lutshimu",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.65258,
+    -4.66859,
+    28.65258,
+    -4.66859
+],
+  "geometry": {"coordinates":[28.65258,-4.66859],"type":"Point"}
+}

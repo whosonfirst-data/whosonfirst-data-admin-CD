@@ -1,0 +1,67 @@
+{
+  "id": 1343923439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32534,-7.62723,18.32534,-7.62723",
+    "geom:latitude":-7.62723,
+    "geom:longitude":18.32534,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shakasau",
+    "gn:country_code":"CD",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447769,
+    "gn:latitude":-7.62723,
+    "gn:longitude":18.32534,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shakasau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447769
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d54c24568090d14f09020f80563d0b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343923439,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343923439,
+    "wof:lastmodified":1537070461,
+    "wof:name":"Shakasau",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32534,
+    -7.62723,
+    18.32534,
+    -7.62723
+],
+  "geometry": {"coordinates":[18.32534,-7.62723],"type":"Point"}
+}

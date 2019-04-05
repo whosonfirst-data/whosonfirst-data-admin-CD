@@ -1,0 +1,67 @@
+{
+  "id": 1293665395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.13094,1.4441,30.13094,1.4441",
+    "geom:latitude":1.4441,
+    "geom:longitude":30.13094,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Aniozo",
+    "gn:country_code":"CD",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220269,
+    "gn:latitude":1.4441,
+    "gn:longitude":30.13094,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Aniozo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220269
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e0c348261e32881a61ebc8c98fd2bb28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1293665395,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293665395,
+    "wof:lastmodified":1537026683,
+    "wof:name":"Aniozo",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.13094,
+    1.4441,
+    30.13094,
+    1.4441
+],
+  "geometry": {"coordinates":[30.13094,1.4441],"type":"Point"}
+}

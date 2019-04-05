@@ -1,0 +1,67 @@
+{
+  "id": 1276733899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.06386,3.92398,27.06386,3.92398",
+    "geom:latitude":3.92398,
+    "geom:longitude":27.06386,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dewiliko",
+    "gn:country_code":"CD",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217364,
+    "gn:latitude":3.92398,
+    "gn:longitude":27.06386,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dewiliko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217364
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5543c5cb72332b7f75f8a66061300442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1276733899,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276733899,
+    "wof:lastmodified":1536739086,
+    "wof:name":"Dewiliko",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.06386,
+    3.92398,
+    27.06386,
+    3.92398
+],
+  "geometry": {"coordinates":[27.06386,3.92398],"type":"Point"}
+}

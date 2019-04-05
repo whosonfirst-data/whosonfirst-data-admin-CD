@@ -1,0 +1,67 @@
+{
+  "id": 1276294055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.9627,-7.31086,17.9627,-7.31086",
+    "geom:latitude":-7.31086,
+    "geom:longitude":17.9627,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ma-Uta-Kapembe",
+    "gn:country_code":"CD",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8541813,
+    "gn:latitude":-7.31086,
+    "gn:longitude":17.9627,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ma-Uta-Kapembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8541813
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e02fd82c4d86a084ad3926936436b794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1276294055,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276294055,
+    "wof:lastmodified":1536830381,
+    "wof:name":"Ma-Uta-Kapembe",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.9627,
+    -7.31086,
+    17.9627,
+    -7.31086
+],
+  "geometry": {"coordinates":[17.9627,-7.31086],"type":"Point"}
+}

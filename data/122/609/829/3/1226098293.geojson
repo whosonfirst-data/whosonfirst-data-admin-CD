@@ -1,0 +1,67 @@
+{
+  "id": 1226098293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.77958,-6.61765,21.77958,-6.61765",
+    "geom:latitude":-6.61765,
+    "geom:longitude":21.77958,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mai",
+    "gn:country_code":"CD",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327391,
+    "gn:latitude":-6.61765,
+    "gn:longitude":21.77958,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327391
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"523c3b5c143cade20c229104681dc82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1226098293,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226098293,
+    "wof:lastmodified":1536649124,
+    "wof:name":"Mai",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.77958,
+    -6.61765,
+    21.77958,
+    -6.61765
+],
+  "geometry": {"coordinates":[21.77958,-6.61765],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343432315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30154,3.54316,26.30154,3.54316",
+    "geom:latitude":3.54316,
+    "geom:longitude":26.30154,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Embungutu",
+    "gn:country_code":"CD",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216713,
+    "gn:latitude":3.54316,
+    "gn:longitude":26.30154,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Embungutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Embungulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216713
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c6b4eeb75c95c7726a45455bafc3fd62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1343432315,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343432315,
+    "wof:lastmodified":1537590439,
+    "wof:name":"Embungutu",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30154000000001,
+    3.54316,
+    26.30154000000001,
+    3.54316
+],
+  "geometry": {"coordinates":[26.30154000000001,3.54316],"type":"Point"}
+}

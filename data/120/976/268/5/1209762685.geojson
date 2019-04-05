@@ -1,0 +1,67 @@
+{
+  "id": 1209762685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.46228,-7.30162,28.46228,-7.30162",
+    "geom:latitude":-7.30162,
+    "geom:longitude":28.46228,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Katundu",
+    "gn:country_code":"CD",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946391,
+    "gn:latitude":-7.30162,
+    "gn:longitude":28.46228,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Katundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946391
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"165d2026da8df591d4ac398136c8a725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1209762685,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1209762685,
+    "wof:lastmodified":1536387803,
+    "wof:name":"Katundu",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.46228,
+    -7.30162,
+    28.46228,
+    -7.30162
+],
+  "geometry": {"coordinates":[28.46228,-7.30162],"type":"Point"}
+}

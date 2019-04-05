@@ -1,0 +1,73 @@
+{
+  "id": 1292971091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26667,-8.33333,25.26667,-8.33333",
+    "geom:latitude":-8.33333,
+    "geom:longitude":25.26667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lubinda-Mwenge",
+    "gn:country_code":"CD",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211032,
+    "gn:latitude":-8.33333,
+    "gn:longitude":25.26667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lubinda-Mwenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lubinda",
+        "Lubinde",
+        "Lubinda Mwenze",
+        "Lubinda-Mwenge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211032
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a421ab9456279f150b73209833a47a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1292971091,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1292971091,
+    "wof:lastmodified":1537590385,
+    "wof:name":"Lubinda-Mwenge",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26667,
+    -8.33333,
+    25.26667,
+    -8.33333
+],
+  "geometry": {"coordinates":[25.26667,-8.33333],"type":"Point"}
+}

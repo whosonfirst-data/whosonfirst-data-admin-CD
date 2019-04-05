@@ -1,0 +1,67 @@
+{
+  "id": 1327196427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3243,-4.46119,17.3243,-4.46119",
+    "geom:latitude":-4.46119,
+    "geom:longitude":17.3243,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Koshi-Bukala",
+    "gn:country_code":"CD",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445913,
+    "gn:latitude":-4.46119,
+    "gn:longitude":17.3243,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Koshi-Bukala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445913
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"036ed48c1776baa02a6c7606677dbb41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1327196427,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327196427,
+    "wof:lastmodified":1537020753,
+    "wof:name":"Koshi-Bukala",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3243,
+    -4.46119,
+    17.3243,
+    -4.46119
+],
+  "geometry": {"coordinates":[17.3243,-4.46119],"type":"Point"}
+}

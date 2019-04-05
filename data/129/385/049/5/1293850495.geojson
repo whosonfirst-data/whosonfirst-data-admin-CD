@@ -1,0 +1,67 @@
+{
+  "id": 1293850495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2119,2.18413,30.2119,2.18413",
+    "geom:latitude":2.18413,
+    "geom:longitude":30.2119,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dokolidza",
+    "gn:country_code":"CD",
+    "gn:dem":1443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217072,
+    "gn:latitude":2.18413,
+    "gn:longitude":30.2119,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dokolidza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217072
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8397f6eea9cc412496865894933705db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1293850495,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293850495,
+    "wof:lastmodified":1536761198,
+    "wof:name":"Dokolidza",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2119,
+    2.18413,
+    30.2119,
+    2.18413
+],
+  "geometry": {"coordinates":[30.2119,2.18413],"type":"Point"}
+}

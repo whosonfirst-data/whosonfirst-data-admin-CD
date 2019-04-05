@@ -1,0 +1,79 @@
+{
+  "id": 421167061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.79081,-2.49682,28.79081,-2.49682",
+    "geom:latitude":-2.49682,
+    "geom:longitude":28.79081,
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":215605,
+    "qs:gn_pop":37034,
+    "qs:name":"Kabare",
+    "qs:name_adm0":"R\u00e9publique D\u00e9mocratique du Congo",
+    "qs:name_adm1":"Sud-Kivu",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":123277,
+    "qs:woe_adm0":23424780,
+    "qs:woe_id":1474135,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215605,
+        "gp:id":1474135,
+        "qs:id":123277,
+        "wd:id":"Q17068320"
+    },
+    "wof:country":"CD",
+    "wof:created":1459008712,
+    "wof:geomhash":"f31a330d78a3d44a904ec8738aa8e560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":421167061,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":421167061,
+    "wof:lastmodified":1527716161,
+    "wof:name":"Kabare",
+    "wof:parent_id":85670003,
+    "wof:placetype":"locality",
+    "wof:population":37034,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.79081,
+    -2.49682,
+    28.79081,
+    -2.49682
+],
+  "geometry": {"coordinates":[28.79081,-2.49682],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226211215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07837,-10.29971,23.07837,-10.29971",
+    "geom:latitude":-10.29971,
+    "geom:longitude":23.07837,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshatu",
+    "gn:country_code":"CD",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466511,
+    "gn:latitude":-10.29971,
+    "gn:longitude":23.07837,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshatu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466511
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"972e6510f698106ba231fd656e3854c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226211215,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226211215,
+    "wof:lastmodified":1536982812,
+    "wof:name":"Tshatu",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07837,
+    -10.29971,
+    23.07837,
+    -10.29971
+],
+  "geometry": {"coordinates":[23.07837,-10.29971],"type":"Point"}
+}

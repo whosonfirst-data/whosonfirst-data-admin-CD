@@ -1,0 +1,67 @@
+{
+  "id": 1310002745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96667,-5.35,15.96667,-5.35",
+    "geom:latitude":-5.35,
+    "geom:longitude":15.96667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kimbenza",
+    "gn:country_code":"CD",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314592,
+    "gn:latitude":-5.35,
+    "gn:longitude":15.96667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kimbenza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314592
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a20ca25cd858d938df4cb9f2beb20b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1310002745,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1310002745,
+    "wof:lastmodified":1536646906,
+    "wof:name":"Kimbenza",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96667,
+    -5.35,
+    15.96667,
+    -5.35
+],
+  "geometry": {"coordinates":[15.96667,-5.35],"type":"Point"}
+}

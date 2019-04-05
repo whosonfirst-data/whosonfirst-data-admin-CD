@@ -1,0 +1,67 @@
+{
+  "id": 1360170111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23594,-5.35195,15.23594,-5.35195",
+    "geom:latitude":-5.35195,
+    "geom:longitude":15.23594,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kinsiese",
+    "gn:country_code":"CD",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8254425,
+    "gn:latitude":-5.35195,
+    "gn:longitude":15.23594,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Kinsiese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8254425
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"56ee000b5cdbfd1c3e28d8e43b209b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1360170111,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1360170111,
+    "wof:lastmodified":1536822159,
+    "wof:name":"Kinsiese",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23594,
+    -5.35195,
+    15.23594,
+    -5.35195
+],
+  "geometry": {"coordinates":[15.23594,-5.35195],"type":"Point"}
+}

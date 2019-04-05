@@ -1,0 +1,67 @@
+{
+  "id": 1326911457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.63167,-0.11694,28.63167,-0.11694",
+    "geom:latitude":-0.11694,
+    "geom:longitude":28.63167,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ngele",
+    "gn:country_code":"CD",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207223,
+    "gn:latitude":-0.11694,
+    "gn:longitude":28.63167,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Ngele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207223
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"647059de28fa27465f7d25137da52a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1326911457,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1326911457,
+    "wof:lastmodified":1536935509,
+    "wof:name":"Ngele",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.63167,
+    -0.11694,
+    28.63167,
+    -0.11694
+],
+  "geometry": {"coordinates":[28.63167,-0.11694],"type":"Point"}
+}

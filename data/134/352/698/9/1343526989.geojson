@@ -1,0 +1,67 @@
+{
+  "id": 1343526989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13404,-7.9211,19.13404,-7.9211",
+    "geom:latitude":-7.9211,
+    "geom:longitude":19.13404,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kayinda",
+    "gn:country_code":"CD",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448173,
+    "gn:latitude":-7.9211,
+    "gn:longitude":19.13404,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kayinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448173
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"77b74b11513a3316458affb1238007d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343526989,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343526989,
+    "wof:lastmodified":1536650135,
+    "wof:name":"Kayinda",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13404,
+    -7.9211,
+    19.13404,
+    -7.9211
+],
+  "geometry": {"coordinates":[19.13404,-7.9211],"type":"Point"}
+}

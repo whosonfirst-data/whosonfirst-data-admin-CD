@@ -1,0 +1,61 @@
+{
+  "id": 1209178529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.03333,-5.41667,26.03333,-5.41667",
+    "geom:latitude":-5.41667,
+    "geom:longitude":26.03333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kazadi",
+    "gn:country_code":"CD",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213552,
+    "gn:latitude":-5.41667,
+    "gn:longitude":26.03333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kazadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213552
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a77a77a04c0c164a20288f4dd5590ff3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209178529
+        }
+    ],
+    "wof:id":1209178529,
+    "wof:lastmodified":1536295338,
+    "wof:name":"Kazadi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.03333,
+    -5.41667,
+    26.03333,
+    -5.41667
+],
+  "geometry": {"coordinates":[26.03333,-5.41667],"type":"Point"}
+}

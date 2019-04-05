@@ -1,0 +1,67 @@
+{
+  "id": 1259473813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38951,-5.04239,14.38951,-5.04239",
+    "geom:latitude":-5.04239,
+    "geom:longitude":14.38951,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kisungu",
+    "gn:country_code":"CD",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8324942,
+    "gn:latitude":-5.04239,
+    "gn:longitude":14.38951,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kisungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8324942
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"811de48aa3c2c56aadc24bc8c8914b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1259473813,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1259473813,
+    "wof:lastmodified":1536871714,
+    "wof:name":"Kisungu",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38951,
+    -5.04239,
+    14.38951,
+    -5.04239
+],
+  "geometry": {"coordinates":[14.38951,-5.04239],"type":"Point"}
+}

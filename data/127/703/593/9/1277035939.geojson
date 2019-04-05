@@ -1,0 +1,67 @@
+{
+  "id": 1277035939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7869,-8.18245,27.7869,-8.18245",
+    "geom:latitude":-8.18245,
+    "geom:longitude":27.7869,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mutombo-Kakiana",
+    "gn:country_code":"CD",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10046635,
+    "gn:latitude":-8.18245,
+    "gn:longitude":27.7869,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mutombo-Kakiana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10046635
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c0c3e3e3664a528cd32286cd0e004ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1277035939,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1277035939,
+    "wof:lastmodified":1536831017,
+    "wof:name":"Mutombo-Kakiana",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7869,
+    -8.18245,
+    27.7869,
+    -8.18245
+],
+  "geometry": {"coordinates":[27.7869,-8.18245],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209628039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.93333,-0.8,17.93333,-0.8",
+    "geom:latitude":-0.8,
+    "geom:longitude":17.93333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Moebe",
+    "gn:country_code":"CD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312698,
+    "gn:latitude":-0.8,
+    "gn:longitude":17.93333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Moebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312698
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fa8622f7bb2a30071ae587df2c8a71bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209628039
+        }
+    ],
+    "wof:id":1209628039,
+    "wof:lastmodified":1536281287,
+    "wof:name":"Moebe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.933329999999994,
+    -0.8,
+    17.933329999999994,
+    -0.8
+],
+  "geometry": {"coordinates":[17.93332999999999,-0.8],"type":"Point"}
+}

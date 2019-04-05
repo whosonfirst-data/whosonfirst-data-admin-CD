@@ -1,0 +1,71 @@
+{
+  "id": 1192964813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.19861,0.95273,27.19861,0.95273",
+    "geom:latitude":0.95273,
+    "geom:longitude":27.19861,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Boporuma",
+    "gn:country_code":"CD",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218129,
+    "gn:latitude":0.95273,
+    "gn:longitude":27.19861,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Boporuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boperuma",
+        "Boporuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218129
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7e96750d215f5be5cf457f8d7e375f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1192964813,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1192964813,
+    "wof:lastmodified":1537590453,
+    "wof:name":"Boporuma",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.19861,
+    0.95273,
+    27.19861,
+    0.95273
+],
+  "geometry": {"coordinates":[27.19861,0.95273],"type":"Point"}
+}

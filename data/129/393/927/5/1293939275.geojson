@@ -1,0 +1,71 @@
+{
+  "id": 1293939275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36226,-3.67904,20.36226,-3.67904",
+    "geom:latitude":-3.67904,
+    "geom:longitude":20.36226,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Yelu Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203486,
+    "gn:latitude":-3.67904,
+    "gn:longitude":20.36226,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yelu Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yelu Premi\u00e8re",
+        "Yelu I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203486
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"52b9ab851764cbbd828e056871e038a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1293939275,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293939275,
+    "wof:lastmodified":1537590303,
+    "wof:name":"Yelu Premiere",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36226,
+    -3.67904,
+    20.36226,
+    -3.67904
+],
+  "geometry": {"coordinates":[20.36226,-3.67904],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277039353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81785,-5.32728,24.81785,-5.32728",
+    "geom:latitude":-5.32728,
+    "geom:longitude":24.81785,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Lupata",
+    "gn:country_code":"CD",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218452,
+    "gn:latitude":-5.32728,
+    "gn:longitude":24.81785,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lupata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bola Lupata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218452
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fc92d2f64bf3aac78bb7b34377ee03c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1277039353,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1277039353,
+    "wof:lastmodified":1537590455,
+    "wof:name":"Lupata",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81785,
+    -5.32728,
+    24.81785,
+    -5.32728
+],
+  "geometry": {"coordinates":[24.81785,-5.32728],"type":"Point"}
+}

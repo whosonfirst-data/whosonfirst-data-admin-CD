@@ -1,0 +1,67 @@
+{
+  "id": 1327181835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91667,-3.6,22.91667,-3.6",
+    "geom:latitude":-3.6,
+    "geom:longitude":22.91667,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Imbalela",
+    "gn:country_code":"CD",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215913,
+    "gn:latitude":-3.6,
+    "gn:longitude":22.91667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Imbalela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215913
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"88a484166525823a24f372abacadb35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1327181835,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1327181835,
+    "wof:lastmodified":1537040921,
+    "wof:name":"Imbalela",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91667,
+    -3.6,
+    22.91667,
+    -3.6
+],
+  "geometry": {"coordinates":[22.91667,-3.6],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344104229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.42071,2.77157,19.42071,2.77157",
+    "geom:latitude":2.77157,
+    "geom:longitude":19.42071,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Dumbana",
+    "gn:country_code":"CD",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504864,
+    "gn:latitude":2.77157,
+    "gn:longitude":19.42071,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dumbana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dumbana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504864
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d2951fb218ec16a69ab130e3b82e4b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1344104229,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1344104229,
+    "wof:lastmodified":1537590568,
+    "wof:name":"Dumbana",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.42071,
+    2.77157,
+    19.42071,
+    2.77157
+],
+  "geometry": {"coordinates":[19.42071,2.77157],"type":"Point"}
+}

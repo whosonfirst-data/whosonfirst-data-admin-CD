@@ -1,0 +1,67 @@
+{
+  "id": 1260048549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92611,-6.58514,22.92611,-6.58514",
+    "geom:latitude":-6.58514,
+    "geom:longitude":22.92611,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Dumba",
+    "gn:country_code":"CD",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216989,
+    "gn:latitude":-6.58514,
+    "gn:longitude":22.92611,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216989
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d79704f5da7dcac22e3ba4b4bf67a9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1260048549,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1260048549,
+    "wof:lastmodified":1537036901,
+    "wof:name":"Dumba",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92611,
+    -6.58514,
+    22.92611,
+    -6.58514
+],
+  "geometry": {"coordinates":[22.92611,-6.58514],"type":"Point"}
+}

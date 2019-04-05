@@ -1,0 +1,67 @@
+{
+  "id": 1225891771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.71867,3.24209,19.71867,3.24209",
+    "geom:latitude":3.24209,
+    "geom:longitude":19.71867,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bosengwene",
+    "gn:country_code":"CD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316492,
+    "gn:latitude":3.24209,
+    "gn:longitude":19.71867,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bosengwene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316492
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4fbc0f2a4ee060602530d3b381b9e0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1225891771,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1225891771,
+    "wof:lastmodified":1536947718,
+    "wof:name":"Bosengwene",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.71867,
+    3.24209,
+    19.71867,
+    3.24209
+],
+  "geometry": {"coordinates":[19.71867,3.24209],"type":"Point"}
+}

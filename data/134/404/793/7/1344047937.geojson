@@ -1,0 +1,67 @@
+{
+  "id": 1344047937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82932,-5.7542,15.82932,-5.7542",
+    "geom:latitude":-5.7542,
+    "geom:longitude":15.82932,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ngonda",
+    "gn:country_code":"CD",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8254335,
+    "gn:latitude":-5.7542,
+    "gn:longitude":15.82932,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Ngonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8254335
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9c44cdd4145450a2176bdfaa6fea0413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1344047937,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1344047937,
+    "wof:lastmodified":1536893442,
+    "wof:name":"Ngonda",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82932,
+    -5.7542,
+    15.82932,
+    -5.7542
+],
+  "geometry": {"coordinates":[15.82932,-5.7542],"type":"Point"}
+}

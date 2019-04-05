@@ -1,0 +1,67 @@
+{
+  "id": 1226403043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.43333,0.86667,26.43333,0.86667",
+    "geom:latitude":0.86667,
+    "geom:longitude":26.43333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bafwamogo",
+    "gn:country_code":"CD",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219962,
+    "gn:latitude":0.86667,
+    "gn:longitude":26.43333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bafwamogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219962
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"152420c9ddf50d6d4e66db9cd08ac5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1226403043,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1226403043,
+    "wof:lastmodified":1536707427,
+    "wof:name":"Bafwamogo",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.43333,
+    0.86667,
+    26.43333,
+    0.86667
+],
+  "geometry": {"coordinates":[26.43333,0.86667],"type":"Point"}
+}

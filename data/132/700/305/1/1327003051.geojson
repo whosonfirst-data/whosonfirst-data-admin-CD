@@ -1,0 +1,67 @@
+{
+  "id": 1327003051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91771,-8.2227,26.91771,-8.2227",
+    "geom:latitude":-8.2227,
+    "geom:longitude":26.91771,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kikunka",
+    "gn:country_code":"CD",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213110,
+    "gn:latitude":-8.2227,
+    "gn:longitude":26.91771,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kikunka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213110
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"78aff3a093a35ad6b240cf599095df7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1327003051,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327003051,
+    "wof:lastmodified":1536802892,
+    "wof:name":"Kikunka",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91771,
+    -8.2227,
+    26.91771,
+    -8.2227
+],
+  "geometry": {"coordinates":[26.91771,-8.2227],"type":"Point"}
+}

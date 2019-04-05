@@ -1,0 +1,67 @@
+{
+  "id": 1293446333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55,-10.05,26.55,-10.05",
+    "geom:latitude":-10.05,
+    "geom:longitude":26.55,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Wabwonle",
+    "gn:country_code":"CD",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922037,
+    "gn:latitude":-10.05,
+    "gn:longitude":26.55,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Wabwonle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922037
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3e0e64ac7c8d88623e8bebe414751dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1293446333,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293446333,
+    "wof:lastmodified":1536845441,
+    "wof:name":"Wabwonle",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55,
+    -10.05,
+    26.55,
+    -10.05
+],
+  "geometry": {"coordinates":[26.55,-10.05],"type":"Point"}
+}

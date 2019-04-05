@@ -1,0 +1,67 @@
+{
+  "id": 1343527535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6132,-7.24972,21.6132,-7.24972",
+    "geom:latitude":-7.24972,
+    "geom:longitude":21.6132,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Lusangu",
+    "gn:country_code":"CD",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440257,
+    "gn:latitude":-7.24972,
+    "gn:longitude":21.6132,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lusangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440257
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2ca3b6baf04ce962513c22ba5e0ad2d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1343527535,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343527535,
+    "wof:lastmodified":1536649291,
+    "wof:name":"Lusangu",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6132,
+    -7.24972,
+    21.6132,
+    -7.24972
+],
+  "geometry": {"coordinates":[21.6132,-7.24972],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209176639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.11511,-5.34848,17.11511,-5.34848",
+    "geom:latitude":-5.34848,
+    "geom:longitude":17.11511,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Masamba",
+    "gn:country_code":"CD",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313027,
+    "gn:latitude":-5.34848,
+    "gn:longitude":17.11511,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Masamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313027
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c7ae8a27946e53ae1dee8faaedcf5984",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209176639
+        }
+    ],
+    "wof:id":1209176639,
+    "wof:lastmodified":1536295400,
+    "wof:name":"Masamba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.11511,
+    -5.34848,
+    17.11511,
+    -5.34848
+],
+  "geometry": {"coordinates":[17.11511,-5.34848],"type":"Point"}
+}

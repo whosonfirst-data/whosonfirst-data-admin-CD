@@ -1,0 +1,71 @@
+{
+  "id": 1277163721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.74828,2.58446,26.74828,2.58446",
+    "geom:latitude":2.58446,
+    "geom:longitude":26.74828,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Azapane",
+    "gn:country_code":"CD",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220131,
+    "gn:latitude":2.58446,
+    "gn:longitude":26.74828,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Azapane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azapana",
+        "Azapane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220131
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b6855078587023d73a71355d9ce8a785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1277163721,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1277163721,
+    "wof:lastmodified":1537590476,
+    "wof:name":"Azapane",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.74828,
+    2.58446,
+    26.74828,
+    2.58446
+],
+  "geometry": {"coordinates":[26.74828,2.58446],"type":"Point"}
+}

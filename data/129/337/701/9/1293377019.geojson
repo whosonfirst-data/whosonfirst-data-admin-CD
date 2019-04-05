@@ -1,0 +1,70 @@
+{
+  "id": 1293377019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.38472,-2.63778,28.38472,-2.63778",
+    "geom:latitude":-2.63778,
+    "geom:longitude":28.38472,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Matale",
+    "gn:country_code":"CD",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209443,
+    "gn:latitude":-2.63778,
+    "gn:longitude":28.38472,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Matale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mataie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209443
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7eee7a7d0e1747412e39399a514dd1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1293377019,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1293377019,
+    "wof:lastmodified":1537590371,
+    "wof:name":"Matale",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.38472,
+    -2.63778,
+    28.38472,
+    -2.63778
+],
+  "geometry": {"coordinates":[28.38472,-2.63778],"type":"Point"}
+}

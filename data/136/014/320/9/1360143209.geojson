@@ -1,0 +1,67 @@
+{
+  "id": 1360143209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.56654,-9.54762,23.56654,-9.54762",
+    "geom:latitude":-9.54762,
+    "geom:longitude":23.56654,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshindji Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462248,
+    "gn:latitude":-9.54762,
+    "gn:longitude":23.56654,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshindji Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462248
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1d1c312d9e129c3987dc0a450be207f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1360143209,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1360143209,
+    "wof:lastmodified":1536860531,
+    "wof:name":"Tshindji Premiere",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.56654,
+    -9.54762,
+    23.56654,
+    -9.54762
+],
+  "geometry": {"coordinates":[23.56654,-9.54762],"type":"Point"}
+}

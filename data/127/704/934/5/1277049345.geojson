@@ -1,0 +1,67 @@
+{
+  "id": 1277049345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.72295,-11.43135,27.72295,-11.43135",
+    "geom:latitude":-11.43135,
+    "geom:longitude":27.72295,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tankaira",
+    "gn:country_code":"CD",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10226189,
+    "gn:latitude":-11.43135,
+    "gn:longitude":27.72295,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tankaira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10226189
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7103e153a7783033ec607fdd940d7453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1277049345,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1277049345,
+    "wof:lastmodified":1536813334,
+    "wof:name":"Tankaira",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72295,
+    -11.43135,
+    27.72295,
+    -11.43135
+],
+  "geometry": {"coordinates":[27.72295,-11.43135],"type":"Point"}
+}

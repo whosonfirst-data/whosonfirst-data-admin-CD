@@ -1,0 +1,61 @@
+{
+  "id": 1209017461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99458,-0.51748,18.99458,-0.51748",
+    "geom:latitude":-0.51748,
+    "geom:longitude":18.99458,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lofeli",
+    "gn:country_code":"CD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313653,
+    "gn:latitude":-0.51748,
+    "gn:longitude":18.99458,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Lofeli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313653
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bafd326a60f9476206e6794f9d26ae35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209017461
+        }
+    ],
+    "wof:id":1209017461,
+    "wof:lastmodified":1536300251,
+    "wof:name":"Lofeli",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99458,
+    -0.51748,
+    18.99458,
+    -0.51748
+],
+  "geometry": {"coordinates":[18.99458,-0.51748],"type":"Point"}
+}

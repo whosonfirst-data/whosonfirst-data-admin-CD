@@ -1,0 +1,67 @@
+{
+  "id": 1344170189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5,0.06667,19.5,0.06667",
+    "geom:latitude":0.06667,
+    "geom:longitude":19.5,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gonda",
+    "gn:country_code":"CD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315691,
+    "gn:latitude":0.06667,
+    "gn:longitude":19.5,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315691
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7dc7e87b2f029fc87b3cf61a344ef0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1344170189,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1344170189,
+    "wof:lastmodified":1536717516,
+    "wof:name":"Gonda",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5,
+    0.06667,
+    19.5,
+    0.06667
+],
+  "geometry": {"coordinates":[19.5,0.06667],"type":"Point"}
+}

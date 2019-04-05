@@ -1,0 +1,67 @@
+{
+  "id": 1343526213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.787,-3.63238,17.787,-3.63238",
+    "geom:latitude":-3.63238,
+    "geom:longitude":17.787,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Moya",
+    "gn:country_code":"CD",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8433948,
+    "gn:latitude":-3.63238,
+    "gn:longitude":17.787,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Moya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8433948
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a2096aa444c5f0090e88707c7d13a4de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1343526213,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343526213,
+    "wof:lastmodified":1536651317,
+    "wof:name":"Moya",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.787,
+    -3.63238,
+    17.787,
+    -3.63238
+],
+  "geometry": {"coordinates":[17.787,-3.63238],"type":"Point"}
+}

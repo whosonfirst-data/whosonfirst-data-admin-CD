@@ -1,0 +1,71 @@
+{
+  "id": 1226117643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19384,-6.25945,18.19384,-6.25945",
+    "geom:latitude":-6.25945,
+    "geom:longitude":18.19384,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Pulumba Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311660,
+    "gn:latitude":-6.25945,
+    "gn:longitude":18.19384,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Pulumba Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pulumba Premi\u00e8re",
+        "Pulumba I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311660
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"721c5350a232222b9361324380383cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226117643,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226117643,
+    "wof:lastmodified":1537590503,
+    "wof:name":"Pulumba Premiere",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19384,
+    -6.25945,
+    18.19384,
+    -6.25945
+],
+  "geometry": {"coordinates":[18.19384,-6.25945],"type":"Point"}
+}

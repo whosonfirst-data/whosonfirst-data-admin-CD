@@ -1,0 +1,64 @@
+{
+  "id": 1209371201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.67715,-8.54458,22.67715,-8.54458",
+    "geom:latitude":-8.54458,
+    "geom:longitude":22.67715,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Manyinga",
+    "gn:country_code":"CD",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10014039,
+    "gn:latitude":-8.54458,
+    "gn:longitude":22.67715,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Manyinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munyinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10014039
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"65c053c284e40ac5328a8da7feb45041",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209371201
+        }
+    ],
+    "wof:id":1209371201,
+    "wof:lastmodified":1537590578,
+    "wof:name":"Manyinga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.67715,
+    -8.54458,
+    22.67715,
+    -8.54458
+],
+  "geometry": {"coordinates":[22.67715,-8.54458],"type":"Point"}
+}

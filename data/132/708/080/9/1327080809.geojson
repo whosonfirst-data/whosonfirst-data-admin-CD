@@ -1,0 +1,67 @@
+{
+  "id": 1327080809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18236,0.56925,25.18236,0.56925",
+    "geom:latitude":0.56925,
+    "geom:longitude":25.18236,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Baboandja",
+    "gn:country_code":"CD",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220103,
+    "gn:latitude":0.56925,
+    "gn:longitude":25.18236,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Baboandja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220103
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3c21c55212bbdddfd68e3e63bc616d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679655,
+            "locality_id":1327080809,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327080809,
+    "wof:lastmodified":1536690858,
+    "wof:name":"Baboandja",
+    "wof:parent_id":1091679655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18236,
+    0.56925,
+    25.18236,
+    0.56925
+],
+  "geometry": {"coordinates":[25.18236,0.56925],"type":"Point"}
+}

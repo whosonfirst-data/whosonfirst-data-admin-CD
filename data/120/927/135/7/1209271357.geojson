@@ -1,0 +1,61 @@
+{
+  "id": 1209271357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.63333,3.58333,22.63333,3.58333",
+    "geom:latitude":3.58333,
+    "geom:longitude":22.63333,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Likwangula",
+    "gn:country_code":"CD",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211825,
+    "gn:latitude":3.58333,
+    "gn:longitude":22.63333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Likwangula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211825
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b79cf7ab18cf7e51850df825113d3930",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209271357
+        }
+    ],
+    "wof:id":1209271357,
+    "wof:lastmodified":1536292347,
+    "wof:name":"Likwangula",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.63333,
+    3.58333,
+    22.63333,
+    3.58333
+],
+  "geometry": {"coordinates":[22.63333,3.58333],"type":"Point"}
+}

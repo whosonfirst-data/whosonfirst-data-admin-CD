@@ -1,0 +1,67 @@
+{
+  "id": 1242748263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87262,-6.21822,25.87262,-6.21822",
+    "geom:latitude":-6.21822,
+    "geom:longitude":25.87262,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sonko",
+    "gn:country_code":"CD",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10003219,
+    "gn:latitude":-6.21822,
+    "gn:longitude":25.87262,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sonko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10003219
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e6eb51263949be219e7967ced91ca0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1242748263,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242748263,
+    "wof:lastmodified":1536817162,
+    "wof:name":"Sonko",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87262,
+    -6.21822,
+    25.87262,
+    -6.21822
+],
+  "geometry": {"coordinates":[25.87262,-6.21822],"type":"Point"}
+}

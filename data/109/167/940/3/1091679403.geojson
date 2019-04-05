@@ -1,0 +1,148 @@
+{
+  "id": 1091679403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006676,
+    "geom:area_square_m":82229884.631565,
+    "geom:bbox":"18.7511972398,-5.10699859855,18.8614731602,-5.00768650953",
+    "geom:latitude":-5.057854,
+    "geom:longitude":18.802861,
+    "iso:country":"CD",
+    "lbl:latitude":-5.058873,
+    "lbl:longitude":18.802861,
+    "meso:admin_1":"Bandundu",
+    "meso:gadm_admin":"Kwilu",
+    "meso:gaul_admin":"Kikwit",
+    "meso:hasc_id":"NO DATA",
+    "meso:mps_x":18.802861,
+    "meso:mps_y":-5.058873,
+    "meso:name_local":"Kikwit",
+    "meso:source":"OCHA_OPEN",
+    "mps:latitude":-5.058873,
+    "mps:longitude":18.802861,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u0432\u0456\u043b\u0443"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0432\u0438\u043b\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Kwilu"
+    ],
+    "name:chi_x_preferred":[
+        "\u594e\u5362\u7701"
+    ],
+    "name:dut_x_preferred":[
+        "Kwilu"
+    ],
+    "name:eng_x_preferred":[
+        "Kwilu District"
+    ],
+    "name:eng_x_variant":[
+        "Kikwit",
+        "Kwilu"
+    ],
+    "name:epo_x_preferred":[
+        "Provinco Kvilo"
+    ],
+    "name:fin_x_preferred":[
+        "Kwilu"
+    ],
+    "name:fre_x_preferred":[
+        "Kwilu"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d5\u10d8\u10da\u10e3\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Kwilu"
+    ],
+    "name:hun_x_preferred":[
+        "Kwilu tartom\u00e1ny"
+    ],
+    "name:ita_x_preferred":[
+        "Provincia di Kwilu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30a6\u30a3\u30eb\u5dde"
+    ],
+    "name:kon_x_preferred":[
+        "Kwilu"
+    ],
+    "name:kor_x_preferred":[
+        "\ud03c\ub8e8 \uc8fc"
+    ],
+    "name:nob_x_preferred":[
+        "Kwilu"
+    ],
+    "name:pol_x_preferred":[
+        "Kwilu"
+    ],
+    "name:por_x_preferred":[
+        "Kwilu"
+    ],
+    "name:rum_x_preferred":[
+        "Provincia Kwilu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0432\u0438\u043b\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Kwilu"
+    ],
+    "name:swe_x_preferred":[
+        "Kwilu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0432\u0456\u043b\u0443"
+    ],
+    "name:war_x_preferred":[
+        "Kwilu"
+    ],
+    "name:wln_x_preferred":[
+        "Province do Kwilou"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q559537"
+    },
+    "wof:country":"CD",
+    "wof:created":1473878856,
+    "wof:geomhash":"4e84fcfdf99705916b2729b907c4691e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679403,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1091679403,
+    "wof:lastmodified":1513926488,
+    "wof:name":"Kikwit",
+    "wof:parent_id":85669985,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75119723981103,
+    -5.10699859855426,
+    18.86147316015996,
+    -5.00768650953218
+],
+  "geometry": {"coordinates":[[[18.75741767969147,-5.05191424980049],[18.75119723981103,-5.03063485928681],[18.75689820013232,-5.0255295315079],[18.77053968006706,-5.02190387591543],[18.79155395962698,-5.01773079946827],[18.81332964044197,-5.00768650953218],[18.81985104019708,-5.0207566592136],[18.82444176008233,-5.02095558199908],[18.82930392030375,-5.02667422633985],[18.835288919833,-5.02916378500747],[18.83760084021792,-5.03167864847747],[18.83976948021329,-5.04592851635236],[18.84690108038809,-5.04795015763507],[18.85338575970933,-5.0561881749629],[18.86147316015996,-5.06349473147044],[18.85012055972138,-5.08082870613657],[18.84393575960148,-5.07986434334672],[18.82524060042349,-5.09468003651307],[18.7991125200732,-5.10699859855426],[18.78159995972904,-5.10151152456374],[18.76969836019275,-5.08635329828016],[18.76422528000118,-5.07623432785071],[18.76404528007606,-5.06710166118961],[18.75741767969147,-5.05191424980049]]],"type":"Polygon"}
+}

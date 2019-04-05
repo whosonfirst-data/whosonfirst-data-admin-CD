@@ -1,0 +1,67 @@
+{
+  "id": 1276233771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83424,-5.86818,23.83424,-5.86818",
+    "geom:latitude":-5.86818,
+    "geom:longitude":23.83424,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kabinda Kiashi",
+    "gn:country_code":"CD",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215520,
+    "gn:latitude":-5.86818,
+    "gn:longitude":23.83424,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kabinda Kiashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215520
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c262cc07b7d07fc36bc8dd45e3a527b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1276233771,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1276233771,
+    "wof:lastmodified":1536912461,
+    "wof:name":"Kabinda Kiashi",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83424,
+    -5.86818,
+    23.83424,
+    -5.86818
+],
+  "geometry": {"coordinates":[23.83424,-5.86818],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226405419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53991,-6.53231,21.53991,-6.53231",
+    "geom:latitude":-6.53231,
+    "geom:longitude":21.53991,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kasonga-Katshiniema",
+    "gn:country_code":"CD",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213944,
+    "gn:latitude":-6.53231,
+    "gn:longitude":21.53991,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kasonga-Katshiniema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasonga-Katshinuma",
+        "Kasonga-Katshiniema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213944
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f94f8e3b838f97b27b0884242d7ad6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1226405419,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226405419,
+    "wof:lastmodified":1537590409,
+    "wof:name":"Kasonga-Katshiniema",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53991,
+    -6.53231,
+    21.53991,
+    -6.53231
+],
+  "geometry": {"coordinates":[21.53991,-6.53231],"type":"Point"}
+}

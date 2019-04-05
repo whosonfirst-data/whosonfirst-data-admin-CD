@@ -1,0 +1,67 @@
+{
+  "id": 1243601669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02331,-4.09999,23.02331,-4.09999",
+    "geom:latitude":-4.09999,
+    "geom:longitude":23.02331,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Gongo",
+    "gn:country_code":"CD",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8249992,
+    "gn:latitude":-4.09999,
+    "gn:longitude":23.02331,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8249992
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1716dbd9936bed5fb3b4843e22187622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1243601669,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1243601669,
+    "wof:lastmodified":1537075702,
+    "wof:name":"Gongo",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02331,
+    -4.09999,
+    23.02331,
+    -4.09999
+],
+  "geometry": {"coordinates":[23.02331,-4.09999],"type":"Point"}
+}

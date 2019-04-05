@@ -1,0 +1,70 @@
+{
+  "id": 1242734377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0304,-10.14518,24.0304,-10.14518",
+    "geom:latitude":-10.14518,
+    "geom:longitude":24.0304,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mumbumbu",
+    "gn:country_code":"CD",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922452,
+    "gn:latitude":-10.14518,
+    "gn:longitude":24.0304,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mumbumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mumbundu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922452
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"280e7d55cbbb24de3f62e5c1a830af63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1242734377,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242734377,
+    "wof:lastmodified":1537590485,
+    "wof:name":"Mumbumbu",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0304,
+    -10.14518,
+    24.0304,
+    -10.14518
+],
+  "geometry": {"coordinates":[24.0304,-10.14518],"type":"Point"}
+}

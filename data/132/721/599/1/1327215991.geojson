@@ -1,0 +1,70 @@
+{
+  "id": 1327215991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.09262,3.46627,30.09262,3.46627",
+    "geom:latitude":3.46627,
+    "geom:longitude":30.09262,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kaile",
+    "gn:country_code":"CD",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213511,
+    "gn:latitude":3.46627,
+    "gn:longitude":30.09262,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kaile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213511
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"807ebb27f31320438d79aca77359a5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1327215991,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327215991,
+    "wof:lastmodified":1537590405,
+    "wof:name":"Kaile",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.09262,
+    3.46627,
+    30.09262,
+    3.46627
+],
+  "geometry": {"coordinates":[30.09262,3.46627],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243530355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95479,-4.99694,20.95479,-4.99694",
+    "geom:latitude":-4.99694,
+    "geom:longitude":20.95479,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Poporo",
+    "gn:country_code":"CD",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206185,
+    "gn:latitude":-4.99694,
+    "gn:longitude":20.95479,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Poporo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206185
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bd6679d0d8679c37bd8e73dbe6774620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1243530355,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243530355,
+    "wof:lastmodified":1536684627,
+    "wof:name":"Poporo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95479,
+    -4.99694,
+    20.95479,
+    -4.99694
+],
+  "geometry": {"coordinates":[20.95479,-4.99694],"type":"Point"}
+}

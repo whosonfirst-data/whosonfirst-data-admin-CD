@@ -1,0 +1,71 @@
+{
+  "id": 1343716135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26513,-2.58605,23.26513,-2.58605",
+    "geom:latitude":-2.58605,
+    "geom:longitude":23.26513,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kutu-Owanga",
+    "gn:country_code":"CD",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212156,
+    "gn:latitude":-2.58605,
+    "gn:longitude":23.26513,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kutu-Owanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuto-Owanga",
+        "Kutu-Owanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212156
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"808197b79d8e0a86aa5ae980aaa1d30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1343716135,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1343716135,
+    "wof:lastmodified":1537590391,
+    "wof:name":"Kutu-Owanga",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26513,
+    -2.58605,
+    23.26513,
+    -2.58605
+],
+  "geometry": {"coordinates":[23.26513,-2.58605],"type":"Point"}
+}

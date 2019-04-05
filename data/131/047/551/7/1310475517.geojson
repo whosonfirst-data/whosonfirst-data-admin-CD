@@ -1,0 +1,67 @@
+{
+  "id": 1310475517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.78726,-10.90854,27.78726,-10.90854",
+    "geom:latitude":-10.90854,
+    "geom:longitude":27.78726,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kishi",
+    "gn:country_code":"CD",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10219795,
+    "gn:latitude":-10.90854,
+    "gn:longitude":27.78726,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kishi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10219795
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e5020e014fabe0e6f72c0617c4744e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1310475517,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310475517,
+    "wof:lastmodified":1536960146,
+    "wof:name":"Kishi",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.78726,
+    -10.90854,
+    27.78726,
+    -10.90854
+],
+  "geometry": {"coordinates":[27.78726,-10.90854],"type":"Point"}
+}

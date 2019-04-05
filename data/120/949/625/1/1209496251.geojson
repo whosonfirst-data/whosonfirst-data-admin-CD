@@ -1,0 +1,61 @@
+{
+  "id": 1209496251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.38988,0.1316,29.38988,0.1316",
+    "geom:latitude":0.1316,
+    "geom:longitude":29.38988,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Busega",
+    "gn:country_code":"CD",
+    "gn:dem":1866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217656,
+    "gn:latitude":0.1316,
+    "gn:longitude":29.38988,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Busega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217656
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"96874bac6b89d2beb11fa3eaf330e33e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209496251
+        }
+    ],
+    "wof:id":1209496251,
+    "wof:lastmodified":1536285326,
+    "wof:name":"Busega",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.38988,
+    0.1316,
+    29.38988,
+    0.1316
+],
+  "geometry": {"coordinates":[29.38988,0.1316],"type":"Point"}
+}

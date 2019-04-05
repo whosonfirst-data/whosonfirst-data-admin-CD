@@ -1,0 +1,74 @@
+{
+  "id": 1293650371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1045,-5.1516,27.1045,-5.1516",
+    "geom:latitude":-5.1516,
+    "geom:longitude":27.1045,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Sola",
+    "gn:country_code":"CD",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205480,
+    "gn:latitude":-5.1516,
+    "gn:longitude":27.1045,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bruges-Saint-Donat",
+        "Kuvu Sola",
+        "Sola Bruges Saint Donat",
+        "Kuvu Sola Bruges-Saint Donat",
+        "Sola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205480
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aad1ac2778ff5bea0b5970f60c9874af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1293650371,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293650371,
+    "wof:lastmodified":1537590324,
+    "wof:name":"Sola",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1045,
+    -5.1516,
+    27.1045,
+    -5.1516
+],
+  "geometry": {"coordinates":[27.1045,-5.1516],"type":"Point"}
+}

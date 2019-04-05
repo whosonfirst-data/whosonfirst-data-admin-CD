@@ -1,0 +1,61 @@
+{
+  "id": 1209179681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83715,-5.80696,17.83715,-5.80696",
+    "geom:latitude":-5.80696,
+    "geom:longitude":17.83715,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sangambao",
+    "gn:country_code":"CD",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311590,
+    "gn:latitude":-5.80696,
+    "gn:longitude":17.83715,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sangambao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311590
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6b04334c0bd3d7966dfd6ad7db5a76f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209179681
+        }
+    ],
+    "wof:id":1209179681,
+    "wof:lastmodified":1536295302,
+    "wof:name":"Sangambao",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83715,
+    -5.80696,
+    17.83715,
+    -5.80696
+],
+  "geometry": {"coordinates":[17.83715,-5.80696],"type":"Point"}
+}

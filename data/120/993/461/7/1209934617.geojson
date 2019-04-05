@@ -1,0 +1,67 @@
+{
+  "id": 1209934617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.89575,-3.57521,26.89575,-3.57521",
+    "geom:latitude":-3.57521,
+    "geom:longitude":26.89575,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kapuri",
+    "gn:country_code":"CD",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214181,
+    "gn:latitude":-3.57521,
+    "gn:longitude":26.89575,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Kapuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214181
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"512aa8b5cfdf962196b528661a0cf921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1209934617,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1209934617,
+    "wof:lastmodified":1536391216,
+    "wof:name":"Kapuri",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.89575,
+    -3.57521,
+    26.89575,
+    -3.57521
+],
+  "geometry": {"coordinates":[26.89575,-3.57521],"type":"Point"}
+}

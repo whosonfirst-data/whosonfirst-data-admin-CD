@@ -1,0 +1,67 @@
+{
+  "id": 1225925033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.65799,-1.1049,28.65799,-1.1049",
+    "geom:latitude":-1.1049,
+    "geom:longitude":28.65799,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mashenge",
+    "gn:country_code":"CD",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435434,
+    "gn:latitude":-1.1049,
+    "gn:longitude":28.65799,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Mashenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435434
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"13358e47045087abd222cb980e45fea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1225925033,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1225925033,
+    "wof:lastmodified":1536899386,
+    "wof:name":"Mashenge",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.65799,
+    -1.1049,
+    28.65799,
+    -1.1049
+],
+  "geometry": {"coordinates":[28.65799,-1.1049],"type":"Point"}
+}

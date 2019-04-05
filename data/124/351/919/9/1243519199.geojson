@@ -1,0 +1,67 @@
+{
+  "id": 1243519199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98627,-5.34691,17.98627,-5.34691",
+    "geom:latitude":-5.34691,
+    "geom:longitude":17.98627,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kazamba",
+    "gn:country_code":"CD",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274575,
+    "gn:latitude":-5.34691,
+    "gn:longitude":17.98627,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kazamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274575
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d0f36ed07ac87a6fe8bfc853528a3136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1243519199,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243519199,
+    "wof:lastmodified":1536701018,
+    "wof:name":"Kazamba",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98627,
+    -5.34691,
+    17.98627,
+    -5.34691
+],
+  "geometry": {"coordinates":[17.98627,-5.34691],"type":"Point"}
+}

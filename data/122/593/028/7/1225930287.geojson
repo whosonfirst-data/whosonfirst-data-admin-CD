@@ -1,0 +1,71 @@
+{
+  "id": 1225930287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.7413,4.35491,24.7413,4.35491",
+    "geom:latitude":4.35491,
+    "geom:longitude":24.7413,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gitambo",
+    "gn:country_code":"CD",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216324,
+    "gn:latitude":4.35491,
+    "gn:longitude":24.7413,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gitambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gitangba",
+        "Gitambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216324
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"58fc3817bafe4c503e4bc76b04325f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1225930287,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1225930287,
+    "wof:lastmodified":1537590435,
+    "wof:name":"Gitambo",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.7413,
+    4.35491,
+    24.7413,
+    4.35491
+],
+  "geometry": {"coordinates":[24.7413,4.35491],"type":"Point"}
+}

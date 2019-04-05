@@ -1,0 +1,67 @@
+{
+  "id": 1242842705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71083,-2.94566,17.71083,-2.94566",
+    "geom:latitude":-2.94566,
+    "geom:longitude":17.71083,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Djabadju",
+    "gn:country_code":"CD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316074,
+    "gn:latitude":-2.94566,
+    "gn:longitude":17.71083,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Djabadju",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316074
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c5eee0c62f73c61e804492f0887b9072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1242842705,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1242842705,
+    "wof:lastmodified":1536681855,
+    "wof:name":"Djabadju",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71082999999999,
+    -2.94566,
+    17.71082999999999,
+    -2.94566
+],
+  "geometry": {"coordinates":[17.71082999999999,-2.94566],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326511181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.82473,0.91196,29.82473,0.91196",
+    "geom:latitude":0.91196,
+    "geom:longitude":29.82473,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kanyama",
+    "gn:country_code":"CD",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329239,
+    "gn:latitude":0.91196,
+    "gn:longitude":29.82473,
+    "gn:modification_date":"2016-12-04",
+    "gn:name":"Kanyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329239
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3675039d47df418d881eecf2c4360a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1326511181,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1326511181,
+    "wof:lastmodified":1537013721,
+    "wof:name":"Kanyama",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.82473,
+    0.91196,
+    29.82473,
+    0.91196
+],
+  "geometry": {"coordinates":[29.82473,0.91196],"type":"Point"}
+}

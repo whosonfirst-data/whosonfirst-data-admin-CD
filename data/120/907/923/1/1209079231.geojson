@@ -1,0 +1,66 @@
+{
+  "id": 1209079231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53916,-8.41766,25.53916,-8.41766",
+    "geom:latitude":-8.41766,
+    "geom:longitude":25.53916,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kaloanzo",
+    "gn:country_code":"CD",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214904,
+    "gn:latitude":-8.41766,
+    "gn:longitude":25.53916,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kaloanzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaboanza",
+        "Kaluanzo",
+        "Kaloanzo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214904
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8189d4d2f4bcd22e2212dfb69b4f55b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209079231
+        }
+    ],
+    "wof:id":1209079231,
+    "wof:lastmodified":1537590420,
+    "wof:name":"Kaloanzo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53916,
+    -8.41766,
+    25.53916,
+    -8.41766
+],
+  "geometry": {"coordinates":[25.53916,-8.41766],"type":"Point"}
+}

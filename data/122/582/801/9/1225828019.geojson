@@ -1,0 +1,67 @@
+{
+  "id": 1225828019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.80874,-9.40093,25.80874,-9.40093",
+    "geom:latitude":-9.40093,
+    "geom:longitude":25.80874,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sankishia",
+    "gn:country_code":"CD",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10052521,
+    "gn:latitude":-9.40093,
+    "gn:longitude":25.80874,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sankishia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10052521
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ad972e7c44e6c794725731c545f3c1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1225828019,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1225828019,
+    "wof:lastmodified":1537037642,
+    "wof:name":"Sankishia",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.80874,
+    -9.40093,
+    25.80874,
+    -9.40093
+],
+  "geometry": {"coordinates":[25.80874,-9.40093],"type":"Point"}
+}

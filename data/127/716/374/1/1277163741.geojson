@@ -1,0 +1,67 @@
+{
+  "id": 1277163741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.24045,2.84947,27.24045,2.84947",
+    "geom:latitude":2.84947,
+    "geom:longitude":27.24045,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Lingio",
+    "gn:country_code":"CD",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211769,
+    "gn:latitude":2.84947,
+    "gn:longitude":27.24045,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lingio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211769
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"00b96ef4475ccb228327ed179c74483e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1277163741,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1277163741,
+    "wof:lastmodified":1536650758,
+    "wof:name":"Lingio",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.24045,
+    2.84947,
+    27.24045,
+    2.84947
+],
+  "geometry": {"coordinates":[27.24045,2.84947],"type":"Point"}
+}

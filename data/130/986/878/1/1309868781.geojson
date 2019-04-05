@@ -1,0 +1,67 @@
+{
+  "id": 1309868781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.034,-6.65881,21.034,-6.65881",
+    "geom:latitude":-6.65881,
+    "geom:longitude":21.034,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kankutshina",
+    "gn:country_code":"CD",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327423,
+    "gn:latitude":-6.65881,
+    "gn:longitude":21.034,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kankutshina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327423
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9dbdba5def95f4841814d74c2ccf8368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1309868781,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1309868781,
+    "wof:lastmodified":1536839436,
+    "wof:name":"Kankutshina",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.034,
+    -6.65881,
+    21.034,
+    -6.65881
+],
+  "geometry": {"coordinates":[21.034,-6.65881],"type":"Point"}
+}

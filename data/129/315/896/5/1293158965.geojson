@@ -1,0 +1,67 @@
+{
+  "id": 1293158965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82537,-6.43804,21.82537,-6.43804",
+    "geom:latitude":-6.43804,
+    "geom:longitude":21.82537,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ndaye-Kalala",
+    "gn:country_code":"CD",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327303,
+    "gn:latitude":-6.43804,
+    "gn:longitude":21.82537,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ndaye-Kalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327303
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a2cc59732d9e5ee509acb87c750cb5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1293158965,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293158965,
+    "wof:lastmodified":1536764200,
+    "wof:name":"Ndaye-Kalala",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82537,
+    -6.43804,
+    21.82537,
+    -6.43804
+],
+  "geometry": {"coordinates":[21.82537,-6.43804],"type":"Point"}
+}

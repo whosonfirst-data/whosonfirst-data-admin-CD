@@ -1,0 +1,71 @@
+{
+  "id": 1343915909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.90638,-3.96126,16.90638,-3.96126",
+    "geom:latitude":-3.96126,
+    "geom:longitude":16.90638,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Fadiaka",
+    "gn:country_code":"CD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315832,
+    "gn:latitude":-3.96126,
+    "gn:longitude":16.90638,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Fadiaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diaka",
+        "Fadiaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315832
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6362043ee59360b90ffcff4d991e30cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1343915909,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343915909,
+    "wof:lastmodified":1537590544,
+    "wof:name":"Fadiaka",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.90638,
+    -3.96126,
+    16.90638,
+    -3.96126
+],
+  "geometry": {"coordinates":[16.90638,-3.96126],"type":"Point"}
+}

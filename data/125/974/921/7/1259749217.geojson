@@ -1,0 +1,67 @@
+{
+  "id": 1259749217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.85515,-6.35245,19.85515,-6.35245",
+    "geom:latitude":-6.35245,
+    "geom:longitude":19.85515,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shakangolo",
+    "gn:country_code":"CD",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9528913,
+    "gn:latitude":-6.35245,
+    "gn:longitude":19.85515,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shakangolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9528913
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"106f664e89b18e6dde5748c27ed9f25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1259749217,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1259749217,
+    "wof:lastmodified":1536972202,
+    "wof:name":"Shakangolo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.85515,
+    -6.35245,
+    19.85515,
+    -6.35245
+],
+  "geometry": {"coordinates":[19.85515,-6.35245],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293268439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53809,3.07627,30.53809,3.07627",
+    "geom:latitude":3.07627,
+    "geom:longitude":30.53809,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Abika",
+    "gn:country_code":"CD",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144070,
+    "gn:latitude":3.07627,
+    "gn:longitude":30.53809,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Abika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144070
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d124131957b1528a7e6f748b24d55bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1293268439,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293268439,
+    "wof:lastmodified":1536602766,
+    "wof:name":"Abika",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53809,
+    3.07627,
+    30.53809,
+    3.07627
+],
+  "geometry": {"coordinates":[30.53809,3.07627],"type":"Point"}
+}

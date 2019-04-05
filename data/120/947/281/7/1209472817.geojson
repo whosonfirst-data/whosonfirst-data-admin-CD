@@ -1,0 +1,66 @@
+{
+  "id": 1209472817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.95597,-3.01472,19.95597,-3.01472",
+    "geom:latitude":-3.01472,
+    "geom:longitude":19.95597,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ewandje",
+    "gn:country_code":"CD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216581,
+    "gn:latitude":-3.01472,
+    "gn:longitude":19.95597,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ewandje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eyandje",
+        "Ewandji",
+        "Ewandje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216581
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"25c290798b50848cf3ac271e4cb3661a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209472817
+        }
+    ],
+    "wof:id":1209472817,
+    "wof:lastmodified":1537590437,
+    "wof:name":"Ewandje",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.95597,
+    -3.01472,
+    19.95597,
+    -3.01472
+],
+  "geometry": {"coordinates":[19.95597,-3.01472],"type":"Point"}
+}

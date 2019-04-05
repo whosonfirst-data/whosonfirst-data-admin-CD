@@ -1,0 +1,71 @@
+{
+  "id": 1343617775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90121,-6.52897,21.90121,-6.52897",
+    "geom:latitude":-6.52897,
+    "geom:longitude":21.90121,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mukungula",
+    "gn:country_code":"CD",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208308,
+    "gn:latitude":-6.52897,
+    "gn:longitude":21.90121,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mukungula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukungulu",
+        "Mukungula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208308
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2d45bc2207ea0aa802781c8225a3e6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1343617775,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343617775,
+    "wof:lastmodified":1537590358,
+    "wof:name":"Mukungula",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90121,
+    -6.52897,
+    21.90121,
+    -6.52897
+],
+  "geometry": {"coordinates":[21.90121,-6.52897],"type":"Point"}
+}

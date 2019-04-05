@@ -1,0 +1,67 @@
+{
+  "id": 1327308285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75923,-4.65332,17.75923,-4.65332",
+    "geom:latitude":-4.65332,
+    "geom:longitude":17.75923,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kizamba",
+    "gn:country_code":"CD",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445716,
+    "gn:latitude":-4.65332,
+    "gn:longitude":17.75923,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kizamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445716
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"353b9bb3b94c0f11a24233f95b5f7d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1327308285,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327308285,
+    "wof:lastmodified":1536858818,
+    "wof:name":"Kizamba",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75923,
+    -4.65332,
+    17.75923,
+    -4.65332
+],
+  "geometry": {"coordinates":[17.75923,-4.65332],"type":"Point"}
+}

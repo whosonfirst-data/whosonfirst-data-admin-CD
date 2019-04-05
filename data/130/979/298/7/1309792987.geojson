@@ -1,0 +1,72 @@
+{
+  "id": 1309792987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.78642,-2.23193,28.78642,-2.23193",
+    "geom:latitude":-2.23193,
+    "geom:longitude":28.78642,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Lwiro",
+    "gn:country_code":"CD",
+    "gn:dem":1975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210197,
+    "gn:latitude":-2.23193,
+    "gn:longitude":28.78642,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Lwiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwiru",
+        "Luiro",
+        "Lwiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210197
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"92c10ce055dac0bb7168b4ac65223e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1309792987,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1309792987,
+    "wof:lastmodified":1537590378,
+    "wof:name":"Lwiro",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.78642,
+    -2.23193,
+    28.78642,
+    -2.23193
+],
+  "geometry": {"coordinates":[28.78642,-2.23193],"type":"Point"}
+}

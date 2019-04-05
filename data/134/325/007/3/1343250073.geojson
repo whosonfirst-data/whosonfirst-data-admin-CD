@@ -1,0 +1,67 @@
+{
+  "id": 1343250073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.38235,0.09503,29.38235,0.09503",
+    "geom:latitude":0.09503,
+    "geom:longitude":29.38235,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Moronsoro Kiani",
+    "gn:country_code":"CD",
+    "gn:dem":1957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329394,
+    "gn:latitude":0.09503,
+    "gn:longitude":29.38235,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Moronsoro Kiani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329394
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f009de615571d7441417215806c6f9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1343250073,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1343250073,
+    "wof:lastmodified":1537047908,
+    "wof:name":"Moronsoro Kiani",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.38235,
+    0.09503,
+    29.38235,
+    0.09503
+],
+  "geometry": {"coordinates":[29.38235,0.09503],"type":"Point"}
+}

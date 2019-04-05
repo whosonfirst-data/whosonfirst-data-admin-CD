@@ -1,0 +1,61 @@
+{
+  "id": 1209570691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46906,2.85837,21.46906,2.85837",
+    "geom:latitude":2.85837,
+    "geom:longitude":21.46906,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Bopolo",
+    "gn:country_code":"CD",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277715,
+    "gn:latitude":2.85837,
+    "gn:longitude":21.46906,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bopolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277715
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b251a9bcfa81ef81adfbd8f1fab43df9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209570691
+        }
+    ],
+    "wof:id":1209570691,
+    "wof:lastmodified":1536283094,
+    "wof:name":"Bopolo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46906,
+    2.85837,
+    21.46906,
+    2.85837
+],
+  "geometry": {"coordinates":[21.46906,2.85837],"type":"Point"}
+}

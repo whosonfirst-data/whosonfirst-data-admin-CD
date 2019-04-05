@@ -1,0 +1,67 @@
+{
+  "id": 1343515729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.90461,-3.174,24.90461,-3.174",
+    "geom:latitude":-3.174,
+    "geom:longitude":24.90461,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Malao",
+    "gn:country_code":"CD",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209872,
+    "gn:latitude":-3.174,
+    "gn:longitude":24.90461,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Malao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209872
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"54669b5f9c4e034baade2dbf07edf3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1343515729,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1343515729,
+    "wof:lastmodified":1536666624,
+    "wof:name":"Malao",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.90461,
+    -3.174,
+    24.90461,
+    -3.174
+],
+  "geometry": {"coordinates":[24.90461,-3.174],"type":"Point"}
+}

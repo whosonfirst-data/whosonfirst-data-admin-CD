@@ -1,0 +1,67 @@
+{
+  "id": 1327291703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06057,-2.47997,17.06057,-2.47997",
+    "geom:latitude":-2.47997,
+    "geom:longitude":17.06057,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mbamulundu",
+    "gn:country_code":"CD",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312896,
+    "gn:latitude":-2.47997,
+    "gn:longitude":17.06057,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mbamulundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312896
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3ee32aadb1b8d64c8ffe86c3b545aab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1327291703,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327291703,
+    "wof:lastmodified":1536883526,
+    "wof:name":"Mbamulundu",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06057,
+    -2.47997,
+    17.06057,
+    -2.47997
+],
+  "geometry": {"coordinates":[17.06057,-2.47997],"type":"Point"}
+}

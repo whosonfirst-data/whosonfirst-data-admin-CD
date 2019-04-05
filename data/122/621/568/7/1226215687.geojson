@@ -1,0 +1,67 @@
+{
+  "id": 1226215687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.18982,-9.45235,25.18982,-9.45235",
+    "geom:latitude":-9.45235,
+    "geom:longitude":25.18982,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mwedibwe",
+    "gn:country_code":"CD",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10052213,
+    "gn:latitude":-9.45235,
+    "gn:longitude":25.18982,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mwedibwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10052213
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d6a0239ffdd5e81da7fc9763b5a74624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1226215687,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226215687,
+    "wof:lastmodified":1536976499,
+    "wof:name":"Mwedibwe",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.18982,
+    -9.45235,
+    25.18982,
+    -9.45235
+],
+  "geometry": {"coordinates":[25.18982,-9.45235],"type":"Point"}
+}

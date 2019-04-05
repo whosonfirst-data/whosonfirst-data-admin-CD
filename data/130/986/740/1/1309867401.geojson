@@ -1,0 +1,67 @@
+{
+  "id": 1309867401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11806,-5.20694,18.11806,-5.20694",
+    "geom:latitude":-5.20694,
+    "geom:longitude":18.11806,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Misongi",
+    "gn:country_code":"CD",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275927,
+    "gn:latitude":-5.20694,
+    "gn:longitude":18.11806,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Misongi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275927
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"10d6b60d36952ab72491699453a35db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1309867401,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1309867401,
+    "wof:lastmodified":1536841439,
+    "wof:name":"Misongi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11806,
+    -5.20694,
+    18.11806,
+    -5.20694
+],
+  "geometry": {"coordinates":[18.11806,-5.20694],"type":"Point"}
+}

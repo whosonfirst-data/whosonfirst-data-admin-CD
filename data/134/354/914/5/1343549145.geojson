@@ -1,0 +1,67 @@
+{
+  "id": 1343549145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.98333,-0.68333,28.98333,-0.68333",
+    "geom:latitude":-0.68333,
+    "geom:longitude":28.98333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kanune",
+    "gn:country_code":"CD",
+    "gn:dem":1908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214301,
+    "gn:latitude":-0.68333,
+    "gn:longitude":28.98333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kanune",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214301
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8e59f3c09b9f973971737e18aca6d71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1343549145,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1343549145,
+    "wof:lastmodified":1536615959,
+    "wof:name":"Kanune",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.98333,
+    -0.68333,
+    28.98333,
+    -0.68333
+],
+  "geometry": {"coordinates":[28.98333,-0.68333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193235715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97385,2.31018,22.97385,2.31018",
+    "geom:latitude":2.31018,
+    "geom:longitude":22.97385,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yamoanda",
+    "gn:country_code":"CD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279620,
+    "gn:latitude":2.31018,
+    "gn:longitude":22.97385,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yamoanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279620
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0e42c8ac203cfad04b30cb50edad2894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1193235715,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1193235715,
+    "wof:lastmodified":1536383795,
+    "wof:name":"Yamoanda",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97385,
+    2.31018,
+    22.97385,
+    2.31018
+],
+  "geometry": {"coordinates":[22.97385,2.31018],"type":"Point"}
+}

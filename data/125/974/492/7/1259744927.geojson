@@ -1,0 +1,67 @@
+{
+  "id": 1259744927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3024,-5.56937,18.3024,-5.56937",
+    "geom:latitude":-5.56937,
+    "geom:longitude":18.3024,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kibunda",
+    "gn:country_code":"CD",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276119,
+    "gn:latitude":-5.56937,
+    "gn:longitude":18.3024,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kibunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276119
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3f72457d1e5d7ae319acfcb817c38a90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1259744927,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259744927,
+    "wof:lastmodified":1536978195,
+    "wof:name":"Kibunda",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3024,
+    -5.56937,
+    18.3024,
+    -5.56937
+],
+  "geometry": {"coordinates":[18.3024,-5.56937],"type":"Point"}
+}

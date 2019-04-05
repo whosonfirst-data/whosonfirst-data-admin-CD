@@ -1,0 +1,67 @@
+{
+  "id": 1243043121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.27962,-7.41514,19.27962,-7.41514",
+    "geom:latitude":-7.41514,
+    "geom:longitude":19.27962,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mukombe",
+    "gn:country_code":"CD",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448224,
+    "gn:latitude":-7.41514,
+    "gn:longitude":19.27962,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mukombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448224
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a5fd6ccb93380b07b2b7fbf6c1aa4bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1243043121,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243043121,
+    "wof:lastmodified":1536889617,
+    "wof:name":"Mukombe",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.27962,
+    -7.41514,
+    19.27962,
+    -7.41514
+],
+  "geometry": {"coordinates":[19.27962,-7.41514],"type":"Point"}
+}

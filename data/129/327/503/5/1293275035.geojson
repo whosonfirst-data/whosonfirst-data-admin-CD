@@ -1,0 +1,72 @@
+{
+  "id": 1293275035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.38333,-9.8,24.38333,-9.8",
+    "geom:latitude":-9.8,
+    "geom:longitude":24.38333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mukandjila",
+    "gn:country_code":"CD",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208434,
+    "gn:latitude":-9.8,
+    "gn:longitude":24.38333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mukandjila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukanjila",
+        "Mukanshila",
+        "Mukandjila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208434
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ad1a05eb57a1f8aa7ae0b4cbea42da42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1293275035,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293275035,
+    "wof:lastmodified":1537590359,
+    "wof:name":"Mukandjila",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.38333,
+    -9.8,
+    24.38333,
+    -9.8
+],
+  "geometry": {"coordinates":[24.38333,-9.8],"type":"Point"}
+}

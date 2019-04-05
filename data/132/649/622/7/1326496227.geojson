@@ -1,0 +1,67 @@
+{
+  "id": 1326496227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23306,-6.38884,20.23306,-6.38884",
+    "geom:latitude":-6.38884,
+    "geom:longitude":20.23306,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshikoka",
+    "gn:country_code":"CD",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283112,
+    "gn:latitude":-6.38884,
+    "gn:longitude":20.23306,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshikoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283112
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2461f738bcb9085a2cb007e1a281376d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1326496227,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1326496227,
+    "wof:lastmodified":1537034492,
+    "wof:name":"Tshikoka",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23306,
+    -6.38884,
+    20.23306,
+    -6.38884
+],
+  "geometry": {"coordinates":[20.23306,-6.38884],"type":"Point"}
+}

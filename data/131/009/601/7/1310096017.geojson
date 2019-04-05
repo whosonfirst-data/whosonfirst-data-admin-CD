@@ -1,0 +1,67 @@
+{
+  "id": 1310096017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42907,-5.41915,14.42907,-5.41915",
+    "geom:latitude":-5.41915,
+    "geom:longitude":14.42907,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Vuanzi",
+    "gn:country_code":"CD",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325061,
+    "gn:latitude":-5.41915,
+    "gn:longitude":14.42907,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Vuanzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325061
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e93c9610226e060812521989340af24f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1310096017,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1310096017,
+    "wof:lastmodified":1537009495,
+    "wof:name":"Vuanzi",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42907,
+    -5.41915,
+    14.42907,
+    -5.41915
+],
+  "geometry": {"coordinates":[14.42907,-5.41915],"type":"Point"}
+}

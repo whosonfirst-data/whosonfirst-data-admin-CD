@@ -1,0 +1,67 @@
+{
+  "id": 1259345895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83535,-6.22849,20.83535,-6.22849",
+    "geom:latitude":-6.22849,
+    "geom:longitude":20.83535,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Badibanga",
+    "gn:country_code":"CD",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283026,
+    "gn:latitude":-6.22849,
+    "gn:longitude":20.83535,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Badibanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283026
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4ded9eb484d5b5e4e5e27725ddf6a65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1259345895,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1259345895,
+    "wof:lastmodified":1537054168,
+    "wof:name":"Badibanga",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83535,
+    -6.22849,
+    20.83535,
+    -6.22849
+],
+  "geometry": {"coordinates":[20.83535,-6.22849],"type":"Point"}
+}

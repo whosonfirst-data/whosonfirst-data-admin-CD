@@ -1,0 +1,67 @@
+{
+  "id": 1260357103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85813,2.83846,20.85813,2.83846",
+    "geom:latitude":2.83846,
+    "geom:longitude":20.85813,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ngale",
+    "gn:country_code":"CD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207264,
+    "gn:latitude":2.83846,
+    "gn:longitude":20.85813,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207264
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"211030beefec92a8714db1239765c093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1260357103,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1260357103,
+    "wof:lastmodified":1536610798,
+    "wof:name":"Ngale",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85813,
+    2.83846,
+    20.85813,
+    2.83846
+],
+  "geometry": {"coordinates":[20.85813,2.83846],"type":"Point"}
+}

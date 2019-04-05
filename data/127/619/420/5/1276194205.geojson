@@ -1,0 +1,67 @@
+{
+  "id": 1276194205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99606,-6.90913,21.99606,-6.90913",
+    "geom:latitude":-6.90913,
+    "geom:longitude":21.99606,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Zowo",
+    "gn:country_code":"CD",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203218,
+    "gn:latitude":-6.90913,
+    "gn:longitude":21.99606,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Zowo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203218
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c63d046d939f75680425e0207e1e24c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1276194205,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276194205,
+    "wof:lastmodified":1536965284,
+    "wof:name":"Zowo",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99606,
+    -6.90913,
+    21.99606,
+    -6.90913
+],
+  "geometry": {"coordinates":[21.99606,-6.90913],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209978451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.14148,-4.58842,19.14148,-4.58842",
+    "geom:latitude":-4.58842,
+    "geom:longitude":19.14148,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tebe Tebe",
+    "gn:country_code":"CD",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311221,
+    "gn:latitude":-4.58842,
+    "gn:longitude":19.14148,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tebe Tebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311221
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0f32338f54b4b5fe1966055e52117504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1209978451,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1209978451,
+    "wof:lastmodified":1536391844,
+    "wof:name":"Tebe Tebe",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.14148,
+    -4.58842,
+    19.14148,
+    -4.58842
+],
+  "geometry": {"coordinates":[19.14148,-4.58842],"type":"Point"}
+}

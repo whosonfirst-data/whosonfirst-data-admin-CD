@@ -1,0 +1,67 @@
+{
+  "id": 1259745663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.34704,-7.35279,18.34704,-7.35279",
+    "geom:latitude":-7.35279,
+    "geom:longitude":18.34704,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kamba-Sinda",
+    "gn:country_code":"CD",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447673,
+    "gn:latitude":-7.35279,
+    "gn:longitude":18.34704,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kamba-Sinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447673
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"388864274985bf88144b06d081bdb950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1259745663,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259745663,
+    "wof:lastmodified":1536977153,
+    "wof:name":"Kamba-Sinda",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.34704,
+    -7.35279,
+    18.34704,
+    -7.35279
+],
+  "geometry": {"coordinates":[18.34704,-7.35279],"type":"Point"}
+}

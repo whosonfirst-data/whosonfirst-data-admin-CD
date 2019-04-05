@@ -1,0 +1,61 @@
+{
+  "id": 1209376675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38639,-5.24105,19.38639,-5.24105",
+    "geom:latitude":-5.24105,
+    "geom:longitude":19.38639,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Isala",
+    "gn:country_code":"CD",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276592,
+    "gn:latitude":-5.24105,
+    "gn:longitude":19.38639,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Isala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276592
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"17674383f6a791b19ba79c4d2b29a6c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209376675
+        }
+    ],
+    "wof:id":1209376675,
+    "wof:lastmodified":1536288926,
+    "wof:name":"Isala",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38639,
+    -5.24105,
+    19.38639,
+    -5.24105
+],
+  "geometry": {"coordinates":[19.38639,-5.24105],"type":"Point"}
+}

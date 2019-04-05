@@ -1,0 +1,65 @@
+{
+  "id": 1293579997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39392,-4.67552,14.39392,-4.67552",
+    "geom:latitude":-4.67552,
+    "geom:longitude":14.39392,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sanga-Londe",
+    "gn:country_code":"CD",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311592,
+    "gn:latitude":-4.67552,
+    "gn:longitude":14.39392,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Sanga-Londe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311592
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"36e1c292f64c747edece40b06a308b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":1293579997,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1293579997,
+    "wof:lastmodified":1536653727,
+    "wof:name":"Sanga-Londe",
+    "wof:parent_id":85669993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39392,
+    -4.67552,
+    14.39392,
+    -4.67552
+],
+  "geometry": {"coordinates":[14.39392,-4.67552],"type":"Point"}
+}

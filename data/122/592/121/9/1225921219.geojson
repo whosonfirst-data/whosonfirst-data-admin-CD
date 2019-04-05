@@ -1,0 +1,67 @@
+{
+  "id": 1225921219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.08861,-3.3175,29.08861,-3.3175",
+    "geom:latitude":-3.3175,
+    "geom:longitude":29.08861,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Nyamukangiza",
+    "gn:country_code":"CD",
+    "gn:dem":1904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387664,
+    "gn:latitude":-3.3175,
+    "gn:longitude":29.08861,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nyamukangiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387664
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b4141ade99fec5cc1b10d3e059370f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1225921219,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1225921219,
+    "wof:lastmodified":1536905102,
+    "wof:name":"Nyamukangiza",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.08861,
+    -3.3175,
+    29.08861,
+    -3.3175
+],
+  "geometry": {"coordinates":[29.08861,-3.3175],"type":"Point"}
+}

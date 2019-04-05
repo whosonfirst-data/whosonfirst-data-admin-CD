@@ -1,0 +1,74 @@
+{
+  "id": 1242841047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9152,-3.72259,23.9152,-3.72259",
+    "geom:latitude":-3.72259,
+    "geom:longitude":23.9152,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Okolo",
+    "gn:country_code":"CD",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206709,
+    "gn:latitude":-3.72259,
+    "gn:longitude":23.9152,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Okolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Onema",
+        "Onema Kolo",
+        "Okolo",
+        "Oneina Okolo",
+        "Onema-Okolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206709
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f68d8e6b2cdf6b982e5a0d11cc28803d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1242841047,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1242841047,
+    "wof:lastmodified":1537590339,
+    "wof:name":"Okolo",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9152,
+    -3.72259,
+    23.9152,
+    -3.72259
+],
+  "geometry": {"coordinates":[23.9152,-3.72259],"type":"Point"}
+}

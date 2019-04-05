@@ -1,0 +1,67 @@
+{
+  "id": 1293445781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.22306,-2.70524,16.22306,-2.70524",
+    "geom:latitude":-2.70524,
+    "geom:longitude":16.22306,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Etebe Lilonga",
+    "gn:country_code":"CD",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315849,
+    "gn:latitude":-2.70524,
+    "gn:longitude":16.22306,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Etebe Lilonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315849
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8c0b343218cc8e8f095c1f3d083ddd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1293445781,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293445781,
+    "wof:lastmodified":1536846215,
+    "wof:name":"Etebe Lilonga",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.22306,
+    -2.70524,
+    16.22306,
+    -2.70524
+],
+  "geometry": {"coordinates":[16.22306,-2.70524],"type":"Point"}
+}

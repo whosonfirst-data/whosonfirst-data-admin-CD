@@ -1,0 +1,61 @@
+{
+  "id": 1209383711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7462,-10.62804,22.7462,-10.62804",
+    "geom:latitude":-10.62804,
+    "geom:longitude":22.7462,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Pande",
+    "gn:country_code":"CD",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463544,
+    "gn:latitude":-10.62804,
+    "gn:longitude":22.7462,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463544
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6f8318a56937550f80cf726c9ab444b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209383711
+        }
+    ],
+    "wof:id":1209383711,
+    "wof:lastmodified":1536288696,
+    "wof:name":"Pande",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7462,
+    -10.62804,
+    22.7462,
+    -10.62804
+],
+  "geometry": {"coordinates":[22.7462,-10.62804],"type":"Point"}
+}

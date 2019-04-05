@@ -1,0 +1,64 @@
+{
+  "id": 1209193197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.49975,-4.91138,25.49975,-4.91138",
+    "geom:latitude":-4.91138,
+    "geom:longitude":25.49975,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zelo",
+    "gn:country_code":"CD",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203265,
+    "gn:latitude":-4.91138,
+    "gn:longitude":25.49975,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Zelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zelo II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203265
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"765f610d03418b434fb4211b819af0ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209193197
+        }
+    ],
+    "wof:id":1209193197,
+    "wof:lastmodified":1537590300,
+    "wof:name":"Zelo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49975,
+    -4.91138,
+    25.49975,
+    -4.91138
+],
+  "geometry": {"coordinates":[25.49975,-4.91138],"type":"Point"}
+}

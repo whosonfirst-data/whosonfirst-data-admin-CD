@@ -1,0 +1,77 @@
+{
+  "id": 1293650657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36131,2.37904,19.36131,2.37904",
+    "geom:latitude":2.37904,
+    "geom:longitude":19.36131,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Likaw Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313729,
+    "gn:latitude":2.37904,
+    "gn:longitude":19.36131,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Likaw Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Likaw I"
+    ],
+    "name:fra_x_variant":[
+        "Likaw"
+    ],
+    "name:und_x_variant":[
+        "Likaw",
+        "Likaw Premi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313729
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"50fa28580cd49fde32d5d2eba0f41622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1293650657,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293650657,
+    "wof:lastmodified":1537590524,
+    "wof:name":"Likaw Premiere",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36131,
+    2.37904,
+    19.36131,
+    2.37904
+],
+  "geometry": {"coordinates":[19.36131,2.37904],"type":"Point"}
+}

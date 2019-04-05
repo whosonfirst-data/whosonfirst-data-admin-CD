@@ -1,0 +1,61 @@
+{
+  "id": 1209496247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.13872,-0.30456,29.13872,-0.30456",
+    "geom:latitude":-0.30456,
+    "geom:longitude":29.13872,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ndoluma",
+    "gn:country_code":"CD",
+    "gn:dem":2198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327977,
+    "gn:latitude":-0.30456,
+    "gn:longitude":29.13872,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Ndoluma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327977
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ca4366a760860ff3ad7fbf61990a0ac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209496247
+        }
+    ],
+    "wof:id":1209496247,
+    "wof:lastmodified":1536285326,
+    "wof:name":"Ndoluma",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.138720000000006,
+    -0.30456,
+    29.138720000000006,
+    -0.30456
+],
+  "geometry": {"coordinates":[29.13872000000001,-0.30456],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327181655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16901,3.11168,20.16901,3.11168",
+    "geom:latitude":3.11168,
+    "geom:longitude":20.16901,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bogbaka",
+    "gn:country_code":"CD",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218645,
+    "gn:latitude":3.11168,
+    "gn:longitude":20.16901,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bogbaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bogbaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218645
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f7adb6cdd1a79d27cdd995d780dfbe6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1327181655,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327181655,
+    "wof:lastmodified":1537590457,
+    "wof:name":"Bogbaka",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16901,
+    3.11168,
+    20.16901,
+    3.11168
+],
+  "geometry": {"coordinates":[20.16901,3.11168],"type":"Point"}
+}

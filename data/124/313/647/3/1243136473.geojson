@@ -1,0 +1,67 @@
+{
+  "id": 1243136473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.29352,-6.36939,24.29352,-6.36939",
+    "geom:latitude":-6.36939,
+    "geom:longitude":24.29352,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kwanga",
+    "gn:country_code":"CD",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9997748,
+    "gn:latitude":-6.36939,
+    "gn:longitude":24.29352,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kwanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9997748
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"57c41e1a070cdde5b5914f5d4efa0b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1243136473,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1243136473,
+    "wof:lastmodified":1536755650,
+    "wof:name":"Kwanga",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29352,
+    -6.36939,
+    24.29352,
+    -6.36939
+],
+  "geometry": {"coordinates":[24.29352,-6.36939],"type":"Point"}
+}

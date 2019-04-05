@@ -1,0 +1,67 @@
+{
+  "id": 1327097983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61044,2.05498,30.61044,2.05498",
+    "geom:latitude":2.05498,
+    "geom:longitude":30.61044,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tsupu",
+    "gn:country_code":"CD",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204673,
+    "gn:latitude":2.05498,
+    "gn:longitude":30.61044,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tsupu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204673
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c4a81683f552e88453a5c3e02901c2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1327097983,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327097983,
+    "wof:lastmodified":1536665976,
+    "wof:name":"Tsupu",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61044,
+    2.05498,
+    30.61044,
+    2.05498
+],
+  "geometry": {"coordinates":[30.61044,2.05498],"type":"Point"}
+}

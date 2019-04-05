@@ -1,0 +1,67 @@
+{
+  "id": 1259549533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.87658,-6.59556,20.87658,-6.59556",
+    "geom:latitude":-6.59556,
+    "geom:longitude":20.87658,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Nsilambanda",
+    "gn:country_code":"CD",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283240,
+    "gn:latitude":-6.59556,
+    "gn:longitude":20.87658,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nsilambanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283240
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"849bdf88aea1562ba04f7650653feebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1259549533,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1259549533,
+    "wof:lastmodified":1536764235,
+    "wof:name":"Nsilambanda",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87658,
+    -6.59556,
+    20.87658,
+    -6.59556
+],
+  "geometry": {"coordinates":[20.87658,-6.59556],"type":"Point"}
+}

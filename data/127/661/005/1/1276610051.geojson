@@ -1,0 +1,67 @@
+{
+  "id": 1276610051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07818,-10.61638,23.07818,-10.61638",
+    "geom:latitude":-10.61638,
+    "geom:longitude":23.07818,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kaseka-Tambue",
+    "gn:country_code":"CD",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466670,
+    "gn:latitude":-10.61638,
+    "gn:longitude":23.07818,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kaseka-Tambue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466670
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cff3aa9d478b9f5fab68f1baa56c5f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1276610051,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276610051,
+    "wof:lastmodified":1536905670,
+    "wof:name":"Kaseka-Tambue",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07818,
+    -10.61638,
+    23.07818,
+    -10.61638
+],
+  "geometry": {"coordinates":[23.07818,-10.61638],"type":"Point"}
+}

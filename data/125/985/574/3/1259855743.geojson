@@ -1,0 +1,67 @@
+{
+  "id": 1259855743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3108,2.96906,30.3108,2.96906",
+    "geom:latitude":2.96906,
+    "geom:longitude":30.3108,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Rungu",
+    "gn:country_code":"CD",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206058,
+    "gn:latitude":2.96906,
+    "gn:longitude":30.3108,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Rungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206058
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b69bd055b5e70cbbe54065f7df5d5435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1259855743,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259855743,
+    "wof:lastmodified":1536818306,
+    "wof:name":"Rungu",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3108,
+    2.96906,
+    30.3108,
+    2.96906
+],
+  "geometry": {"coordinates":[30.3108,2.96906],"type":"Point"}
+}

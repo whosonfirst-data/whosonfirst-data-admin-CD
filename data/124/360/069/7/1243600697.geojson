@@ -1,0 +1,71 @@
+{
+  "id": 1243600697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.24317,1.86906,26.24317,1.86906",
+    "geom:latitude":1.86906,
+    "geom:longitude":26.24317,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bage Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219901,
+    "gn:latitude":1.86906,
+    "gn:longitude":26.24317,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bage Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bage Premi\u00e8re",
+        "Bage I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219901
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fb15c4e9c49c03c9f7daf6a9d82d4539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1243600697,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243600697,
+    "wof:lastmodified":1537590474,
+    "wof:name":"Bage Premiere",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.24317000000001,
+    1.86906,
+    26.24317000000001,
+    1.86906
+],
+  "geometry": {"coordinates":[26.24317000000001,1.86906],"type":"Point"}
+}

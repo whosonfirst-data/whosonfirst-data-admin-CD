@@ -1,0 +1,73 @@
+{
+  "id": 1276293329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00039,-5.03165,18.00039,-5.03165",
+    "geom:latitude":-5.03165,
+    "geom:longitude":18.00039,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mosenge-Gunga",
+    "gn:country_code":"CD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312502,
+    "gn:latitude":-5.03165,
+    "gn:longitude":18.00039,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mosenge-Gunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musenge",
+        "Masenge",
+        "Mosenge",
+        "Mosenge-Gunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312502
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7d14f85025696788767160e18d31f394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1276293329,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276293329,
+    "wof:lastmodified":1537590513,
+    "wof:name":"Mosenge-Gunga",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00039,
+    -5.03165,
+    18.00039,
+    -5.03165
+],
+  "geometry": {"coordinates":[18.00039,-5.03165],"type":"Point"}
+}

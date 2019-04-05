@@ -1,0 +1,61 @@
+{
+  "id": 1209278775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.64202,-6.04065,24.64202,-6.04065",
+    "geom:latitude":-6.04065,
+    "geom:longitude":24.64202,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bakankale",
+    "gn:country_code":"CD",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9997648,
+    "gn:latitude":-6.04065,
+    "gn:longitude":24.64202,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bakankale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9997648
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"34847f6627f3f1c33a21780fc75c8b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209278775
+        }
+    ],
+    "wof:id":1209278775,
+    "wof:lastmodified":1536292097,
+    "wof:name":"Bakankale",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.64202,
+    -6.04065,
+    24.64202,
+    -6.04065
+],
+  "geometry": {"coordinates":[24.64202,-6.04065],"type":"Point"}
+}

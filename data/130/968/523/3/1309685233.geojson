@@ -1,0 +1,70 @@
+{
+  "id": 1309685233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.24202,-7.37019,25.24202,-7.37019",
+    "geom:latitude":-7.37019,
+    "geom:longitude":25.24202,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Banza",
+    "gn:country_code":"CD",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219510,
+    "gn:latitude":-7.37019,
+    "gn:longitude":25.24202,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Banza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banza-Lui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219510
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"82c00945f27453af8c522b0b3058094b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1309685233,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1309685233,
+    "wof:lastmodified":1537590468,
+    "wof:name":"Banza",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.24202,
+    -7.37019,
+    25.24202,
+    -7.37019
+],
+  "geometry": {"coordinates":[25.24202,-7.37019],"type":"Point"}
+}

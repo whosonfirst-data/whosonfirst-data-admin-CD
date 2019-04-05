@@ -1,0 +1,66 @@
+{
+  "id": 1209615445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.30354,-6.32712,23.30354,-6.32712",
+    "geom:latitude":-6.32712,
+    "geom:longitude":23.30354,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kamangu",
+    "gn:country_code":"CD",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214716,
+    "gn:latitude":-6.32712,
+    "gn:longitude":23.30354,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kamangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamango",
+        "Kamongo",
+        "Kamangu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214716
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e60ef41a824b4dab064c663234b3007f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209615445
+        }
+    ],
+    "wof:id":1209615445,
+    "wof:lastmodified":1537590418,
+    "wof:name":"Kamangu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.30354,
+    -6.32712,
+    23.30354,
+    -6.32712
+],
+  "geometry": {"coordinates":[23.30354,-6.32712],"type":"Point"}
+}

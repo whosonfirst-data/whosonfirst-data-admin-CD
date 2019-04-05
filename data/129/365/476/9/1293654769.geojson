@@ -1,0 +1,67 @@
+{
+  "id": 1293654769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12753,-6.03817,17.12753,-6.03817",
+    "geom:latitude":-6.03817,
+    "geom:longitude":17.12753,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ihoso-Malundu",
+    "gn:country_code":"CD",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434476,
+    "gn:latitude":-6.03817,
+    "gn:longitude":17.12753,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ihoso-Malundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434476
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0e80927da30257c7e81b77c8d7073254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1293654769,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293654769,
+    "wof:lastmodified":1537041480,
+    "wof:name":"Ihoso-Malundu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12753,
+    -6.03817,
+    17.12753,
+    -6.03817
+],
+  "geometry": {"coordinates":[17.12753,-6.03817],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259432951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98811,1.95095,22.98811,1.95095",
+    "geom:latitude":1.95095,
+    "geom:longitude":22.98811,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bolama",
+    "gn:country_code":"CD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218451,
+    "gn:latitude":1.95095,
+    "gn:longitude":22.98811,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bolama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218451
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"881567e49ffe04b30c8b3f7b430ebd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1259432951,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259432951,
+    "wof:lastmodified":1536932327,
+    "wof:name":"Bolama",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98811,
+    1.95095,
+    22.98811,
+    1.95095
+],
+  "geometry": {"coordinates":[22.98811,1.95095],"type":"Point"}
+}

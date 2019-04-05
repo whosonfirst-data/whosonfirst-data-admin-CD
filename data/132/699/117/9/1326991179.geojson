@@ -1,0 +1,67 @@
+{
+  "id": 1326991179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.38333,-6.2,28.38333,-6.2",
+    "geom:latitude":-6.2,
+    "geom:longitude":28.38333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kabaga",
+    "gn:country_code":"CD",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215683,
+    "gn:latitude":-6.2,
+    "gn:longitude":28.38333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215683
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"08751d1d99227335c0a2986c390020ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1326991179,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1326991179,
+    "wof:lastmodified":1536819211,
+    "wof:name":"Kabaga",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.38333,
+    -6.2,
+    28.38333,
+    -6.2
+],
+  "geometry": {"coordinates":[28.38333,-6.2],"type":"Point"}
+}

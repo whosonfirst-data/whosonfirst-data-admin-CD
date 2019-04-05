@@ -1,0 +1,67 @@
+{
+  "id": 1343759563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14313,-4.54024,15.14313,-4.54024",
+    "geom:latitude":-4.54024,
+    "geom:longitude":15.14313,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lowa",
+    "gn:country_code":"CD",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593323,
+    "gn:latitude":-4.54024,
+    "gn:longitude":15.14313,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Lowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593323
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c37a1476b7a60412b29804a57be10c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1343759563,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1343759563,
+    "wof:lastmodified":1536811738,
+    "wof:name":"Lowa",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14313,
+    -4.54024,
+    15.14313,
+    -4.54024
+],
+  "geometry": {"coordinates":[15.14313,-4.54024],"type":"Point"}
+}

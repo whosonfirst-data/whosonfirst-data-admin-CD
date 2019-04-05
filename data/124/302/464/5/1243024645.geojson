@@ -1,0 +1,67 @@
+{
+  "id": 1243024645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56376,-10.36059,22.56376,-10.36059",
+    "geom:latitude":-10.36059,
+    "geom:longitude":22.56376,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwin-Kalala",
+    "gn:country_code":"CD",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463744,
+    "gn:latitude":-10.36059,
+    "gn:longitude":22.56376,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwin-Kalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463744
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9d447c57c9a83c106c319c614b2b04bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1243024645,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243024645,
+    "wof:lastmodified":1536917234,
+    "wof:name":"Mwin-Kalala",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56376,
+    -10.36059,
+    22.56376,
+    -10.36059
+],
+  "geometry": {"coordinates":[22.56376,-10.36059],"type":"Point"}
+}

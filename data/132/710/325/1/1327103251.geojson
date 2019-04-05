@@ -1,0 +1,67 @@
+{
+  "id": 1327103251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14631,-7.26077,22.14631,-7.26077",
+    "geom:latitude":-7.26077,
+    "geom:longitude":22.14631,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mukula",
+    "gn:country_code":"CD",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208342,
+    "gn:latitude":-7.26077,
+    "gn:longitude":22.14631,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mukula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208342
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2e3a27bf7db6ad96c3b8d618e6c57bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1327103251,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327103251,
+    "wof:lastmodified":1536658472,
+    "wof:name":"Mukula",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.14631,
+    -7.26077,
+    22.14631,
+    -7.26077
+],
+  "geometry": {"coordinates":[22.14631,-7.26077],"type":"Point"}
+}

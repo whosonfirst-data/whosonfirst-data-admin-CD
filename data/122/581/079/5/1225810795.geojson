@@ -1,0 +1,67 @@
+{
+  "id": 1225810795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.86762,-6.08364,16.86762,-6.08364",
+    "geom:latitude":-6.08364,
+    "geom:longitude":16.86762,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kikansa",
+    "gn:country_code":"CD",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331563,
+    "gn:latitude":-6.08364,
+    "gn:longitude":16.86762,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kikansa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331563
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a107d0428b4808b61be76f3dbad39d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1225810795,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1225810795,
+    "wof:lastmodified":1537061495,
+    "wof:name":"Kikansa",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.86762,
+    -6.08364,
+    16.86762,
+    -6.08364
+],
+  "geometry": {"coordinates":[16.86762,-6.08364],"type":"Point"}
+}

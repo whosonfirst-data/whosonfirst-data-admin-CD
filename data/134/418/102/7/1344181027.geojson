@@ -1,0 +1,73 @@
+{
+  "id": 1344181027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.24869,-6.26316,23.24869,-6.26316",
+    "geom:latitude":-6.26316,
+    "geom:longitude":23.24869,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Merode",
+    "gn:country_code":"CD",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204894,
+    "gn:latitude":-6.26316,
+    "gn:longitude":23.24869,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Merode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u00e9rode-Salvator",
+        "M\u00e9rode-Salvador",
+        "Merode",
+        "Tshilundu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204894
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"99894cf648d52288f81023c5630f5202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1344181027,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1344181027,
+    "wof:lastmodified":1537590317,
+    "wof:name":"Merode",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.24869,
+    -6.26316,
+    23.24869,
+    -6.26316
+],
+  "geometry": {"coordinates":[23.24869,-6.26316],"type":"Point"}
+}

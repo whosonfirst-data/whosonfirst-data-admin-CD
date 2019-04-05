@@ -1,0 +1,67 @@
+{
+  "id": 1293242565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73333,1.95,23.73333,1.95",
+    "geom:latitude":1.95,
+    "geom:longitude":23.73333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yaosoku",
+    "gn:country_code":"CD",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203621,
+    "gn:latitude":1.95,
+    "gn:longitude":23.73333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yaosoku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203621
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3aecd1be3e6126c8840d015211b9b3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1293242565,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293242565,
+    "wof:lastmodified":1536642403,
+    "wof:name":"Yaosoku",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73333,
+    1.95,
+    23.73333,
+    1.95
+],
+  "geometry": {"coordinates":[23.73333,1.95],"type":"Point"}
+}

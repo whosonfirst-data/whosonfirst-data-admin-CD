@@ -1,0 +1,61 @@
+{
+  "id": 1209092723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.88987,3.53024,23.88987,3.53024",
+    "geom:latitude":3.53024,
+    "geom:longitude":23.88987,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Libazu",
+    "gn:country_code":"CD",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211949,
+    "gn:latitude":3.53024,
+    "gn:longitude":23.88987,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Libazu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211949
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"59c79fd5cdb78036f04e23ac3035c1ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209092723
+        }
+    ],
+    "wof:id":1209092723,
+    "wof:lastmodified":1536297986,
+    "wof:name":"Libazu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.88987,
+    3.53024,
+    23.88987,
+    3.53024
+],
+  "geometry": {"coordinates":[23.88987,3.53024],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259569407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01187,4.60011,26.01187,4.60011",
+    "geom:latitude":4.60011,
+    "geom:longitude":26.01187,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gifuo",
+    "gn:country_code":"CD",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216348,
+    "gn:latitude":4.60011,
+    "gn:longitude":26.01187,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gifuo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gituo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216348
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"935115897fcfa4028beab4acf1fe57b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1259569407,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259569407,
+    "wof:lastmodified":1537590435,
+    "wof:name":"Gifuo",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01187,
+    4.60011,
+    26.01187,
+    4.60011
+],
+  "geometry": {"coordinates":[26.01187,4.60011],"type":"Point"}
+}

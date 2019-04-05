@@ -1,0 +1,61 @@
+{
+  "id": 1209086431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.07028,-3.18806,29.07028,-3.18806",
+    "geom:latitude":-3.18806,
+    "geom:longitude":29.07028,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bulindwe",
+    "gn:country_code":"CD",
+    "gn:dem":1836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387677,
+    "gn:latitude":-3.18806,
+    "gn:longitude":29.07028,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bulindwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387677
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"deb612026f9bafd55886918e385e394b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209086431
+        }
+    ],
+    "wof:id":1209086431,
+    "wof:lastmodified":1536298172,
+    "wof:name":"Bulindwe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.07028,
+    -3.18806,
+    29.07028,
+    -3.18806
+],
+  "geometry": {"coordinates":[29.07028,-3.18806],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226504947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16139,-5.84081,17.16139,-5.84081",
+    "geom:latitude":-5.84081,
+    "geom:longitude":17.16139,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bunda",
+    "gn:country_code":"CD",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274766,
+    "gn:latitude":-5.84081,
+    "gn:longitude":17.16139,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274766
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e0faeab3f728c36e52a31470aada92e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226504947,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226504947,
+    "wof:lastmodified":1537054603,
+    "wof:name":"Bunda",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16139,
+    -5.84081,
+    17.16139,
+    -5.84081
+],
+  "geometry": {"coordinates":[17.16139,-5.84081],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276933159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41667,-10.6,24.41667,-10.6",
+    "geom:latitude":-10.6,
+    "geom:longitude":24.41667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Bavu",
+    "gn:country_code":"CD",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923260,
+    "gn:latitude":-10.6,
+    "gn:longitude":24.41667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bavu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923260
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"374409897f09d81d53d083f5ccc7cc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1276933159,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276933159,
+    "wof:lastmodified":1536969673,
+    "wof:name":"Bavu",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41667,
+    -10.6,
+    24.41667,
+    -10.6
+],
+  "geometry": {"coordinates":[24.41667,-10.6],"type":"Point"}
+}

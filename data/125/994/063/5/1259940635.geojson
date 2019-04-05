@@ -1,0 +1,71 @@
+{
+  "id": 1259940635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.69926,1.73932,23.69926,1.73932",
+    "geom:latitude":1.73932,
+    "geom:longitude":23.69926,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yamokolo Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203792,
+    "gn:latitude":1.73932,
+    "gn:longitude":23.69926,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yamokolo Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yamokolo Deuxi\u00e8me",
+        "Yamokolo II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203792
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d448f16a73a96868359c9db9df7a1f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1259940635,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259940635,
+    "wof:lastmodified":1537590306,
+    "wof:name":"Yamokolo Deuxieme",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.69926,
+    1.73932,
+    23.69926,
+    1.73932
+],
+  "geometry": {"coordinates":[23.69926,1.73932],"type":"Point"}
+}

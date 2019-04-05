@@ -1,0 +1,67 @@
+{
+  "id": 1276965395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.89497,3.51058,23.89497,3.51058",
+    "geom:latitude":3.51058,
+    "geom:longitude":23.89497,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Likita",
+    "gn:country_code":"CD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8197703,
+    "gn:latitude":3.51058,
+    "gn:longitude":23.89497,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Likita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8197703
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1e6f861b210d8edd4b333938b1400c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1276965395,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276965395,
+    "wof:lastmodified":1536927419,
+    "wof:name":"Likita",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.89497,
+    3.51058,
+    23.89497,
+    3.51058
+],
+  "geometry": {"coordinates":[23.89497,3.51058],"type":"Point"}
+}

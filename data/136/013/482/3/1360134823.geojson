@@ -1,0 +1,70 @@
+{
+  "id": 1360134823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.82563,-1.27389,25.82563,-1.27389",
+    "geom:latitude":-1.27389,
+    "geom:longitude":25.82563,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Kilindi",
+    "gn:country_code":"CD",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213560,
+    "gn:latitude":-1.27389,
+    "gn:longitude":25.82563,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kilindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayumba-Kilindi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213560
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"af78b095757ee6a038d58d58c3191241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1360134823,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360134823,
+    "wof:lastmodified":1537590406,
+    "wof:name":"Kilindi",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.82563,
+    -1.27389,
+    25.82563,
+    -1.27389
+],
+  "geometry": {"coordinates":[25.82563,-1.27389],"type":"Point"}
+}

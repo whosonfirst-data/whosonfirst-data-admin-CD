@@ -1,0 +1,67 @@
+{
+  "id": 1293253933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83528,-4.22201,19.83528,-4.22201",
+    "geom:latitude":-4.22201,
+    "geom:longitude":19.83528,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Nkuru",
+    "gn:country_code":"CD",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8444230,
+    "gn:latitude":-4.22201,
+    "gn:longitude":19.83528,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nkuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8444230
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"42c705aca9dc136824b61411d360c09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293253933,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293253933,
+    "wof:lastmodified":1536624858,
+    "wof:name":"Nkuru",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83528,
+    -4.22201,
+    19.83528,
+    -4.22201
+],
+  "geometry": {"coordinates":[19.83528,-4.22201],"type":"Point"}
+}

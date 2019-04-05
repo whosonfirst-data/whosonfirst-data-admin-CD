@@ -1,0 +1,67 @@
+{
+  "id": 1243569395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.43,-1.16,29.43,-1.16",
+    "geom:latitude":-1.16,
+    "geom:longitude":29.43,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kiwanja",
+    "gn:country_code":"CD",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8485523,
+    "gn:latitude":-1.16,
+    "gn:longitude":29.43,
+    "gn:modification_date":"2013-03-08",
+    "gn:name":"Kiwanja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8485523
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e84d7f1fb55c9eb9bb49a24bb78e15f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1243569395,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1243569395,
+    "wof:lastmodified":1536626461,
+    "wof:name":"Kiwanja",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.43,
+    -1.16,
+    29.43,
+    -1.16
+],
+  "geometry": {"coordinates":[29.43,-1.16],"type":"Point"}
+}

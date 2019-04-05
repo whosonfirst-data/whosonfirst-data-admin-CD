@@ -1,0 +1,67 @@
+{
+  "id": 1242787551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53333,0.25,22.53333,0.25",
+    "geom:latitude":0.25,
+    "geom:longitude":22.53333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bokondo",
+    "gn:country_code":"CD",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218520,
+    "gn:latitude":0.25,
+    "gn:longitude":22.53333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Bokondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218520
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"052eb72084696036ef9d9ef500da06cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1242787551,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1242787551,
+    "wof:lastmodified":1536761385,
+    "wof:name":"Bokondo",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53333,
+    0.25,
+    22.53333,
+    0.25
+],
+  "geometry": {"coordinates":[22.53333,0.25],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242936615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0242,1.66963,30.0242,1.66963",
+    "geom:latitude":1.66963,
+    "geom:longitude":30.0242,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sindani",
+    "gn:country_code":"CD",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205525,
+    "gn:latitude":1.66963,
+    "gn:longitude":30.0242,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sindani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sindani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205525
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bb073834cc460c631f260c5b797b8f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1242936615,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1242936615,
+    "wof:lastmodified":1537590325,
+    "wof:name":"Sindani",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0242,
+    1.66963,
+    30.0242,
+    1.66963
+],
+  "geometry": {"coordinates":[30.0242,1.66963],"type":"Point"}
+}

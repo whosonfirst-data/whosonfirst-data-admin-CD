@@ -1,0 +1,67 @@
+{
+  "id": 1226517479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.48235,-5.15326,16.48235,-5.15326",
+    "geom:latitude":-5.15326,
+    "geom:longitude":16.48235,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kabeya-Ilunga",
+    "gn:country_code":"CD",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315294,
+    "gn:latitude":-5.15326,
+    "gn:longitude":16.48235,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabeya-Ilunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315294
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c0e9ffcdf0057436f93f0e2853e9e71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226517479,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226517479,
+    "wof:lastmodified":1537037278,
+    "wof:name":"Kabeya-Ilunga",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.48235,
+    -5.15326,
+    16.48235,
+    -5.15326
+],
+  "geometry": {"coordinates":[16.48235,-5.15326],"type":"Point"}
+}

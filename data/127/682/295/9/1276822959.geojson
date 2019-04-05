@@ -1,0 +1,67 @@
+{
+  "id": 1276822959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13333,-3.76667,23.13333,-3.76667",
+    "geom:latitude":-3.76667,
+    "geom:longitude":23.13333,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Shangadjale",
+    "gn:country_code":"CD",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205638,
+    "gn:latitude":-3.76667,
+    "gn:longitude":23.13333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shangadjale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205638
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"df09bf90930568c37a04b12701a658bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1276822959,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1276822959,
+    "wof:lastmodified":1536617776,
+    "wof:name":"Shangadjale",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13333,
+    -3.76667,
+    23.13333,
+    -3.76667
+],
+  "geometry": {"coordinates":[23.13333,-3.76667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259388797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.1887,-6.08441,23.1887,-6.08441",
+    "geom:latitude":-6.08441,
+    "geom:longitude":23.1887,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tshibuyi",
+    "gn:country_code":"CD",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946571,
+    "gn:latitude":-6.08441,
+    "gn:longitude":23.1887,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Tshibuyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946571
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"de6ab05ad185c65a171081cb267e1281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1259388797,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1259388797,
+    "wof:lastmodified":1536993705,
+    "wof:name":"Tshibuyi",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.1887,
+    -6.08441,
+    23.1887,
+    -6.08441
+],
+  "geometry": {"coordinates":[23.1887,-6.08441],"type":"Point"}
+}

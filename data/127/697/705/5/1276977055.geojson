@@ -1,0 +1,67 @@
+{
+  "id": 1276977055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.56611,-4.88193,13.56611,-4.88193",
+    "geom:latitude":-4.88193,
+    "geom:longitude":13.56611,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gongo",
+    "gn:country_code":"CD",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442519,
+    "gn:latitude":-4.88193,
+    "gn:longitude":13.56611,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Gongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442519
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c92ee8df719efba898c4447d1b9f54ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1276977055,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1276977055,
+    "wof:lastmodified":1536911386,
+    "wof:name":"Gongo",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.56611,
+    -4.88193,
+    13.56611,
+    -4.88193
+],
+  "geometry": {"coordinates":[13.56611,-4.88193],"type":"Point"}
+}

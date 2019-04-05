@@ -1,0 +1,67 @@
+{
+  "id": 1226209067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81667,-4.71667,24.81667,-4.71667",
+    "geom:latitude":-4.71667,
+    "geom:longitude":24.81667,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Okita-Pungu",
+    "gn:country_code":"CD",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206724,
+    "gn:latitude":-4.71667,
+    "gn:longitude":24.81667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Okita-Pungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206724
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0ebb9e2a65f2bf71e5eaa499639b6603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1226209067,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1226209067,
+    "wof:lastmodified":1536985796,
+    "wof:name":"Okita-Pungu",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81667,
+    -4.71667,
+    24.81667,
+    -4.71667
+],
+  "geometry": {"coordinates":[24.81667,-4.71667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243214779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.18405,2.45951,19.18405,2.45951",
+    "geom:latitude":2.45951,
+    "geom:longitude":19.18405,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Likolo",
+    "gn:country_code":"CD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504900,
+    "gn:latitude":2.45951,
+    "gn:longitude":19.18405,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Likolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Likolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504900
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1d58e1f3b650d1259f3059fbd8cad44a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1243214779,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1243214779,
+    "wof:lastmodified":1537590569,
+    "wof:name":"Likolo",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.18405,
+    2.45951,
+    19.18405,
+    2.45951
+],
+  "geometry": {"coordinates":[19.18405,2.45951],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309866359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96688,-0.64801,23.96688,-0.64801",
+    "geom:latitude":-0.64801,
+    "geom:longitude":23.96688,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Lekatero",
+    "gn:country_code":"CD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212047,
+    "gn:latitude":-0.64801,
+    "gn:longitude":23.96688,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lekatero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lekatero III"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212047
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8d9469a87419269f848b05dadaa66471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1309866359,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1309866359,
+    "wof:lastmodified":1537590390,
+    "wof:name":"Lekatero",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96688,
+    -0.64801,
+    23.96688,
+    -0.64801
+],
+  "geometry": {"coordinates":[23.96688,-0.64801],"type":"Point"}
+}

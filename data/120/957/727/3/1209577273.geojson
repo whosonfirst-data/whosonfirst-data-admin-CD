@@ -1,0 +1,61 @@
+{
+  "id": 1209577273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91995,-4.16706,17.91995,-4.16706",
+    "geom:latitude":-4.16706,
+    "geom:longitude":17.91995,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kibatelure",
+    "gn:country_code":"CD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445765,
+    "gn:latitude":-4.16706,
+    "gn:longitude":17.91995,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kibatelure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445765
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2aa81a32b2cf833d48cdbdc13a026a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209577273
+        }
+    ],
+    "wof:id":1209577273,
+    "wof:lastmodified":1536282898,
+    "wof:name":"Kibatelure",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91995,
+    -4.16706,
+    17.91995,
+    -4.16706
+],
+  "geometry": {"coordinates":[17.91995,-4.16706],"type":"Point"}
+}

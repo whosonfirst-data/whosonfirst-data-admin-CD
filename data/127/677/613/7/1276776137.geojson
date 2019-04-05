@@ -1,0 +1,74 @@
+{
+  "id": 1276776137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1296,0.79878,20.1296,0.79878",
+    "geom:latitude":0.79878,
+    "geom:longitude":20.1296,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Likulumkuma",
+    "gn:country_code":"CD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211833,
+    "gn:latitude":0.79878,
+    "gn:longitude":20.1296,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Likulumkuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Likulunkuma",
+        "Likulumbuma",
+        "Likulumkuma",
+        "Likulunkuma I",
+        "Likulunkuma Premi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211833
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"64972752874723ce42c7c05e8c5910d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1276776137,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276776137,
+    "wof:lastmodified":1537590389,
+    "wof:name":"Likulumkuma",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1296,
+    0.79878,
+    20.1296,
+    0.79878
+],
+  "geometry": {"coordinates":[20.1296,0.79878],"type":"Point"}
+}

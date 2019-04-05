@@ -1,0 +1,67 @@
+{
+  "id": 1259348927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25003,-6.5831,20.25003,-6.5831",
+    "geom:latitude":-6.5831,
+    "geom:longitude":20.25003,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Makongo",
+    "gn:country_code":"CD",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283305,
+    "gn:latitude":-6.5831,
+    "gn:longitude":20.25003,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Makongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283305
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"15124815ba7217adbc4f47e809843239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1259348927,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1259348927,
+    "wof:lastmodified":1537050022,
+    "wof:name":"Makongo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25003,
+    -6.5831,
+    20.25003,
+    -6.5831
+],
+  "geometry": {"coordinates":[20.25003,-6.5831],"type":"Point"}
+}

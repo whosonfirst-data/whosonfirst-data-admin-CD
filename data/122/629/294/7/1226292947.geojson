@@ -1,0 +1,71 @@
+{
+  "id": 1226292947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76026,1.41038,23.76026,1.41038",
+    "geom:latitude":1.41038,
+    "geom:longitude":23.76026,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yabangia Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204173,
+    "gn:latitude":1.41038,
+    "gn:longitude":23.76026,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yabangia Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yabangia Deuxi\u00e8me",
+        "Yabangia II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204173
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c390535062382c6731ab4ef057a3e3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1226292947,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1226292947,
+    "wof:lastmodified":1537590310,
+    "wof:name":"Yabangia Deuxieme",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76026,
+    1.41038,
+    23.76026,
+    1.41038
+],
+  "geometry": {"coordinates":[23.76026,1.41038],"type":"Point"}
+}

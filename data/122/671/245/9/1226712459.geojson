@@ -1,0 +1,67 @@
+{
+  "id": 1226712459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17974,-5.85088,16.17974,-5.85088",
+    "geom:latitude":-5.85088,
+    "geom:longitude":16.17974,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kisoma",
+    "gn:country_code":"CD",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314149,
+    "gn:latitude":-5.85088,
+    "gn:longitude":16.17974,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kisoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314149
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f60fa6a25816d784e56c2f8aebcddd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226712459,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226712459,
+    "wof:lastmodified":1536764026,
+    "wof:name":"Kisoma",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17974,
+    -5.85088,
+    16.17974,
+    -5.85088
+],
+  "geometry": {"coordinates":[16.17974,-5.85088],"type":"Point"}
+}

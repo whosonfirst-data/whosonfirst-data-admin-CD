@@ -1,0 +1,61 @@
+{
+  "id": 1209062733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27755,-9.89825,22.27755,-9.89825",
+    "geom:latitude":-9.89825,
+    "geom:longitude":22.27755,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Katshize",
+    "gn:country_code":"CD",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461701,
+    "gn:latitude":-9.89825,
+    "gn:longitude":22.27755,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Katshize",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461701
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b2a8521e860f3991894f8188dadcf77b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209062733
+        }
+    ],
+    "wof:id":1209062733,
+    "wof:lastmodified":1536298902,
+    "wof:name":"Katshize",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27755,
+    -9.89825,
+    22.27755,
+    -9.89825
+],
+  "geometry": {"coordinates":[22.27755,-9.89825],"type":"Point"}
+}

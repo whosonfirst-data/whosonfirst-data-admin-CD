@@ -1,0 +1,67 @@
+{
+  "id": 1343820407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.29505,-6.2137,17.29505,-6.2137",
+    "geom:latitude":-6.2137,
+    "geom:longitude":17.29505,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Lumbala",
+    "gn:country_code":"CD",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313331,
+    "gn:latitude":-6.2137,
+    "gn:longitude":17.29505,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lumbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313331
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"69b7f9f5da2595ed0975197b1e993bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343820407,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343820407,
+    "wof:lastmodified":1536724932,
+    "wof:name":"Lumbala",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.29505,
+    -6.2137,
+    17.29505,
+    -6.2137
+],
+  "geometry": {"coordinates":[17.29505,-6.2137],"type":"Point"}
+}

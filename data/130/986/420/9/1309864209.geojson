@@ -1,0 +1,71 @@
+{
+  "id": 1309864209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.89759,-10.49028,24.89759,-10.49028",
+    "geom:latitude":-10.49028,
+    "geom:longitude":24.89759,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kuyenga",
+    "gn:country_code":"CD",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922751,
+    "gn:latitude":-10.49028,
+    "gn:longitude":24.89759,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kuyenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuuenga",
+        "Kuyenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922751
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"00e663c5f6f787dfc6d68dab3fa296f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1309864209,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1309864209,
+    "wof:lastmodified":1537590488,
+    "wof:name":"Kuyenga",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.89759,
+    -10.49028,
+    24.89759,
+    -10.49028
+],
+  "geometry": {"coordinates":[24.89759,-10.49028],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243221955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09396,-4.70896,23.09396,-4.70896",
+    "geom:latitude":-4.70896,
+    "geom:longitude":23.09396,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mukoma",
+    "gn:country_code":"CD",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219135,
+    "gn:latitude":-4.70896,
+    "gn:longitude":23.09396,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mukoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bena-Mukoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219135
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b3b24a4fa5d988d943aa457f71d8b709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1243221955,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243221955,
+    "wof:lastmodified":1537590463,
+    "wof:name":"Mukoma",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09396,
+    -4.70896,
+    23.09396,
+    -4.70896
+],
+  "geometry": {"coordinates":[23.09396,-4.70896],"type":"Point"}
+}

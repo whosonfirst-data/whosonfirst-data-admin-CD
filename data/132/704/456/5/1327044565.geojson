@@ -1,0 +1,67 @@
+{
+  "id": 1327044565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.1,-0.53333,22.1,-0.53333",
+    "geom:latitude":-0.53333,
+    "geom:longitude":22.1,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Bomeka",
+    "gn:country_code":"CD",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218287,
+    "gn:latitude":-0.53333,
+    "gn:longitude":22.1,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Bomeka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218287
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"318a93c61307d5c20a8145c67cce0751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1327044565,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327044565,
+    "wof:lastmodified":1536742598,
+    "wof:name":"Bomeka",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.1,
+    -0.53333,
+    22.1,
+    -0.53333
+],
+  "geometry": {"coordinates":[22.1,-0.53333],"type":"Point"}
+}

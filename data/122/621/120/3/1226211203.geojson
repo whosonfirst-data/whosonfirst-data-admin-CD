@@ -1,0 +1,67 @@
+{
+  "id": 1226211203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.48006,-8.07923,22.48006,-8.07923",
+    "geom:latitude":-8.07923,
+    "geom:longitude":22.48006,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kasosa",
+    "gn:country_code":"CD",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10013885,
+    "gn:latitude":-8.07923,
+    "gn:longitude":22.48006,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kasosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10013885
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3373673e65c0f07234bd03c518a42a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226211203,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226211203,
+    "wof:lastmodified":1536982829,
+    "wof:name":"Kasosa",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.48006,
+    -8.07923,
+    22.48006,
+    -8.07923
+],
+  "geometry": {"coordinates":[22.48006,-8.07923],"type":"Point"}
+}

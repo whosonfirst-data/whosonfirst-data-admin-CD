@@ -1,0 +1,67 @@
+{
+  "id": 1293122847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33033,-4.42277,15.33033,-4.42277",
+    "geom:latitude":-4.42277,
+    "geom:longitude":15.33033,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kisenzi",
+    "gn:country_code":"CD",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10049266,
+    "gn:latitude":-4.42277,
+    "gn:longitude":15.33033,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Kisenzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10049266
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"88af5adadb9d3f1d80ef5f14224dbea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679251,
+            "locality_id":1293122847,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1293122847,
+    "wof:lastmodified":1536815054,
+    "wof:name":"Kisenzi",
+    "wof:parent_id":1091679251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33033,
+    -4.42277,
+    15.33033,
+    -4.42277
+],
+  "geometry": {"coordinates":[15.33033,-4.42277],"type":"Point"}
+}

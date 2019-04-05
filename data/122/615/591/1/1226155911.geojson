@@ -1,0 +1,81 @@
+{
+  "id": 1226155911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.88335,0.68129,17.88335,0.68129",
+    "geom:latitude":0.68129,
+    "geom:longitude":17.88335,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bolumbu",
+    "gn:country_code":"CD",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316709,
+    "gn:latitude":0.68129,
+    "gn:longitude":17.88335,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bolumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molumbu",
+        "Bolumbu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539,
+        85632541,
+        85670031,
+        1092013239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316709
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1ecb9379f25513c8c2719cc8ab976051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1226155911,
+            "region_id":85669975
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013239,
+            "locality_id":1226155911,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1226155911,
+    "wof:lastmodified":1537590556,
+    "wof:name":"Bolumbu",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.88335,
+    0.68129,
+    17.88335,
+    0.68129
+],
+  "geometry": {"coordinates":[17.88335,0.68129],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310079981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65178,-4.41506,19.65178,-4.41506",
+    "geom:latitude":-4.41506,
+    "geom:longitude":19.65178,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Lako Fioto",
+    "gn:country_code":"CD",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313830,
+    "gn:latitude":-4.41506,
+    "gn:longitude":19.65178,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lako Fioto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313830
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"48d8c50b2609eb165ab336ed1d26d06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1310079981,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310079981,
+    "wof:lastmodified":1537032015,
+    "wof:name":"Lako Fioto",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65178,
+    -4.41506,
+    19.65178,
+    -4.41506
+],
+  "geometry": {"coordinates":[19.65178,-4.41506],"type":"Point"}
+}

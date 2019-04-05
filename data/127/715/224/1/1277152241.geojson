@@ -1,0 +1,71 @@
+{
+  "id": 1277152241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98666,-6.37656,16.98666,-6.37656",
+    "geom:latitude":-6.37656,
+    "geom:longitude":16.98666,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kitsenda",
+    "gn:country_code":"CD",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314089,
+    "gn:latitude":-6.37656,
+    "gn:longitude":16.98666,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kitsenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsende",
+        "Kitsenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314089
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"89353719f3e9f975c79de0bc2d877336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1277152241,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1277152241,
+    "wof:lastmodified":1537590528,
+    "wof:name":"Kitsenda",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98666,
+    -6.37656,
+    16.98666,
+    -6.37656
+],
+  "geometry": {"coordinates":[16.98666,-6.37656],"type":"Point"}
+}

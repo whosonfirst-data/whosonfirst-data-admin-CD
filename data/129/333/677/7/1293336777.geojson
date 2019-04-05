@@ -1,0 +1,67 @@
+{
+  "id": 1293336777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66843,2.07353,25.66843,2.07353",
+    "geom:latitude":2.07353,
+    "geom:longitude":25.66843,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Balisi",
+    "gn:country_code":"CD",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219720,
+    "gn:latitude":2.07353,
+    "gn:longitude":25.66843,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Balisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219720
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4c1518efb2b46cce5c6327d593857625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1293336777,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293336777,
+    "wof:lastmodified":1537003600,
+    "wof:name":"Balisi",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66843,
+    2.07353,
+    25.66843,
+    2.07353
+],
+  "geometry": {"coordinates":[25.66843,2.07353],"type":"Point"}
+}

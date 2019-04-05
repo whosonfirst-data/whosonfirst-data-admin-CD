@@ -1,0 +1,67 @@
+{
+  "id": 1225918227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.98646,-4.97016,24.98646,-4.97016",
+    "geom:latitude":-4.97016,
+    "geom:longitude":24.98646,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Katampa",
+    "gn:country_code":"CD",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213855,
+    "gn:latitude":-4.97016,
+    "gn:longitude":24.98646,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Katampa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213855
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2ee3a5208f72aee6b7a5a630fce2f268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1225918227,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1225918227,
+    "wof:lastmodified":1536909555,
+    "wof:name":"Katampa",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.98646,
+    -4.97016,
+    24.98646,
+    -4.97016
+],
+  "geometry": {"coordinates":[24.98646,-4.97016],"type":"Point"}
+}

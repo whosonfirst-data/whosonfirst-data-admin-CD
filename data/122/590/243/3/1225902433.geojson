@@ -1,0 +1,71 @@
+{
+  "id": 1225902433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66587,-7.45519,22.66587,-7.45519",
+    "geom:latitude":-7.45519,
+    "geom:longitude":22.66587,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mukelenge-Mulolo",
+    "gn:country_code":"CD",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208411,
+    "gn:latitude":-7.45519,
+    "gn:longitude":22.66587,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mukelenge-Mulolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukelenge",
+        "Mukelenge-Mulolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208411
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"04fc906f615ed50ae1da8a3494a8b956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1225902433,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1225902433,
+    "wof:lastmodified":1537590359,
+    "wof:name":"Mukelenge-Mulolo",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66587,
+    -7.45519,
+    22.66587,
+    -7.45519
+],
+  "geometry": {"coordinates":[22.66587,-7.45519],"type":"Point"}
+}

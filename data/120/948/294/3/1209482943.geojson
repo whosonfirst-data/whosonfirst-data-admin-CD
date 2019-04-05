@@ -1,0 +1,61 @@
+{
+  "id": 1209482943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73825,2.12114,21.73825,2.12114",
+    "geom:latitude":2.12114,
+    "geom:longitude":21.73825,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Eleko",
+    "gn:country_code":"CD",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277744,
+    "gn:latitude":2.12114,
+    "gn:longitude":21.73825,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Eleko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277744
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"df80f1d5d7f2d89b988154c6cc1d2e2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209482943
+        }
+    ],
+    "wof:id":1209482943,
+    "wof:lastmodified":1536285724,
+    "wof:name":"Eleko",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73825,
+    2.12114,
+    21.73825,
+    2.12114
+],
+  "geometry": {"coordinates":[21.73825,2.12114],"type":"Point"}
+}

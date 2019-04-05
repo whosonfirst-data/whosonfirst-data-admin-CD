@@ -1,0 +1,65 @@
+{
+  "id": 1209272875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58826,-10.7203,23.58826,-10.7203",
+    "geom:latitude":-10.7203,
+    "geom:longitude":23.58826,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kakwala",
+    "gn:country_code":"CD",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8465704,
+    "gn:latitude":-10.7203,
+    "gn:longitude":23.58826,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kakwala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakuata",
+        "Kakwata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8465704
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"23806fdb499ecd5fa8c0077aca01c46d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209272875
+        }
+    ],
+    "wof:id":1209272875,
+    "wof:lastmodified":1537590576,
+    "wof:name":"Kakwala",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58826,
+    -10.7203,
+    23.58826,
+    -10.7203
+],
+  "geometry": {"coordinates":[23.58826,-10.7203],"type":"Point"}
+}

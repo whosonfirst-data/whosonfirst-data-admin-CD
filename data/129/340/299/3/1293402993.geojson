@@ -1,0 +1,67 @@
+{
+  "id": 1293402993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.89636,0.28388,17.89636,0.28388",
+    "geom:latitude":0.28388,
+    "geom:longitude":17.89636,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lilanga",
+    "gn:country_code":"CD",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313712,
+    "gn:latitude":0.28388,
+    "gn:longitude":17.89636,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"Lilanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313712
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e57ad55fcdaedadc6eb12d0f5562be91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1293402993,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293402993,
+    "wof:lastmodified":1536909064,
+    "wof:name":"Lilanga",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.89636,
+    0.28388,
+    17.89636,
+    0.28388
+],
+  "geometry": {"coordinates":[17.89636,0.28388],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310475889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.24195,-5.78417,24.24195,-5.78417",
+    "geom:latitude":-5.78417,
+    "geom:longitude":24.24195,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Masulu-Kankole",
+    "gn:country_code":"CD",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209462,
+    "gn:latitude":-5.78417,
+    "gn:longitude":24.24195,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Masulu-Kankole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Masulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209462
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8f16e3f135a33e98e15f468354967e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1310475889,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1310475889,
+    "wof:lastmodified":1537590371,
+    "wof:name":"Masulu-Kankole",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.24195,
+    -5.78417,
+    24.24195,
+    -5.78417
+],
+  "geometry": {"coordinates":[24.24195,-5.78417],"type":"Point"}
+}

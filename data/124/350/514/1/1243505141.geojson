@@ -1,0 +1,67 @@
+{
+  "id": 1243505141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.48178,-5.13343,27.48178,-5.13343",
+    "geom:latitude":-5.13343,
+    "geom:longitude":27.48178,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kasawa",
+    "gn:country_code":"CD",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214069,
+    "gn:latitude":-5.13343,
+    "gn:longitude":27.48178,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kasawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214069
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3d2509ea6b0d2fcb48af627ef923dfb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1243505141,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243505141,
+    "wof:lastmodified":1536721391,
+    "wof:name":"Kasawa",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.48178,
+    -5.13343,
+    27.48178,
+    -5.13343
+],
+  "geometry": {"coordinates":[27.48178,-5.13343],"type":"Point"}
+}

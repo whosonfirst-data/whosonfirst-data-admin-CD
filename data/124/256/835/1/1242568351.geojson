@@ -1,0 +1,67 @@
+{
+  "id": 1242568351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.35269,-5.80407,14.35269,-5.80407",
+    "geom:latitude":-5.80407,
+    "geom:longitude":14.35269,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Paza-Yongo",
+    "gn:country_code":"CD",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325365,
+    "gn:latitude":-5.80407,
+    "gn:longitude":14.35269,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Paza-Yongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325365
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6f9bc6c899b229391039f82eddc7a81b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1242568351,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1242568351,
+    "wof:lastmodified":1537073918,
+    "wof:name":"Paza-Yongo",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.35269,
+    -5.80407,
+    14.35269,
+    -5.80407
+],
+  "geometry": {"coordinates":[14.35269,-5.80407],"type":"Point"}
+}

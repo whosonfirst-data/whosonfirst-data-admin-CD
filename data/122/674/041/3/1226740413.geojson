@@ -1,0 +1,67 @@
+{
+  "id": 1226740413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.57616,-4.95196,13.57616,-4.95196",
+    "geom:latitude":-4.95196,
+    "geom:longitude":13.57616,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kingimbi",
+    "gn:country_code":"CD",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314414,
+    "gn:latitude":-4.95196,
+    "gn:longitude":13.57616,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kingimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314414
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c70cc6e920b6b337bc0b443f85f47dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1226740413,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1226740413,
+    "wof:lastmodified":1536723564,
+    "wof:name":"Kingimbi",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57616,
+    -4.95196,
+    13.57616,
+    -4.95196
+],
+  "geometry": {"coordinates":[13.57616,-4.95196],"type":"Point"}
+}

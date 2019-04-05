@@ -1,0 +1,71 @@
+{
+  "id": 1260044639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.46361,-4.25645,18.46361,-4.25645",
+    "geom:latitude":-4.25645,
+    "geom:longitude":18.46361,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kimbata",
+    "gn:country_code":"CD",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314614,
+    "gn:latitude":-4.25645,
+    "gn:longitude":18.46361,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kimbata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kimbala",
+        "Kimbata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314614
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9ea654a7cc197c76303d838db18d89b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1260044639,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260044639,
+    "wof:lastmodified":1537590533,
+    "wof:name":"Kimbata",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.46361,
+    -4.25645,
+    18.46361,
+    -4.25645
+],
+  "geometry": {"coordinates":[18.46361,-4.25645],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243150949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21692,-4.81491,28.21692,-4.81491",
+    "geom:latitude":-4.81491,
+    "geom:longitude":28.21692,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kianga",
+    "gn:country_code":"CD",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213377,
+    "gn:latitude":-4.81491,
+    "gn:longitude":28.21692,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kianga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213377
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"13b0f9e008e9345695a29757715cef35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1243150949,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1243150949,
+    "wof:lastmodified":1536734812,
+    "wof:name":"Kianga",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21692,
+    -4.81491,
+    28.21692,
+    -4.81491
+],
+  "geometry": {"coordinates":[28.21692,-4.81491],"type":"Point"}
+}

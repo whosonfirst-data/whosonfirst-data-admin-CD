@@ -1,0 +1,67 @@
+{
+  "id": 1242936145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.77925,-6.72018,20.77925,-6.72018",
+    "geom:latitude":-6.72018,
+    "geom:longitude":20.77925,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shakalumbo",
+    "gn:country_code":"CD",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283385,
+    "gn:latitude":-6.72018,
+    "gn:longitude":20.77925,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shakalumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283385
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"30ad41efd48905632c86306dc56d8c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1242936145,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1242936145,
+    "wof:lastmodified":1537042632,
+    "wof:name":"Shakalumbo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.77925,
+    -6.72018,
+    20.77925,
+    -6.72018
+],
+  "geometry": {"coordinates":[20.77925,-6.72018],"type":"Point"}
+}

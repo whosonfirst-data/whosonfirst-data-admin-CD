@@ -1,0 +1,67 @@
+{
+  "id": 1259760219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6725,-1.97139,28.6725,-1.97139",
+    "geom:latitude":-1.97139,
+    "geom:longitude":28.6725,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Katshiri",
+    "gn:country_code":"CD",
+    "gn:dem":1666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213704,
+    "gn:latitude":-1.97139,
+    "gn:longitude":28.6725,
+    "gn:modification_date":"2009-04-07",
+    "gn:name":"Katshiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213704
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2d50127c3a9d4816eb164b81225f6627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1259760219,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1259760219,
+    "wof:lastmodified":1536956728,
+    "wof:name":"Katshiri",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6725,
+    -1.97139,
+    28.6725,
+    -1.97139
+],
+  "geometry": {"coordinates":[28.6725,-1.97139],"type":"Point"}
+}

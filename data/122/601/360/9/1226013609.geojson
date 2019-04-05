@@ -1,0 +1,72 @@
+{
+  "id": 1226013609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27289,-9.98834,22.27289,-9.98834",
+    "geom:latitude":-9.98834,
+    "geom:longitude":22.27289,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kataola Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213824,
+    "gn:latitude":-9.98834,
+    "gn:longitude":22.27289,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kataola Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katawola",
+        "Kataola",
+        "Kataola Premi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213824
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"610d5447af801888e16a06f7f47a074c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226013609,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226013609,
+    "wof:lastmodified":1537590408,
+    "wof:name":"Kataola Premiere",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27289,
+    -9.98834,
+    22.27289,
+    -9.98834
+],
+  "geometry": {"coordinates":[22.27289,-9.98834],"type":"Point"}
+}

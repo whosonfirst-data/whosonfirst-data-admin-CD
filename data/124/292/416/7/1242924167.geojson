@@ -1,0 +1,67 @@
+{
+  "id": 1242924167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.66979,-6.60668,27.66979,-6.60668",
+    "geom:latitude":-6.60668,
+    "geom:longitude":27.66979,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mutoma",
+    "gn:country_code":"CD",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207822,
+    "gn:latitude":-6.60668,
+    "gn:longitude":27.66979,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mutoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207822
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"114fd6935ace9b59885291f3565721f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1242924167,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242924167,
+    "wof:lastmodified":1537059077,
+    "wof:name":"Mutoma",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.66979000000001,
+    -6.60668,
+    27.66979000000001,
+    -6.60668
+],
+  "geometry": {"coordinates":[27.66979000000001,-6.60668],"type":"Point"}
+}

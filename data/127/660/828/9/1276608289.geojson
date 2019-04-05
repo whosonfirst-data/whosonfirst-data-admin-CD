@@ -1,0 +1,71 @@
+{
+  "id": 1276608289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.66289,4.3125,20.66289,4.3125",
+    "geom:latitude":4.3125,
+    "geom:longitude":20.66289,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Baga Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8243980,
+    "gn:latitude":4.3125,
+    "gn:longitude":20.66289,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Baga Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baga Deuxi\u00e8me",
+        "Banga Deuxi\u00e8me"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8243980
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dd2bc06bf7323de8555b45a319a08760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1276608289,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276608289,
+    "wof:lastmodified":1537590571,
+    "wof:name":"Baga Deuxieme",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.66289,
+    4.3125,
+    20.66289,
+    4.3125
+],
+  "geometry": {"coordinates":[20.66289,4.3125],"type":"Point"}
+}

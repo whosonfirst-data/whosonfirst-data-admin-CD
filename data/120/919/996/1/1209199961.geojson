@@ -1,0 +1,61 @@
+{
+  "id": 1209199961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34743,-5.07485,14.34743,-5.07485",
+    "geom:latitude":-5.07485,
+    "geom:longitude":14.34743,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sama",
+    "gn:country_code":"CD",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311614,
+    "gn:latitude":-5.07485,
+    "gn:longitude":14.34743,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Sama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311614
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3c8e6df01f2d1b21113a874fe3cb724f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209199961
+        }
+    ],
+    "wof:id":1209199961,
+    "wof:lastmodified":1536294645,
+    "wof:name":"Sama",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34743,
+    -5.07485,
+    14.34743,
+    -5.07485
+],
+  "geometry": {"coordinates":[14.34743,-5.07485],"type":"Point"}
+}

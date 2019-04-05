@@ -1,0 +1,67 @@
+{
+  "id": 1260050109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8897,-9.18957,25.8897,-9.18957",
+    "geom:latitude":-9.18957,
+    "geom:longitude":25.8897,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tanganika",
+    "gn:country_code":"CD",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10051925,
+    "gn:latitude":-9.18957,
+    "gn:longitude":25.8897,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tanganika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10051925
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cdfdf9354feca05698249919d8442e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1260050109,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260050109,
+    "wof:lastmodified":1537034729,
+    "wof:name":"Tanganika",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8897,
+    -9.18957,
+    25.8897,
+    -9.18957
+],
+  "geometry": {"coordinates":[25.8897,-9.18957],"type":"Point"}
+}

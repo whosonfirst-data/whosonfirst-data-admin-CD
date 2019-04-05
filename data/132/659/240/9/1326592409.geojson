@@ -1,0 +1,67 @@
+{
+  "id": 1326592409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16595,-6.36978,17.16595,-6.36978",
+    "geom:latitude":-6.36978,
+    "geom:longitude":17.16595,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Matamba-Solo",
+    "gn:country_code":"CD",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312991,
+    "gn:latitude":-6.36978,
+    "gn:longitude":17.16595,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Matamba-Solo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312991
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2ea449fb9d0a6e57d91248da2f69bd2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1326592409,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1326592409,
+    "wof:lastmodified":1536897274,
+    "wof:name":"Matamba-Solo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16595,
+    -6.36978,
+    17.16595,
+    -6.36978
+],
+  "geometry": {"coordinates":[17.16595,-6.36978],"type":"Point"}
+}

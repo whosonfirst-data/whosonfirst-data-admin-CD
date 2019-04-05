@@ -1,0 +1,67 @@
+{
+  "id": 1293171667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.24168,-9.25527,27.24168,-9.25527",
+    "geom:latitude":-9.25527,
+    "geom:longitude":27.24168,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sakwa",
+    "gn:country_code":"CD",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10134092,
+    "gn:latitude":-9.25527,
+    "gn:longitude":27.24168,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sakwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10134092
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"55edb023006a64ed0edbf8b6f0e93b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1293171667,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293171667,
+    "wof:lastmodified":1536745201,
+    "wof:name":"Sakwa",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.24168,
+    -9.25527,
+    27.24168,
+    -9.25527
+],
+  "geometry": {"coordinates":[27.24168,-9.25527],"type":"Point"}
+}

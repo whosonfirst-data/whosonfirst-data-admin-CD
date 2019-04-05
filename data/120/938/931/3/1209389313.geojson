@@ -1,0 +1,65 @@
+{
+  "id": 1209389313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.57603,-4.96197,18.57603,-4.96197",
+    "geom:latitude":-4.96197,
+    "geom:longitude":18.57603,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kimafu",
+    "gn:country_code":"CD",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314656,
+    "gn:latitude":-4.96197,
+    "gn:longitude":18.57603,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kimafu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kimafui",
+        "Kimafu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314656
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2e73a1f64b22ceae4c067e8b6c39c806",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209389313
+        }
+    ],
+    "wof:id":1209389313,
+    "wof:lastmodified":1537590533,
+    "wof:name":"Kimafu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.57603,
+    -4.96197,
+    18.57603,
+    -4.96197
+],
+  "geometry": {"coordinates":[18.57603,-4.96197],"type":"Point"}
+}

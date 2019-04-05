@@ -1,0 +1,67 @@
+{
+  "id": 1327224427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.20765,-4.38928,14.20765,-4.38928",
+    "geom:latitude":-4.38928,
+    "geom:longitude":14.20765,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dianga",
+    "gn:country_code":"CD",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316094,
+    "gn:latitude":-4.38928,
+    "gn:longitude":14.20765,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Dianga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316094
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d7ce479e9391ebd97b92138e3b52c21d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1327224427,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1327224427,
+    "wof:lastmodified":1536980477,
+    "wof:name":"Dianga",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.20765,
+    -4.38928,
+    14.20765,
+    -4.38928
+],
+  "geometry": {"coordinates":[14.20765,-4.38928],"type":"Point"}
+}

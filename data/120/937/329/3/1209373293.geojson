@@ -1,0 +1,61 @@
+{
+  "id": 1209373293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7122,-10.40289,23.7122,-10.40289",
+    "geom:latitude":-10.40289,
+    "geom:longitude":23.7122,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshifwaka",
+    "gn:country_code":"CD",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466698,
+    "gn:latitude":-10.40289,
+    "gn:longitude":23.7122,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshifwaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466698
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"33643d4b877c144b2f455cfa65e6d23b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209373293
+        }
+    ],
+    "wof:id":1209373293,
+    "wof:lastmodified":1536289035,
+    "wof:name":"Tshifwaka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7122,
+    -10.40289,
+    23.7122,
+    -10.40289
+],
+  "geometry": {"coordinates":[23.7122,-10.40289],"type":"Point"}
+}

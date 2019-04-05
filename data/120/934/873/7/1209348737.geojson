@@ -1,0 +1,61 @@
+{
+  "id": 1209348737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.01423,-0.77746,22.01423,-0.77746",
+    "geom:latitude":-0.77746,
+    "geom:longitude":22.01423,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Efekele",
+    "gn:country_code":"CD",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216878,
+    "gn:latitude":-0.77746,
+    "gn:longitude":22.01423,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Efekele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216878
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fde451411f0d4c19d7ddbb453b4da8c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209348737
+        }
+    ],
+    "wof:id":1209348737,
+    "wof:lastmodified":1536289819,
+    "wof:name":"Efekele",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.01423,
+    -0.77746,
+    22.01423,
+    -0.77746
+],
+  "geometry": {"coordinates":[22.01423,-0.77746],"type":"Point"}
+}

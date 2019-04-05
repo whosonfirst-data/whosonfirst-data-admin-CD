@@ -1,0 +1,67 @@
+{
+  "id": 1276289643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26767,-6.21793,22.26767,-6.21793",
+    "geom:latitude":-6.21793,
+    "geom:longitude":22.26767,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kadima-Ngongo",
+    "gn:country_code":"CD",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283771,
+    "gn:latitude":-6.21793,
+    "gn:longitude":22.26767,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kadima-Ngongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283771
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"78802f69272d66c4fbba8989f6d9f8be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1276289643,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276289643,
+    "wof:lastmodified":1536836261,
+    "wof:name":"Kadima-Ngongo",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26767000000001,
+    -6.21793,
+    22.26767000000001,
+    -6.21793
+],
+  "geometry": {"coordinates":[22.26767000000001,-6.21793],"type":"Point"}
+}

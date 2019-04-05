@@ -1,0 +1,67 @@
+{
+  "id": 1293158967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09324,-7.25776,23.09324,-7.25776",
+    "geom:latitude":-7.25776,
+    "geom:longitude":23.09324,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Monzaie",
+    "gn:country_code":"CD",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208683,
+    "gn:latitude":-7.25776,
+    "gn:longitude":23.09324,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Monzaie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208683
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fcddf96761387a49f8667e68b91a0847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1293158967,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293158967,
+    "wof:lastmodified":1536764196,
+    "wof:name":"Monzaie",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09324,
+    -7.25776,
+    23.09324,
+    -7.25776
+],
+  "geometry": {"coordinates":[23.09324,-7.25776],"type":"Point"}
+}

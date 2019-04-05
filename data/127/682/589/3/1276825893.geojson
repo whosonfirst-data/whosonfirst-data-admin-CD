@@ -1,0 +1,67 @@
+{
+  "id": 1276825893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.37272,3.32308,20.37272,3.32308",
+    "geom:latitude":3.32308,
+    "geom:longitude":20.37272,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Boyasembeli",
+    "gn:country_code":"CD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217922,
+    "gn:latitude":3.32308,
+    "gn:longitude":20.37272,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Boyasembeli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217922
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8b0f65407b438b4527cc99ae68e3ab4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1276825893,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276825893,
+    "wof:lastmodified":1536613686,
+    "wof:name":"Boyasembeli",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.37272,
+    3.32308,
+    20.37272,
+    3.32308
+],
+  "geometry": {"coordinates":[20.37272,3.32308],"type":"Point"}
+}

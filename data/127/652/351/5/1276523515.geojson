@@ -1,0 +1,67 @@
+{
+  "id": 1276523515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75866,-6.96257,20.75866,-6.96257",
+    "geom:latitude":-6.96257,
+    "geom:longitude":20.75866,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shakangamba",
+    "gn:country_code":"CD",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205674,
+    "gn:latitude":-6.96257,
+    "gn:longitude":20.75866,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shakangamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205674
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f7170d23c1dfb5ac7546ae52a4aecb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276523515,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276523515,
+    "wof:lastmodified":1537020318,
+    "wof:name":"Shakangamba",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75866,
+    -6.96257,
+    20.75866,
+    -6.96257
+],
+  "geometry": {"coordinates":[20.75866,-6.96257],"type":"Point"}
+}

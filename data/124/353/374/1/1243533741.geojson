@@ -1,0 +1,67 @@
+{
+  "id": 1243533741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60758,4.17605,23.60758,4.17605",
+    "geom:latitude":4.17605,
+    "geom:longitude":23.60758,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Masambe",
+    "gn:country_code":"CD",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8239267,
+    "gn:latitude":4.17605,
+    "gn:longitude":23.60758,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Masambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8239267
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4ea56dd09ce162a46bdf9fe8e05f2659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1243533741,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243533741,
+    "wof:lastmodified":1536679724,
+    "wof:name":"Masambe",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60758,
+    4.17605,
+    23.60758,
+    4.17605
+],
+  "geometry": {"coordinates":[23.60758,4.17605],"type":"Point"}
+}

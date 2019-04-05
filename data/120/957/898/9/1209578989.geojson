@@ -1,0 +1,61 @@
+{
+  "id": 1209578989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73226,1.61859,27.73226,1.61859",
+    "geom:latitude":1.61859,
+    "geom:longitude":27.73226,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bafwabena",
+    "gn:country_code":"CD",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220025,
+    "gn:latitude":1.61859,
+    "gn:longitude":27.73226,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bafwabena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220025
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5268a9d08a4f36ecd50ad430a43215bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209578989
+        }
+    ],
+    "wof:id":1209578989,
+    "wof:lastmodified":1536282848,
+    "wof:name":"Bafwabena",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73226,
+    1.61859,
+    27.73226,
+    1.61859
+],
+  "geometry": {"coordinates":[27.73226,1.61859],"type":"Point"}
+}

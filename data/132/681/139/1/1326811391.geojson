@@ -1,0 +1,67 @@
+{
+  "id": 1326811391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.56667,-1.46667,28.56667,-1.46667",
+    "geom:latitude":-1.46667,
+    "geom:longitude":28.56667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Luho",
+    "gn:country_code":"CD",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210844,
+    "gn:latitude":-1.46667,
+    "gn:longitude":28.56667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Luho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210844
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1a68a20aa17234c91b60a49a352ec7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1326811391,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1326811391,
+    "wof:lastmodified":1537075746,
+    "wof:name":"Luho",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.56667,
+    -1.46667,
+    28.56667,
+    -1.46667
+],
+  "geometry": {"coordinates":[28.56667,-1.46667],"type":"Point"}
+}

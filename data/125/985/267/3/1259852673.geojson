@@ -1,0 +1,71 @@
+{
+  "id": 1259852673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.02516,-8.47488,26.02516,-8.47488",
+    "geom:latitude":-8.47488,
+    "geom:longitude":26.02516,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kialusombo",
+    "gn:country_code":"CD",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213403,
+    "gn:latitude":-8.47488,
+    "gn:longitude":26.02516,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kialusombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yulu Bombo",
+        "Kialusombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213403
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"14286e769204811985a486767d5dd850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1259852673,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1259852673,
+    "wof:lastmodified":1537590404,
+    "wof:name":"Kialusombo",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.02516,
+    -8.47488,
+    26.02516,
+    -8.47488
+],
+  "geometry": {"coordinates":[26.02516,-8.47488],"type":"Point"}
+}

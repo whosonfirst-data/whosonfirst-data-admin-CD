@@ -1,0 +1,67 @@
+{
+  "id": 1327402243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.77348,-3.08506,17.77348,-3.08506",
+    "geom:latitude":-3.08506,
+    "geom:longitude":17.77348,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Lebama",
+    "gn:country_code":"CD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313809,
+    "gn:latitude":-3.08506,
+    "gn:longitude":17.77348,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lebama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313809
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"38bc04868a5ece2840177d1b4e53b8be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1327402243,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327402243,
+    "wof:lastmodified":1536724755,
+    "wof:name":"Lebama",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.77348,
+    -3.08506,
+    17.77348,
+    -3.08506
+],
+  "geometry": {"coordinates":[17.77348,-3.08506],"type":"Point"}
+}

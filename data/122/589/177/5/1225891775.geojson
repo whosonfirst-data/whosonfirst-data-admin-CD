@@ -1,0 +1,70 @@
+{
+  "id": 1225891775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.51211,2.38207,19.51211,2.38207",
+    "geom:latitude":2.38207,
+    "geom:longitude":19.51211,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Boso-Bangba",
+    "gn:country_code":"CD",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504899,
+    "gn:latitude":2.38207,
+    "gn:longitude":19.51211,
+    "gn:modification_date":"2018-06-29",
+    "gn:name":"Boso-Bangba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boso-Bangba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504899
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f80f071f6e5e3faa61c7e37eea89dd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1225891775,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1225891775,
+    "wof:lastmodified":1537590569,
+    "wof:name":"Boso-Bangba",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.51211,
+    2.38207,
+    19.51211,
+    2.38207
+],
+  "geometry": {"coordinates":[19.51211,2.38207],"type":"Point"}
+}

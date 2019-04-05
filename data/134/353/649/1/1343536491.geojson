@@ -1,0 +1,67 @@
+{
+  "id": 1343536491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63356,-5.83885,17.63356,-5.83885",
+    "geom:latitude":-5.83885,
+    "geom:longitude":17.63356,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kitombi",
+    "gn:country_code":"CD",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274820,
+    "gn:latitude":-5.83885,
+    "gn:longitude":17.63356,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kitombi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274820
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cb70da16868275f704f7c433c7cc01a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343536491,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343536491,
+    "wof:lastmodified":1536635318,
+    "wof:name":"Kitombi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63356,
+    -5.83885,
+    17.63356,
+    -5.83885
+],
+  "geometry": {"coordinates":[17.63356,-5.83885],"type":"Point"}
+}

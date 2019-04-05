@@ -1,0 +1,71 @@
+{
+  "id": 1293636383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.44427,-5.97325,27.44427,-5.97325",
+    "geom:latitude":-5.97325,
+    "geom:longitude":27.44427,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Genda-ya-Bayoro",
+    "gn:country_code":"CD",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216365,
+    "gn:latitude":-5.97325,
+    "gn:longitude":27.44427,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Genda-ya-Bayoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Genda",
+        "Genda-ya-Bayoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216365
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"de93f49d906891bba70b6e7919573385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1293636383,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293636383,
+    "wof:lastmodified":1537590435,
+    "wof:name":"Genda-ya-Bayoro",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.44427,
+    -5.97325,
+    27.44427,
+    -5.97325
+],
+  "geometry": {"coordinates":[27.44427,-5.97325],"type":"Point"}
+}

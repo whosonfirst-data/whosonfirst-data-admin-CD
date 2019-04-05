@@ -1,0 +1,70 @@
+{
+  "id": 1226409025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.3878,-4.02185,24.3878,-4.02185",
+    "geom:latitude":-4.02185,
+    "geom:longitude":24.3878,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Tshumbe",
+    "gn:country_code":"CD",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8250093,
+    "gn:latitude":-4.02185,
+    "gn:longitude":24.3878,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshumbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshumbe Sainte Marie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8250093
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"eb744e7304b1762182ffeb67b47fdac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1226409025,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1226409025,
+    "wof:lastmodified":1537590571,
+    "wof:name":"Tshumbe",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.3878,
+    -4.02185,
+    24.3878,
+    -4.02185
+],
+  "geometry": {"coordinates":[24.3878,-4.02185],"type":"Point"}
+}

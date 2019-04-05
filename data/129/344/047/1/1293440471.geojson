@@ -1,0 +1,71 @@
+{
+  "id": 1293440471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.77592,-5.27775,26.77592,-5.27775",
+    "geom:latitude":-5.27775,
+    "geom:longitude":26.77592,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kalambi",
+    "gn:country_code":"CD",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215024,
+    "gn:latitude":-5.27775,
+    "gn:longitude":26.77592,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kalambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabambi",
+        "Kalambi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215024
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f41f9752b8f50a3e59e759538b79c177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1293440471,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293440471,
+    "wof:lastmodified":1537590421,
+    "wof:name":"Kalambi",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.77592000000001,
+    -5.27775,
+    26.77592000000001,
+    -5.27775
+],
+  "geometry": {"coordinates":[26.77592000000001,-5.27775],"type":"Point"}
+}

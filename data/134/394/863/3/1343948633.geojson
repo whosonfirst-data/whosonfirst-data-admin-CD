@@ -1,0 +1,67 @@
+{
+  "id": 1343948633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07796,-5.49909,15.07796,-5.49909",
+    "geom:latitude":-5.49909,
+    "geom:longitude":15.07796,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kitumba",
+    "gn:country_code":"CD",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314076,
+    "gn:latitude":-5.49909,
+    "gn:longitude":15.07796,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kitumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314076
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"24774d31cb312c2d122311ac1111cad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1343948633,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1343948633,
+    "wof:lastmodified":1537035573,
+    "wof:name":"Kitumba",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07796,
+    -5.49909,
+    15.07796,
+    -5.49909
+],
+  "geometry": {"coordinates":[15.07796,-5.49909],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343617757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75943,-6.61928,22.75943,-6.61928",
+    "geom:latitude":-6.61928,
+    "geom:longitude":22.75943,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kamkenge",
+    "gn:country_code":"CD",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8284952,
+    "gn:latitude":-6.61928,
+    "gn:longitude":22.75943,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kamkenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8284952
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0860ff36b005c14f70fc252c046518d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1343617757,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343617757,
+    "wof:lastmodified":1537016024,
+    "wof:name":"Kamkenge",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75943,
+    -6.61928,
+    22.75943,
+    -6.61928
+],
+  "geometry": {"coordinates":[22.75943,-6.61928],"type":"Point"}
+}

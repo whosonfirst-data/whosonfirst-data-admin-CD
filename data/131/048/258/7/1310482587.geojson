@@ -1,0 +1,67 @@
+{
+  "id": 1310482587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.36665,0.14268,29.36665,0.14268",
+    "geom:latitude":0.14268,
+    "geom:longitude":29.36665,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bunyuka",
+    "gn:country_code":"CD",
+    "gn:dem":1873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329440,
+    "gn:latitude":0.14268,
+    "gn:longitude":29.36665,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Bunyuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329440
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"945583b4585ea895ae907c2ff983dc33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1310482587,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1310482587,
+    "wof:lastmodified":1536950257,
+    "wof:name":"Bunyuka",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.36665,
+    0.14268,
+    29.36665,
+    0.14268
+],
+  "geometry": {"coordinates":[29.36665,0.14268],"type":"Point"}
+}

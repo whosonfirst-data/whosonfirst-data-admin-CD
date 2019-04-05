@@ -1,0 +1,71 @@
+{
+  "id": 1310317895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.06808,-0.17431,20.06808,-0.17431",
+    "geom:latitude":-0.17431,
+    "geom:longitude":20.06808,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bombili",
+    "gn:country_code":"CD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218307,
+    "gn:latitude":-0.17431,
+    "gn:longitude":20.06808,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bombili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bambili",
+        "Bombili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218307
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"063652f713e378925800ab6eea49f606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1310317895,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310317895,
+    "wof:lastmodified":1537590455,
+    "wof:name":"Bombili",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.06808,
+    -0.17431,
+    20.06808,
+    -0.17431
+],
+  "geometry": {"coordinates":[20.06808,-0.17431],"type":"Point"}
+}

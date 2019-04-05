@@ -1,0 +1,70 @@
+{
+  "id": 1243510787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6689,-9.3622,22.6689,-9.3622",
+    "geom:latitude":-9.3622,
+    "geom:longitude":22.6689,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Marimbula",
+    "gn:country_code":"CD",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209824,
+    "gn:latitude":-9.3622,
+    "gn:longitude":22.6689,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Marimbula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malimbula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209824
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"006d7ee5eb68232800c4f8b702643a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1243510787,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243510787,
+    "wof:lastmodified":1537590373,
+    "wof:name":"Marimbula",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6689,
+    -9.3622,
+    22.6689,
+    -9.3622
+],
+  "geometry": {"coordinates":[22.6689,-9.3622],"type":"Point"}
+}

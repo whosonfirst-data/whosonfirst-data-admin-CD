@@ -1,0 +1,67 @@
+{
+  "id": 1260298131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2505,-0.35248,18.2505,-0.35248",
+    "geom:latitude":-0.35248,
+    "geom:longitude":18.2505,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bongidji Mpika",
+    "gn:country_code":"CD",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281682,
+    "gn:latitude":-0.35248,
+    "gn:longitude":18.2505,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bongidji Mpika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281682
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1a58455cf47aff55f267dafddb0b394f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1260298131,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1260298131,
+    "wof:lastmodified":1536692407,
+    "wof:name":"Bongidji Mpika",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2505,
+    -0.35248,
+    18.2505,
+    -0.35248
+],
+  "geometry": {"coordinates":[18.2505,-0.35248],"type":"Point"}
+}

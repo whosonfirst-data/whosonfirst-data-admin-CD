@@ -1,0 +1,67 @@
+{
+  "id": 1309708189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28903,-4.75475,14.28903,-4.75475",
+    "geom:latitude":-4.75475,
+    "geom:longitude":14.28903,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mayombe",
+    "gn:country_code":"CD",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312933,
+    "gn:latitude":-4.75475,
+    "gn:longitude":14.28903,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Mayombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312933
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0433fd6416236f332c03a78025e058aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1309708189,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1309708189,
+    "wof:lastmodified":1537068878,
+    "wof:name":"Mayombe",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28903,
+    -4.75475,
+    14.28903,
+    -4.75475
+],
+  "geometry": {"coordinates":[14.28903,-4.75475],"type":"Point"}
+}

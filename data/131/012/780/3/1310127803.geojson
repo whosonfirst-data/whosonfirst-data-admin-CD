@@ -1,0 +1,67 @@
+{
+  "id": 1310127803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85655,-4.08325,15.85655,-4.08325",
+    "geom:latitude":-4.08325,
+    "geom:longitude":15.85655,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bone",
+    "gn:country_code":"CD",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10048976,
+    "gn:latitude":-4.08325,
+    "gn:longitude":15.85655,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Bone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10048976
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2d6f9cfa6babcbb48a0ed209e3a55351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1310127803,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1310127803,
+    "wof:lastmodified":1536964199,
+    "wof:name":"Bone",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85655,
+    -4.08325,
+    15.85655,
+    -4.08325
+],
+  "geometry": {"coordinates":[15.85655,-4.08325],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310169723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21708,-5.4155,24.21708,-5.4155",
+    "geom:latitude":-5.4155,
+    "geom:longitude":24.21708,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kifwankese",
+    "gn:country_code":"CD",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213197,
+    "gn:latitude":-5.4155,
+    "gn:longitude":24.21708,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kifwankese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kifuankese",
+        "Kipwenkese",
+        "Kifwankese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213197
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"03ce3b67b16ccf80c2138bfe9e39c48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1310169723,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1310169723,
+    "wof:lastmodified":1537590402,
+    "wof:name":"Kifwankese",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21708,
+    -5.4155,
+    24.21708,
+    -5.4155
+],
+  "geometry": {"coordinates":[24.21708,-5.4155],"type":"Point"}
+}

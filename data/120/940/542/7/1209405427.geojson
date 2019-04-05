@@ -1,0 +1,61 @@
+{
+  "id": 1209405427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.40668,-5.54954,13.40668,-5.54954",
+    "geom:latitude":-5.54954,
+    "geom:longitude":13.40668,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gimbi",
+    "gn:country_code":"CD",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252783,
+    "gn:latitude":-5.54954,
+    "gn:longitude":13.40668,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Gimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252783
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3b2e82867ec34d127e108fa8828b1502",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209405427
+        }
+    ],
+    "wof:id":1209405427,
+    "wof:lastmodified":1536288011,
+    "wof:name":"Gimbi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.40668,
+    -5.54954,
+    13.40668,
+    -5.54954
+],
+  "geometry": {"coordinates":[13.40668,-5.54954],"type":"Point"}
+}

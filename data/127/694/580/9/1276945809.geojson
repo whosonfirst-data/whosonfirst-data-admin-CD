@@ -1,0 +1,67 @@
+{
+  "id": 1276945809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3443,-2.4252,17.3443,-2.4252",
+    "geom:latitude":-2.4252,
+    "geom:longitude":17.3443,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bobimo",
+    "gn:country_code":"CD",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8432012,
+    "gn:latitude":-2.4252,
+    "gn:longitude":17.3443,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bobimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8432012
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9c580eee04cb7ba587af08fced972f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1276945809,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276945809,
+    "wof:lastmodified":1536953137,
+    "wof:name":"Bobimo",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3443,
+    -2.4252,
+    17.3443,
+    -2.4252
+],
+  "geometry": {"coordinates":[17.3443,-2.4252],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327102873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.636,-3.09537,18.636,-3.09537",
+    "geom:latitude":-3.09537,
+    "geom:longitude":18.636,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bamaba",
+    "gn:country_code":"CD",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317451,
+    "gn:latitude":-3.09537,
+    "gn:longitude":18.636,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bamaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317451
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fbeb76208e9083a5fa44c74feb670168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1327102873,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327102873,
+    "wof:lastmodified":1536659002,
+    "wof:name":"Bamaba",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.636,
+    -3.09537,
+    18.636,
+    -3.09537
+],
+  "geometry": {"coordinates":[18.636,-3.09537],"type":"Point"}
+}

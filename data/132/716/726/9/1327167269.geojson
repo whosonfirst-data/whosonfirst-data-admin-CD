@@ -1,0 +1,67 @@
+{
+  "id": 1327167269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90595,0.87371,20.90595,0.87371",
+    "geom:latitude":0.87371,
+    "geom:longitude":20.90595,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Lingunda",
+    "gn:country_code":"CD",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211754,
+    "gn:latitude":0.87371,
+    "gn:longitude":20.90595,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lingunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211754
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5ef2588302fa89a6743a88f56b284b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1327167269,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327167269,
+    "wof:lastmodified":1537061000,
+    "wof:name":"Lingunda",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90595,
+    0.87371,
+    20.90595,
+    0.87371
+],
+  "geometry": {"coordinates":[20.90595,0.87371],"type":"Point"}
+}

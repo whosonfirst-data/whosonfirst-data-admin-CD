@@ -1,0 +1,67 @@
+{
+  "id": 1343543357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.72296,2.3387,27.72296,2.3387",
+    "geom:latitude":2.3387,
+    "geom:longitude":27.72296,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Anapuno",
+    "gn:country_code":"CD",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220321,
+    "gn:latitude":2.3387,
+    "gn:longitude":27.72296,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Anapuno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220321
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7f2b40418021fea09a65bd97e1146386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1343543357,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343543357,
+    "wof:lastmodified":1536624693,
+    "wof:name":"Anapuno",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72296,
+    2.3387,
+    27.72296,
+    2.3387
+],
+  "geometry": {"coordinates":[27.72296,2.3387],"type":"Point"}
+}

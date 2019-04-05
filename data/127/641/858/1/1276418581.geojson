@@ -1,0 +1,72 @@
+{
+  "id": 1276418581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.16667,-1.63333,29.16667,-1.63333",
+    "geom:latitude":-1.63333,
+    "geom:longitude":29.16667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Keshero",
+    "gn:country_code":"CD",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213448,
+    "gn:latitude":-1.63333,
+    "gn:longitude":29.16667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Keshero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kashero",
+        "Ketshero",
+        "Keshero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213448
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aaf548c6b6d848e53e31eb76a3187e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679837,
+            "locality_id":1276418581,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1276418581,
+    "wof:lastmodified":1537590405,
+    "wof:name":"Keshero",
+    "wof:parent_id":1091679837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.16667,
+    -1.63333,
+    29.16667,
+    -1.63333
+],
+  "geometry": {"coordinates":[29.16667,-1.63333],"type":"Point"}
+}

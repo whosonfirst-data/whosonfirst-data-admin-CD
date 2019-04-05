@@ -1,0 +1,67 @@
+{
+  "id": 1293560457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.06731,2.88767,26.06731,2.88767",
+    "geom:latitude":2.88767,
+    "geom:longitude":26.06731,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kana",
+    "gn:country_code":"CD",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214494,
+    "gn:latitude":2.88767,
+    "gn:longitude":26.06731,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214494
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"efa486d6e94fce86557cc8eb5490b4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1293560457,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293560457,
+    "wof:lastmodified":1536681953,
+    "wof:name":"Kana",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.06731,
+    2.88767,
+    26.06731,
+    2.88767
+],
+  "geometry": {"coordinates":[26.06731,2.88767],"type":"Point"}
+}

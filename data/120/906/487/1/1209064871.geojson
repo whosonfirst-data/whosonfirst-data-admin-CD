@@ -1,0 +1,61 @@
+{
+  "id": 1209064871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.55277,-7.92474,22.55277,-7.92474",
+    "geom:latitude":-7.92474,
+    "geom:longitude":22.55277,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mutenge Lulua",
+    "gn:country_code":"CD",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8450317,
+    "gn:latitude":-7.92474,
+    "gn:longitude":22.55277,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mutenge Lulua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8450317
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7d1f590f123105518657f8edcfea16ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209064871
+        }
+    ],
+    "wof:id":1209064871,
+    "wof:lastmodified":1536298837,
+    "wof:name":"Mutenge Lulua",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.55277,
+    -7.924739999999999,
+    22.55277,
+    -7.924739999999999
+],
+  "geometry": {"coordinates":[22.55277,-7.92474],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209863279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44851,2.76391,20.44851,2.76391",
+    "geom:latitude":2.76391,
+    "geom:longitude":20.44851,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Boemili",
+    "gn:country_code":"CD",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198600,
+    "gn:latitude":2.76391,
+    "gn:longitude":20.44851,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Boemili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198600
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3ed8f81a707d03484bab865002083f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1209863279,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1209863279,
+    "wof:lastmodified":1536381397,
+    "wof:name":"Boemili",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44851,
+    2.76391,
+    20.44851,
+    2.76391
+],
+  "geometry": {"coordinates":[20.44851,2.76391],"type":"Point"}
+}

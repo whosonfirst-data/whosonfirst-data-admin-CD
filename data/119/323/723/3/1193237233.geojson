@@ -1,0 +1,67 @@
+{
+  "id": 1193237233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06667,-6.88333,24.06667,-6.88333",
+    "geom:latitude":-6.88333,
+    "geom:longitude":24.06667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Katupuile",
+    "gn:country_code":"CD",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213669,
+    "gn:latitude":-6.88333,
+    "gn:longitude":24.06667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Katupuile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213669
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"46097b5c906f0f57678db18843acc331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1193237233,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1193237233,
+    "wof:lastmodified":1536382280,
+    "wof:name":"Katupuile",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06667,
+    -6.88333,
+    24.06667,
+    -6.88333
+],
+  "geometry": {"coordinates":[24.06667,-6.88333],"type":"Point"}
+}

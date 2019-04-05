@@ -1,0 +1,61 @@
+{
+  "id": 1209405433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91076,-5.36291,13.91076,-5.36291",
+    "geom:latitude":-5.36291,
+    "geom:longitude":13.91076,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kimbemba",
+    "gn:country_code":"CD",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314599,
+    "gn:latitude":-5.36291,
+    "gn:longitude":13.91076,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kimbemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314599
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"02db780c585dfb13b91aa8554f3d7cd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209405433
+        }
+    ],
+    "wof:id":1209405433,
+    "wof:lastmodified":1536288011,
+    "wof:name":"Kimbemba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91076,
+    -5.36291,
+    13.91076,
+    -5.36291
+],
+  "geometry": {"coordinates":[13.91076,-5.36291],"type":"Point"}
+}

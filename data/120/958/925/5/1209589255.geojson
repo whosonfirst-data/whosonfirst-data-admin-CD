@@ -1,0 +1,61 @@
+{
+  "id": 1209589255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.83519,-11.88542,27.83519,-11.88542",
+    "geom:latitude":-11.88542,
+    "geom:longitude":27.83519,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mulela",
+    "gn:country_code":"CD",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10226315,
+    "gn:latitude":-11.88542,
+    "gn:longitude":27.83519,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mulela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10226315
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"18159adbea72d0521b00dd4976a25e4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209589255
+        }
+    ],
+    "wof:id":1209589255,
+    "wof:lastmodified":1536282533,
+    "wof:name":"Mulela",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.83519,
+    -11.88542,
+    27.83519,
+    -11.88542
+],
+  "geometry": {"coordinates":[27.83519,-11.88542],"type":"Point"}
+}

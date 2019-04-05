@@ -1,0 +1,61 @@
+{
+  "id": 1209562279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.98333,-5.96667,28.98333,-5.96667",
+    "geom:latitude":-5.96667,
+    "geom:longitude":28.98333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kakuni",
+    "gn:country_code":"CD",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215079,
+    "gn:latitude":-5.96667,
+    "gn:longitude":28.98333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kakuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215079
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7b5af2b13241d8e085204c5d7b11ad38",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209562279
+        }
+    ],
+    "wof:id":1209562279,
+    "wof:lastmodified":1536283350,
+    "wof:name":"Kakuni",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.98333,
+    -5.96667,
+    28.98333,
+    -5.96667
+],
+  "geometry": {"coordinates":[28.98333,-5.96667],"type":"Point"}
+}

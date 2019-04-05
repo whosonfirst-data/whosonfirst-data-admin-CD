@@ -1,0 +1,67 @@
+{
+  "id": 1327128041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91799,-4.40964,26.91799,-4.40964",
+    "geom:latitude":-4.40964,
+    "geom:longitude":26.91799,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kanana",
+    "gn:country_code":"CD",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214488,
+    "gn:latitude":-4.40964,
+    "gn:longitude":26.91799,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kanana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214488
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1fb3338a3d2bf3647dcfadaa908444e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1327128041,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1327128041,
+    "wof:lastmodified":1536620321,
+    "wof:name":"Kanana",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91799,
+    -4.40964,
+    26.91799,
+    -4.40964
+],
+  "geometry": {"coordinates":[26.91799,-4.40964],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344225877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.76667,-10.6,25.76667,-10.6",
+    "geom:latitude":-10.6,
+    "geom:longitude":25.76667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kyamazungu",
+    "gn:country_code":"CD",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922747,
+    "gn:latitude":-10.6,
+    "gn:longitude":25.76667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kyamazungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922747
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9ffcc53b01ae9000135a814e1481f012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1344225877,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1344225877,
+    "wof:lastmodified":1536635798,
+    "wof:name":"Kyamazungu",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76667,
+    -10.6,
+    25.76667,
+    -10.6
+],
+  "geometry": {"coordinates":[25.76667,-10.6],"type":"Point"}
+}

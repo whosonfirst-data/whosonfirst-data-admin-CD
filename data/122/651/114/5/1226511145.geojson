@@ -1,0 +1,67 @@
+{
+  "id": 1226511145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0575,-9.81345,22.0575,-9.81345",
+    "geom:latitude":-9.81345,
+    "geom:longitude":22.0575,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshiyundu",
+    "gn:country_code":"CD",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461723,
+    "gn:latitude":-9.81345,
+    "gn:longitude":22.0575,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshiyundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461723
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"57f3975fc703e9693ee23afb35ab428c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226511145,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226511145,
+    "wof:lastmodified":1537046116,
+    "wof:name":"Tshiyundu",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0575,
+    -9.81345,
+    22.0575,
+    -9.81345
+],
+  "geometry": {"coordinates":[22.0575,-9.81345],"type":"Point"}
+}

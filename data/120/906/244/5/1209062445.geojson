@@ -1,0 +1,65 @@
+{
+  "id": 1209062445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98175,-7.31663,21.98175,-7.31663",
+    "geom:latitude":-7.31663,
+    "geom:longitude":21.98175,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mumbeimba",
+    "gn:country_code":"CD",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208138,
+    "gn:latitude":-7.31663,
+    "gn:longitude":21.98175,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mumbeimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mumbemba",
+        "Mumbeimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208138
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e7b080a50aebc68b33635e07367e5333",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209062445
+        }
+    ],
+    "wof:id":1209062445,
+    "wof:lastmodified":1537590356,
+    "wof:name":"Mumbeimba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98175,
+    -7.31663,
+    21.98175,
+    -7.31663
+],
+  "geometry": {"coordinates":[21.98175,-7.31663],"type":"Point"}
+}

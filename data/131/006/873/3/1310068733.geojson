@@ -1,0 +1,67 @@
+{
+  "id": 1310068733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45958,-4.53707,20.45958,-4.53707",
+    "geom:latitude":-4.53707,
+    "geom:longitude":20.45958,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shandonji",
+    "gn:country_code":"CD",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8444011,
+    "gn:latitude":-4.53707,
+    "gn:longitude":20.45958,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shandonji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8444011
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7bd989543974b88d713e46f9f65c7046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1310068733,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310068733,
+    "wof:lastmodified":1537047669,
+    "wof:name":"Shandonji",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45958,
+    -4.53707,
+    20.45958,
+    -4.53707
+],
+  "geometry": {"coordinates":[20.45958,-4.53707],"type":"Point"}
+}

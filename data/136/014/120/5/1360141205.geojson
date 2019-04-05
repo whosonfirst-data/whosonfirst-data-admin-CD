@@ -1,0 +1,67 @@
+{
+  "id": 1360141205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09668,-10.21973,23.09668,-10.21973",
+    "geom:latitude":-10.21973,
+    "geom:longitude":23.09668,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mukandu",
+    "gn:country_code":"CD",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8542005,
+    "gn:latitude":-10.21973,
+    "gn:longitude":23.09668,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mukandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8542005
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f0b2b2e3edf29fa7f33f9361f6d3181f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1360141205,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1360141205,
+    "wof:lastmodified":1536863459,
+    "wof:name":"Mukandu",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09668,
+    -10.21973,
+    23.09668,
+    -10.21973
+],
+  "geometry": {"coordinates":[23.09668,-10.21973],"type":"Point"}
+}

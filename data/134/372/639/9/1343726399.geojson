@@ -1,0 +1,72 @@
+{
+  "id": 1343726399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48156,-5.93885,24.48156,-5.93885",
+    "geom:latitude":-5.93885,
+    "geom:longitude":24.48156,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Mulemba Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208246,
+    "gn:latitude":-5.93885,
+    "gn:longitude":24.48156,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mulemba Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mulemba",
+        "Mulemba I",
+        "Mulemba Premi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208246
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"49f8bac852fd8d4c955681b5db345781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1343726399,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1343726399,
+    "wof:lastmodified":1537590357,
+    "wof:name":"Mulemba Premiere",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48156,
+    -5.93885,
+    24.48156,
+    -5.93885
+],
+  "geometry": {"coordinates":[24.48156,-5.93885],"type":"Point"}
+}

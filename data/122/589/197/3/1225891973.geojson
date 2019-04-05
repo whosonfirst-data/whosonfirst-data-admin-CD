@@ -1,0 +1,72 @@
+{
+  "id": 1225891973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.98333,-3.28333,22.98333,-3.28333",
+    "geom:latitude":-3.28333,
+    "geom:longitude":22.98333,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Banda Kombe",
+    "gn:country_code":"CD",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219628,
+    "gn:latitude":-3.28333,
+    "gn:longitude":22.98333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Banda Kombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banda-Kola",
+        "Banda",
+        "Banda Kombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219628
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bd75b3ee442c1824a6ff48c71b928f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1225891973,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1225891973,
+    "wof:lastmodified":1537590470,
+    "wof:name":"Banda Kombe",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.98333,
+    -3.28333,
+    22.98333,
+    -3.28333
+],
+  "geometry": {"coordinates":[22.98333,-3.28333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209170393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15551,-5.0053,22.15551,-5.0053",
+    "geom:latitude":-5.0053,
+    "geom:longitude":22.15551,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kafunda",
+    "gn:country_code":"CD",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328373,
+    "gn:latitude":-5.0053,
+    "gn:longitude":22.15551,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kafunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328373
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"67fef668e8e33b7dd506604aff6e1deb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209170393
+        }
+    ],
+    "wof:id":1209170393,
+    "wof:lastmodified":1536295600,
+    "wof:name":"Kafunda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15551,
+    -5.0053,
+    22.15551,
+    -5.0053
+],
+  "geometry": {"coordinates":[22.15551,-5.0053],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209270917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36685,-8.51398,22.36685,-8.51398",
+    "geom:latitude":-8.51398,
+    "geom:longitude":22.36685,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kabuku",
+    "gn:country_code":"CD",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10013986,
+    "gn:latitude":-8.51398,
+    "gn:longitude":22.36685,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10013986
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"af75694e2f18464c784b5c3f548361d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209270917
+        }
+    ],
+    "wof:id":1209270917,
+    "wof:lastmodified":1536292362,
+    "wof:name":"Kabuku",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36685,
+    -8.51398,
+    22.36685,
+    -8.51398
+],
+  "geometry": {"coordinates":[22.36685,-8.51398],"type":"Point"}
+}

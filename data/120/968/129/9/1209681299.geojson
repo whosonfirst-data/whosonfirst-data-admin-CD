@@ -1,0 +1,61 @@
+{
+  "id": 1209681299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.48959,-6.77933,17.48959,-6.77933",
+    "geom:latitude":-6.77933,
+    "geom:longitude":17.48959,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Pungu",
+    "gn:country_code":"CD",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434732,
+    "gn:latitude":-6.77933,
+    "gn:longitude":17.48959,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434732
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"45f2b57a7c05962ab981a8a5c8dbcaf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209681299
+        }
+    ],
+    "wof:id":1209681299,
+    "wof:lastmodified":1536279565,
+    "wof:name":"Pungu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.48959,
+    -6.77933,
+    17.48959,
+    -6.77933
+],
+  "geometry": {"coordinates":[17.48959,-6.77933],"type":"Point"}
+}

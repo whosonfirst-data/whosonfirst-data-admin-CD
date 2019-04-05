@@ -1,0 +1,70 @@
+{
+  "id": 1343522643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.71577,-7.88506,28.71577,-7.88506",
+    "geom:latitude":-7.88506,
+    "geom:longitude":28.71577,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mopanga",
+    "gn:country_code":"CD",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208052,
+    "gn:latitude":-7.88506,
+    "gn:longitude":28.71577,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mopanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mupanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208052
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c28c014376561c403658558dd822c891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1343522643,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343522643,
+    "wof:lastmodified":1537590355,
+    "wof:name":"Mopanga",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.71577000000001,
+    -7.88506,
+    28.71577000000001,
+    -7.88506
+],
+  "geometry": {"coordinates":[28.71577000000001,-7.88506],"type":"Point"}
+}

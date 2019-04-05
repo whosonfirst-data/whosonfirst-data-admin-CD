@@ -1,0 +1,67 @@
+{
+  "id": 1260247497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.5868,-6.01722,17.5868,-6.01722",
+    "geom:latitude":-6.01722,
+    "geom:longitude":17.5868,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bunda-Kifilu",
+    "gn:country_code":"CD",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316234,
+    "gn:latitude":-6.01722,
+    "gn:longitude":17.5868,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bunda-Kifilu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316234
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c0d3b697804e329c07d577361210d2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1260247497,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260247497,
+    "wof:lastmodified":1536760939,
+    "wof:name":"Bunda-Kifilu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.5868,
+    -6.01722,
+    17.5868,
+    -6.01722
+],
+  "geometry": {"coordinates":[17.5868,-6.01722],"type":"Point"}
+}

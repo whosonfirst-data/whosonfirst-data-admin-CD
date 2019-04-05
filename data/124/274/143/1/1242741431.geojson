@@ -1,0 +1,77 @@
+{
+  "id": 1242741431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.07665,1.60103,29.07665,1.60103",
+    "geom:latitude":1.60103,
+    "geom:longitude":29.07665,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dani Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217447,
+    "gn:latitude":1.60103,
+    "gn:longitude":29.07665,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dani Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dani Premi\u00e8re"
+    ],
+    "name:fra_x_variant":[
+        "Daini I",
+        "Dain"
+    ],
+    "name:und_x_variant":[
+        "Dain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217447
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ff8e9b669a897e609487860516d11f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1242741431,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1242741431,
+    "wof:lastmodified":1537590446,
+    "wof:name":"Dani Premiere",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.07665,
+    1.60103,
+    29.07665,
+    1.60103
+],
+  "geometry": {"coordinates":[29.07665,1.60103],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225957297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.3,-0.1,18.3,-0.1",
+    "geom:latitude":-0.1,
+    "geom:longitude":18.3,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Engundu",
+    "gn:country_code":"CD",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315870,
+    "gn:latitude":-0.1,
+    "gn:longitude":18.3,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Engundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315870
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"40f5cf4c4bbb6540533a01b003745205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679473,
+            "locality_id":1225957297,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1225957297,
+    "wof:lastmodified":1536851477,
+    "wof:name":"Engundu",
+    "wof:parent_id":1091679473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.3,
+    -0.1,
+    18.3,
+    -0.1
+],
+  "geometry": {"coordinates":[18.3,-0.1],"type":"Point"}
+}

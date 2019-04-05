@@ -1,0 +1,61 @@
+{
+  "id": 1209277417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53482,-5.6723,20.53482,-5.6723",
+    "geom:latitude":-5.6723,
+    "geom:longitude":20.53482,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shalengele-Katuama",
+    "gn:country_code":"CD",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277013,
+    "gn:latitude":-5.6723,
+    "gn:longitude":20.53482,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shalengele-Katuama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277013
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bfb3cbef8423b36cb2195c53eb6c1bef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209277417
+        }
+    ],
+    "wof:id":1209277417,
+    "wof:lastmodified":1536292143,
+    "wof:name":"Shalengele-Katuama",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53482,
+    -5.6723,
+    20.53482,
+    -5.6723
+],
+  "geometry": {"coordinates":[20.53482,-5.6723],"type":"Point"}
+}

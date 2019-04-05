@@ -1,0 +1,61 @@
+{
+  "id": 1209371199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.46036,-10.70302,23.46036,-10.70302",
+    "geom:latitude":-10.70302,
+    "geom:longitude":23.46036,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Nakamena",
+    "gn:country_code":"CD",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466446,
+    "gn:latitude":-10.70302,
+    "gn:longitude":23.46036,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nakamena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466446
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"91681e9217602fee00ecf8c3e1cd6027",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209371199
+        }
+    ],
+    "wof:id":1209371199,
+    "wof:lastmodified":1536289101,
+    "wof:name":"Nakamena",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.46036,
+    -10.70302,
+    23.46036,
+    -10.70302
+],
+  "geometry": {"coordinates":[23.46036,-10.70302],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209197275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.18333,-8.83333,24.18333,-8.83333",
+    "geom:latitude":-8.83333,
+    "geom:longitude":24.18333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Katwa-Bilonda",
+    "gn:country_code":"CD",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213664,
+    "gn:latitude":-8.83333,
+    "gn:longitude":24.18333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Katwa-Bilonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213664
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ce42a2d21cd3640bc6f3a2d4faba5b6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209197275
+        }
+    ],
+    "wof:id":1209197275,
+    "wof:lastmodified":1536294728,
+    "wof:name":"Katwa-Bilonda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.18333,
+    -8.83333,
+    24.18333,
+    -8.83333
+],
+  "geometry": {"coordinates":[24.18333,-8.83333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277145547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.54117,-6.88874,22.54117,-6.88874",
+    "geom:latitude":-6.88874,
+    "geom:longitude":22.54117,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Buye-Maiku",
+    "gn:country_code":"CD",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8285228,
+    "gn:latitude":-6.88874,
+    "gn:longitude":22.54117,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Buye-Maiku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8285228
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cd40e4ebf3a0dd77f6f00f99031b9df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1277145547,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1277145547,
+    "wof:lastmodified":1536677199,
+    "wof:name":"Buye-Maiku",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.54117,
+    -6.88874,
+    22.54117,
+    -6.88874
+],
+  "geometry": {"coordinates":[22.54117,-6.88874],"type":"Point"}
+}

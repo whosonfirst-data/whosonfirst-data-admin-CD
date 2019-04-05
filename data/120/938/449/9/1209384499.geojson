@@ -1,0 +1,61 @@
+{
+  "id": 1209384499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.40685,3.28503,29.40685,3.28503",
+    "geom:latitude":3.28503,
+    "geom:longitude":29.40685,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Magobo",
+    "gn:country_code":"CD",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028509,
+    "gn:latitude":3.28503,
+    "gn:longitude":29.40685,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Magobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028509
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bc88beb34e09703d3635e696b819c05c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209384499
+        }
+    ],
+    "wof:id":1209384499,
+    "wof:lastmodified":1536288670,
+    "wof:name":"Magobo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.40685,
+    3.2850300000000003,
+    29.40685,
+    3.2850300000000003
+],
+  "geometry": {"coordinates":[29.40685,3.28503],"type":"Point"}
+}

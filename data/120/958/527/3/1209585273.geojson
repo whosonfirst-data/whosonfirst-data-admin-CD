@@ -1,0 +1,61 @@
+{
+  "id": 1209585273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.66048,3.32462,28.66048,3.32462",
+    "geom:latitude":3.32462,
+    "geom:longitude":28.66048,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Molangi",
+    "gn:country_code":"CD",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537742,
+    "gn:latitude":3.32462,
+    "gn:longitude":28.66048,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Molangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537742
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"effc48b64f7e11fe0082bf46fffc97c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209585273
+        }
+    ],
+    "wof:id":1209585273,
+    "wof:lastmodified":1536282657,
+    "wof:name":"Molangi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.66048,
+    3.32462,
+    28.66048,
+    3.32462
+],
+  "geometry": {"coordinates":[28.66048,3.32462],"type":"Point"}
+}

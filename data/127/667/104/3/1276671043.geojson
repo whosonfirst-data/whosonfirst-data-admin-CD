@@ -1,0 +1,71 @@
+{
+  "id": 1276671043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23542,-0.22363,18.23542,-0.22363",
+    "geom:latitude":-0.22363,
+    "geom:longitude":18.23542,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Buya-Ekole Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316167,
+    "gn:latitude":-0.22363,
+    "gn:longitude":18.23542,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Buya-Ekole Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buya-Ekole Premi\u00e8re",
+        "Buya-Ekole I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316167
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"52121ba48675173dd7f21001b4fb0ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679473,
+            "locality_id":1276671043,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276671043,
+    "wof:lastmodified":1537590548,
+    "wof:name":"Buya-Ekole Premiere",
+    "wof:parent_id":1091679473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23542,
+    -0.22363,
+    18.23542,
+    -0.22363
+],
+  "geometry": {"coordinates":[18.23542,-0.22363],"type":"Point"}
+}

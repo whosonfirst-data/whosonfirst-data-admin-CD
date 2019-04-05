@@ -1,0 +1,61 @@
+{
+  "id": 1209471063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78126,-7.16992,21.78126,-7.16992",
+    "geom:latitude":-7.16992,
+    "geom:longitude":21.78126,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Lumpungu",
+    "gn:country_code":"CD",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440532,
+    "gn:latitude":-7.16992,
+    "gn:longitude":21.78126,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lumpungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440532
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5284217c54260dfedb4ceee139c2eb93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209471063
+        }
+    ],
+    "wof:id":1209471063,
+    "wof:lastmodified":1536286079,
+    "wof:name":"Lumpungu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78126,
+    -7.1699199999999985,
+    21.78126,
+    -7.1699199999999985
+],
+  "geometry": {"coordinates":[21.78126,-7.16992],"type":"Point"}
+}

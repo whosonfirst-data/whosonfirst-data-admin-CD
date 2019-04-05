@@ -1,0 +1,71 @@
+{
+  "id": 1344014537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43303,-8.44864,22.43303,-8.44864",
+    "geom:latitude":-8.44864,
+    "geom:longitude":22.43303,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kalundu",
+    "gn:country_code":"CD",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214784,
+    "gn:latitude":-8.44864,
+    "gn:longitude":22.43303,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kalundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katundu",
+        "Kalundu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214784
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4bedae44f2e6812229e75d8746aea8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1344014537,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1344014537,
+    "wof:lastmodified":1537590419,
+    "wof:name":"Kalundu",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43303,
+    -8.44864,
+    22.43303,
+    -8.44864
+],
+  "geometry": {"coordinates":[22.43303,-8.44864],"type":"Point"}
+}

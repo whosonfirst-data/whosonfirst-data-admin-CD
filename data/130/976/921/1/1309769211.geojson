@@ -1,0 +1,71 @@
+{
+  "id": 1309769211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70838,-6.71615,20.70838,-6.71615",
+    "geom:latitude":-6.71615,
+    "geom:longitude":20.70838,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muana-Mueyi",
+    "gn:country_code":"CD",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208569,
+    "gn:latitude":-6.71615,
+    "gn:longitude":20.70838,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Muana-Mueyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muana Mvuyi",
+        "Muana-Mueyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208569
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c26dbb03fc484ede1ed495613e2a85f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1309769211,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1309769211,
+    "wof:lastmodified":1537590361,
+    "wof:name":"Muana-Mueyi",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70838,
+    -6.71615,
+    20.70838,
+    -6.71615
+],
+  "geometry": {"coordinates":[20.70838,-6.71615],"type":"Point"}
+}

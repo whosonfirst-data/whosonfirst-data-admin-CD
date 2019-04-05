@@ -1,0 +1,68 @@
+{
+  "id": 1326591679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17769,-4.04187,19.17769,-4.04187",
+    "geom:latitude":-4.04187,
+    "geom:longitude":19.17769,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sedzo",
+    "gn:country_code":"CD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8444223,
+    "gn:latitude":-4.04187,
+    "gn:longitude":19.17769,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sedzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8444223,
+        "wk:page":"Sedzo"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"791f55a2340dee7e37e66207cb233299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1326591679,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1326591679,
+    "wof:lastmodified":1537489198,
+    "wof:name":"Sedzo",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17769,
+    -4.04187,
+    19.17769,
+    -4.04187
+],
+  "geometry": {"coordinates":[19.17769,-4.04187],"type":"Point"}
+}

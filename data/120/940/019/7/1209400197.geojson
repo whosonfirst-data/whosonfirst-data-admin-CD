@@ -1,0 +1,61 @@
+{
+  "id": 1209400197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10318,-5.77075,15.10318,-5.77075",
+    "geom:latitude":-5.77075,
+    "geom:longitude":15.10318,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kinkeke",
+    "gn:country_code":"CD",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8254618,
+    "gn:latitude":-5.77075,
+    "gn:longitude":15.10318,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Kinkeke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8254618
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5c6d4432b21bfb9f78045ec4a574a861",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209400197
+        }
+    ],
+    "wof:id":1209400197,
+    "wof:lastmodified":1536288172,
+    "wof:name":"Kinkeke",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.103179999999998,
+    -5.77075,
+    15.103179999999998,
+    -5.77075
+],
+  "geometry": {"coordinates":[15.10318,-5.77075],"type":"Point"}
+}

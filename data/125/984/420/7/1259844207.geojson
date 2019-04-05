@@ -1,0 +1,67 @@
+{
+  "id": 1259844207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.70044,-5.41567,17.70044,-5.41567",
+    "geom:latitude":-5.41567,
+    "geom:longitude":17.70044,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Makasa",
+    "gn:country_code":"CD",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274590,
+    "gn:latitude":-5.41567,
+    "gn:longitude":17.70044,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Makasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274590
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d7a75065722c7b0d092f7a436ebb6705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1259844207,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259844207,
+    "wof:lastmodified":1536834816,
+    "wof:name":"Makasa",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.70044,
+    -5.41567,
+    17.70044,
+    -5.41567
+],
+  "geometry": {"coordinates":[17.70044,-5.41567],"type":"Point"}
+}

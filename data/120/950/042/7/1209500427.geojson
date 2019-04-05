@@ -1,0 +1,61 @@
+{
+  "id": 1209500427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13854,-5.60233,14.13854,-5.60233",
+    "geom:latitude":-5.60233,
+    "geom:longitude":14.13854,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kiombia",
+    "gn:country_code":"CD",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325300,
+    "gn:latitude":-5.60233,
+    "gn:longitude":14.13854,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kiombia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325300
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4f8da691266a7b5c78713e8b3ca0c885",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209500427
+        }
+    ],
+    "wof:id":1209500427,
+    "wof:lastmodified":1536285201,
+    "wof:name":"Kiombia",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13854,
+    -5.60233,
+    14.13854,
+    -5.60233
+],
+  "geometry": {"coordinates":[14.13854,-5.60233],"type":"Point"}
+}

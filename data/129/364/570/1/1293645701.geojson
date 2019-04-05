@@ -1,0 +1,67 @@
+{
+  "id": 1293645701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.04625,-10.06579,24.04625,-10.06579",
+    "geom:latitude":-10.06579,
+    "geom:longitude":24.04625,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kamusake",
+    "gn:country_code":"CD",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10206799,
+    "gn:latitude":-10.06579,
+    "gn:longitude":24.04625,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kamusake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206799
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6d930c49c777798df72f4e9fe78cddc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1293645701,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293645701,
+    "wof:lastmodified":1537054006,
+    "wof:name":"Kamusake",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.04625,
+    -10.06579,
+    24.04625,
+    -10.06579
+],
+  "geometry": {"coordinates":[24.04625,-10.06579],"type":"Point"}
+}

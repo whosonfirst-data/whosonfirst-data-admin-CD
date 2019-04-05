@@ -1,0 +1,67 @@
+{
+  "id": 1327317251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.90165,-11.78273,27.90165,-11.78273",
+    "geom:latitude":-11.78273,
+    "geom:longitude":27.90165,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kambove",
+    "gn:country_code":"CD",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10226285,
+    "gn:latitude":-11.78273,
+    "gn:longitude":27.90165,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kambove",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10226285
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3d841c3203a00b45d1420515551d108d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1327317251,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327317251,
+    "wof:lastmodified":1536846052,
+    "wof:name":"Kambove",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.90165,
+    -11.78273,
+    27.90165,
+    -11.78273
+],
+  "geometry": {"coordinates":[27.90165,-11.78273],"type":"Point"}
+}

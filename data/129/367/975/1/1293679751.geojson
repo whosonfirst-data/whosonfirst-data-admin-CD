@@ -1,0 +1,67 @@
+{
+  "id": 1293679751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.07633,-5.46815,16.07633,-5.46815",
+    "geom:latitude":-5.46815,
+    "geom:longitude":16.07633,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kindolao",
+    "gn:country_code":"CD",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314454,
+    "gn:latitude":-5.46815,
+    "gn:longitude":16.07633,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kindolao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314454
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0d2e1a640593dfdd2111b5a76acc8ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1293679751,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1293679751,
+    "wof:lastmodified":1537006462,
+    "wof:name":"Kindolao",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.07633,
+    -5.46815,
+    16.07633,
+    -5.46815
+],
+  "geometry": {"coordinates":[16.07633,-5.46815],"type":"Point"}
+}

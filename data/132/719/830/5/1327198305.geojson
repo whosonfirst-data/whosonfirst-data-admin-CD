@@ -1,0 +1,70 @@
+{
+  "id": 1327198305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63659,-7.12169,23.63659,-7.12169",
+    "geom:latitude":-7.12169,
+    "geom:longitude":23.63659,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Piania-Mukela",
+    "gn:country_code":"CD",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8520371,
+    "gn:latitude":-7.12169,
+    "gn:longitude":23.63659,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Piania-Mukela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pianakalola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8520371
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"05de295069a37c2eb4d28b908111fc78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1327198305,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1327198305,
+    "wof:lastmodified":1537590576,
+    "wof:name":"Piania-Mukela",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63659,
+    -7.12169,
+    23.63659,
+    -7.12169
+],
+  "geometry": {"coordinates":[23.63659,-7.12169],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209881623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.20495,-5.75707,17.20495,-5.75707",
+    "geom:latitude":-5.75707,
+    "geom:longitude":17.20495,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ludika Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274755,
+    "gn:latitude":-5.75707,
+    "gn:longitude":17.20495,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ludika Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274755
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e6f9ae10910d2c3bd6d7e549f36cf26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1209881623,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1209881623,
+    "wof:lastmodified":1536394781,
+    "wof:name":"Ludika Deuxieme",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.20495,
+    -5.75707,
+    17.20495,
+    -5.75707
+],
+  "geometry": {"coordinates":[17.20495,-5.75707],"type":"Point"}
+}

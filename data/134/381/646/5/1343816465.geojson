@@ -1,0 +1,67 @@
+{
+  "id": 1343816465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.29139,-10.86389,25.29139,-10.86389",
+    "geom:latitude":-10.86389,
+    "geom:longitude":25.29139,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mangi",
+    "gn:country_code":"CD",
+    "gn:dem":1473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105476,
+    "gn:latitude":-10.86389,
+    "gn:longitude":25.29139,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105476
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b03f80b64592765d5bece2bd96169cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1343816465,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343816465,
+    "wof:lastmodified":1536730599,
+    "wof:name":"Mangi",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.29139,
+    -10.86389,
+    25.29139,
+    -10.86389
+],
+  "geometry": {"coordinates":[25.29139,-10.86389],"type":"Point"}
+}

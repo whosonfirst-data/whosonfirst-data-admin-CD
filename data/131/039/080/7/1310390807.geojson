@@ -1,0 +1,67 @@
+{
+  "id": 1310390807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.04128,-5.5084,14.04128,-5.5084",
+    "geom:latitude":-5.5084,
+    "geom:longitude":14.04128,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tombo-Yela",
+    "gn:country_code":"CD",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325317,
+    "gn:latitude":-5.5084,
+    "gn:longitude":14.04128,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Tombo-Yela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325317
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f500cf937104fc0a22da12b6c6d2a39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1310390807,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1310390807,
+    "wof:lastmodified":1537079306,
+    "wof:name":"Tombo-Yela",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.04128,
+    -5.5084,
+    14.04128,
+    -5.5084
+],
+  "geometry": {"coordinates":[14.04128,-5.5084],"type":"Point"}
+}

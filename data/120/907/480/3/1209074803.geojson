@@ -1,0 +1,61 @@
+{
+  "id": 1209074803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.86955,-5.18961,21.86955,-5.18961",
+    "geom:latitude":-5.18961,
+    "geom:longitude":21.86955,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kamanda",
+    "gn:country_code":"CD",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277557,
+    "gn:latitude":-5.18961,
+    "gn:longitude":21.86955,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kamanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277557
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3910e7d740b39a2ce2d1429c64f0bb2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209074803
+        }
+    ],
+    "wof:id":1209074803,
+    "wof:lastmodified":1536298529,
+    "wof:name":"Kamanda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.86955,
+    -5.18961,
+    21.86955,
+    -5.18961
+],
+  "geometry": {"coordinates":[21.86955,-5.18961],"type":"Point"}
+}

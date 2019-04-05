@@ -1,0 +1,67 @@
+{
+  "id": 1310070273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7652,-4.96112,17.7652,-4.96112",
+    "geom:latitude":-4.96112,
+    "geom:longitude":17.7652,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bangombe",
+    "gn:country_code":"CD",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445701,
+    "gn:latitude":-4.96112,
+    "gn:longitude":17.7652,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bangombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445701
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"508c006fb6b8b65071c1347224246b27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1310070273,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310070273,
+    "wof:lastmodified":1537045569,
+    "wof:name":"Bangombe",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7652,
+    -4.96112,
+    17.7652,
+    -4.96112
+],
+  "geometry": {"coordinates":[17.7652,-4.96112],"type":"Point"}
+}

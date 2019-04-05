@@ -1,0 +1,71 @@
+{
+  "id": 1310270957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.16717,-6.62776,20.16717,-6.62776",
+    "geom:latitude":-6.62776,
+    "geom:longitude":20.16717,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ngandu",
+    "gn:country_code":"CD",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207249,
+    "gn:latitude":-6.62776,
+    "gn:longitude":20.16717,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gandu",
+        "Ngandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207249
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c4c99b749d5974e610435c1dcfacfd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1310270957,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310270957,
+    "wof:lastmodified":1537590345,
+    "wof:name":"Ngandu",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.16717,
+    -6.62776,
+    20.16717,
+    -6.62776
+],
+  "geometry": {"coordinates":[20.16717,-6.62776],"type":"Point"}
+}

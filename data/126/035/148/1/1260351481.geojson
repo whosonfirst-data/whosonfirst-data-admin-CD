@@ -1,0 +1,67 @@
+{
+  "id": 1260351481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58285,-6.67905,18.58285,-6.67905",
+    "geom:latitude":-6.67905,
+    "geom:longitude":18.58285,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Utadi",
+    "gn:country_code":"CD",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311037,
+    "gn:latitude":-6.67905,
+    "gn:longitude":18.58285,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Utadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311037
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0f79e21afcdfa6c56292c07bfb7e2180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1260351481,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260351481,
+    "wof:lastmodified":1536618878,
+    "wof:name":"Utadi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58285,
+    -6.67905,
+    18.58285,
+    -6.67905
+],
+  "geometry": {"coordinates":[18.58285,-6.67905],"type":"Point"}
+}

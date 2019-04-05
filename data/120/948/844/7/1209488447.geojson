@@ -1,0 +1,65 @@
+{
+  "id": 1209488447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.17915,-7.71545,26.17915,-7.71545",
+    "geom:latitude":-7.71545,
+    "geom:longitude":26.17915,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dalamba Goi",
+    "gn:country_code":"CD",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217433,
+    "gn:latitude":-7.71545,
+    "gn:longitude":26.17915,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dalamba Goi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalamba Goy",
+        "Dalamba Goi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217433
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"05e2327d1bf027ffdd8b1670f694c435",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209488447
+        }
+    ],
+    "wof:id":1209488447,
+    "wof:lastmodified":1537590446,
+    "wof:name":"Dalamba Goi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.17915,
+    -7.71545,
+    26.17915,
+    -7.71545
+],
+  "geometry": {"coordinates":[26.17915,-7.71545],"type":"Point"}
+}

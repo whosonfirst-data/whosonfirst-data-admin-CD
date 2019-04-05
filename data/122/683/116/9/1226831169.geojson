@@ -1,0 +1,67 @@
+{
+  "id": 1226831169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3679,3.81555,30.3679,3.81555",
+    "geom:latitude":3.81555,
+    "geom:longitude":30.3679,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Abogo-Dodu",
+    "gn:country_code":"CD",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220518,
+    "gn:latitude":3.81555,
+    "gn:longitude":30.3679,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Abogo-Dodu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220518
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6995f937058a4c297c73dff923a1f711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1226831169,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1226831169,
+    "wof:lastmodified":1537086147,
+    "wof:name":"Abogo-Dodu",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3679,
+    3.81555,
+    30.3679,
+    3.81555
+],
+  "geometry": {"coordinates":[30.3679,3.81555],"type":"Point"}
+}

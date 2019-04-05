@@ -1,0 +1,61 @@
+{
+  "id": 1209091735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10855,-4.87512,15.10855,-4.87512",
+    "geom:latitude":-4.87512,
+    "geom:longitude":15.10855,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kinsala",
+    "gn:country_code":"CD",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314314,
+    "gn:latitude":-4.87512,
+    "gn:longitude":15.10855,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kinsala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314314
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3c2e0bc034dc38a7469b76dfc56061f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209091735
+        }
+    ],
+    "wof:id":1209091735,
+    "wof:lastmodified":1536298016,
+    "wof:name":"Kinsala",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10855,
+    -4.87512,
+    15.10855,
+    -4.87512
+],
+  "geometry": {"coordinates":[15.10855,-4.87512],"type":"Point"}
+}

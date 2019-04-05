@@ -1,0 +1,67 @@
+{
+  "id": 1293674479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.45873,-4.77775,15.45873,-4.77775",
+    "geom:latitude":-4.77775,
+    "geom:longitude":15.45873,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kitempa",
+    "gn:country_code":"CD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593425,
+    "gn:latitude":-4.77775,
+    "gn:longitude":15.45873,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kitempa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593425
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"41a9cb11e901994180e5a11f7f0f8952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1293674479,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1293674479,
+    "wof:lastmodified":1537014056,
+    "wof:name":"Kitempa",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.45873,
+    -4.77775,
+    15.45873,
+    -4.77775
+],
+  "geometry": {"coordinates":[15.45873,-4.77775],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209581141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.00143,-6.16983,18.00143,-6.16983",
+    "geom:latitude":-6.16983,
+    "geom:longitude":18.00143,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mulitondi",
+    "gn:country_code":"CD",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312318,
+    "gn:latitude":-6.16983,
+    "gn:longitude":18.00143,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mulitondi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312318
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9e3819bb8dd42278a2f68406b5a12ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209581141
+        }
+    ],
+    "wof:id":1209581141,
+    "wof:lastmodified":1536282784,
+    "wof:name":"Mulitondi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.00143,
+    -6.16983,
+    18.00143,
+    -6.16983
+],
+  "geometry": {"coordinates":[18.00143,-6.16983],"type":"Point"}
+}

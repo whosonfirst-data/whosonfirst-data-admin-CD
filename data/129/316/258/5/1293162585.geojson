@@ -1,0 +1,67 @@
+{
+  "id": 1293162585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.94112,-5.69283,19.94112,-5.69283",
+    "geom:latitude":-5.69283,
+    "geom:longitude":19.94112,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mabimbi",
+    "gn:country_code":"CD",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276745,
+    "gn:latitude":-5.69283,
+    "gn:longitude":19.94112,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mabimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276745
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cd83cdb82bb89e1edb7344313d9b3e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293162585,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293162585,
+    "wof:lastmodified":1536758807,
+    "wof:name":"Mabimbi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.94112,
+    -5.69283,
+    19.94112,
+    -5.69283
+],
+  "geometry": {"coordinates":[19.94112,-5.69283],"type":"Point"}
+}

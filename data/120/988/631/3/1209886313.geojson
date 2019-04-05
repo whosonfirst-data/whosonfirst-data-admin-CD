@@ -1,0 +1,67 @@
+{
+  "id": 1209886313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56136,-8.91496,25.56136,-8.91496",
+    "geom:latitude":-8.91496,
+    "geom:longitude":25.56136,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kasonge",
+    "gn:country_code":"CD",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10026343,
+    "gn:latitude":-8.91496,
+    "gn:longitude":25.56136,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kasonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10026343
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"649d79332e4ef24bc701ed748d2090ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1209886313,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1209886313,
+    "wof:lastmodified":1536392772,
+    "wof:name":"Kasonge",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56136,
+    -8.91496,
+    25.56136,
+    -8.91496
+],
+  "geometry": {"coordinates":[25.56136,-8.91496],"type":"Point"}
+}

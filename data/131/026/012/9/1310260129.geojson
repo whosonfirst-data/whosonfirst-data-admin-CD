@@ -1,0 +1,67 @@
+{
+  "id": 1310260129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51388,2.59626,22.51388,2.59626",
+    "geom:latitude":2.59626,
+    "geom:longitude":22.51388,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yabonge",
+    "gn:country_code":"CD",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204158,
+    "gn:latitude":2.59626,
+    "gn:longitude":22.51388,
+    "gn:modification_date":"2018-07-16",
+    "gn:name":"Yabonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204158
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"eb7aac586391f5a27a94e127df8d11a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1310260129,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310260129,
+    "wof:lastmodified":1536774110,
+    "wof:name":"Yabonge",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51388,
+    2.59626,
+    22.51388,
+    2.59626
+],
+  "geometry": {"coordinates":[22.51388,2.59626],"type":"Point"}
+}

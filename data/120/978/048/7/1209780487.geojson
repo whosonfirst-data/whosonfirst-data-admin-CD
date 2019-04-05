@@ -1,0 +1,67 @@
+{
+  "id": 1209780487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.05312,-4.49977,20.05312,-4.49977",
+    "geom:latitude":-4.49977,
+    "geom:longitude":20.05312,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kangutu",
+    "gn:country_code":"CD",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214393,
+    "gn:latitude":-4.49977,
+    "gn:longitude":20.05312,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kangutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214393
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"afca33056426765b3ff5b04362175578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1209780487,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1209780487,
+    "wof:lastmodified":1536374216,
+    "wof:name":"Kangutu",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.05312,
+    -4.49977,
+    20.05312,
+    -4.49977
+],
+  "geometry": {"coordinates":[20.05312,-4.49977],"type":"Point"}
+}

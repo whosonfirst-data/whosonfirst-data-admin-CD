@@ -1,0 +1,67 @@
+{
+  "id": 1260055843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71298,-6.4297,20.71298,-6.4297",
+    "geom:latitude":-6.4297,
+    "geom:longitude":20.71298,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tangadiatshia",
+    "gn:country_code":"CD",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283183,
+    "gn:latitude":-6.4297,
+    "gn:longitude":20.71298,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tangadiatshia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283183
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2cd77c6f9606e85903bcbe504c476017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1260055843,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1260055843,
+    "wof:lastmodified":1537026723,
+    "wof:name":"Tangadiatshia",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71298,
+    -6.4297,
+    20.71298,
+    -6.4297
+],
+  "geometry": {"coordinates":[20.71298,-6.4297],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276496979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.34558,2.95412,19.34558,2.95412",
+    "geom:latitude":2.95412,
+    "geom:longitude":19.34558,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bombia",
+    "gn:country_code":"CD",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504823,
+    "gn:latitude":2.95412,
+    "gn:longitude":19.34558,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bombia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bombia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504823
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"eb5d836201df737dad282205d450d9de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1276496979,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276496979,
+    "wof:lastmodified":1537590567,
+    "wof:name":"Bombia",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.34558,
+    2.95412,
+    19.34558,
+    2.95412
+],
+  "geometry": {"coordinates":[19.34558,2.95412],"type":"Point"}
+}

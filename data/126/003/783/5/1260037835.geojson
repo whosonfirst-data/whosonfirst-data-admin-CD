@@ -1,0 +1,67 @@
+{
+  "id": 1260037835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.65537,-3.13674,17.65537,-3.13674",
+    "geom:latitude":-3.13674,
+    "geom:longitude":17.65537,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Lekei",
+    "gn:country_code":"CD",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313795,
+    "gn:latitude":-3.13674,
+    "gn:longitude":17.65537,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lekei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313795
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2f41d4873431d2a919133691c40a360a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1260037835,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260037835,
+    "wof:lastmodified":1537051730,
+    "wof:name":"Lekei",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.65537,
+    -3.13674,
+    17.65537,
+    -3.13674
+],
+  "geometry": {"coordinates":[17.65537,-3.13674],"type":"Point"}
+}

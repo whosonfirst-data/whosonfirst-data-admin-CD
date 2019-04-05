@@ -1,0 +1,71 @@
+{
+  "id": 1260324239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91667,0.01667,21.91667,0.01667",
+    "geom:latitude":0.01667,
+    "geom:longitude":21.91667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Lokonge",
+    "gn:country_code":"CD",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211515,
+    "gn:latitude":0.01667,
+    "gn:longitude":21.91667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lokonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lokonge-Ekombo",
+        "Lokonge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211515
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7d5d2e96aa49d62e8e65584144957f19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1260324239,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1260324239,
+    "wof:lastmodified":1537590387,
+    "wof:name":"Lokonge",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91667,
+    0.01667,
+    21.91667,
+    0.01667
+],
+  "geometry": {"coordinates":[21.91667,0.01667],"type":"Point"}
+}

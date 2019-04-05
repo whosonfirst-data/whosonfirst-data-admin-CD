@@ -1,0 +1,71 @@
+{
+  "id": 1243232319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03518,-6.41671,22.03518,-6.41671",
+    "geom:latitude":-6.41671,
+    "geom:longitude":22.03518,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kazumba",
+    "gn:country_code":"CD",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213532,
+    "gn:latitude":-6.41671,
+    "gn:longitude":22.03518,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kazumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasumba",
+        "Kazumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213532
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"641562ed78e937977ecec58c1133c70b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1243232319,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243232319,
+    "wof:lastmodified":1537590406,
+    "wof:name":"Kazumba",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03518,
+    -6.41671,
+    22.03518,
+    -6.41671
+],
+  "geometry": {"coordinates":[22.03518,-6.41671],"type":"Point"}
+}

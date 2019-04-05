@@ -1,0 +1,67 @@
+{
+  "id": 1326891595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.91667,-5.18333,27.91667,-5.18333",
+    "geom:latitude":-5.18333,
+    "geom:longitude":27.91667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Musebe",
+    "gn:country_code":"CD",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207988,
+    "gn:latitude":-5.18333,
+    "gn:longitude":27.91667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Musebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207988
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"46d9a4c9d98562873ddb4eb403e36b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1326891595,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1326891595,
+    "wof:lastmodified":1536963278,
+    "wof:name":"Musebe",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.91667,
+    -5.18333,
+    27.91667,
+    -5.18333
+],
+  "geometry": {"coordinates":[27.91667,-5.18333],"type":"Point"}
+}

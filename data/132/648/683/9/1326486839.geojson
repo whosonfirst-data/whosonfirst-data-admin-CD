@@ -1,0 +1,71 @@
+{
+  "id": 1326486839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.08333,-10.91667,25.08333,-10.91667",
+    "geom:latitude":-10.91667,
+    "geom:longitude":25.08333,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Musokatanda",
+    "gn:country_code":"CD",
+    "gn:dem":1338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922421,
+    "gn:latitude":-10.91667,
+    "gn:longitude":25.08333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Musokatanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waseka",
+        "Musokatanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922421
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"112ca60d678220034170eab220cc22c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1326486839,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1326486839,
+    "wof:lastmodified":1537590485,
+    "wof:name":"Musokatanda",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.08333,
+    -10.91667,
+    25.08333,
+    -10.91667
+],
+  "geometry": {"coordinates":[25.08333,-10.91667],"type":"Point"}
+}

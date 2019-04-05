@@ -1,0 +1,67 @@
+{
+  "id": 1310673873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.22604,-7.64273,24.22604,-7.64273",
+    "geom:latitude":-7.64273,
+    "geom:longitude":24.22604,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Colotabac",
+    "gn:country_code":"CD",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9010427,
+    "gn:latitude":-7.64273,
+    "gn:longitude":24.22604,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Colotabac",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9010427
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9a299f6ef64363c4542b5b087ecc49c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1310673873,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310673873,
+    "wof:lastmodified":1536674032,
+    "wof:name":"Colotabac",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22604,
+    -7.64273,
+    24.22604,
+    -7.64273
+],
+  "geometry": {"coordinates":[24.22604,-7.64273],"type":"Point"}
+}

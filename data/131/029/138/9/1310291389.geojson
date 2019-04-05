@@ -1,0 +1,67 @@
+{
+  "id": 1310291389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72809,3.49119,23.72809,3.49119",
+    "geom:latitude":3.49119,
+    "geom:longitude":23.72809,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yalanga",
+    "gn:country_code":"CD",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204023,
+    "gn:latitude":3.49119,
+    "gn:longitude":23.72809,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yalanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204023
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1d2495cafdb1ecf3f789352b0552c2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1310291389,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1310291389,
+    "wof:lastmodified":1536728691,
+    "wof:name":"Yalanga",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72809,
+    3.49119,
+    23.72809,
+    3.49119
+],
+  "geometry": {"coordinates":[23.72809,3.49119],"type":"Point"}
+}

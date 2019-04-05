@@ -1,0 +1,67 @@
+{
+  "id": 1344117377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.05617,-0.61657,24.05617,-0.61657",
+    "geom:latitude":-0.61657,
+    "geom:longitude":24.05617,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yemaka",
+    "gn:country_code":"CD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203483,
+    "gn:latitude":-0.61657,
+    "gn:longitude":24.05617,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yemaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203483
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d7679a987ff1fc37269183aacdbf7463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1344117377,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1344117377,
+    "wof:lastmodified":1536793915,
+    "wof:name":"Yemaka",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.05617,
+    -0.61657,
+    24.05617,
+    -0.61657
+],
+  "geometry": {"coordinates":[24.05617,-0.61657],"type":"Point"}
+}

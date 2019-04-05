@@ -1,0 +1,61 @@
+{
+  "id": 1209063155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3434,3.03927,22.3434,3.03927",
+    "geom:latitude":3.03927,
+    "geom:longitude":22.3434,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Kande",
+    "gn:country_code":"CD",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214465,
+    "gn:latitude":3.03927,
+    "gn:longitude":22.3434,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214465
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"01125dc61327bbc277238a1a1a981b55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209063155
+        }
+    ],
+    "wof:id":1209063155,
+    "wof:lastmodified":1536298888,
+    "wof:name":"Kande",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3434,
+    3.03927,
+    22.3434,
+    3.03927
+],
+  "geometry": {"coordinates":[22.3434,3.03927],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209365767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.90312,3.77794,18.90312,3.77794",
+    "geom:latitude":3.77794,
+    "geom:longitude":18.90312,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bomanga-Mafua",
+    "gn:country_code":"CD",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316693,
+    "gn:latitude":3.77794,
+    "gn:longitude":18.90312,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bomanga-Mafua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bomanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316693
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0aef97b3f276ba3dddb08aa1fed2b613",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209365767
+        }
+    ],
+    "wof:id":1209365767,
+    "wof:lastmodified":1537590556,
+    "wof:name":"Bomanga-Mafua",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.90312,
+    3.77794,
+    18.90312,
+    3.77794
+],
+  "geometry": {"coordinates":[18.90312,3.77794],"type":"Point"}
+}

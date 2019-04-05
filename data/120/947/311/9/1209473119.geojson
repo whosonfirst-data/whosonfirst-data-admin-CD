@@ -1,0 +1,61 @@
+{
+  "id": 1209473119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.90918,-6.11524,22.90918,-6.11524",
+    "geom:latitude":-6.11524,
+    "geom:longitude":22.90918,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kakenda",
+    "gn:country_code":"CD",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215168,
+    "gn:latitude":-6.11524,
+    "gn:longitude":22.90918,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kakenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215168
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7222593e94fd635fb62110ccd8234ee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209473119
+        }
+    ],
+    "wof:id":1209473119,
+    "wof:lastmodified":1536286018,
+    "wof:name":"Kakenda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.90918,
+    -6.11524,
+    22.90918,
+    -6.11524
+],
+  "geometry": {"coordinates":[22.90918,-6.11524],"type":"Point"}
+}

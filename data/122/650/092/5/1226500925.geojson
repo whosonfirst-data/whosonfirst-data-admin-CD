@@ -1,0 +1,67 @@
+{
+  "id": 1226500925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.63761,-9.45029,22.63761,-9.45029",
+    "geom:latitude":-9.45029,
+    "geom:longitude":22.63761,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sapeleade",
+    "gn:country_code":"CD",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461479,
+    "gn:latitude":-9.45029,
+    "gn:longitude":22.63761,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sapeleade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461479
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a5fea477bde57fa231f3fa45f67be97d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226500925,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226500925,
+    "wof:lastmodified":1537060134,
+    "wof:name":"Sapeleade",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.63761,
+    -9.45029,
+    22.63761,
+    -9.45029
+],
+  "geometry": {"coordinates":[22.63761,-9.45029],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209977251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96123,2.06735,22.96123,2.06735",
+    "geom:latitude":2.06735,
+    "geom:longitude":22.96123,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Wolikombo Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279646,
+    "gn:latitude":2.06735,
+    "gn:longitude":22.96123,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Wolikombo Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279646
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6f80b4b46216520671c1391ba91445eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1209977251,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1209977251,
+    "wof:lastmodified":1536392364,
+    "wof:name":"Wolikombo Deuxieme",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96123,
+    2.06735,
+    22.96123,
+    2.06735
+],
+  "geometry": {"coordinates":[22.96123,2.06735],"type":"Point"}
+}

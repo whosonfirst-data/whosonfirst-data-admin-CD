@@ -1,0 +1,70 @@
+{
+  "id": 1226409591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.86314,4.26559,20.86314,4.26559",
+    "geom:latitude":4.26559,
+    "geom:longitude":20.86314,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Mobeke",
+    "gn:country_code":"CD",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208987,
+    "gn:latitude":4.26559,
+    "gn:longitude":20.86314,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mobeke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabeke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208987
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ea7053f9cd5686641fd8776473d7525b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679653,
+            "locality_id":1226409591,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226409591,
+    "wof:lastmodified":1537590366,
+    "wof:name":"Mobeke",
+    "wof:parent_id":1091679653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.86314,
+    4.26559,
+    20.86314,
+    4.26559
+],
+  "geometry": {"coordinates":[20.86314,4.26559],"type":"Point"}
+}

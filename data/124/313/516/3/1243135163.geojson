@@ -1,0 +1,67 @@
+{
+  "id": 1243135163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85371,-7.07159,20.85371,-7.07159",
+    "geom:latitude":-7.07159,
+    "geom:longitude":20.85371,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mandumba",
+    "gn:country_code":"CD",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448367,
+    "gn:latitude":-7.07159,
+    "gn:longitude":20.85371,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mandumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448367
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1f4cfcc672e986b8eb53d21caea5e501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1243135163,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243135163,
+    "wof:lastmodified":1536757636,
+    "wof:name":"Mandumba",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85371,
+    -7.07159,
+    20.85371,
+    -7.07159
+],
+  "geometry": {"coordinates":[20.85371,-7.07159],"type":"Point"}
+}

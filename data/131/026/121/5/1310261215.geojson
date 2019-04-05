@@ -1,0 +1,67 @@
+{
+  "id": 1310261215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.29998,-9.86734,22.29998,-9.86734",
+    "geom:latitude":-9.86734,
+    "geom:longitude":22.29998,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Shitelembe",
+    "gn:country_code":"CD",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461803,
+    "gn:latitude":-9.86734,
+    "gn:longitude":22.29998,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shitelembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461803
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"703bf3eb4f97bebf24efbc503e8be344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1310261215,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310261215,
+    "wof:lastmodified":1536772518,
+    "wof:name":"Shitelembe",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.29998,
+    -9.86734,
+    22.29998,
+    -9.86734
+],
+  "geometry": {"coordinates":[22.29998,-9.86734],"type":"Point"}
+}

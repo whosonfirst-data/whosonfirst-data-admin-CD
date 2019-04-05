@@ -1,0 +1,61 @@
+{
+  "id": 1209183659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.08046,3.81153,28.08046,3.81153",
+    "geom:latitude":3.81153,
+    "geom:longitude":28.08046,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wando",
+    "gn:country_code":"CD",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204305,
+    "gn:latitude":3.81153,
+    "gn:longitude":28.08046,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Wando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204305
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4292a3cbbfdcc17433c7dc0830607066",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209183659
+        }
+    ],
+    "wof:id":1209183659,
+    "wof:lastmodified":1536295173,
+    "wof:name":"Wando",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.08046,
+    3.81153,
+    28.08046,
+    3.81153
+],
+  "geometry": {"coordinates":[28.08046,3.81153],"type":"Point"}
+}

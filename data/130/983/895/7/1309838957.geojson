@@ -1,0 +1,70 @@
+{
+  "id": 1309838957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5431,-6.66939,23.5431,-6.66939",
+    "geom:latitude":-6.66939,
+    "geom:longitude":23.5431,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bena-Kalengela",
+    "gn:country_code":"CD",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946845,
+    "gn:latitude":-6.66939,
+    "gn:longitude":23.5431,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Bena-Kalengela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bena-Kalelengela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946845
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6c220a78720331d0afa67faa0a07a7a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1309838957,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1309838957,
+    "wof:lastmodified":1537590577,
+    "wof:name":"Bena-Kalengela",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5431,
+    -6.66939,
+    23.5431,
+    -6.66939
+],
+  "geometry": {"coordinates":[23.5431,-6.66939],"type":"Point"}
+}

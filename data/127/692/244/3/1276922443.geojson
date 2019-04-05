@@ -1,0 +1,72 @@
+{
+  "id": 1276922443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.68412,0.05659,24.68412,0.05659",
+    "geom:latitude":0.05659,
+    "geom:longitude":24.68412,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ikoto Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216002,
+    "gn:latitude":0.05659,
+    "gn:longitude":24.68412,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ikoto Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikoto",
+        "Ikoto I",
+        "Ikoto Premi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216002
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1362ed81d2d4d78158600dca8c607ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1276922443,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276922443,
+    "wof:lastmodified":1537590431,
+    "wof:name":"Ikoto Premiere",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.68412,
+    0.05659,
+    24.68412,
+    0.05659
+],
+  "geometry": {"coordinates":[24.68412,0.05659],"type":"Point"}
+}

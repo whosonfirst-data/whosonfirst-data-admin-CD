@@ -1,0 +1,72 @@
+{
+  "id": 1327409859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.57722,-5.62382,21.57722,-5.62382",
+    "geom:latitude":-5.62382,
+    "geom:longitude":21.57722,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ngombe-Muana",
+    "gn:country_code":"CD",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207160,
+    "gn:latitude":-5.62382,
+    "gn:longitude":21.57722,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngombe-Muana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gombe Muana",
+        "N\u2019Gombe",
+        "Ngombe-Muana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207160
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"549038d5af445bf172d306f75d197740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1327409859,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327409859,
+    "wof:lastmodified":1537590344,
+    "wof:name":"Ngombe-Muana",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.57722,
+    -5.62382,
+    21.57722,
+    -5.62382
+],
+  "geometry": {"coordinates":[21.57722,-5.62382],"type":"Point"}
+}

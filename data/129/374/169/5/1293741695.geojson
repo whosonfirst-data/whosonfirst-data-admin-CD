@@ -1,0 +1,67 @@
+{
+  "id": 1293741695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.24571,-2.90023,16.24571,-2.90023",
+    "geom:latitude":-2.90023,
+    "geom:longitude":16.24571,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mankondo",
+    "gn:country_code":"CD",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313054,
+    "gn:latitude":-2.90023,
+    "gn:longitude":16.24571,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mankondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313054
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"34ae9f72298e9abe521501b710ee514c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1293741695,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293741695,
+    "wof:lastmodified":1536918446,
+    "wof:name":"Mankondo",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.24571,
+    -2.90023,
+    16.24571,
+    -2.90023
+],
+  "geometry": {"coordinates":[16.24571,-2.90023],"type":"Point"}
+}

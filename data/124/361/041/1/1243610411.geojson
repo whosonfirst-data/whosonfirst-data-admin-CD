@@ -1,0 +1,67 @@
+{
+  "id": 1243610411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.88475,-6.1997,22.88475,-6.1997",
+    "geom:latitude":-6.1997,
+    "geom:longitude":22.88475,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Muyaya-Kakende",
+    "gn:country_code":"CD",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8284000,
+    "gn:latitude":-6.1997,
+    "gn:longitude":22.88475,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Muyaya-Kakende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8284000
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cc28f011d0ee88a0a901fef7927764b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1243610411,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243610411,
+    "wof:lastmodified":1537063526,
+    "wof:name":"Muyaya-Kakende",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.88475,
+    -6.1997,
+    22.88475,
+    -6.1997
+],
+  "geometry": {"coordinates":[22.88475,-6.1997],"type":"Point"}
+}

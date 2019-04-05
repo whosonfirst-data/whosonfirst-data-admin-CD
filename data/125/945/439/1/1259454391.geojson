@@ -1,0 +1,67 @@
+{
+  "id": 1259454391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.39187,2.45347,26.39187,2.45347",
+    "geom:latitude":2.45347,
+    "geom:longitude":26.39187,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sasi",
+    "gn:country_code":"CD",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205794,
+    "gn:latitude":2.45347,
+    "gn:longitude":26.39187,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205794
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3560b483846f684e02b41eb7f9f3ee5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1259454391,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259454391,
+    "wof:lastmodified":1536900733,
+    "wof:name":"Sasi",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39187,
+    2.45347,
+    26.39187,
+    2.45347
+],
+  "geometry": {"coordinates":[26.39187,2.45347],"type":"Point"}
+}

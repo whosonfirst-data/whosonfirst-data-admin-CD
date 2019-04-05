@@ -1,0 +1,67 @@
+{
+  "id": 1276185271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.27329,0.05239,24.27329,0.05239",
+    "geom:latitude":0.05239,
+    "geom:longitude":24.27329,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yalifonde",
+    "gn:country_code":"CD",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203993,
+    "gn:latitude":0.05239,
+    "gn:longitude":24.27329,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yalifonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203993
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"36761cc77017024f2b2a0f1f11d116b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1276185271,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276185271,
+    "wof:lastmodified":1536976876,
+    "wof:name":"Yalifonde",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.27329,
+    0.05239,
+    24.27329,
+    0.05239
+],
+  "geometry": {"coordinates":[24.27329,0.05239],"type":"Point"}
+}

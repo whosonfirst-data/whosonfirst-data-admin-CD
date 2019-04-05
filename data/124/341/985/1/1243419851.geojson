@@ -1,0 +1,67 @@
+{
+  "id": 1243419851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.45866,-5.83788,18.45866,-5.83788",
+    "geom:latitude":-5.83788,
+    "geom:longitude":18.45866,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kilala",
+    "gn:country_code":"CD",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276242,
+    "gn:latitude":-5.83788,
+    "gn:longitude":18.45866,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kilala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276242
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0d51c08ba2371bf95cdd4ce8dad08475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1243419851,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243419851,
+    "wof:lastmodified":1536842893,
+    "wof:name":"Kilala",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.45866,
+    -5.83788,
+    18.45866,
+    -5.83788
+],
+  "geometry": {"coordinates":[18.45866,-5.83788],"type":"Point"}
+}

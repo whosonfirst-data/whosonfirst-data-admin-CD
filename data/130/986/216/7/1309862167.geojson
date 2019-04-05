@@ -1,0 +1,67 @@
+{
+  "id": 1309862167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.52712,-10.23725,23.52712,-10.23725",
+    "geom:latitude":-10.23725,
+    "geom:longitude":23.52712,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Samashita",
+    "gn:country_code":"CD",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466322,
+    "gn:latitude":-10.23725,
+    "gn:longitude":23.52712,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Samashita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466322
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b5728bdc178f6f882a219a4539636d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1309862167,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1309862167,
+    "wof:lastmodified":1536848912,
+    "wof:name":"Samashita",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.52712,
+    -10.23725,
+    23.52712,
+    -10.23725
+],
+  "geometry": {"coordinates":[23.52712,-10.23725],"type":"Point"}
+}

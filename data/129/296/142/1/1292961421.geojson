@@ -1,0 +1,72 @@
+{
+  "id": 1292961421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99497,2.07401,22.99497,2.07401",
+    "geom:latitude":2.07401,
+    "geom:longitude":22.99497,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Wolikombo Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204200,
+    "gn:latitude":2.07401,
+    "gn:longitude":22.99497,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Wolikombo Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wolikombo",
+        "Wolikombo I",
+        "Wolikombo Premi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204200
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"655e39447ff098e1ccf61f0095d64594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1292961421,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1292961421,
+    "wof:lastmodified":1537590310,
+    "wof:name":"Wolikombo Premiere",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99497,
+    2.07401,
+    22.99497,
+    2.07401
+],
+  "geometry": {"coordinates":[22.99497,2.07401],"type":"Point"}
+}

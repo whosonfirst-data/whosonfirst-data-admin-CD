@@ -1,0 +1,67 @@
+{
+  "id": 1243537991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.60198,-9.95247,27.60198,-9.95247",
+    "geom:latitude":-9.95247,
+    "geom:longitude":27.60198,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kimungu",
+    "gn:country_code":"CD",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212926,
+    "gn:latitude":-9.95247,
+    "gn:longitude":27.60198,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kimungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212926
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"70695a06584fb69c4dc91d54a30cb209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1243537991,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243537991,
+    "wof:lastmodified":1536673568,
+    "wof:name":"Kimungu",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.60198,
+    -9.95247,
+    27.60198,
+    -9.95247
+],
+  "geometry": {"coordinates":[27.60198,-9.95247],"type":"Point"}
+}

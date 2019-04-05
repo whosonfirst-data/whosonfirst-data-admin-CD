@@ -1,0 +1,67 @@
+{
+  "id": 1310669421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4609,-5.70715,22.4609,-5.70715",
+    "geom:latitude":-5.70715,
+    "geom:longitude":22.4609,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mulumba-Nkusu",
+    "gn:country_code":"CD",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413053,
+    "gn:latitude":-5.70715,
+    "gn:longitude":22.4609,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mulumba-Nkusu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413053
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"15da817f72ee5da86466ade6fed3d4e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1310669421,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310669421,
+    "wof:lastmodified":1536680479,
+    "wof:name":"Mulumba-Nkusu",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4609,
+    -5.70715,
+    22.4609,
+    -5.70715
+],
+  "geometry": {"coordinates":[22.4609,-5.70715],"type":"Point"}
+}

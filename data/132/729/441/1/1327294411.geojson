@@ -1,0 +1,67 @@
+{
+  "id": 1327294411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.57974,1.67306,25.57974,1.67306",
+    "geom:latitude":1.67306,
+    "geom:longitude":25.57974,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bohumbaga",
+    "gn:country_code":"CD",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149794,
+    "gn:latitude":1.67306,
+    "gn:longitude":25.57974,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bohumbaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149794
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7460136ded1cc7cb541a98fda7822eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1327294411,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327294411,
+    "wof:lastmodified":1536879471,
+    "wof:name":"Bohumbaga",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.57974,
+    1.67306,
+    25.57974,
+    1.67306
+],
+  "geometry": {"coordinates":[25.57974,1.67306],"type":"Point"}
+}

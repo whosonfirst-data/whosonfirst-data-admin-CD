@@ -1,0 +1,61 @@
+{
+  "id": 1209373275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91897,-10.37731,24.91897,-10.37731",
+    "geom:latitude":-10.37731,
+    "geom:longitude":24.91897,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kasampe",
+    "gn:country_code":"CD",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10207205,
+    "gn:latitude":-10.37731,
+    "gn:longitude":24.91897,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kasampe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10207205
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ca86561fe4d64384f2ea0e81e3ddb692",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209373275
+        }
+    ],
+    "wof:id":1209373275,
+    "wof:lastmodified":1536289035,
+    "wof:name":"Kasampe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91897,
+    -10.37731,
+    24.91897,
+    -10.37731
+],
+  "geometry": {"coordinates":[24.91897,-10.37731],"type":"Point"}
+}

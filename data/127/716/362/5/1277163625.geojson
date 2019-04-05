@@ -1,0 +1,67 @@
+{
+  "id": 1277163625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.00202,4.43972,24.00202,4.43972",
+    "geom:latitude":4.43972,
+    "geom:longitude":24.00202,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pikisa",
+    "gn:country_code":"CD",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221222,
+    "gn:latitude":4.43972,
+    "gn:longitude":24.00202,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pikisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221222
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f7c751ad11593a42e7d10a09fc84b60b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1277163625,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1277163625,
+    "wof:lastmodified":1536650936,
+    "wof:name":"Pikisa",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.00202,
+    4.43972,
+    24.00202,
+    4.43972
+],
+  "geometry": {"coordinates":[24.00202,4.43972],"type":"Point"}
+}

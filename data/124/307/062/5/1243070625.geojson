@@ -1,0 +1,68 @@
+{
+  "id": 1243070625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13407,-0.7328,18.13407,-0.7328",
+    "geom:latitude":-0.7328,
+    "geom:longitude":18.13407,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bikoro",
+    "gn:country_code":"CD",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317110,
+    "gn:latitude":-0.7328,
+    "gn:longitude":18.13407,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bikoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317110,
+        "wk:page":"Bikoro"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"af9776c45f958fb17af1dcbf50aa71f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1243070625,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1243070625,
+    "wof:lastmodified":1537489189,
+    "wof:name":"Bikoro",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13407,
+    -0.7328,
+    18.13407,
+    -0.7328
+],
+  "geometry": {"coordinates":[18.13407,-0.7328],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259841207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.63987,-6.27047,19.63987,-6.27047",
+    "geom:latitude":-6.27047,
+    "geom:longitude":19.63987,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kawaya",
+    "gn:country_code":"CD",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9528889,
+    "gn:latitude":-6.27047,
+    "gn:longitude":19.63987,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kawaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9528889
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fa9889c0ee18dfef49b58c1df199e145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1259841207,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259841207,
+    "wof:lastmodified":1536839159,
+    "wof:name":"Kawaya",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.63987,
+    -6.27047,
+    19.63987,
+    -6.27047
+],
+  "geometry": {"coordinates":[19.63987,-6.27047],"type":"Point"}
+}

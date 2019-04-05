@@ -1,0 +1,71 @@
+{
+  "id": 1276617093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27294,-4.50635,20.27294,-4.50635",
+    "geom:latitude":-4.50635,
+    "geom:longitude":20.27294,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muanakadi",
+    "gn:country_code":"CD",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208572,
+    "gn:latitude":-4.50635,
+    "gn:longitude":20.27294,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Muanakadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwanakadi",
+        "Muanakadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208572
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5c819faec73ac14943e4001f4e2c0bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276617093,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276617093,
+    "wof:lastmodified":1537590361,
+    "wof:name":"Muanakadi",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27294,
+    -4.50635,
+    20.27294,
+    -4.50635
+],
+  "geometry": {"coordinates":[20.27294,-4.50635],"type":"Point"}
+}

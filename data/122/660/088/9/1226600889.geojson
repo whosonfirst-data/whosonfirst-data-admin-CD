@@ -1,0 +1,67 @@
+{
+  "id": 1226600889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.9472,-6.93488,21.9472,-6.93488",
+    "geom:latitude":-6.93488,
+    "geom:longitude":21.9472,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mudanga",
+    "gn:country_code":"CD",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327548,
+    "gn:latitude":-6.93488,
+    "gn:longitude":21.9472,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mudanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327548
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d891918a530b4cc64bcd4185412ab176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1226600889,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226600889,
+    "wof:lastmodified":1536922976,
+    "wof:name":"Mudanga",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.9472,
+    -6.93488,
+    21.9472,
+    -6.93488
+],
+  "geometry": {"coordinates":[21.9472,-6.93488],"type":"Point"}
+}

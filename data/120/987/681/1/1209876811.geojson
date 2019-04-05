@@ -1,0 +1,67 @@
+{
+  "id": 1209876811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.20001,0.49161,25.20001,0.49161",
+    "geom:latitude":0.49161,
+    "geom:longitude":25.20001,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yasanga",
+    "gn:country_code":"CD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280736,
+    "gn:latitude":0.49161,
+    "gn:longitude":25.20001,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yasanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280736
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a1b685aa84efe7306d120377989d5569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679655,
+            "locality_id":1209876811,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1209876811,
+    "wof:lastmodified":1536396852,
+    "wof:name":"Yasanga",
+    "wof:parent_id":1091679655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.20001,
+    0.49161,
+    25.20001,
+    0.49161
+],
+  "geometry": {"coordinates":[25.20001,0.49161],"type":"Point"}
+}

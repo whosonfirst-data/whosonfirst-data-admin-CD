@@ -1,0 +1,70 @@
+{
+  "id": 1226724389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.38162,-4.16047,18.38162,-4.16047",
+    "geom:latitude":-4.16047,
+    "geom:longitude":18.38162,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kikwari",
+    "gn:country_code":"CD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314821,
+    "gn:latitude":-4.16047,
+    "gn:longitude":18.38162,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kikwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kibwari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314821
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"327b19e5b87737b2d8873ba16381e2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1226724389,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226724389,
+    "wof:lastmodified":1537590535,
+    "wof:name":"Kikwari",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.38162,
+    -4.16047,
+    18.38162,
+    -4.16047
+],
+  "geometry": {"coordinates":[18.38162,-4.16047],"type":"Point"}
+}

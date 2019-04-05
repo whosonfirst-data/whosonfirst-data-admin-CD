@@ -1,0 +1,67 @@
+{
+  "id": 1209776255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.08481,0.64943,24.08481,0.64943",
+    "geom:latitude":0.64943,
+    "geom:longitude":24.08481,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Itenge",
+    "gn:country_code":"CD",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215741,
+    "gn:latitude":0.64943,
+    "gn:longitude":24.08481,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Itenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215741
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c2c7ebad2f4777a6bde598dda05d17d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1209776255,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1209776255,
+    "wof:lastmodified":1536378571,
+    "wof:name":"Itenge",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.08481,
+    0.64943,
+    24.08481,
+    0.64943
+],
+  "geometry": {"coordinates":[24.08481,0.64943],"type":"Point"}
+}

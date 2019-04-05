@@ -1,0 +1,61 @@
+{
+  "id": 1209187875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.32806,-9.32205,28.32806,-9.32205",
+    "geom:latitude":-9.32205,
+    "geom:longitude":28.32806,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Masuika",
+    "gn:country_code":"CD",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10206376,
+    "gn:latitude":-9.32205,
+    "gn:longitude":28.32806,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Masuika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206376
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0d37f977a5d77bcf457fa33895f9ff6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209187875
+        }
+    ],
+    "wof:id":1209187875,
+    "wof:lastmodified":1536295037,
+    "wof:name":"Masuika",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.32806,
+    -9.32205,
+    28.32806,
+    -9.32205
+],
+  "geometry": {"coordinates":[28.32806,-9.32205],"type":"Point"}
+}

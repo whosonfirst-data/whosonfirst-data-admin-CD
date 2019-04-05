@@ -1,0 +1,67 @@
+{
+  "id": 1326698925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.11792,-10.00949,24.11792,-10.00949",
+    "geom:latitude":-10.00949,
+    "geom:longitude":24.11792,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kasaka",
+    "gn:country_code":"CD",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10206816,
+    "gn:latitude":-10.00949,
+    "gn:longitude":24.11792,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kasaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206816
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0dab5edb5f3d1ca48eeafd1eaa7ab3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1326698925,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1326698925,
+    "wof:lastmodified":1536743581,
+    "wof:name":"Kasaka",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.11792,
+    -10.00949,
+    24.11792,
+    -10.00949
+],
+  "geometry": {"coordinates":[24.11792,-10.00949],"type":"Point"}
+}

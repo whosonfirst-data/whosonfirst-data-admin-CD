@@ -1,0 +1,67 @@
+{
+  "id": 1259360065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.86389,-3.33222,28.86389,-3.33222",
+    "geom:latitude":-3.33222,
+    "geom:longitude":28.86389,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tutanga",
+    "gn:country_code":"CD",
+    "gn:dem":2483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387567,
+    "gn:latitude":-3.33222,
+    "gn:longitude":28.86389,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tutanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387567
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c906056345c647fceb1ee01f5ba75781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1259360065,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1259360065,
+    "wof:lastmodified":1537034527,
+    "wof:name":"Tutanga",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.86389,
+    -3.33222,
+    28.86389,
+    -3.33222
+],
+  "geometry": {"coordinates":[28.86389,-3.33222],"type":"Point"}
+}

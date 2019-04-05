@@ -1,0 +1,71 @@
+{
+  "id": 1326492771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98152,-4.57689,16.98152,-4.57689",
+    "geom:latitude":-4.57689,
+    "geom:longitude":16.98152,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Suana",
+    "gn:country_code":"CD",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311321,
+    "gn:latitude":-4.57689,
+    "gn:longitude":16.98152,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Suana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Swana",
+        "Suana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311321
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"73510def2ae8438bd7fba47d5d25cd79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1326492771,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1326492771,
+    "wof:lastmodified":1537590500,
+    "wof:name":"Suana",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98152,
+    -4.57689,
+    16.98152,
+    -4.57689
+],
+  "geometry": {"coordinates":[16.98152,-4.57689],"type":"Point"}
+}

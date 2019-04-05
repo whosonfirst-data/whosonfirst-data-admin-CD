@@ -1,0 +1,61 @@
+{
+  "id": 1209481301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70598,-6.52827,20.70598,-6.52827",
+    "geom:latitude":-6.52827,
+    "geom:longitude":20.70598,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shalumbu",
+    "gn:country_code":"CD",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283263,
+    "gn:latitude":-6.52827,
+    "gn:longitude":20.70598,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shalumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283263
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7333d59127c18486ec73b9e16481cf6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209481301
+        }
+    ],
+    "wof:id":1209481301,
+    "wof:lastmodified":1536285774,
+    "wof:name":"Shalumbu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70598,
+    -6.52827,
+    20.70598,
+    -6.52827
+],
+  "geometry": {"coordinates":[20.70598,-6.52827],"type":"Point"}
+}

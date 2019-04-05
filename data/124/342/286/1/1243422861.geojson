@@ -1,0 +1,67 @@
+{
+  "id": 1243422861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47957,-5.92911,22.47957,-5.92911",
+    "geom:latitude":-5.92911,
+    "geom:longitude":22.47957,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tambwe Saint Bernard",
+    "gn:country_code":"CD",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413127,
+    "gn:latitude":-5.92911,
+    "gn:longitude":22.47957,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tambwe Saint Bernard",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413127
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7e9f7c691e75450d857e111448940c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680487,
+            "locality_id":1243422861,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243422861,
+    "wof:lastmodified":1536838573,
+    "wof:name":"Tambwe Saint Bernard",
+    "wof:parent_id":1091680487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47957,
+    -5.92911,
+    22.47957,
+    -5.92911
+],
+  "geometry": {"coordinates":[22.47957,-5.92911],"type":"Point"}
+}

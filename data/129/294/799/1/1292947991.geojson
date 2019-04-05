@@ -1,0 +1,70 @@
+{
+  "id": 1292947991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.68333,-7.2,28.68333,-7.2",
+    "geom:latitude":-7.2,
+    "geom:longitude":28.68333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kitomba",
+    "gn:country_code":"CD",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212641,
+    "gn:latitude":-7.2,
+    "gn:longitude":28.68333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kitomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kitamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212641
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0aba05cd64a31faa47991a134262563c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1292947991,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1292947991,
+    "wof:lastmodified":1537590396,
+    "wof:name":"Kitomba",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.68333,
+    -7.2,
+    28.68333,
+    -7.2
+],
+  "geometry": {"coordinates":[28.68333,-7.2],"type":"Point"}
+}

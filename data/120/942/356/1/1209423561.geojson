@@ -1,0 +1,65 @@
+{
+  "id": 1209423561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.21667,-0.7,20.21667,-0.7",
+    "geom:latitude":-0.7,
+    "geom:longitude":20.21667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Betamba",
+    "gn:country_code":"CD",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219019,
+    "gn:latitude":-0.7,
+    "gn:longitude":20.21667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Betamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bekamba",
+        "Betamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219019
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"266ebe52cb4ef37ec693f25c43844b11",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209423561
+        }
+    ],
+    "wof:id":1209423561,
+    "wof:lastmodified":1537590461,
+    "wof:name":"Betamba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.21667,
+    -0.7,
+    20.21667,
+    -0.7
+],
+  "geometry": {"coordinates":[20.21667,-0.7],"type":"Point"}
+}

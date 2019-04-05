@@ -1,0 +1,74 @@
+{
+  "id": 1310479645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.44574,0.02725,29.44574,0.02725",
+    "geom:latitude":0.02725,
+    "geom:longitude":29.44574,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Venamba",
+    "gn:country_code":"CD",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204393,
+    "gn:latitude":0.02725,
+    "gn:longitude":29.44574,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Venamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vehemba",
+        "Wehamba",
+        "Veamba",
+        "Vehamba",
+        "Venamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204393
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d56e9dafc3b655d9e01811a52c3ef498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1310479645,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1310479645,
+    "wof:lastmodified":1537590312,
+    "wof:name":"Venamba",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.44574,
+    0.02725,
+    29.44574,
+    0.02725
+],
+  "geometry": {"coordinates":[29.44574,0.02725],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209598269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.83753,-7.80513,25.83753,-7.80513",
+    "geom:latitude":-7.80513,
+    "geom:longitude":25.83753,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kilombo",
+    "gn:country_code":"CD",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9077123,
+    "gn:latitude":-7.80513,
+    "gn:longitude":25.83753,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kilombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9077123
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"34d87f25b2ae470a4449fce505c9a99e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209598269
+        }
+    ],
+    "wof:id":1209598269,
+    "wof:lastmodified":1536282252,
+    "wof:name":"Kilombo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.83753,
+    -7.80513,
+    25.83753,
+    -7.80513
+],
+  "geometry": {"coordinates":[25.83753,-7.80513],"type":"Point"}
+}

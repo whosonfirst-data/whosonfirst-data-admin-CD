@@ -1,0 +1,67 @@
+{
+  "id": 1226509015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.33481,-3.27969,23.33481,-3.27969",
+    "geom:latitude":-3.27969,
+    "geom:longitude":23.33481,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Djovu",
+    "gn:country_code":"CD",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217106,
+    "gn:latitude":-3.27969,
+    "gn:longitude":23.33481,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Djovu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217106
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ec5338b4dfcaee8a8af2b506f7b21db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1226509015,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1226509015,
+    "wof:lastmodified":1537049026,
+    "wof:name":"Djovu",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33481,
+    -3.27969,
+    23.33481,
+    -3.27969
+],
+  "geometry": {"coordinates":[23.33481,-3.27969],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344008333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98597,1.87579,25.98597,1.87579",
+    "geom:latitude":1.87579,
+    "geom:longitude":25.98597,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bapele Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219494,
+    "gn:latitude":1.87579,
+    "gn:longitude":25.98597,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bapele Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bapele Premi\u00e8re",
+        "Bapele I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219494
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e2d6f7f499c25ebc45356bd1fcb60f28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1344008333,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1344008333,
+    "wof:lastmodified":1537590468,
+    "wof:name":"Bapele Premiere",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98597,
+    1.87579,
+    25.98597,
+    1.87579
+],
+  "geometry": {"coordinates":[25.98597,1.87579],"type":"Point"}
+}

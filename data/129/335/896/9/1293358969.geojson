@@ -1,0 +1,67 @@
+{
+  "id": 1293358969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.95125,-7.53695,21.95125,-7.53695",
+    "geom:latitude":-7.53695,
+    "geom:longitude":21.95125,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshingulu",
+    "gn:country_code":"CD",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440629,
+    "gn:latitude":-7.53695,
+    "gn:longitude":21.95125,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshingulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440629
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"40ba4bb1028a866657346925ee5f3cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1293358969,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293358969,
+    "wof:lastmodified":1536972035,
+    "wof:name":"Tshingulu",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.95125,
+    -7.53695,
+    21.95125,
+    -7.53695
+],
+  "geometry": {"coordinates":[21.95125,-7.53695],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343823391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.85557,-6.55091,16.85557,-6.55091",
+    "geom:latitude":-6.55091,
+    "geom:longitude":16.85557,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Swa-Kimbembo",
+    "gn:country_code":"CD",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331612,
+    "gn:latitude":-6.55091,
+    "gn:longitude":16.85557,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Swa-Kimbembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331612
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"70d9ea9289c85fcb37d84494d6b01ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343823391,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343823391,
+    "wof:lastmodified":1536720610,
+    "wof:name":"Swa-Kimbembo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.85557,
+    -6.55091,
+    16.85557,
+    -6.55091
+],
+  "geometry": {"coordinates":[16.85557,-6.55091],"type":"Point"}
+}

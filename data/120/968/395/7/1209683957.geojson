@@ -1,0 +1,61 @@
+{
+  "id": 1209683957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.42761,-2.03251,16.42761,-2.03251",
+    "geom:latitude":-2.03251,
+    "geom:longitude":16.42761,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bongende",
+    "gn:country_code":"CD",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316584,
+    "gn:latitude":-2.03251,
+    "gn:longitude":16.42761,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bongende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316584
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ff6b5a06d1dca3ec45544d22f43a7728",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209683957
+        }
+    ],
+    "wof:id":1209683957,
+    "wof:lastmodified":1536279477,
+    "wof:name":"Bongende",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.42761,
+    -2.03251,
+    16.42761,
+    -2.03251
+],
+  "geometry": {"coordinates":[16.42761,-2.03251],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242848823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96311,-5.36088,18.96311,-5.36088",
+    "geom:latitude":-5.36088,
+    "geom:longitude":18.96311,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mwenga Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2591315,
+    "gn:latitude":-5.36088,
+    "gn:longitude":18.96311,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwenga Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwenga Premi\u00e8re",
+        "Mwenga II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2591315
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5b9b0490468838d49cd40858e958dc8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1242848823,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1242848823,
+    "wof:lastmodified":1537590565,
+    "wof:name":"Mwenga Premiere",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96311,
+    -5.36088,
+    18.96311,
+    -5.36088
+],
+  "geometry": {"coordinates":[18.96311,-5.36088],"type":"Point"}
+}

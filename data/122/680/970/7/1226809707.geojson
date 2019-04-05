@@ -1,0 +1,73 @@
+{
+  "id": 1226809707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83749,0.62765,23.83749,0.62765",
+    "geom:latitude":0.62765,
+    "geom:longitude":23.83749,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yaboila",
+    "gn:country_code":"CD",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204159,
+    "gn:latitude":0.62765,
+    "gn:longitude":23.83749,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yaboila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yabohila",
+        "Yaboili",
+        "Yaboila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204159,
+        "wk:page":"Yaboila"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2416ba7006ea1fa094543e6f6488b731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1226809707,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1226809707,
+    "wof:lastmodified":1537590310,
+    "wof:name":"Yaboila",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83749,
+    0.62765,
+    23.83749,
+    0.62765
+],
+  "geometry": {"coordinates":[23.83749,0.62765],"type":"Point"}
+}

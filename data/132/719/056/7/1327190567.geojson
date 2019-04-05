@@ -1,0 +1,67 @@
+{
+  "id": 1327190567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.75069,-8.78929,23.75069,-8.78929",
+    "geom:latitude":-8.78929,
+    "geom:longitude":23.75069,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshindji",
+    "gn:country_code":"CD",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204837,
+    "gn:latitude":-8.78929,
+    "gn:longitude":23.75069,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshindji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204837
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"749e870a5b069761b7676ffb8df70134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1327190567,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327190567,
+    "wof:lastmodified":1537028901,
+    "wof:name":"Tshindji",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.75069,
+    -8.78929,
+    23.75069,
+    -8.78929
+],
+  "geometry": {"coordinates":[23.75069,-8.78929],"type":"Point"}
+}

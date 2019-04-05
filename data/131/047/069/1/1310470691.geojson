@@ -1,0 +1,67 @@
+{
+  "id": 1310470691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.50035,-10.64509,22.50035,-10.64509",
+    "geom:latitude":-10.64509,
+    "geom:longitude":22.50035,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sapakula",
+    "gn:country_code":"CD",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463641,
+    "gn:latitude":-10.64509,
+    "gn:longitude":22.50035,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sapakula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463641
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2272b8a64764e83ea60a743f65de0c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1310470691,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310470691,
+    "wof:lastmodified":1536966973,
+    "wof:name":"Sapakula",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.50035,
+    -10.64509,
+    22.50035,
+    -10.64509
+],
+  "geometry": {"coordinates":[22.50035,-10.64509],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193264673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62576,4.27475,22.62576,4.27475",
+    "geom:latitude":4.27475,
+    "geom:longitude":22.62576,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nzeret",
+    "gn:country_code":"CD",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206830,
+    "gn:latitude":4.27475,
+    "gn:longitude":22.62576,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nzeret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nzerret",
+        "Nzeret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206830
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fbc4e6eb614cc3b39746f286647f739a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1193264673,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1193264673,
+    "wof:lastmodified":1537590340,
+    "wof:name":"Nzeret",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62576,
+    4.27475,
+    22.62576,
+    4.27475
+],
+  "geometry": {"coordinates":[22.62576,4.27475],"type":"Point"}
+}

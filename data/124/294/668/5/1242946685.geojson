@@ -1,0 +1,73 @@
+{
+  "id": 1242946685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.79542,-12.20258,27.79542,-12.20258",
+    "geom:latitude":-12.20258,
+    "geom:longitude":27.79542,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kasumbalesa",
+    "gn:country_code":"CD",
+    "gn:dem":1400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922944,
+    "gn:latitude":-12.20258,
+    "gn:longitude":27.79542,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kasumbalesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasamba",
+        "Kasumba",
+        "Kasumbalesa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922944,
+        "wk:page":"Kasumbalesa"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bfbada5d6c3c8c70c510a42d34ed0da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1242946685,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242946685,
+    "wof:lastmodified":1537590491,
+    "wof:name":"Kasumbalesa",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.79542,
+    -12.20258,
+    27.79542,
+    -12.20258
+],
+  "geometry": {"coordinates":[27.79542,-12.20258],"type":"Point"}
+}

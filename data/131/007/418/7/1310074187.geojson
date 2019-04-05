@@ -1,0 +1,67 @@
+{
+  "id": 1310074187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66306,-4.47736,22.66306,-4.47736",
+    "geom:latitude":-4.47736,
+    "geom:longitude":22.66306,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bena-Bengala",
+    "gn:country_code":"CD",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8249957,
+    "gn:latitude":-4.47736,
+    "gn:longitude":22.66306,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bena-Bengala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8249957
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0796d096bba9c943869d25ad7306a234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1310074187,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310074187,
+    "wof:lastmodified":1537040072,
+    "wof:name":"Bena-Bengala",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66306,
+    -4.47736,
+    22.66306,
+    -4.47736
+],
+  "geometry": {"coordinates":[22.66306,-4.47736],"type":"Point"}
+}

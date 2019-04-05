@@ -1,0 +1,71 @@
+{
+  "id": 1260238891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96279,2.42889,21.96279,2.42889",
+    "geom:latitude":2.42889,
+    "geom:longitude":21.96279,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yambata",
+    "gn:country_code":"CD",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203861,
+    "gn:latitude":2.42889,
+    "gn:longitude":21.96279,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yambata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yambasa",
+        "Yambata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203861
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"925926dd40160bbc8c73e06d3829ff51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1260238891,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1260238891,
+    "wof:lastmodified":1537590307,
+    "wof:name":"Yambata",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96279,
+    2.42889,
+    21.96279,
+    2.42889
+],
+  "geometry": {"coordinates":[21.96279,2.42889],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327424511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93303,-4.88586,14.93303,-4.88586",
+    "geom:latitude":-4.88586,
+    "geom:longitude":14.93303,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kitumba Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314280,
+    "gn:latitude":-4.88586,
+    "gn:longitude":14.93303,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kitumba Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kintumba",
+        "Kitumba I",
+        "Kintumba I",
+        "Kitumba Premi\u00e8re",
+        "Kintumba Premi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314280
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bc1983beb192cda2af279b2f8daa09ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1327424511,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1327424511,
+    "wof:lastmodified":1537590530,
+    "wof:name":"Kitumba Premiere",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93303,
+    -4.88586,
+    14.93303,
+    -4.88586
+],
+  "geometry": {"coordinates":[14.93303,-4.88586],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360260903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78895,-6.91106,20.78895,-6.91106",
+    "geom:latitude":-6.91106,
+    "geom:longitude":20.78895,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shapambu Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283433,
+    "gn:latitude":-6.91106,
+    "gn:longitude":20.78895,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shapambu Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283433
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d073800b201a3b4763bf98d713777a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1360260903,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1360260903,
+    "wof:lastmodified":1536692239,
+    "wof:name":"Shapambu Deuxieme",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78895,
+    -6.91106,
+    20.78895,
+    -6.91106
+],
+  "geometry": {"coordinates":[20.78895,-6.91106],"type":"Point"}
+}

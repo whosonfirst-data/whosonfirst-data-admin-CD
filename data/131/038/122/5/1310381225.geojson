@@ -1,0 +1,67 @@
+{
+  "id": 1310381225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.94731,-6.32975,20.94731,-6.32975",
+    "geom:latitude":-6.32975,
+    "geom:longitude":20.94731,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tukenge-Fuamba",
+    "gn:country_code":"CD",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283030,
+    "gn:latitude":-6.32975,
+    "gn:longitude":20.94731,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tukenge-Fuamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283030
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a3e717dc1edd42905e3b515cb56da4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1310381225,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310381225,
+    "wof:lastmodified":1537093077,
+    "wof:name":"Tukenge-Fuamba",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94731,
+    -6.32975,
+    20.94731,
+    -6.32975
+],
+  "geometry": {"coordinates":[20.94731,-6.32975],"type":"Point"}
+}

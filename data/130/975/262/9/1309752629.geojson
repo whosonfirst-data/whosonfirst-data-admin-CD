@@ -1,0 +1,67 @@
+{
+  "id": 1309752629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.65387,1.86387,22.65387,1.86387",
+    "geom:latitude":1.86387,
+    "geom:longitude":22.65387,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yalikunda",
+    "gn:country_code":"CD",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203982,
+    "gn:latitude":1.86387,
+    "gn:longitude":22.65387,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yalikunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203982
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5091c20b7fadbee3e8358386e6f5ab1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1309752629,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1309752629,
+    "wof:lastmodified":1537006996,
+    "wof:name":"Yalikunda",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65387,
+    1.86387,
+    22.65387,
+    1.86387
+],
+  "geometry": {"coordinates":[22.65387,1.86387],"type":"Point"}
+}

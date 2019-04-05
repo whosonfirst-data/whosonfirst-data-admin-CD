@@ -1,0 +1,67 @@
+{
+  "id": 1259864899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44686,-4.95095,15.44686,-4.95095",
+    "geom:latitude":-4.95095,
+    "geom:longitude":15.44686,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kinzadi",
+    "gn:country_code":"CD",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593437,
+    "gn:latitude":-4.95095,
+    "gn:longitude":15.44686,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kinzadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593437
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b51d3d9cdfc9d1e5751a95e130a9a59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1259864899,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1259864899,
+    "wof:lastmodified":1536805824,
+    "wof:name":"Kinzadi",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44686,
+    -4.95095,
+    15.44686,
+    -4.95095
+],
+  "geometry": {"coordinates":[15.44686,-4.95095],"type":"Point"}
+}

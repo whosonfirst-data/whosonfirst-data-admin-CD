@@ -1,0 +1,67 @@
+{
+  "id": 1343826629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2885,-9.85956,22.2885,-9.85956",
+    "geom:latitude":-9.85956,
+    "geom:longitude":22.2885,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Shitende",
+    "gn:country_code":"CD",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461871,
+    "gn:latitude":-9.85956,
+    "gn:longitude":22.2885,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shitende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461871
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"456df8e073fb699a0a896341a132a4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1343826629,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343826629,
+    "wof:lastmodified":1536715882,
+    "wof:name":"Shitende",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2885,
+    -9.85956,
+    22.2885,
+    -9.85956
+],
+  "geometry": {"coordinates":[22.2885,-9.85956],"type":"Point"}
+}

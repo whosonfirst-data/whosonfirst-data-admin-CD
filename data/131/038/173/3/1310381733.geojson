@@ -1,0 +1,70 @@
+{
+  "id": 1310381733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.40385,1.3986,29.40385,1.3986",
+    "geom:latitude":1.3986,
+    "geom:longitude":29.40385,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Djiapanda",
+    "gn:country_code":"CD",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217158,
+    "gn:latitude":1.3986,
+    "gn:longitude":29.40385,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Djiapanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Djiapanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217158
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"76b813544e33952be6c45962bc4c791f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1310381733,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1310381733,
+    "wof:lastmodified":1537590443,
+    "wof:name":"Djiapanda",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.40385,
+    1.3986,
+    29.40385,
+    1.3986
+],
+  "geometry": {"coordinates":[29.40385,1.3986],"type":"Point"}
+}

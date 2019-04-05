@@ -1,0 +1,67 @@
+{
+  "id": 1326692627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37773,-6.83757,17.37773,-6.83757",
+    "geom:latitude":-6.83757,
+    "geom:longitude":17.37773,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Munikemba",
+    "gn:country_code":"CD",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434738,
+    "gn:latitude":-6.83757,
+    "gn:longitude":17.37773,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Munikemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434738
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c1124c1eacc1d672487492a7c43445f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1326692627,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1326692627,
+    "wof:lastmodified":1536752909,
+    "wof:name":"Munikemba",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37773,
+    -6.83757,
+    17.37773,
+    -6.83757
+],
+  "geometry": {"coordinates":[17.37773,-6.83757],"type":"Point"}
+}

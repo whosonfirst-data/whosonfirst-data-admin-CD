@@ -1,0 +1,65 @@
+{
+  "id": 1209299847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.44049,-5.73214,13.44049,-5.73214",
+    "geom:latitude":-5.73214,
+    "geom:longitude":13.44049,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kionzo",
+    "gn:country_code":"CD",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314233,
+    "gn:latitude":-5.73214,
+    "gn:longitude":13.44049,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kionzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kionze",
+        "Kionzo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314233
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"71c662b954f7e06cd76b193461685d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209299847
+        }
+    ],
+    "wof:id":1209299847,
+    "wof:lastmodified":1537590529,
+    "wof:name":"Kionzo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.44049,
+    -5.73214,
+    13.44049,
+    -5.73214
+],
+  "geometry": {"coordinates":[13.44049,-5.73214],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209672851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96667,1.73333,19.96667,1.73333",
+    "geom:latitude":1.73333,
+    "geom:longitude":19.96667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Busu-Uni",
+    "gn:country_code":"CD",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316177,
+    "gn:latitude":1.73333,
+    "gn:longitude":19.96667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Busu-Uni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316177
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5754126665b7280e712dee75a0f72abd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209672851
+        }
+    ],
+    "wof:id":1209672851,
+    "wof:lastmodified":1536279857,
+    "wof:name":"Busu-Uni",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96667,
+    1.73333,
+    19.96667,
+    1.73333
+],
+  "geometry": {"coordinates":[19.96667,1.73333],"type":"Point"}
+}

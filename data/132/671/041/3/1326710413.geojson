@@ -1,0 +1,67 @@
+{
+  "id": 1326710413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.93333,-3.91667,28.93333,-3.91667",
+    "geom:latitude":-3.91667,
+    "geom:longitude":28.93333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Somanili",
+    "gn:country_code":"CD",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205474,
+    "gn:latitude":-3.91667,
+    "gn:longitude":28.93333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Somanili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205474
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"24fc94f83dfb3af24e29d9e2087a17d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1326710413,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1326710413,
+    "wof:lastmodified":1536727627,
+    "wof:name":"Somanili",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.93333,
+    -3.91667,
+    28.93333,
+    -3.91667
+],
+  "geometry": {"coordinates":[28.93333,-3.91667],"type":"Point"}
+}

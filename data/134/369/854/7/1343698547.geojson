@@ -1,0 +1,71 @@
+{
+  "id": 1343698547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65812,-0.15248,21.65812,-0.15248",
+    "geom:latitude":-0.15248,
+    "geom:longitude":21.65812,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Bulukutu",
+    "gn:country_code":"CD",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217768,
+    "gn:latitude":-0.15248,
+    "gn:longitude":21.65812,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bulukutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulukuto",
+        "Bulukutu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217768
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b01ed08aaaad4e605bcd9bc29d24d484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1343698547,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343698547,
+    "wof:lastmodified":1537590449,
+    "wof:name":"Bulukutu",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65812,
+    -0.15248,
+    21.65812,
+    -0.15248
+],
+  "geometry": {"coordinates":[21.65812,-0.15248],"type":"Point"}
+}

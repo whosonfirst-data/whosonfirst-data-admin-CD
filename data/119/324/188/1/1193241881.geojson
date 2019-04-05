@@ -1,0 +1,67 @@
+{
+  "id": 1193241881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.44474,1.80413,30.44474,1.80413",
+    "geom:latitude":1.80413,
+    "geom:longitude":30.44474,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kiza",
+    "gn:country_code":"CD",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212495,
+    "gn:latitude":1.80413,
+    "gn:longitude":30.44474,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212495
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ff8c3518a7a38138f04a66d6f2eedf76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1193241881,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1193241881,
+    "wof:lastmodified":1536377542,
+    "wof:name":"Kiza",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.44474,
+    1.80413,
+    30.44474,
+    1.80413
+],
+  "geometry": {"coordinates":[30.44474,1.80413],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260237777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.79127,-8.24149,22.79127,-8.24149",
+    "geom:latitude":-8.24149,
+    "geom:longitude":22.79127,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sakaj",
+    "gn:country_code":"CD",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10013912,
+    "gn:latitude":-8.24149,
+    "gn:longitude":22.79127,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sakaj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10013912
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"68be69d5423fbfc521856e7806763adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1260237777,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260237777,
+    "wof:lastmodified":1537590578,
+    "wof:name":"Sakaj",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79127,
+    -8.24149,
+    22.79127,
+    -8.24149
+],
+  "geometry": {"coordinates":[22.79127,-8.24149],"type":"Point"}
+}

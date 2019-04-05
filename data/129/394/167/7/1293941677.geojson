@@ -1,0 +1,67 @@
+{
+  "id": 1293941677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.30151,-6.01008,22.30151,-6.01008",
+    "geom:latitude":-6.01008,
+    "geom:longitude":22.30151,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bena-Konji",
+    "gn:country_code":"CD",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283692,
+    "gn:latitude":-6.01008,
+    "gn:longitude":22.30151,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bena-Konji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283692
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"29521ce0e685ec98fc5c11e22062bb87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1293941677,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293941677,
+    "wof:lastmodified":1536627884,
+    "wof:name":"Bena-Konji",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.30151,
+    -6.01008,
+    22.30151,
+    -6.01008
+],
+  "geometry": {"coordinates":[22.30151,-6.01008],"type":"Point"}
+}

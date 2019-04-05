@@ -1,0 +1,67 @@
+{
+  "id": 1292961921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.17721,-5.6432,26.17721,-5.6432",
+    "geom:latitude":-5.6432,
+    "geom:longitude":26.17721,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kilai",
+    "gn:country_code":"CD",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213101,
+    "gn:latitude":-5.6432,
+    "gn:longitude":26.17721,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kilai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213101
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ffd059a81ce261e0cb571325d903d209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1292961921,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1292961921,
+    "wof:lastmodified":1537045907,
+    "wof:name":"Kilai",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.17721,
+    -5.6432,
+    26.17721,
+    -5.6432
+],
+  "geometry": {"coordinates":[26.17721,-5.6432],"type":"Point"}
+}

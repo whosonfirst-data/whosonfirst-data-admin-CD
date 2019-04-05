@@ -1,0 +1,67 @@
+{
+  "id": 1344223095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45766,-5.91674,20.45766,-5.91674",
+    "geom:latitude":-5.91674,
+    "geom:longitude":20.45766,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kime",
+    "gn:country_code":"CD",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277047,
+    "gn:latitude":-5.91674,
+    "gn:longitude":20.45766,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kime",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277047
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8ed7b73599b85bcbc86239477851d8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1344223095,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1344223095,
+    "wof:lastmodified":1536640093,
+    "wof:name":"Kime",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45766,
+    -5.91674,
+    20.45766,
+    -5.91674
+],
+  "geometry": {"coordinates":[20.45766,-5.91674],"type":"Point"}
+}

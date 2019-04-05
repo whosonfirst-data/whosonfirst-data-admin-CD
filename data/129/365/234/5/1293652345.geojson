@@ -1,0 +1,67 @@
+{
+  "id": 1293652345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22787,-4.38244,20.22787,-4.38244",
+    "geom:latitude":-4.38244,
+    "geom:longitude":20.22787,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kadima",
+    "gn:country_code":"CD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8444091,
+    "gn:latitude":-4.38244,
+    "gn:longitude":20.22787,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kadima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8444091
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d052be5d3ddfb57ee2809066b6968608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1293652345,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293652345,
+    "wof:lastmodified":1537044868,
+    "wof:name":"Kadima",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22787000000001,
+    -4.38244,
+    20.22787000000001,
+    -4.38244
+],
+  "geometry": {"coordinates":[20.22787000000001,-4.38244],"type":"Point"}
+}

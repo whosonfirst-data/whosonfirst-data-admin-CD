@@ -1,0 +1,67 @@
+{
+  "id": 1226417721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7014,-6.23181,17.7014,-6.23181",
+    "geom:latitude":-6.23181,
+    "geom:longitude":17.7014,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Koshikasongo",
+    "gn:country_code":"CD",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434601,
+    "gn:latitude":-6.23181,
+    "gn:longitude":17.7014,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Koshikasongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434601
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cb2871b499a8ab422189a00010ce9159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226417721,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226417721,
+    "wof:lastmodified":1536685945,
+    "wof:name":"Koshikasongo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7014,
+    -6.23181,
+    17.7014,
+    -6.23181
+],
+  "geometry": {"coordinates":[17.7014,-6.23181],"type":"Point"}
+}

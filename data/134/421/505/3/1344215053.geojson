@@ -1,0 +1,67 @@
+{
+  "id": 1344215053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.47382,-2.0141,17.47382,-2.0141",
+    "geom:latitude":-2.0141,
+    "geom:longitude":17.47382,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bombenda",
+    "gn:country_code":"CD",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8432058,
+    "gn:latitude":-2.0141,
+    "gn:longitude":17.47382,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bombenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8432058
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6791f7f349b1f6943f22ee0df6d7d73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1344215053,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1344215053,
+    "wof:lastmodified":1536652558,
+    "wof:name":"Bombenda",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.47382,
+    -2.0141,
+    17.47382,
+    -2.0141
+],
+  "geometry": {"coordinates":[17.47382,-2.0141],"type":"Point"}
+}

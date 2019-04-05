@@ -1,0 +1,67 @@
+{
+  "id": 1293354759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53108,-6.41437,24.53108,-6.41437",
+    "geom:latitude":-6.41437,
+    "geom:longitude":24.53108,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kifule-Ejiba",
+    "gn:country_code":"CD",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213205,
+    "gn:latitude":-6.41437,
+    "gn:longitude":24.53108,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kifule-Ejiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213205
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"16bfa36e7c8b316c22b305c80626ac52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1293354759,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1293354759,
+    "wof:lastmodified":1536977948,
+    "wof:name":"Kifule-Ejiba",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53108,
+    -6.41437,
+    24.53108,
+    -6.41437
+],
+  "geometry": {"coordinates":[24.53108,-6.41437],"type":"Point"}
+}

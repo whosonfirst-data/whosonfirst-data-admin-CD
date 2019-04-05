@@ -1,0 +1,67 @@
+{
+  "id": 1343932951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.3669,-4.46471,17.3669,-4.46471",
+    "geom:latitude":-4.46471,
+    "geom:longitude":17.3669,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kipambi",
+    "gn:country_code":"CD",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445875,
+    "gn:latitude":-4.46471,
+    "gn:longitude":17.3669,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kipambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445875
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"825f61f78f76d692443ce0db0574b08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343932951,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343932951,
+    "wof:lastmodified":1537057243,
+    "wof:name":"Kipambi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.3669,
+    -4.46471,
+    17.3669,
+    -4.46471
+],
+  "geometry": {"coordinates":[17.3669,-4.46471],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343914829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.61892,2.97433,21.61892,2.97433",
+    "geom:latitude":2.97433,
+    "geom:longitude":21.61892,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ozeze",
+    "gn:country_code":"CD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206455,
+    "gn:latitude":2.97433,
+    "gn:longitude":21.61892,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ozeze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206455
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"49f3c8c5643203f77e0f981e39a44664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1343914829,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343914829,
+    "wof:lastmodified":1537082791,
+    "wof:name":"Ozeze",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61892000000001,
+    2.97433,
+    21.61892000000001,
+    2.97433
+],
+  "geometry": {"coordinates":[21.61892000000001,2.97433],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209473825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.69869,-6.35486,24.69869,-6.35486",
+    "geom:latitude":-6.35486,
+    "geom:longitude":24.69869,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Konia",
+    "gn:country_code":"CD",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212340,
+    "gn:latitude":-6.35486,
+    "gn:longitude":24.69869,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Konia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212340
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d8c2aa9106b8ce7cddcded7871035634",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209473825
+        }
+    ],
+    "wof:id":1209473825,
+    "wof:lastmodified":1537590393,
+    "wof:name":"Konia",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.69869,
+    -6.35486,
+    24.69869,
+    -6.35486
+],
+  "geometry": {"coordinates":[24.69869,-6.35486],"type":"Point"}
+}

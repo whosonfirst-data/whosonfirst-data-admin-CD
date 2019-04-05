@@ -1,0 +1,67 @@
+{
+  "id": 1226410995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36606,-6.10616,22.36606,-6.10616",
+    "geom:latitude":-6.10616,
+    "geom:longitude":22.36606,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Muka-Majuwa",
+    "gn:country_code":"CD",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283680,
+    "gn:latitude":-6.10616,
+    "gn:longitude":22.36606,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Muka-Majuwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283680
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"98d5c95b3bc9de1fafb0c66663e0ae6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1226410995,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226410995,
+    "wof:lastmodified":1536695891,
+    "wof:name":"Muka-Majuwa",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36606,
+    -6.10616,
+    22.36606,
+    -6.10616
+],
+  "geometry": {"coordinates":[22.36606,-6.10616],"type":"Point"}
+}

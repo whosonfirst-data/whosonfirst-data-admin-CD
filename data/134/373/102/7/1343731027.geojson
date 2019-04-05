@@ -1,0 +1,71 @@
+{
+  "id": 1343731027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.00643,-8.9201,24.00643,-8.9201",
+    "geom:latitude":-8.9201,
+    "geom:longitude":24.00643,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Diamba",
+    "gn:country_code":"CD",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217353,
+    "gn:latitude":-8.9201,
+    "gn:longitude":24.00643,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Diamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwene Diamba",
+        "Diamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217353
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"df00f1823662b2d7b5b23f0f976a9e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1343731027,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343731027,
+    "wof:lastmodified":1537590445,
+    "wof:name":"Diamba",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.00643,
+    -8.9201,
+    24.00643,
+    -8.9201
+],
+  "geometry": {"coordinates":[24.00643,-8.9201],"type":"Point"}
+}

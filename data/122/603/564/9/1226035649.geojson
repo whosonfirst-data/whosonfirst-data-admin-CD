@@ -1,0 +1,67 @@
+{
+  "id": 1226035649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6955,-5.57725,15.6955,-5.57725",
+    "geom:latitude":-5.57725,
+    "geom:longitude":15.6955,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sanga",
+    "gn:country_code":"CD",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311595,
+    "gn:latitude":-5.57725,
+    "gn:longitude":15.6955,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Sanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311595
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d5150149e8a8e76f5fac91259bc64a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1226035649,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1226035649,
+    "wof:lastmodified":1536739628,
+    "wof:name":"Sanga",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6955,
+    -5.57725,
+    15.6955,
+    -5.57725
+],
+  "geometry": {"coordinates":[15.6955,-5.57725],"type":"Point"}
+}

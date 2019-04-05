@@ -1,0 +1,67 @@
+{
+  "id": 1310464345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83926,-7.00986,18.83926,-7.00986",
+    "geom:latitude":-7.00986,
+    "geom:longitude":18.83926,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shanguvu",
+    "gn:country_code":"CD",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311401,
+    "gn:latitude":-7.00986,
+    "gn:longitude":18.83926,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shanguvu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311401
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b16c3c5e76b1ceb55d33b2d01ef6921f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1310464345,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310464345,
+    "wof:lastmodified":1536975876,
+    "wof:name":"Shanguvu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83926,
+    -7.00986,
+    18.83926,
+    -7.00986
+],
+  "geometry": {"coordinates":[18.83926,-7.00986],"type":"Point"}
+}

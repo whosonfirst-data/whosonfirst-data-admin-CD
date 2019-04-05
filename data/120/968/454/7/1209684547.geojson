@@ -1,0 +1,61 @@
+{
+  "id": 1209684547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51626,-9.13453,22.51626,-9.13453",
+    "geom:latitude":-9.13453,
+    "geom:longitude":22.51626,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kamapela",
+    "gn:country_code":"CD",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461744,
+    "gn:latitude":-9.13453,
+    "gn:longitude":22.51626,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kamapela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461744
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"19a3a8b543cc8ca66b75e3d7ca5445b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209684547
+        }
+    ],
+    "wof:id":1209684547,
+    "wof:lastmodified":1536279458,
+    "wof:name":"Kamapela",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51626,
+    -9.13453,
+    22.51626,
+    -9.13453
+],
+  "geometry": {"coordinates":[22.51626,-9.13453],"type":"Point"}
+}

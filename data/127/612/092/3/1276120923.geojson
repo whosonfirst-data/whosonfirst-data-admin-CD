@@ -1,0 +1,67 @@
+{
+  "id": 1276120923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.17623,1.03046,19.17623,1.03046",
+    "geom:latitude":1.03046,
+    "geom:longitude":19.17623,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Boso-Asukomo",
+    "gn:country_code":"CD",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316479,
+    "gn:latitude":1.03046,
+    "gn:longitude":19.17623,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Boso-Asukomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316479
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6ca198c496b618927d64bd86a05a8e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1276120923,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276120923,
+    "wof:lastmodified":1537060509,
+    "wof:name":"Boso-Asukomo",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.17623,
+    1.03046,
+    19.17623,
+    1.03046
+],
+  "geometry": {"coordinates":[19.17623,1.03046],"type":"Point"}
+}

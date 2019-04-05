@@ -1,0 +1,70 @@
+{
+  "id": 1259848145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47861,-5.92765,22.47861,-5.92765",
+    "geom:latitude":-5.92765,
+    "geom:longitude":22.47861,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kabongo-Mumpempe",
+    "gn:country_code":"CD",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328936,
+    "gn:latitude":-5.92765,
+    "gn:longitude":22.47861,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabongo-Mumpempe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328936
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3bfb9542fa526d0d4d67f616f4900d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680487,
+            "locality_id":1259848145,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1259848145,
+    "wof:lastmodified":1537590573,
+    "wof:name":"Kabongo-Mumpempe",
+    "wof:parent_id":1091680487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47861,
+    -5.92765,
+    22.47861,
+    -5.92765
+],
+  "geometry": {"coordinates":[22.47861,-5.92765],"type":"Point"}
+}

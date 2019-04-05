@@ -1,0 +1,70 @@
+{
+  "id": 1360157179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.88182,3.2826,29.88182,3.2826",
+    "geom:latitude":3.2826,
+    "geom:longitude":29.88182,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Anakonzi",
+    "gn:country_code":"CD",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220373,
+    "gn:latitude":3.2826,
+    "gn:longitude":29.88182,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Anakonzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amakonzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220373
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2d75f0cf4fd962d154670bd75b54ff60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1360157179,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360157179,
+    "wof:lastmodified":1537590477,
+    "wof:name":"Anakonzi",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.88182,
+    3.2826,
+    29.88182,
+    3.2826
+],
+  "geometry": {"coordinates":[29.88182,3.2826],"type":"Point"}
+}

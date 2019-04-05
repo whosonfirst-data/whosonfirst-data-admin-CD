@@ -1,0 +1,61 @@
+{
+  "id": 1209208983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41667,-3.65,26.41667,-3.65",
+    "geom:latitude":-3.65,
+    "geom:longitude":26.41667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kaswende",
+    "gn:country_code":"CD",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213891,
+    "gn:latitude":-3.65,
+    "gn:longitude":26.41667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kaswende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213891
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"15388f4efb21fe6dab2af70f2a794b6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209208983
+        }
+    ],
+    "wof:id":1209208983,
+    "wof:lastmodified":1536294354,
+    "wof:name":"Kaswende",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41667,
+    -3.65,
+    26.41667,
+    -3.65
+],
+  "geometry": {"coordinates":[26.41667,-3.65],"type":"Point"}
+}

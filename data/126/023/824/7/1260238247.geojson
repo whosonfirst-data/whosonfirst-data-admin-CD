@@ -1,0 +1,67 @@
+{
+  "id": 1260238247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73148,4.1869,21.73148,4.1869",
+    "geom:latitude":4.1869,
+    "geom:longitude":21.73148,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Igbo",
+    "gn:country_code":"CD",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216055,
+    "gn:latitude":4.1869,
+    "gn:longitude":21.73148,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Igbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216055
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2e8698bb8d088e51833a4a0051d96f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1260238247,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1260238247,
+    "wof:lastmodified":1536774005,
+    "wof:name":"Igbo",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73148,
+    4.1869,
+    21.73148,
+    4.1869
+],
+  "geometry": {"coordinates":[21.73148,4.1869],"type":"Point"}
+}

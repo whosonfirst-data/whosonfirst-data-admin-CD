@@ -1,0 +1,64 @@
+{
+  "id": 1209505747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97971,-4.71545,14.97971,-4.71545",
+    "geom:latitude":-4.71545,
+    "geom:longitude":14.97971,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kinkisu",
+    "gn:country_code":"CD",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443515,
+    "gn:latitude":-4.71545,
+    "gn:longitude":14.97971,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Kinkisu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinkasu Mozeba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443515
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"900e03b87f235898b348b204f3a4ea31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209505747
+        }
+    ],
+    "wof:id":1209505747,
+    "wof:lastmodified":1537590575,
+    "wof:name":"Kinkisu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97971,
+    -4.71545,
+    14.97971,
+    -4.71545
+],
+  "geometry": {"coordinates":[14.97971,-4.71545],"type":"Point"}
+}

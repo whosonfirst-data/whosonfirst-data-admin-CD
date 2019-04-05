@@ -1,0 +1,67 @@
+{
+  "id": 1276190579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.43482,-5.69273,16.43482,-5.69273",
+    "geom:latitude":-5.69273,
+    "geom:longitude":16.43482,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ilengwa",
+    "gn:country_code":"CD",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8255766,
+    "gn:latitude":-5.69273,
+    "gn:longitude":16.43482,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ilengwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8255766
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"127400185bb061bd9a555bb7c7ad5095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1276190579,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276190579,
+    "wof:lastmodified":1536969985,
+    "wof:name":"Ilengwa",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.43482,
+    -5.69273,
+    16.43482,
+    -5.69273
+],
+  "geometry": {"coordinates":[16.43482,-5.69273],"type":"Point"}
+}

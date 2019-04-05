@@ -1,0 +1,67 @@
+{
+  "id": 1243529687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7395,-6.13645,17.7395,-6.13645",
+    "geom:latitude":-6.13645,
+    "geom:longitude":17.7395,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ngungu-Zengi",
+    "gn:country_code":"CD",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434566,
+    "gn:latitude":-6.13645,
+    "gn:longitude":17.7395,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ngungu-Zengi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434566
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fade0090594ed2aa071b5c5b8dac6f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1243529687,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243529687,
+    "wof:lastmodified":1536685603,
+    "wof:name":"Ngungu-Zengi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7395,
+    -6.13645,
+    17.7395,
+    -6.13645
+],
+  "geometry": {"coordinates":[17.7395,-6.13645],"type":"Point"}
+}

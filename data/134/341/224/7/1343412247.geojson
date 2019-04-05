@@ -1,0 +1,67 @@
+{
+  "id": 1343412247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.67779,3.40391,18.67779,3.40391",
+    "geom:latitude":3.40391,
+    "geom:longitude":18.67779,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mayenge",
+    "gn:country_code":"CD",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312945,
+    "gn:latitude":3.40391,
+    "gn:longitude":18.67779,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mayenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312945
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"244f4d4050d4f62406222fc03c7fa9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1343412247,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343412247,
+    "wof:lastmodified":1536815212,
+    "wof:name":"Mayenge",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.67779,
+    3.40391,
+    18.67779,
+    3.40391
+],
+  "geometry": {"coordinates":[18.67779,3.40391],"type":"Point"}
+}

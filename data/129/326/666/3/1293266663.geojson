@@ -1,0 +1,67 @@
+{
+  "id": 1293266663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26272,-4.98488,18.26272,-4.98488",
+    "geom:latitude":-4.98488,
+    "geom:longitude":18.26272,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mosango",
+    "gn:country_code":"CD",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312514,
+    "gn:latitude":-4.98488,
+    "gn:longitude":18.26272,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mosango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312514
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f779140b8fbc35227b97525e5b44ffdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293266663,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293266663,
+    "wof:lastmodified":1536605460,
+    "wof:name":"Mosango",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26272,
+    -4.98488,
+    18.26272,
+    -4.98488
+],
+  "geometry": {"coordinates":[18.26272,-4.98488],"type":"Point"}
+}

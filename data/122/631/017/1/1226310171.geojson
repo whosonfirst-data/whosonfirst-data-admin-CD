@@ -1,0 +1,71 @@
+{
+  "id": 1226310171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55433,3.47716,20.55433,3.47716",
+    "geom:latitude":3.47716,
+    "geom:longitude":20.55433,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Boyasengese",
+    "gn:country_code":"CD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217919,
+    "gn:latitude":3.47716,
+    "gn:longitude":20.55433,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Boyasengese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boyasegese",
+        "Boyasengese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217919
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fadf709890526789662811f4a4ff384f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1226310171,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226310171,
+    "wof:lastmodified":1537590451,
+    "wof:name":"Boyasengese",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55433,
+    3.47716,
+    20.55433,
+    3.47716
+],
+  "geometry": {"coordinates":[20.55433,3.47716],"type":"Point"}
+}

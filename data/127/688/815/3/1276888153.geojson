@@ -1,0 +1,68 @@
+{
+  "id": 1276888153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.68333,-6.9,29.68333,-6.9",
+    "geom:latitude":-6.9,
+    "geom:longitude":29.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nanga",
+    "gn:country_code":"CD",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207433,
+    "gn:latitude":-6.9,
+    "gn:longitude":29.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207433
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"45b77ba4364c3ee0f84cbedaf8eccfb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":1276888153,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276888153,
+    "wof:lastmodified":1537590346,
+    "wof:name":"Nanga",
+    "wof:parent_id":85670015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.68333,
+    -6.9,
+    29.68333,
+    -6.9
+],
+  "geometry": {"coordinates":[29.68333,-6.9],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276505567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.48401,-7.07182,23.48401,-7.07182",
+    "geom:latitude":-7.07182,
+    "geom:longitude":23.48401,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Tubeya",
+    "gn:country_code":"CD",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204662,
+    "gn:latitude":-7.07182,
+    "gn:longitude":23.48401,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tubeya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tubeya-Ditu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204662
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a52b7e861f55e26c28b87cf4ae865f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1276505567,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1276505567,
+    "wof:lastmodified":1537590314,
+    "wof:name":"Tubeya",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48401,
+    -7.07182,
+    23.48401,
+    -7.07182
+],
+  "geometry": {"coordinates":[23.48401,-7.07182],"type":"Point"}
+}

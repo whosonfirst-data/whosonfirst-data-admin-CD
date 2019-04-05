@@ -1,0 +1,67 @@
+{
+  "id": 1243412345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.77792,-6.61394,21.77792,-6.61394",
+    "geom:latitude":-6.61394,
+    "geom:longitude":21.77792,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bumba",
+    "gn:country_code":"CD",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217737,
+    "gn:latitude":-6.61394,
+    "gn:longitude":21.77792,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217737
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7a36d501e647085af45dd24b685f3261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1243412345,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243412345,
+    "wof:lastmodified":1536853644,
+    "wof:name":"Bumba",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.77792,
+    -6.61394,
+    21.77792,
+    -6.61394
+],
+  "geometry": {"coordinates":[21.77792,-6.61394],"type":"Point"}
+}

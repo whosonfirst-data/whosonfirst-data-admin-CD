@@ -1,0 +1,61 @@
+{
+  "id": 1209680511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.1088,-4.06966,17.1088,-4.06966",
+    "geom:latitude":-4.06966,
+    "geom:longitude":17.1088,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kimbai",
+    "gn:country_code":"CD",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445563,
+    "gn:latitude":-4.06966,
+    "gn:longitude":17.1088,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kimbai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445563
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"661d3abbd8b19794b0af8dc2f9f3c666",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209680511
+        }
+    ],
+    "wof:id":1209680511,
+    "wof:lastmodified":1536279593,
+    "wof:name":"Kimbai",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.1088,
+    -4.06966,
+    17.1088,
+    -4.06966
+],
+  "geometry": {"coordinates":[17.1088,-4.06966],"type":"Point"}
+}

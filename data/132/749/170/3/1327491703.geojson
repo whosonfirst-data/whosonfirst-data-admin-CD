@@ -1,0 +1,67 @@
+{
+  "id": 1327491703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.66137,-6.57105,21.66137,-6.57105",
+    "geom:latitude":-6.57105,
+    "geom:longitude":21.66137,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mwamba-Nsadi",
+    "gn:country_code":"CD",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327371,
+    "gn:latitude":-6.57105,
+    "gn:longitude":21.66137,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwamba-Nsadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327371
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2c6248f4e63125dd60e81b5a72531f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1327491703,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327491703,
+    "wof:lastmodified":1537089800,
+    "wof:name":"Mwamba-Nsadi",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.66137,
+    -6.57105,
+    21.66137,
+    -6.57105
+],
+  "geometry": {"coordinates":[21.66137,-6.57105],"type":"Point"}
+}

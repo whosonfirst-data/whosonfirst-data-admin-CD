@@ -1,0 +1,67 @@
+{
+  "id": 1310362871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88574,2.38292,21.88574,2.38292",
+    "geom:latitude":2.38292,
+    "geom:longitude":21.88574,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yaliengu",
+    "gn:country_code":"CD",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277779,
+    "gn:latitude":2.38292,
+    "gn:longitude":21.88574,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yaliengu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277779
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c418138b290200dc5060af014931cf50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1310362871,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310362871,
+    "wof:lastmodified":1536623395,
+    "wof:name":"Yaliengu",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88574,
+    2.38292,
+    21.88574,
+    2.38292
+],
+  "geometry": {"coordinates":[21.88574,2.38292],"type":"Point"}
+}

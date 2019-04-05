@@ -1,0 +1,70 @@
+{
+  "id": 1226815693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.58704,1.07661,29.58704,1.07661",
+    "geom:latitude":1.07661,
+    "geom:longitude":29.58704,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bwana-Sura",
+    "gn:country_code":"CD",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217500,
+    "gn:latitude":1.07661,
+    "gn:longitude":29.58704,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bwana-Sura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bwana-Sura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217500
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ee18ec6e05c050a8a557ec29a84c06a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1226815693,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1226815693,
+    "wof:lastmodified":1537590446,
+    "wof:name":"Bwana-Sura",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.58704,
+    1.07661,
+    29.58704,
+    1.07661
+],
+  "geometry": {"coordinates":[29.58704,1.07661],"type":"Point"}
+}

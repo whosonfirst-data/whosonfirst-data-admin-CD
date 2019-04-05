@@ -1,0 +1,67 @@
+{
+  "id": 1243423115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3426,-9.08679,22.3426,-9.08679",
+    "geom:latitude":-9.08679,
+    "geom:longitude":22.3426,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwin Rijiy",
+    "gn:country_code":"CD",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461742,
+    "gn:latitude":-9.08679,
+    "gn:longitude":22.3426,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwin Rijiy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461742
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f19d374bd02ac73bdd26e7c5ed976195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1243423115,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243423115,
+    "wof:lastmodified":1536838205,
+    "wof:name":"Mwin Rijiy",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3426,
+    -9.08679,
+    22.3426,
+    -9.08679
+],
+  "geometry": {"coordinates":[22.3426,-9.08679],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276622635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72911,-2.64447,17.72911,-2.64447",
+    "geom:latitude":-2.64447,
+    "geom:longitude":17.72911,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mokolombu",
+    "gn:country_code":"CD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312656,
+    "gn:latitude":-2.64447,
+    "gn:longitude":17.72911,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mokolombu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312656
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9f06865d84ee963a64f995d6ffc69dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1276622635,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276622635,
+    "wof:lastmodified":1536888046,
+    "wof:name":"Mokolombu",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72911000000001,
+    -2.64447,
+    17.72911000000001,
+    -2.64447
+],
+  "geometry": {"coordinates":[17.72911000000001,-2.64447],"type":"Point"}
+}

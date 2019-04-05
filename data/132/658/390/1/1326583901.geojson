@@ -1,0 +1,67 @@
+{
+  "id": 1326583901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16085,-4.95957,24.16085,-4.95957",
+    "geom:latitude":-4.95957,
+    "geom:longitude":24.16085,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Mwana Bia",
+    "gn:country_code":"CD",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8250136,
+    "gn:latitude":-4.95957,
+    "gn:longitude":24.16085,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwana Bia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8250136
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"350fbdaeff1890d1486e5169004beef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1326583901,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1326583901,
+    "wof:lastmodified":1536909982,
+    "wof:name":"Mwana Bia",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16085,
+    -4.95957,
+    24.16085,
+    -4.95957
+],
+  "geometry": {"coordinates":[24.16085,-4.95957],"type":"Point"}
+}

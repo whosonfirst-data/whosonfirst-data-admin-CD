@@ -1,0 +1,67 @@
+{
+  "id": 1293930845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65125,3.5698,18.65125,3.5698",
+    "geom:latitude":3.5698,
+    "geom:longitude":18.65125,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Lebo",
+    "gn:country_code":"CD",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313806,
+    "gn:latitude":3.5698,
+    "gn:longitude":18.65125,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lebo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313806
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"35f6f5a02df592e1c9cb387e126dd207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1293930845,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293930845,
+    "wof:lastmodified":1536644531,
+    "wof:name":"Lebo",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65125,
+    3.5698,
+    18.65125,
+    3.5698
+],
+  "geometry": {"coordinates":[18.65125,3.5698],"type":"Point"}
+}

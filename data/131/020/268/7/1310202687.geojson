@@ -1,0 +1,72 @@
+{
+  "id": 1310202687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22617,-4.53275,15.22617,-4.53275",
+    "geom:latitude":-4.53275,
+    "geom:longitude":15.22617,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Franqueti",
+    "gn:country_code":"CD",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315811,
+    "gn:latitude":-4.53275,
+    "gn:longitude":15.22617,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Franqueti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Franquet",
+        "Fanquet",
+        "Franqueti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315811
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"009ee333ae23e39752d5ebb6652d887e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679225,
+            "locality_id":1310202687,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1310202687,
+    "wof:lastmodified":1537590544,
+    "wof:name":"Franqueti",
+    "wof:parent_id":1091679225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22617,
+    -4.53275,
+    15.22617,
+    -4.53275
+],
+  "geometry": {"coordinates":[15.22617,-4.53275],"type":"Point"}
+}

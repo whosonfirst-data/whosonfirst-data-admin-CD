@@ -1,0 +1,66 @@
+{
+  "id": 1209512099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.94608,-5.57822,15.94608,-5.57822",
+    "geom:latitude":-5.57822,
+    "geom:longitude":15.94608,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kifuakata",
+    "gn:country_code":"CD",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314805,
+    "gn:latitude":-5.57822,
+    "gn:longitude":15.94608,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kifuakata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kimfakata",
+        "Kimfwakata",
+        "Kifuakata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314805
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"063ebe5a95811c37af47f705af6a7a8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209512099
+        }
+    ],
+    "wof:id":1209512099,
+    "wof:lastmodified":1537590534,
+    "wof:name":"Kifuakata",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.94608,
+    -5.57822,
+    15.94608,
+    -5.57822
+],
+  "geometry": {"coordinates":[15.94608,-5.57822],"type":"Point"}
+}

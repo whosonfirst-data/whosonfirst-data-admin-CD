@@ -1,0 +1,70 @@
+{
+  "id": 1259414309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.7836,-1.19367,23.7836,-1.19367",
+    "geom:latitude":-1.19367,
+    "geom:longitude":23.7836,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Bosa-Monene",
+    "gn:country_code":"CD",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218115,
+    "gn:latitude":-1.19367,
+    "gn:longitude":23.7836,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bosa-Monene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bosamonene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218115
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a6e91d705f79f726ff56abd1860a6ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1259414309,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1259414309,
+    "wof:lastmodified":1537590453,
+    "wof:name":"Bosa-Monene",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.7836,
+    -1.19367,
+    23.7836,
+    -1.19367
+],
+  "geometry": {"coordinates":[23.7836,-1.19367],"type":"Point"}
+}

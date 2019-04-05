@@ -1,0 +1,67 @@
+{
+  "id": 1193098223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.92379,-7.25622,29.92379,-7.25622",
+    "geom:latitude":-7.25622,
+    "geom:longitude":29.92379,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mupini",
+    "gn:country_code":"CD",
+    "gn:dem":2049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946545,
+    "gn:latitude":-7.25622,
+    "gn:longitude":29.92379,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mupini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946545
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"03cda672ba95bd2bc380288d6f50175d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1193098223,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1193098223,
+    "wof:lastmodified":1536364485,
+    "wof:name":"Mupini",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.92379,
+    -7.25622,
+    29.92379,
+    -7.25622
+],
+  "geometry": {"coordinates":[29.92379,-7.25622],"type":"Point"}
+}

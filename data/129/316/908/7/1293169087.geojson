@@ -1,0 +1,71 @@
+{
+  "id": 1293169087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.63333,-2.1,19.63333,-2.1",
+    "geom:latitude":-2.1,
+    "geom:longitude":19.63333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Loanda",
+    "gn:country_code":"CD",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313678,
+    "gn:latitude":-2.1,
+    "gn:longitude":19.63333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Loanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boanda",
+        "Loanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313678
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8e6fc81c85185aa1d682ed779efa15c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1293169087,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293169087,
+    "wof:lastmodified":1537590523,
+    "wof:name":"Loanda",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.63333,
+    -2.1,
+    19.63333,
+    -2.1
+],
+  "geometry": {"coordinates":[19.63333,-2.1],"type":"Point"}
+}

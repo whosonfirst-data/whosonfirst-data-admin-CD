@@ -1,0 +1,71 @@
+{
+  "id": 1310052869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2874,2.4819,18.2874,2.4819",
+    "geom:latitude":2.4819,
+    "geom:longitude":18.2874,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Kake",
+    "gn:country_code":"CD",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315224,
+    "gn:latitude":2.4819,
+    "gn:longitude":18.2874,
+    "gn:modification_date":"2018-06-24",
+    "gn:name":"Kake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaho",
+        "Kake"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315224
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bb64a56afee2d67fcf6638ee5a57d066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1310052869,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310052869,
+    "wof:lastmodified":1537590538,
+    "wof:name":"Kake",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2874,
+    2.4819,
+    18.2874,
+    2.4819
+],
+  "geometry": {"coordinates":[18.2874,2.4819],"type":"Point"}
+}

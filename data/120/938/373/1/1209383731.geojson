@@ -1,0 +1,61 @@
+{
+  "id": 1209383731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.19321,-9.27406,24.19321,-9.27406",
+    "geom:latitude":-9.27406,
+    "geom:longitude":24.19321,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kamikambo",
+    "gn:country_code":"CD",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463457,
+    "gn:latitude":-9.27406,
+    "gn:longitude":24.19321,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kamikambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463457
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"53ba0b302d3862ce179865019b013cec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209383731
+        }
+    ],
+    "wof:id":1209383731,
+    "wof:lastmodified":1536288696,
+    "wof:name":"Kamikambo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.19321,
+    -9.27406,
+    24.19321,
+    -9.27406
+],
+  "geometry": {"coordinates":[24.19321,-9.27406],"type":"Point"}
+}

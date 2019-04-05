@@ -1,0 +1,61 @@
+{
+  "id": 1209347687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.23333,-0.46667,22.23333,-0.46667",
+    "geom:latitude":-0.46667,
+    "geom:longitude":22.23333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ikengolaka",
+    "gn:country_code":"CD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216024,
+    "gn:latitude":-0.46667,
+    "gn:longitude":22.23333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ikengolaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216024
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"76e971861d088fc2ffcf78f5ea60628d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209347687
+        }
+    ],
+    "wof:id":1209347687,
+    "wof:lastmodified":1536289855,
+    "wof:name":"Ikengolaka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.23333,
+    -0.46667,
+    22.23333,
+    -0.46667
+],
+  "geometry": {"coordinates":[22.23333,-0.46667],"type":"Point"}
+}

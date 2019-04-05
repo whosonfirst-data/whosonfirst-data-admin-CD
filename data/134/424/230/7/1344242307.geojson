@@ -1,0 +1,67 @@
+{
+  "id": 1344242307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91222,-4.63685,13.91222,-4.63685",
+    "geom:latitude":-4.63685,
+    "geom:longitude":13.91222,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bikenene",
+    "gn:country_code":"CD",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442742,
+    "gn:latitude":-4.63685,
+    "gn:longitude":13.91222,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Bikenene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442742
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e883526520e82d570b291f1d30864c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1344242307,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1344242307,
+    "wof:lastmodified":1536610622,
+    "wof:name":"Bikenene",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91222,
+    -4.63685,
+    13.91222,
+    -4.63685
+],
+  "geometry": {"coordinates":[13.91222,-4.63685],"type":"Point"}
+}

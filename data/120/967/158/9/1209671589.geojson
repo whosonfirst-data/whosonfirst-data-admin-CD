@@ -1,0 +1,64 @@
+{
+  "id": 1209671589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47568,-5.91402,22.47568,-5.91402",
+    "geom:latitude":-5.91402,
+    "geom:longitude":22.47568,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kanda-Nsapo",
+    "gn:country_code":"CD",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328937,
+    "gn:latitude":-5.91402,
+    "gn:longitude":22.47568,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kanda-Nsapo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kande-Nsapo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328937
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"90ff118aba7570f7bc6d032ab09f85e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209671589
+        }
+    ],
+    "wof:id":1209671589,
+    "wof:lastmodified":1537590573,
+    "wof:name":"Kanda-Nsapo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47568,
+    -5.91402,
+    22.47568,
+    -5.91402
+],
+  "geometry": {"coordinates":[22.47568,-5.91402],"type":"Point"}
+}

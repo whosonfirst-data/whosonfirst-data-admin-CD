@@ -1,0 +1,67 @@
+{
+  "id": 1243150945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.11352,-4.34213,28.11352,-4.34213",
+    "geom:latitude":-4.34213,
+    "geom:longitude":28.11352,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bilali",
+    "gn:country_code":"CD",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218919,
+    "gn:latitude":-4.34213,
+    "gn:longitude":28.11352,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Bilali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218919
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aadc7bae690e5741aa996686a5c8a2ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1243150945,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1243150945,
+    "wof:lastmodified":1536734815,
+    "wof:name":"Bilali",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.11352,
+    -4.34213,
+    28.11352,
+    -4.34213
+],
+  "geometry": {"coordinates":[28.11352,-4.34213],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242992893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08333,-5.05,13.08333,-5.05",
+    "geom:latitude":-5.05,
+    "geom:longitude":13.08333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nkondo-Mayika",
+    "gn:country_code":"CD",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311939,
+    "gn:latitude":-5.05,
+    "gn:longitude":13.08333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nkondo-Mayika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bianga",
+        "Nkondo",
+        "Nkondo Mayita",
+        "Nkondo-Mayika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311939
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"237753a92e7911f18648935153f52f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1242992893,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1242992893,
+    "wof:lastmodified":1537590506,
+    "wof:name":"Nkondo-Mayika",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08333,
+    -5.05,
+    13.08333,
+    -5.05
+],
+  "geometry": {"coordinates":[13.08333,-5.05],"type":"Point"}
+}

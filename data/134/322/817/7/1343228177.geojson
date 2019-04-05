@@ -1,0 +1,67 @@
+{
+  "id": 1343228177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.23297,-7.14619,21.23297,-7.14619",
+    "geom:latitude":-7.14619,
+    "geom:longitude":21.23297,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshikala",
+    "gn:country_code":"CD",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440337,
+    "gn:latitude":-7.14619,
+    "gn:longitude":21.23297,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshikala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440337
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f71a016a1e2ed668575bad132681dcb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1343228177,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343228177,
+    "wof:lastmodified":1537078538,
+    "wof:name":"Tshikala",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.23297,
+    -7.14619,
+    21.23297,
+    -7.14619
+],
+  "geometry": {"coordinates":[21.23297,-7.14619],"type":"Point"}
+}

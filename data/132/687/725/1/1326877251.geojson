@@ -1,0 +1,71 @@
+{
+  "id": 1326877251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.34611,-5.35776,27.34611,-5.35776",
+    "geom:latitude":-5.35776,
+    "geom:longitude":27.34611,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Maziombo-Kiombo",
+    "gn:country_code":"CD",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209333,
+    "gn:latitude":-5.35776,
+    "gn:longitude":27.34611,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Maziombo-Kiombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maziombo",
+        "Maziombo-Kiombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209333
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fa98873b817347a9b65cc0f8be5512d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1326877251,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1326877251,
+    "wof:lastmodified":1537590369,
+    "wof:name":"Maziombo-Kiombo",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.34611,
+    -5.35776,
+    27.34611,
+    -5.35776
+],
+  "geometry": {"coordinates":[27.34611,-5.35776],"type":"Point"}
+}

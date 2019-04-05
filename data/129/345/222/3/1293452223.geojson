@@ -1,0 +1,67 @@
+{
+  "id": 1293452223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.94078,-7.80213,18.94078,-7.80213",
+    "geom:latitude":-7.80213,
+    "geom:longitude":18.94078,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shamalenge",
+    "gn:country_code":"CD",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311455,
+    "gn:latitude":-7.80213,
+    "gn:longitude":18.94078,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shamalenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311455
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ce5f08ccf52a3ae353f4e39673d3ab44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1293452223,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293452223,
+    "wof:lastmodified":1536837014,
+    "wof:name":"Shamalenge",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94078,
+    -7.80213,
+    18.94078,
+    -7.80213
+],
+  "geometry": {"coordinates":[18.94078,-7.80213],"type":"Point"}
+}

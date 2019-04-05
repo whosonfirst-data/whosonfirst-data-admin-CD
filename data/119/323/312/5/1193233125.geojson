@@ -1,0 +1,67 @@
+{
+  "id": 1193233125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.43975,3.40892,20.43975,3.40892",
+    "geom:latitude":3.40892,
+    "geom:longitude":20.43975,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bagaliena",
+    "gn:country_code":"CD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219918,
+    "gn:latitude":3.40892,
+    "gn:longitude":20.43975,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bagaliena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219918
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"028847e3cc0752f52cba53aa4ba187f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1193233125,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1193233125,
+    "wof:lastmodified":1536364503,
+    "wof:name":"Bagaliena",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.43975,
+    3.40892,
+    20.43975,
+    3.40892
+],
+  "geometry": {"coordinates":[20.43975,3.40892],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209369685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61596,3.62082,22.61596,3.62082",
+    "geom:latitude":3.62082,
+    "geom:longitude":22.61596,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Vango",
+    "gn:country_code":"CD",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204395,
+    "gn:latitude":3.62082,
+    "gn:longitude":22.61596,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Vango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vangu",
+        "Vango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204395
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"37ab06dd8fd05c5f06ed2de4f9d2f85a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209369685
+        }
+    ],
+    "wof:id":1209369685,
+    "wof:lastmodified":1537590312,
+    "wof:name":"Vango",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61596,
+    3.62082,
+    22.61596,
+    3.62082
+],
+  "geometry": {"coordinates":[22.61596,3.62082],"type":"Point"}
+}

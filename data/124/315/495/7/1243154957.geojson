@@ -1,0 +1,67 @@
+{
+  "id": 1243154957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.49426,-8.17953,26.49426,-8.17953",
+    "geom:latitude":-8.17953,
+    "geom:longitude":26.49426,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kiwafwene",
+    "gn:country_code":"CD",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10041045,
+    "gn:latitude":-8.17953,
+    "gn:longitude":26.49426,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kiwafwene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10041045
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"82dfc92ebdb50d493fa7b4b8bf11977c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1243154957,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243154957,
+    "wof:lastmodified":1536729237,
+    "wof:name":"Kiwafwene",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.49426,
+    -8.17953,
+    26.49426,
+    -8.17953
+],
+  "geometry": {"coordinates":[26.49426,-8.17953],"type":"Point"}
+}

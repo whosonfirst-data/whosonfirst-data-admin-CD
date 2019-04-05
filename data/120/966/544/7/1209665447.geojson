@@ -1,0 +1,61 @@
+{
+  "id": 1209665447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.22426,1.4603,25.22426,1.4603",
+    "geom:latitude":1.4603,
+    "geom:longitude":25.22426,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Baniowe",
+    "gn:country_code":"CD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149767,
+    "gn:latitude":1.4603,
+    "gn:longitude":25.22426,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Baniowe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149767
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"952944b06f638840a56f6b3b12cda17a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209665447
+        }
+    ],
+    "wof:id":1209665447,
+    "wof:lastmodified":1536280114,
+    "wof:name":"Baniowe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.22426,
+    1.4603,
+    25.22426,
+    1.4603
+],
+  "geometry": {"coordinates":[25.22426,1.4603],"type":"Point"}
+}

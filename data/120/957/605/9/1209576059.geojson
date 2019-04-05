@@ -1,0 +1,61 @@
+{
+  "id": 1209576059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.0049,-1.10044,24.0049,-1.10044",
+    "geom:latitude":-1.10044,
+    "geom:longitude":24.0049,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Litale",
+    "gn:country_code":"CD",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211717,
+    "gn:latitude":-1.10044,
+    "gn:longitude":24.0049,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Litale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211717
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1faea22f845d00d2b2d08cbcbf773924",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209576059
+        }
+    ],
+    "wof:id":1209576059,
+    "wof:lastmodified":1536282935,
+    "wof:name":"Litale",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.0049,
+    -1.10044,
+    24.0049,
+    -1.10044
+],
+  "geometry": {"coordinates":[24.0049,-1.10044],"type":"Point"}
+}

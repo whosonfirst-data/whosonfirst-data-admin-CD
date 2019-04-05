@@ -1,0 +1,67 @@
+{
+  "id": 1360071517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.47431,3.27954,26.47431,3.27954",
+    "geom:latitude":3.27954,
+    "geom:longitude":26.47431,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kilimakamba",
+    "gn:country_code":"CD",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213044,
+    "gn:latitude":3.27954,
+    "gn:longitude":26.47431,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kilimakamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213044
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"af2aef0c3b2c5a408e4a2a94f1770001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1360071517,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360071517,
+    "wof:lastmodified":1536965081,
+    "wof:name":"Kilimakamba",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.47431,
+    3.27954,
+    26.47431,
+    3.27954
+],
+  "geometry": {"coordinates":[26.47431,3.27954],"type":"Point"}
+}

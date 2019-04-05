@@ -1,0 +1,72 @@
+{
+  "id": 1226350987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.44194,1.04749,18.44194,1.04749",
+    "geom:latitude":1.04749,
+    "geom:longitude":18.44194,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bodjaba",
+    "gn:country_code":"CD",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316978,
+    "gn:latitude":1.04749,
+    "gn:longitude":18.44194,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Bodjaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badjaba",
+        "Bodjaba",
+        "Lobengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316978
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c7adad0e107389c1c8469910edcfdb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1226350987,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226350987,
+    "wof:lastmodified":1537590559,
+    "wof:name":"Bodjaba",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44194,
+    1.04749,
+    18.44194,
+    1.04749
+],
+  "geometry": {"coordinates":[18.44194,1.04749],"type":"Point"}
+}

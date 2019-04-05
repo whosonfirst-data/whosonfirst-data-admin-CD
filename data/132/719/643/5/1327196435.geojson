@@ -1,0 +1,67 @@
+{
+  "id": 1327196435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.32233,-5.72368,17.32233,-5.72368",
+    "geom:latitude":-5.72368,
+    "geom:longitude":17.32233,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kabemba Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274750,
+    "gn:latitude":-5.72368,
+    "gn:longitude":17.32233,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabemba Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274750
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9dfe7a18317a0a1372b09820e374553d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1327196435,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327196435,
+    "wof:lastmodified":1537020741,
+    "wof:name":"Kabemba Premiere",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.32232999999999,
+    -5.72368,
+    17.32232999999999,
+    -5.72368
+],
+  "geometry": {"coordinates":[17.32232999999999,-5.72368],"type":"Point"}
+}

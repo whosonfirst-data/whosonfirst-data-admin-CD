@@ -1,0 +1,67 @@
+{
+  "id": 1226317885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.47288,-5.1079,16.47288,-5.1079",
+    "geom:latitude":-5.1079,
+    "geom:longitude":16.47288,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kipanga",
+    "gn:country_code":"CD",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8255793,
+    "gn:latitude":-5.1079,
+    "gn:longitude":16.47288,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kipanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8255793
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ae2ca24a3e96dd7e66134cad370e5911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226317885,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226317885,
+    "wof:lastmodified":1536828771,
+    "wof:name":"Kipanga",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.47288,
+    -5.1079,
+    16.47288,
+    -5.1079
+],
+  "geometry": {"coordinates":[16.47288,-5.1079],"type":"Point"}
+}

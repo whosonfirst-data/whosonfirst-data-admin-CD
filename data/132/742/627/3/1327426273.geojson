@@ -1,0 +1,67 @@
+{
+  "id": 1327426273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76074,-4.30153,15.76074,-4.30153",
+    "geom:latitude":-4.30153,
+    "geom:longitude":15.76074,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kingankati",
+    "gn:country_code":"CD",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314426,
+    "gn:latitude":-4.30153,
+    "gn:longitude":15.76074,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kingankati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314426
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"55b676423aba3cd98d4e7177aa5bfe38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1327426273,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1327426273,
+    "wof:lastmodified":1536689797,
+    "wof:name":"Kingankati",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76074,
+    -4.30153,
+    15.76074,
+    -4.30153
+],
+  "geometry": {"coordinates":[15.76074,-4.30153],"type":"Point"}
+}

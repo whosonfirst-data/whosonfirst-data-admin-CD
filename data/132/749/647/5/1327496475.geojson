@@ -1,0 +1,67 @@
+{
+  "id": 1327496475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24893,-6.14431,21.24893,-6.14431",
+    "geom:latitude":-6.14431,
+    "geom:longitude":21.24893,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kasangisha",
+    "gn:country_code":"CD",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214091,
+    "gn:latitude":-6.14431,
+    "gn:longitude":21.24893,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kasangisha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214091
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"180d8422df759923d530ad68b6b4a62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1327496475,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327496475,
+    "wof:lastmodified":1537082958,
+    "wof:name":"Kasangisha",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24893,
+    -6.14431,
+    21.24893,
+    -6.14431
+],
+  "geometry": {"coordinates":[21.24893,-6.14431],"type":"Point"}
+}

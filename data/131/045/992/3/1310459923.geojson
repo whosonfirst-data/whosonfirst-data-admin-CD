@@ -1,0 +1,67 @@
+{
+  "id": 1310459923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76428,-3.50485,18.76428,-3.50485",
+    "geom:latitude":-3.50485,
+    "geom:longitude":18.76428,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Matoko",
+    "gn:country_code":"CD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8446881,
+    "gn:latitude":-3.50485,
+    "gn:longitude":18.76428,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Matoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8446881
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"83e2582a989cc9a4c6e9d9a17d8d1e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1310459923,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310459923,
+    "wof:lastmodified":1536982102,
+    "wof:name":"Matoko",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76428,
+    -3.50485,
+    18.76428,
+    -3.50485
+],
+  "geometry": {"coordinates":[18.76428,-3.50485],"type":"Point"}
+}

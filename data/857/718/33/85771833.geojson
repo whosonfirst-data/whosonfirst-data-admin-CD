@@ -1,0 +1,106 @@
+{
+  "id": 85771833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10491805.314608,
+    "geom:bbox":"15.306911,-4.310351,15.306911,-4.310351",
+    "geom:latitude":-4.310351,
+    "geom:longitude":15.306911,
+    "gn:id":"",
+    "iso:country":"CD",
+    "lbl:latitude":-4.310351,
+    "lbl:longitude":15.306911,
+    "mps:latitude":-4.302352,
+    "mps:longitude":15.302584,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:fra_x_colloquial":[
+        "Leo-Est"
+    ],
+    "name:fra_x_preferred":[
+        "L\u00e9o-Est"
+    ],
+    "name:unk_x_variant":[
+        "L\u00e9o-Est"
+    ],
+    "qs:gn_adm0_cc":"CD",
+    "qs:gn_id":0,
+    "qs:gn_local":2314302,
+    "qs:gn_nam_loc":"Kinshasa, Kinshasa, CD",
+    "qs:gn_namadm1":"06",
+    "qs:local_max":1134,
+    "qs:local_sum":1607,
+    "qs:localhoods":3,
+    "qs:name":"L\u00e9o-Est",
+    "qs:name_adm0":"R\u00e9publique D\u00e9mocratique du Congo",
+    "qs:name_adm1":"Kinshasa",
+    "qs:name_local":"Kinshasa",
+    "qs:photo_max":61,
+    "qs:photo_sum":144,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424780,
+    "qs:woe_adm1":2344982,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1290062,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        1091679225,
+        85669997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1291033,
+        "qs:id":1115216
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8afd1e6f5152e8b2aa09b24df6820737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679225,
+            "locality_id":-1,
+            "neighbourhood_id":85771833,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":85771833,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1531859468,
+    "wof:name":"L\u00e9o-Est",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.306911,
+    -4.310351,
+    15.306911,
+    -4.310351
+],
+  "geometry": {"coordinates":[15.306911,-4.310351],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209628221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79975,-0.41813,18.79975,-0.41813",
+    "geom:latitude":-0.41813,
+    "geom:longitude":18.79975,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Boalangombe",
+    "gn:country_code":"CD",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317050,
+    "gn:latitude":-0.41813,
+    "gn:longitude":18.79975,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Boalangombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bwalangombe",
+        "Boalangombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317050
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1fa293d3f71f9ec9474a1349f24d8615",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209628221
+        }
+    ],
+    "wof:id":1209628221,
+    "wof:lastmodified":1537590560,
+    "wof:name":"Boalangombe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79975,
+    -0.41813,
+    18.79975,
+    -0.41813
+],
+  "geometry": {"coordinates":[18.79975,-0.41813],"type":"Point"}
+}

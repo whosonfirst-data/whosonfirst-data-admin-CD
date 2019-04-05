@@ -1,0 +1,67 @@
+{
+  "id": 1292947433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.35874,0.51659,24.35874,0.51659",
+    "geom:latitude":0.51659,
+    "geom:longitude":24.35874,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yasendu",
+    "gn:country_code":"CD",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203588,
+    "gn:latitude":0.51659,
+    "gn:longitude":24.35874,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yasendu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203588
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1b423e0e983f4e5e66885e0aa5053550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1292947433,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1292947433,
+    "wof:lastmodified":1537065626,
+    "wof:name":"Yasendu",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.35874,
+    0.51659,
+    24.35874,
+    0.51659
+],
+  "geometry": {"coordinates":[24.35874,0.51659],"type":"Point"}
+}

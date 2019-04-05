@@ -1,0 +1,67 @@
+{
+  "id": 1327096959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.4252,-7.53881,18.4252,-7.53881",
+    "geom:latitude":-7.53881,
+    "geom:longitude":18.4252,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shauta",
+    "gn:country_code":"CD",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311380,
+    "gn:latitude":-7.53881,
+    "gn:longitude":18.4252,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shauta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311380
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2a2fd9323d6ab1d871b8ec49ff9f2b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1327096959,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327096959,
+    "wof:lastmodified":1536667475,
+    "wof:name":"Shauta",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.4252,
+    -7.53881,
+    18.4252,
+    -7.53881
+],
+  "geometry": {"coordinates":[18.4252,-7.53881],"type":"Point"}
+}

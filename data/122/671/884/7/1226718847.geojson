@@ -1,0 +1,67 @@
+{
+  "id": 1226718847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.79293,-10.47608,22.79293,-10.47608",
+    "geom:latitude":-10.47608,
+    "geom:longitude":22.79293,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Nguji",
+    "gn:country_code":"CD",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463541,
+    "gn:latitude":-10.47608,
+    "gn:longitude":22.79293,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nguji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463541
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e5477a85b7047d78c97a2de86d400f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226718847,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226718847,
+    "wof:lastmodified":1536754437,
+    "wof:name":"Nguji",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79293,
+    -10.47608,
+    22.79293,
+    -10.47608
+],
+  "geometry": {"coordinates":[22.79293,-10.47608],"type":"Point"}
+}

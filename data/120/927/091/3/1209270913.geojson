@@ -1,0 +1,65 @@
+{
+  "id": 1209270913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.06592,-10.18272,23.06592,-10.18272",
+    "geom:latitude":-10.18272,
+    "geom:longitude":23.06592,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kazua",
+    "gn:country_code":"CD",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922881,
+    "gn:latitude":-10.18272,
+    "gn:longitude":23.06592,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kazua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kazau",
+        "Kazua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922881
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0578b4690e7c93d7bebb36e0b89cd26f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209270913
+        }
+    ],
+    "wof:id":1209270913,
+    "wof:lastmodified":1537590489,
+    "wof:name":"Kazua",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06592,
+    -10.18272,
+    23.06592,
+    -10.18272
+],
+  "geometry": {"coordinates":[23.06592,-10.18272],"type":"Point"}
+}

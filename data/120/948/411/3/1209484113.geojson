@@ -1,0 +1,65 @@
+{
+  "id": 1209484113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47723,-8.04276,22.47723,-8.04276",
+    "geom:latitude":-8.04276,
+    "geom:longitude":22.47723,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Dibungu",
+    "gn:country_code":"CD",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217330,
+    "gn:latitude":-8.04276,
+    "gn:longitude":22.47723,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dibungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dibungo",
+        "Dibungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217330
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"75edf995cdd70e05e461b089ca99b059",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209484113
+        }
+    ],
+    "wof:id":1209484113,
+    "wof:lastmodified":1537590445,
+    "wof:name":"Dibungu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47723,
+    -8.04276,
+    22.47723,
+    -8.04276
+],
+  "geometry": {"coordinates":[22.47723,-8.04276],"type":"Point"}
+}

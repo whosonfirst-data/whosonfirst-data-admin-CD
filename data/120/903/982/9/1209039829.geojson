@@ -1,0 +1,61 @@
+{
+  "id": 1209039829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81667,-1.05,21.81667,-1.05",
+    "geom:latitude":-1.05,
+    "geom:longitude":21.81667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Ibali",
+    "gn:country_code":"CD",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216109,
+    "gn:latitude":-1.05,
+    "gn:longitude":21.81667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ibali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216109
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"52a28ac89061d4b70380d6a4a1a80484",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209039829
+        }
+    ],
+    "wof:id":1209039829,
+    "wof:lastmodified":1536299580,
+    "wof:name":"Ibali",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81667,
+    -1.05,
+    21.81667,
+    -1.05
+],
+  "geometry": {"coordinates":[21.81667,-1.05],"type":"Point"}
+}

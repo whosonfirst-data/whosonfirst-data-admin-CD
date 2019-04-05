@@ -1,0 +1,67 @@
+{
+  "id": 1343919337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58165,2.33305,18.58165,2.33305",
+    "geom:latitude":2.33305,
+    "geom:longitude":18.58165,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mosaku",
+    "gn:country_code":"CD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8244508,
+    "gn:latitude":2.33305,
+    "gn:longitude":18.58165,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Mosaku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8244508
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f609894ccd9dd0a6cf50c4cc0a2b0b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1343919337,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343919337,
+    "wof:lastmodified":1537076370,
+    "wof:name":"Mosaku",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58165,
+    2.33305,
+    18.58165,
+    2.33305
+],
+  "geometry": {"coordinates":[18.58165,2.33305],"type":"Point"}
+}

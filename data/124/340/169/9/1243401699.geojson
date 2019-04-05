@@ -1,0 +1,67 @@
+{
+  "id": 1243401699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6797,3.06531,18.6797,3.06531",
+    "geom:latitude":3.06531,
+    "geom:longitude":18.6797,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mobenga",
+    "gn:country_code":"CD",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312720,
+    "gn:latitude":3.06531,
+    "gn:longitude":18.6797,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mobenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312720
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7e9436ccad19b6c77c4c7fc686bb7d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1243401699,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1243401699,
+    "wof:lastmodified":1536868900,
+    "wof:name":"Mobenga",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6797,
+    3.06531,
+    18.6797,
+    3.06531
+],
+  "geometry": {"coordinates":[18.6797,3.06531],"type":"Point"}
+}

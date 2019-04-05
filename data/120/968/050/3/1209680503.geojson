@@ -1,0 +1,61 @@
+{
+  "id": 1209680503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.04971,-6.03411,19.04971,-6.03411",
+    "geom:latitude":-6.03411,
+    "geom:longitude":19.04971,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kabaka",
+    "gn:country_code":"CD",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9528739,
+    "gn:latitude":-6.03411,
+    "gn:longitude":19.04971,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9528739
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4d82bf2597a57e659eb6e552637e710e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209680503
+        }
+    ],
+    "wof:id":1209680503,
+    "wof:lastmodified":1536279594,
+    "wof:name":"Kabaka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.04971,
+    -6.03411,
+    19.04971,
+    -6.03411
+],
+  "geometry": {"coordinates":[19.04971,-6.03411],"type":"Point"}
+}

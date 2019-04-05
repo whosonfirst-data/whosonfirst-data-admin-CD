@@ -1,0 +1,61 @@
+{
+  "id": 1209085549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.46833,3.0152,23.46833,3.0152",
+    "geom:latitude":3.0152,
+    "geom:longitude":23.46833,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Libono",
+    "gn:country_code":"CD",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8197756,
+    "gn:latitude":3.0152,
+    "gn:longitude":23.46833,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Libono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8197756
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d29467f11b94043b23b457af347dd8fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209085549
+        }
+    ],
+    "wof:id":1209085549,
+    "wof:lastmodified":1536298198,
+    "wof:name":"Libono",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.46833,
+    3.0152,
+    23.46833,
+    3.0152
+],
+  "geometry": {"coordinates":[23.46833,3.0152],"type":"Point"}
+}

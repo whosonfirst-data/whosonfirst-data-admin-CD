@@ -1,0 +1,72 @@
+{
+  "id": 1344103345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.24199,1.28088,24.24199,1.28088",
+    "geom:latitude":1.28088,
+    "geom:longitude":24.24199,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bobati Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218750,
+    "gn:latitude":1.28088,
+    "gn:longitude":24.24199,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bobati Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bobati",
+        "Bobati I",
+        "Bobati Premi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218750
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"724cfc1040b819416c99bed1f9b8ac27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1344103345,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1344103345,
+    "wof:lastmodified":1537590459,
+    "wof:name":"Bobati Premiere",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.24199,
+    1.28088,
+    24.24199,
+    1.28088
+],
+  "geometry": {"coordinates":[24.24199,1.28088],"type":"Point"}
+}

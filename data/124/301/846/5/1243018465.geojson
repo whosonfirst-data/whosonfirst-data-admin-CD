@@ -1,0 +1,67 @@
+{
+  "id": 1243018465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83124,0.88991,23.83124,0.88991",
+    "geom:latitude":0.88991,
+    "geom:longitude":23.83124,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Boholo",
+    "gn:country_code":"CD",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218609,
+    "gn:latitude":0.88991,
+    "gn:longitude":23.83124,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Boholo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218609
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"34c98216dc05afbc0775276a86bfcb65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1243018465,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243018465,
+    "wof:lastmodified":1536926306,
+    "wof:name":"Boholo",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83124,
+    0.88991,
+    23.83124,
+    0.88991
+],
+  "geometry": {"coordinates":[23.83124,0.88991],"type":"Point"}
+}

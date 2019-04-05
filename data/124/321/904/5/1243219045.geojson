@@ -1,0 +1,67 @@
+{
+  "id": 1243219045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.38517,2.85533,22.38517,2.85533",
+    "geom:latitude":2.85533,
+    "geom:longitude":22.38517,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Akete",
+    "gn:country_code":"CD",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279651,
+    "gn:latitude":2.85533,
+    "gn:longitude":22.38517,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Akete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279651
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"90b6b683c28a9e1d89818b2381935680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1243219045,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1243219045,
+    "wof:lastmodified":1536635202,
+    "wof:name":"Akete",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.38517,
+    2.85533,
+    22.38517,
+    2.85533
+],
+  "geometry": {"coordinates":[22.38517,2.85533],"type":"Point"}
+}

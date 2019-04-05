@@ -1,0 +1,73 @@
+{
+  "id": 1309764611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3281,-10.11984,22.3281,-10.11984",
+    "geom:latitude":-10.11984,
+    "geom:longitude":22.3281,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mafunda Kasai",
+    "gn:country_code":"CD",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922980,
+    "gn:latitude":-10.11984,
+    "gn:longitude":22.3281,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mafunda Kasai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabaji",
+        "Kasadji",
+        "Kasai",
+        "Mafunda Kasai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922980
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e766871f554e5218c346571c25e1ac66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1309764611,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1309764611,
+    "wof:lastmodified":1537590491,
+    "wof:name":"Mafunda Kasai",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3281,
+    -10.11984,
+    22.3281,
+    -10.11984
+],
+  "geometry": {"coordinates":[22.3281,-10.11984],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209181961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.48491,2.76948,21.48491,2.76948",
+    "geom:latitude":2.76948,
+    "geom:longitude":21.48491,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Libombo",
+    "gn:country_code":"CD",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211932,
+    "gn:latitude":2.76948,
+    "gn:longitude":21.48491,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Libombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211932
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2fd5e1bc93856a069651ebf3d3b14cbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209181961
+        }
+    ],
+    "wof:id":1209181961,
+    "wof:lastmodified":1536295229,
+    "wof:name":"Libombo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.48491,
+    2.76948,
+    21.48491,
+    2.76948
+],
+  "geometry": {"coordinates":[21.48491,2.76948],"type":"Point"}
+}

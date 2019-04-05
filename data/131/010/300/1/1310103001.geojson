@@ -1,0 +1,67 @@
+{
+  "id": 1310103001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.59542,-4.03274,15.59542,-4.03274",
+    "geom:latitude":-4.03274,
+    "geom:longitude":15.59542,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bombala",
+    "gn:country_code":"CD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316684,
+    "gn:latitude":-4.03274,
+    "gn:longitude":15.59542,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Bombala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316684
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"889963e8208be444f60049463c9fa782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1310103001,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1310103001,
+    "wof:lastmodified":1536999377,
+    "wof:name":"Bombala",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.59542,
+    -4.03274,
+    15.59542,
+    -4.03274
+],
+  "geometry": {"coordinates":[15.59542,-4.03274],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360242823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43333,-2.15,19.43333,-2.15",
+    "geom:latitude":-2.15,
+    "geom:longitude":19.43333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Besenge",
+    "gn:country_code":"CD",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317146,
+    "gn:latitude":-2.15,
+    "gn:longitude":19.43333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Besenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317146
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"39b50c351f0fa2c36f1ccb3528315534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1360242823,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1360242823,
+    "wof:lastmodified":1536718588,
+    "wof:name":"Besenge",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43333,
+    -2.15,
+    19.43333,
+    -2.15
+],
+  "geometry": {"coordinates":[19.43333,-2.15],"type":"Point"}
+}

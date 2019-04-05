@@ -1,0 +1,67 @@
+{
+  "id": 1276830395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.79512,-7.47023,26.79512,-7.47023",
+    "geom:latitude":-7.47023,
+    "geom:longitude":26.79512,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kibondwe",
+    "gn:country_code":"CD",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213270,
+    "gn:latitude":-7.47023,
+    "gn:longitude":26.79512,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kibondwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213270
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"528a0c817f0f3fc4c5f6891cefb19173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1276830395,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276830395,
+    "wof:lastmodified":1536607175,
+    "wof:name":"Kibondwe",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.79512,
+    -7.47023,
+    26.79512,
+    -7.47023
+],
+  "geometry": {"coordinates":[26.79512,-7.47023],"type":"Point"}
+}

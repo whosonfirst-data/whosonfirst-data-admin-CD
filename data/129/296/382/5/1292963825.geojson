@@ -1,0 +1,67 @@
+{
+  "id": 1292963825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25536,-6.13658,20.25536,-6.13658",
+    "geom:latitude":-6.13658,
+    "geom:longitude":20.25536,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshingila",
+    "gn:country_code":"CD",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204828,
+    "gn:latitude":-6.13658,
+    "gn:longitude":20.25536,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshingila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204828
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8a81d8244c18b6c303d759bf0871e349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1292963825,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1292963825,
+    "wof:lastmodified":1537043261,
+    "wof:name":"Tshingila",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25536,
+    -6.13658,
+    20.25536,
+    -6.13658
+],
+  "geometry": {"coordinates":[20.25536,-6.13658],"type":"Point"}
+}

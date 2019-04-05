@@ -1,0 +1,71 @@
+{
+  "id": 1310218077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29529,-0.53109,19.29529,-0.53109",
+    "geom:latitude":-0.53109,
+    "geom:longitude":19.29529,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bolena-Boendjola",
+    "gn:country_code":"CD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316775,
+    "gn:latitude":-0.53109,
+    "gn:longitude":19.29529,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Bolena-Boendjola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bolena Wendjola",
+        "Bolena-Boendjola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316775
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"272bf006513eea8e76a08eac2958f750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1310218077,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310218077,
+    "wof:lastmodified":1537590557,
+    "wof:name":"Bolena-Boendjola",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29529,
+    -0.53109,
+    19.29529,
+    -0.53109
+],
+  "geometry": {"coordinates":[19.29529,-0.53109],"type":"Point"}
+}

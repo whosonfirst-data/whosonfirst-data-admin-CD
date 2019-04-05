@@ -1,0 +1,72 @@
+{
+  "id": 1327091865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.69254,2.1999,22.69254,2.1999",
+    "geom:latitude":2.1999,
+    "geom:longitude":22.69254,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yaliombo",
+    "gn:country_code":"CD",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203565,
+    "gn:latitude":2.1999,
+    "gn:longitude":22.69254,
+    "gn:modification_date":"2018-07-19",
+    "gn:name":"Yaliombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yakombo",
+        "Yatiombo",
+        "Yaliombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203565
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b92a3c3cf451d4351bac34bba8971329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1327091865,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327091865,
+    "wof:lastmodified":1537590303,
+    "wof:name":"Yaliombo",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69254,
+    2.1999,
+    22.69254,
+    2.1999
+],
+  "geometry": {"coordinates":[22.69254,2.1999],"type":"Point"}
+}

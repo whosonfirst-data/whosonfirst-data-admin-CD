@@ -1,0 +1,61 @@
+{
+  "id": 1209481309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15527,-5.74507,21.15527,-5.74507",
+    "geom:latitude":-5.74507,
+    "geom:longitude":21.15527,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mukuandianga",
+    "gn:country_code":"CD",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277321,
+    "gn:latitude":-5.74507,
+    "gn:longitude":21.15527,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mukuandianga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277321
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a3cd70317fce9f37eb9e6e4a0aab45c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209481309
+        }
+    ],
+    "wof:id":1209481309,
+    "wof:lastmodified":1536285774,
+    "wof:name":"Mukuandianga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15527,
+    -5.74507,
+    21.15527,
+    -5.74507
+],
+  "geometry": {"coordinates":[21.15527,-5.74507],"type":"Point"}
+}

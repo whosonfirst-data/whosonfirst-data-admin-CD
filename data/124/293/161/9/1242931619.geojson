@@ -1,0 +1,67 @@
+{
+  "id": 1242931619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4194,-5.56358,22.4194,-5.56358",
+    "geom:latitude":-5.56358,
+    "geom:longitude":22.4194,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshibwabwa",
+    "gn:country_code":"CD",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413029,
+    "gn:latitude":-5.56358,
+    "gn:longitude":22.4194,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshibwabwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413029
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a1316115f848bac1e0c077dad866b727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1242931619,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1242931619,
+    "wof:lastmodified":1537048872,
+    "wof:name":"Tshibwabwa",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4194,
+    -5.56358,
+    22.4194,
+    -5.56358
+],
+  "geometry": {"coordinates":[22.4194,-5.56358],"type":"Point"}
+}

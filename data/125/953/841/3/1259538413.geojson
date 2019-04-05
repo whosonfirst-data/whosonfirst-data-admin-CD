@@ -1,0 +1,72 @@
+{
+  "id": 1259538413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60947,4.28026,20.60947,4.28026",
+    "geom:latitude":4.28026,
+    "geom:longitude":20.60947,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bolangu",
+    "gn:country_code":"CD",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218441,
+    "gn:latitude":4.28026,
+    "gn:longitude":20.60947,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bolangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balangu",
+        "Balancu",
+        "Bolangu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218441
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"198dd2fbc5360c5456dbbc57e8efbb52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1259538413,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1259538413,
+    "wof:lastmodified":1537590455,
+    "wof:name":"Bolangu",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60947,
+    4.28026,
+    20.60947,
+    4.28026
+],
+  "geometry": {"coordinates":[20.60947,4.28026],"type":"Point"}
+}

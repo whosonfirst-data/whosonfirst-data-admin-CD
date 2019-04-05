@@ -1,0 +1,61 @@
+{
+  "id": 1209489065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.73501,-12.00283,28.73501,-12.00283",
+    "geom:latitude":-12.00283,
+    "geom:longitude":28.73501,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mwenda",
+    "gn:country_code":"CD",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922344,
+    "gn:latitude":-12.00283,
+    "gn:longitude":28.73501,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mwenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922344
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"60ee1a41b4c4b94a0c9892e37e87c3e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209489065
+        }
+    ],
+    "wof:id":1209489065,
+    "wof:lastmodified":1536285544,
+    "wof:name":"Mwenda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.73501,
+    -12.00283,
+    28.73501,
+    -12.00283
+],
+  "geometry": {"coordinates":[28.73501,-12.00283],"type":"Point"}
+}

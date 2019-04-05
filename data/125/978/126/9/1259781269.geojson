@@ -1,0 +1,68 @@
+{
+  "id": 1259781269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29833,-4.3575,15.29833,-4.3575",
+    "geom:latitude":-4.3575,
+    "geom:longitude":15.29833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ngiri-Ngiri",
+    "gn:country_code":"CD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8449787,
+    "gn:latitude":-4.3575,
+    "gn:longitude":15.29833,
+    "gn:modification_date":"2013-02-01",
+    "gn:name":"Ngiri-Ngiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8449787,
+        "wk:page":"Ngiri-Ngiri"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"074175f878834f10b407d0628b4513b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679241,
+            "locality_id":1259781269,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1259781269,
+    "wof:lastmodified":1537489198,
+    "wof:name":"Ngiri-Ngiri",
+    "wof:parent_id":1091679241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29833,
+    -4.3575,
+    15.29833,
+    -4.3575
+],
+  "geometry": {"coordinates":[15.29833,-4.3575],"type":"Point"}
+}

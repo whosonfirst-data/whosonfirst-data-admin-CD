@@ -1,0 +1,67 @@
+{
+  "id": 1293658111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47759,-11.06674,22.47759,-11.06674",
+    "geom:latitude":-11.06674,
+    "geom:longitude":22.47759,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kafwanda",
+    "gn:country_code":"CD",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10224646,
+    "gn:latitude":-11.06674,
+    "gn:longitude":22.47759,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kafwanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10224646
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d7643691341a8303f53f7ab336730914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1293658111,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293658111,
+    "wof:lastmodified":1537036786,
+    "wof:name":"Kafwanda",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47759,
+    -11.06674,
+    22.47759,
+    -11.06674
+],
+  "geometry": {"coordinates":[22.47759,-11.06674],"type":"Point"}
+}

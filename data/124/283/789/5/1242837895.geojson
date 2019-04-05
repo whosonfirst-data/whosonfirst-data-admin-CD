@@ -1,0 +1,67 @@
+{
+  "id": 1242837895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.57642,2.86217,30.57642,2.86217",
+    "geom:latitude":2.86217,
+    "geom:longitude":30.57642,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Eyenya",
+    "gn:country_code":"CD",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143142,
+    "gn:latitude":2.86217,
+    "gn:longitude":30.57642,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Eyenya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143142
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8f1df07f44a5119575ad7da2332af060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1242837895,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1242837895,
+    "wof:lastmodified":1536688958,
+    "wof:name":"Eyenya",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.57642,
+    2.86217,
+    30.57642,
+    2.86217
+],
+  "geometry": {"coordinates":[30.57642,2.86217],"type":"Point"}
+}

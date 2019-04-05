@@ -1,0 +1,67 @@
+{
+  "id": 1293805803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85437,-4.06076,15.85437,-4.06076",
+    "geom:latitude":-4.06076,
+    "geom:longitude":15.85437,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bamboma",
+    "gn:country_code":"CD",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10048967,
+    "gn:latitude":-4.06076,
+    "gn:longitude":15.85437,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Bamboma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10048967
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5c77cfb2adb1ea8ec62c314ae55b59e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1293805803,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1293805803,
+    "wof:lastmodified":1536824381,
+    "wof:name":"Bamboma",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85437,
+    -4.06076,
+    15.85437,
+    -4.06076
+],
+  "geometry": {"coordinates":[15.85437,-4.06076],"type":"Point"}
+}

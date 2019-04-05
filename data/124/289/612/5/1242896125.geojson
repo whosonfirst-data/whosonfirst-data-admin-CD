@@ -1,0 +1,67 @@
+{
+  "id": 1242896125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22249,-5.73147,15.22249,-5.73147",
+    "geom:latitude":-5.73147,
+    "geom:longitude":15.22249,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kinsundi",
+    "gn:country_code":"CD",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314288,
+    "gn:latitude":-5.73147,
+    "gn:longitude":15.22249,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kinsundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314288
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d94d3f7940216a61da5bae31574b51d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1242896125,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1242896125,
+    "wof:lastmodified":1536601723,
+    "wof:name":"Kinsundi",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22249,
+    -5.73147,
+    15.22249,
+    -5.73147
+],
+  "geometry": {"coordinates":[15.22249,-5.73147],"type":"Point"}
+}

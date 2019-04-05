@@ -1,0 +1,67 @@
+{
+  "id": 1243421501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.32469,4.05419,22.32469,4.05419",
+    "geom:latitude":4.05419,
+    "geom:longitude":22.32469,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Gapa",
+    "gn:country_code":"CD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247636,
+    "gn:latitude":4.05419,
+    "gn:longitude":22.32469,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247636
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d17b2951f02115c75e75ea02751915ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1243421501,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1243421501,
+    "wof:lastmodified":1536840507,
+    "wof:name":"Gapa",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.32469,
+    4.05419,
+    22.32469,
+    4.05419
+],
+  "geometry": {"coordinates":[22.32469,4.05419],"type":"Point"}
+}

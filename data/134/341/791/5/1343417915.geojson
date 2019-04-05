@@ -1,0 +1,67 @@
+{
+  "id": 1343417915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.59378,3.87054,22.59378,3.87054",
+    "geom:latitude":3.87054,
+    "geom:longitude":22.59378,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Hopele",
+    "gn:country_code":"CD",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238583,
+    "gn:latitude":3.87054,
+    "gn:longitude":22.59378,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Hopele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238583
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6e620047f47dac47060bc38aef38dda3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1343417915,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343417915,
+    "wof:lastmodified":1536807526,
+    "wof:name":"Hopele",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.59378,
+    3.87054,
+    22.59378,
+    3.87054
+],
+  "geometry": {"coordinates":[22.59378,3.87054],"type":"Point"}
+}

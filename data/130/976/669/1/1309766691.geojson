@@ -1,0 +1,67 @@
+{
+  "id": 1309766691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.53333,-0.28333,25.53333,-0.28333",
+    "geom:latitude":-0.28333,
+    "geom:longitude":25.53333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bamanga",
+    "gn:country_code":"CD",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219705,
+    "gn:latitude":-0.28333,
+    "gn:longitude":25.53333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bamanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219705
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"680be95b2d67c5ba82f8d315baf27123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1309766691,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1309766691,
+    "wof:lastmodified":1536986816,
+    "wof:name":"Bamanga",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.53333,
+    -0.28333,
+    25.53333,
+    -0.28333
+],
+  "geometry": {"coordinates":[25.53333,-0.28333],"type":"Point"}
+}

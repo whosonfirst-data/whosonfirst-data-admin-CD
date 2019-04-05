@@ -1,0 +1,67 @@
+{
+  "id": 1226010295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.64383,-6.93783,19.64383,-6.93783",
+    "geom:latitude":-6.93783,
+    "geom:longitude":19.64383,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shatshiminia",
+    "gn:country_code":"CD",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311386,
+    "gn:latitude":-6.93783,
+    "gn:longitude":19.64383,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shatshiminia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311386
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c059cb108011419df3f0ed0f9077a640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226010295,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226010295,
+    "wof:lastmodified":1536776967,
+    "wof:name":"Shatshiminia",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.64383,
+    -6.93783,
+    19.64383,
+    -6.93783
+],
+  "geometry": {"coordinates":[19.64383,-6.93783],"type":"Point"}
+}

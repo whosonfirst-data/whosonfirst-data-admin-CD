@@ -1,0 +1,61 @@
+{
+  "id": 1209276047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.97317,-5.24056,17.97317,-5.24056",
+    "geom:latitude":-5.24056,
+    "geom:longitude":17.97317,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kimbimbi",
+    "gn:country_code":"CD",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274513,
+    "gn:latitude":-5.24056,
+    "gn:longitude":17.97317,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kimbimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274513
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"954b6fed24dc7981e88777783970043b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209276047
+        }
+    ],
+    "wof:id":1209276047,
+    "wof:lastmodified":1536292191,
+    "wof:name":"Kimbimbi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.97317,
+    -5.2405599999999986,
+    17.97317,
+    -5.2405599999999986
+],
+  "geometry": {"coordinates":[17.97317,-5.24056],"type":"Point"}
+}

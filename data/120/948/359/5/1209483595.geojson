@@ -1,0 +1,65 @@
+{
+  "id": 1209483595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.09498,-2.58343,20.09498,-2.58343",
+    "geom:latitude":-2.58343,
+    "geom:longitude":20.09498,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Elema-Impata",
+    "gn:country_code":"CD",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216764,
+    "gn:latitude":-2.58343,
+    "gn:longitude":20.09498,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Elema-Impata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Impata",
+        "Elema-Impata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216764
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dd55f63d7d9772ec0ddbcc0c15ee8518",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209483595
+        }
+    ],
+    "wof:id":1209483595,
+    "wof:lastmodified":1537590439,
+    "wof:name":"Elema-Impata",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.09498,
+    -2.58343,
+    20.09498,
+    -2.58343
+],
+  "geometry": {"coordinates":[20.09498,-2.58343],"type":"Point"}
+}

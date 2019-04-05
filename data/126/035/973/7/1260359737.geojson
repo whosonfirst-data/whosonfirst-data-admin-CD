@@ -1,0 +1,70 @@
+{
+  "id": 1260359737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.99001,-9.0796,25.99001,-9.0796",
+    "geom:latitude":-9.0796,
+    "geom:longitude":25.99001,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Goia-Mutumba",
+    "gn:country_code":"CD",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10051892,
+    "gn:latitude":-9.0796,
+    "gn:longitude":25.99001,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Goia-Mutumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goi Matumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10051892
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6cf79eb58526d6b62e64b457e01e0296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1260359737,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260359737,
+    "wof:lastmodified":1537590579,
+    "wof:name":"Goia-Mutumba",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.99001,
+    -9.0796,
+    25.99001,
+    -9.0796
+],
+  "geometry": {"coordinates":[25.99001,-9.0796],"type":"Point"}
+}

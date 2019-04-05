@@ -1,0 +1,67 @@
+{
+  "id": 1277030899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31998,-11.03071,22.31998,-11.03071",
+    "geom:latitude":-11.03071,
+    "geom:longitude":22.31998,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mukosai",
+    "gn:country_code":"CD",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922511,
+    "gn:latitude":-11.03071,
+    "gn:longitude":22.31998,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mukosai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922511
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"076ebbb0dc74211a6c1ff2cca7ee9ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1277030899,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1277030899,
+    "wof:lastmodified":1536837701,
+    "wof:name":"Mukosai",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31998,
+    -11.03071,
+    22.31998,
+    -11.03071
+],
+  "geometry": {"coordinates":[22.31998,-11.03071],"type":"Point"}
+}

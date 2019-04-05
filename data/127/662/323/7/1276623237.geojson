@@ -1,0 +1,67 @@
+{
+  "id": 1276623237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.42046,-10.37658,23.42046,-10.37658",
+    "geom:latitude":-10.37658,
+    "geom:longitude":23.42046,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshisangama",
+    "gn:country_code":"CD",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466403,
+    "gn:latitude":-10.37658,
+    "gn:longitude":23.42046,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshisangama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466403
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"86d2c610649d7ce2e8d296eb390fece7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1276623237,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276623237,
+    "wof:lastmodified":1536887232,
+    "wof:name":"Tshisangama",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.42046,
+    -10.37658,
+    23.42046,
+    -10.37658
+],
+  "geometry": {"coordinates":[23.42046,-10.37658],"type":"Point"}
+}

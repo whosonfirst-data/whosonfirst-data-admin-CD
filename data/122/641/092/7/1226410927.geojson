@@ -1,0 +1,67 @@
+{
+  "id": 1226410927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.86012,-7.31386,22.86012,-7.31386",
+    "geom:latitude":-7.31386,
+    "geom:longitude":22.86012,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mundembo",
+    "gn:country_code":"CD",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208116,
+    "gn:latitude":-7.31386,
+    "gn:longitude":22.86012,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mundembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208116
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"723f22f1fe55d9b5b0b9dc76395c5e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1226410927,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226410927,
+    "wof:lastmodified":1536695991,
+    "wof:name":"Mundembo",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.86012,
+    -7.31386,
+    22.86012,
+    -7.31386
+],
+  "geometry": {"coordinates":[22.86012,-7.31386],"type":"Point"}
+}

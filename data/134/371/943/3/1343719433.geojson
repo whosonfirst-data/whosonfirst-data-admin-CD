@@ -1,0 +1,67 @@
+{
+  "id": 1343719433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16047,2.5573,22.16047,2.5573",
+    "geom:latitude":2.5573,
+    "geom:longitude":22.16047,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Bombi",
+    "gn:country_code":"CD",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218311,
+    "gn:latitude":2.5573,
+    "gn:longitude":22.16047,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bombi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218311
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ec6a6c4b916102acba38bf5457a2c4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1343719433,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343719433,
+    "wof:lastmodified":1536869067,
+    "wof:name":"Bombi",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16047,
+    2.5573,
+    22.16047,
+    2.5573
+],
+  "geometry": {"coordinates":[22.16047,2.5573],"type":"Point"}
+}

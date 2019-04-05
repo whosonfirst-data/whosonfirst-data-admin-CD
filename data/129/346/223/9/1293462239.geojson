@@ -1,0 +1,67 @@
+{
+  "id": 1293462239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6124,3.71794,29.6124,3.71794",
+    "geom:latitude":3.71794,
+    "geom:longitude":29.6124,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Naduwuli",
+    "gn:country_code":"CD",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8023444,
+    "gn:latitude":3.71794,
+    "gn:longitude":29.6124,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Naduwuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8023444
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f3bacd8ec824c13ce70ea239ca929783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1293462239,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293462239,
+    "wof:lastmodified":1536822715,
+    "wof:name":"Naduwuli",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6124,
+    3.71794,
+    29.6124,
+    3.71794
+],
+  "geometry": {"coordinates":[29.6124,3.71794],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225994653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91361,0.86228,22.91361,0.86228",
+    "geom:latitude":0.86228,
+    "geom:longitude":22.91361,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yakana",
+    "gn:country_code":"CD",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203418,
+    "gn:latitude":0.86228,
+    "gn:longitude":22.91361,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yakana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yekana",
+        "Yeka",
+        "Yokana",
+        "Yakana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203418
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c90941922b1369fe38fcf3da70a1d222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1225994653,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1225994653,
+    "wof:lastmodified":1537590302,
+    "wof:name":"Yakana",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91361,
+    0.86228,
+    22.91361,
+    0.86228
+],
+  "geometry": {"coordinates":[22.91361,0.86228],"type":"Point"}
+}

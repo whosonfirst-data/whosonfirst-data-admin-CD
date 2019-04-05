@@ -1,0 +1,67 @@
+{
+  "id": 1210049697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.96667,-1.06667,21.96667,-1.06667",
+    "geom:latitude":-1.06667,
+    "geom:longitude":21.96667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Likongo",
+    "gn:country_code":"CD",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211845,
+    "gn:latitude":-1.06667,
+    "gn:longitude":21.96667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Likongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211845
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7435d51c0a34d4fd67e7db458d0487f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1210049697,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1210049697,
+    "wof:lastmodified":1536375051,
+    "wof:name":"Likongo",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.96667,
+    -1.06667,
+    21.96667,
+    -1.06667
+],
+  "geometry": {"coordinates":[21.96667,-1.06667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209576107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.76665,1.49128,23.76665,1.49128",
+    "geom:latitude":1.49128,
+    "geom:longitude":23.76665,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yambete-Mbutu",
+    "gn:country_code":"CD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203845,
+    "gn:latitude":1.49128,
+    "gn:longitude":23.76665,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yambete-Mbutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yambese",
+        "Yambese-Mbutu",
+        "Yambete-Mbutu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203845
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"365762efea1b675daab61b6fad52aa66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209576107
+        }
+    ],
+    "wof:id":1209576107,
+    "wof:lastmodified":1537590307,
+    "wof:name":"Yambete-Mbutu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.76665,
+    1.49128,
+    23.76665,
+    1.49128
+],
+  "geometry": {"coordinates":[23.76665,1.49128],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209276821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27667,-5.63799,17.27667,-5.63799",
+    "geom:latitude":-5.63799,
+    "geom:longitude":17.27667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kalunga-Banza",
+    "gn:country_code":"CD",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274676,
+    "gn:latitude":-5.63799,
+    "gn:longitude":17.27667,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalunga-Banza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274676
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f55b06424b97fee6c7761a14fce0fd99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209276821
+        }
+    ],
+    "wof:id":1209276821,
+    "wof:lastmodified":1536292164,
+    "wof:name":"Kalunga-Banza",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.276670000000006,
+    -5.63799,
+    17.276670000000006,
+    -5.63799
+],
+  "geometry": {"coordinates":[17.27667000000001,-5.63799],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293752491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96253,-9.51882,22.96253,-9.51882",
+    "geom:latitude":-9.51882,
+    "geom:longitude":22.96253,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshikaye",
+    "gn:country_code":"CD",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204950,
+    "gn:latitude":-9.51882,
+    "gn:longitude":22.96253,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshikaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204950
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8038d108a4f9c6fd6a93f36fe9d9ee51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1293752491,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293752491,
+    "wof:lastmodified":1536902361,
+    "wof:name":"Tshikaye",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96253,
+    -9.51882,
+    22.96253,
+    -9.51882
+],
+  "geometry": {"coordinates":[22.96253,-9.51882],"type":"Point"}
+}

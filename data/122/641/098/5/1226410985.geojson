@@ -1,0 +1,67 @@
+{
+  "id": 1226410985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51719,-6.05824,22.51719,-6.05824",
+    "geom:latitude":-6.05824,
+    "geom:longitude":22.51719,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Matala",
+    "gn:country_code":"CD",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283874,
+    "gn:latitude":-6.05824,
+    "gn:longitude":22.51719,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Matala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283874
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2d9d7af54a2d82b1f45c2b34a70e81fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1226410985,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226410985,
+    "wof:lastmodified":1536695908,
+    "wof:name":"Matala",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51719,
+    -6.05824,
+    22.51719,
+    -6.05824
+],
+  "geometry": {"coordinates":[22.51719,-6.05824],"type":"Point"}
+}

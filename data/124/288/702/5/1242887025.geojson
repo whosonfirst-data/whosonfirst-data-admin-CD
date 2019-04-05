@@ -1,0 +1,72 @@
+{
+  "id": 1242887025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.90415,-0.64458,17.90415,-0.64458",
+    "geom:latitude":-0.64458,
+    "geom:longitude":17.90415,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngeromonjoie",
+    "gn:country_code":"CD",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312041,
+    "gn:latitude":-0.64458,
+    "gn:longitude":17.90415,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ngeromonjoie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngeremonjoie",
+        "Ngero Mondjoi",
+        "Ngeromonjoie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312041
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6294b322e54b258af75682eaf524d613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1242887025,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1242887025,
+    "wof:lastmodified":1537590508,
+    "wof:name":"Ngeromonjoie",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.90415,
+    -0.64458,
+    17.90415,
+    -0.64458
+],
+  "geometry": {"coordinates":[17.90415,-0.64458],"type":"Point"}
+}

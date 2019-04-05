@@ -1,0 +1,71 @@
+{
+  "id": 1327103183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31942,-5.8757,22.31942,-5.8757",
+    "geom:latitude":-5.8757,
+    "geom:longitude":22.31942,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Muhlaie",
+    "gn:country_code":"CD",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413112,
+    "gn:latitude":-5.8757,
+    "gn:longitude":22.31942,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Muhlaie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mubiale",
+        "Muhlaie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413112
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1403d1cabde8e8597f45917441a31482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680487,
+            "locality_id":1327103183,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327103183,
+    "wof:lastmodified":1537590479,
+    "wof:name":"Muhlaie",
+    "wof:parent_id":1091680487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31942,
+    -5.8757,
+    22.31942,
+    -5.8757
+],
+  "geometry": {"coordinates":[22.31942,-5.8757],"type":"Point"}
+}

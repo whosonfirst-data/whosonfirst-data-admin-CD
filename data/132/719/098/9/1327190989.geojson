@@ -1,0 +1,67 @@
+{
+  "id": 1327190989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.77353,3.5653,20.77353,3.5653",
+    "geom:latitude":3.5653,
+    "geom:longitude":20.77353,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bwasenge",
+    "gn:country_code":"CD",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217489,
+    "gn:latitude":3.5653,
+    "gn:longitude":20.77353,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bwasenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217489
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9f40b7c245c0237c1ac29206355d3c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1327190989,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327190989,
+    "wof:lastmodified":1537028333,
+    "wof:name":"Bwasenge",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.77353,
+    3.5653,
+    20.77353,
+    3.5653
+],
+  "geometry": {"coordinates":[20.77353,3.5653],"type":"Point"}
+}

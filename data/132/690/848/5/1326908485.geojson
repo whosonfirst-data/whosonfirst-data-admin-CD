@@ -1,0 +1,67 @@
+{
+  "id": 1326908485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6851,-1.18126,28.6851,-1.18126",
+    "geom:latitude":-1.18126,
+    "geom:longitude":28.6851,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mutera",
+    "gn:country_code":"CD",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435436,
+    "gn:latitude":-1.18126,
+    "gn:longitude":28.6851,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Mutera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435436
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f97ab114d51b800891bc68e6063f7a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1326908485,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1326908485,
+    "wof:lastmodified":1536939763,
+    "wof:name":"Mutera",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6851,
+    -1.18126,
+    28.6851,
+    -1.18126
+],
+  "geometry": {"coordinates":[28.6851,-1.18126],"type":"Point"}
+}

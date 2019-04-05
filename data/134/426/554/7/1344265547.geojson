@@ -1,0 +1,67 @@
+{
+  "id": 1344265547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.30281,-0.12515,18.30281,-0.12515",
+    "geom:latitude":-0.12515,
+    "geom:longitude":18.30281,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bonsole",
+    "gn:country_code":"CD",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281660,
+    "gn:latitude":-0.12515,
+    "gn:longitude":18.30281,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bonsole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281660
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2cdce35901f3dfb26e0140d7a2e70c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679473,
+            "locality_id":1344265547,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1344265547,
+    "wof:lastmodified":1537073631,
+    "wof:name":"Bonsole",
+    "wof:parent_id":1091679473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.30281,
+    -0.12515,
+    18.30281,
+    -0.12515
+],
+  "geometry": {"coordinates":[18.30281,-0.12515],"type":"Point"}
+}

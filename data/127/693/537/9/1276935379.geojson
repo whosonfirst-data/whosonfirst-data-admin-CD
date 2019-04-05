@@ -1,0 +1,72 @@
+{
+  "id": 1276935379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.77487,-8.28524,22.77487,-8.28524",
+    "geom:latitude":-8.28524,
+    "geom:longitude":22.77487,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Katakakishi",
+    "gn:country_code":"CD",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213823,
+    "gn:latitude":-8.28524,
+    "gn:longitude":22.77487,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Katakakishi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katapakishia",
+        "Katapakishi",
+        "Katakakishi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213823
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4b24a61035f2d184d4c9515e1bbeccde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1276935379,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276935379,
+    "wof:lastmodified":1537590408,
+    "wof:name":"Katakakishi",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.77487,
+    -8.28524,
+    22.77487,
+    -8.28524
+],
+  "geometry": {"coordinates":[22.77487,-8.28524],"type":"Point"}
+}

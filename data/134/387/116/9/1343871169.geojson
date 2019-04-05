@@ -1,0 +1,67 @@
+{
+  "id": 1343871169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52079,-0.37015,18.52079,-0.37015",
+    "geom:latitude":-0.37015,
+    "geom:longitude":18.52079,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bembaku",
+    "gn:country_code":"CD",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281700,
+    "gn:latitude":-0.37015,
+    "gn:longitude":18.52079,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bembaku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281700
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e2c2e24b6144a3b5ecc04aa63633278f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1343871169,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343871169,
+    "wof:lastmodified":1536650895,
+    "wof:name":"Bembaku",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52079,
+    -0.37015,
+    18.52079,
+    -0.37015
+],
+  "geometry": {"coordinates":[18.52079,-0.37015],"type":"Point"}
+}

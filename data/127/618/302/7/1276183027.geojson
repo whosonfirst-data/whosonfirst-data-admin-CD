@@ -1,0 +1,67 @@
+{
+  "id": 1276183027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01911,-10.22959,24.01911,-10.22959",
+    "geom:latitude":-10.22959,
+    "geom:longitude":24.01911,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Nakapumba",
+    "gn:country_code":"CD",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10206875,
+    "gn:latitude":-10.22959,
+    "gn:longitude":24.01911,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Nakapumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206875
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4fd0a6de393d99b3fc722bc98f028464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1276183027,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276183027,
+    "wof:lastmodified":1536979762,
+    "wof:name":"Nakapumba",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01911,
+    -10.22959,
+    24.01911,
+    -10.22959
+],
+  "geometry": {"coordinates":[24.01911,-10.22959],"type":"Point"}
+}

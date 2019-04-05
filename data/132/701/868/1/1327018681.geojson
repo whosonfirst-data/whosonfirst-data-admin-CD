@@ -1,0 +1,72 @@
+{
+  "id": 1327018681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.61667,-3.96667,26.61667,-3.96667",
+    "geom:latitude":-3.96667,
+    "geom:longitude":26.61667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yenga",
+    "gn:country_code":"CD",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203474,
+    "gn:latitude":-3.96667,
+    "gn:longitude":26.61667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Yenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yengayenga",
+        "Yanga-Yanga",
+        "Yenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203474
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"da44ff321448722b7de25154db1c6715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1327018681,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1327018681,
+    "wof:lastmodified":1537590302,
+    "wof:name":"Yenga",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.61667000000001,
+    -3.96667,
+    26.61667000000001,
+    -3.96667
+],
+  "geometry": {"coordinates":[26.61667000000001,-3.96667],"type":"Point"}
+}

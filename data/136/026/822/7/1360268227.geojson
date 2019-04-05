@@ -1,0 +1,67 @@
+{
+  "id": 1360268227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.18817,-8.56184,26.18817,-8.56184",
+    "geom:latitude":-8.56184,
+    "geom:longitude":26.18817,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kilenge",
+    "gn:country_code":"CD",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10041122,
+    "gn:latitude":-8.56184,
+    "gn:longitude":26.18817,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kilenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10041122
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"df6d9da19037f277a546e7f495e518f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1360268227,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1360268227,
+    "wof:lastmodified":1536681457,
+    "wof:name":"Kilenge",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.18817,
+    -8.56184,
+    26.18817,
+    -8.56184
+],
+  "geometry": {"coordinates":[26.18817,-8.56184],"type":"Point"}
+}

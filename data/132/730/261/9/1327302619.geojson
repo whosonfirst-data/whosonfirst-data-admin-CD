@@ -1,0 +1,71 @@
+{
+  "id": 1327302619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39509,-7.19841,22.39509,-7.19841",
+    "geom:latitude":-7.19841,
+    "geom:longitude":22.39509,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Luiza",
+    "gn:country_code":"CD",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210802,
+    "gn:latitude":-7.19841,
+    "gn:longitude":22.39509,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Luiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luisa",
+        "Luiza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210802
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0f66b6ca7d15750e234299f58b77c034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1327302619,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327302619,
+    "wof:lastmodified":1537590383,
+    "wof:name":"Luiza",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39509,
+    -7.19841,
+    22.39509,
+    -7.19841
+],
+  "geometry": {"coordinates":[22.39509,-7.19841],"type":"Point"}
+}

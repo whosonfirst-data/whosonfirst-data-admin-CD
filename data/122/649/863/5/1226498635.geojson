@@ -1,0 +1,67 @@
+{
+  "id": 1226498635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.60056,-6.34685,22.60056,-6.34685",
+    "geom:latitude":-6.34685,
+    "geom:longitude":22.60056,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mpukutu",
+    "gn:country_code":"CD",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8284470,
+    "gn:latitude":-6.34685,
+    "gn:longitude":22.60056,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mpukutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8284470
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8bb7da2c9573163a5723002c20ed1b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1226498635,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226498635,
+    "wof:lastmodified":1537063258,
+    "wof:name":"Mpukutu",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.60056,
+    -6.34685,
+    22.60056,
+    -6.34685
+],
+  "geometry": {"coordinates":[22.60056,-6.34685],"type":"Point"}
+}

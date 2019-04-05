@@ -1,0 +1,70 @@
+{
+  "id": 1310202359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00163,-4.18808,16.00163,-4.18808",
+    "geom:latitude":-4.18808,
+    "geom:longitude":16.00163,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pongwene",
+    "gn:country_code":"CD",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311677,
+    "gn:latitude":-4.18808,
+    "gn:longitude":16.00163,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Pongwene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ponguene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311677
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a15f4aa53f239febd9795457415e516d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1310202359,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1310202359,
+    "wof:lastmodified":1537590504,
+    "wof:name":"Pongwene",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00163,
+    -4.18808,
+    16.00163,
+    -4.18808
+],
+  "geometry": {"coordinates":[16.00163,-4.18808],"type":"Point"}
+}

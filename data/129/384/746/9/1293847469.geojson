@@ -1,0 +1,70 @@
+{
+  "id": 1293847469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.04988,1.3559,29.04988,1.3559",
+    "geom:latitude":1.3559,
+    "geom:longitude":29.04988,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mputu",
+    "gn:country_code":"CD",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7318678,
+    "gn:latitude":1.3559,
+    "gn:longitude":29.04988,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mputu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mputu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7318678
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5092075df689302302b8d0736fb15b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1293847469,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293847469,
+    "wof:lastmodified":1537590565,
+    "wof:name":"Mputu",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.04988,
+    1.3559,
+    29.04988,
+    1.3559
+],
+  "geometry": {"coordinates":[29.04988,1.3559],"type":"Point"}
+}

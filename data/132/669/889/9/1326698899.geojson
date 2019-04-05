@@ -1,0 +1,67 @@
+{
+  "id": 1326698899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27372,-9.9757,22.27372,-9.9757",
+    "geom:latitude":-9.9757,
+    "geom:longitude":22.27372,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kayambo",
+    "gn:country_code":"CD",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461713,
+    "gn:latitude":-9.9757,
+    "gn:longitude":22.27372,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kayambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461713
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1f3be6daf1956684d1f1e0eebe5046b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1326698899,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1326698899,
+    "wof:lastmodified":1536743615,
+    "wof:name":"Kayambo",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27372,
+    -9.9757,
+    22.27372,
+    -9.9757
+],
+  "geometry": {"coordinates":[22.27372,-9.9757],"type":"Point"}
+}

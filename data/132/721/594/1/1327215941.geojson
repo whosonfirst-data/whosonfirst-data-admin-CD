@@ -1,0 +1,67 @@
+{
+  "id": 1327215941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.48505,2.92265,28.48505,2.92265",
+    "geom:latitude":2.92265,
+    "geom:longitude":28.48505,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Wyati",
+    "gn:country_code":"CD",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204181,
+    "gn:latitude":2.92265,
+    "gn:longitude":28.48505,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Wyati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204181
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"79a5e42d0df8f9c1269690b5a3f2de6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1327215941,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327215941,
+    "wof:lastmodified":1536992592,
+    "wof:name":"Wyati",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.48505,
+    2.92265,
+    28.48505,
+    2.92265
+],
+  "geometry": {"coordinates":[28.48505,2.92265],"type":"Point"}
+}

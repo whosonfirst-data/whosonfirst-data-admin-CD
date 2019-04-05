@@ -1,0 +1,71 @@
+{
+  "id": 1226222257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.97858,-2.96099,28.97858,-2.96099",
+    "geom:latitude":-2.96099,
+    "geom:longitude":28.97858,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kigwema-Kibungu",
+    "gn:country_code":"CD",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382850,
+    "gn:latitude":-2.96099,
+    "gn:longitude":28.97858,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Kigwema-Kibungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kigwema",
+        "Kigwema-Kibungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382850
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"edc68d4ffaefab80e8b049ae8d8e720b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1226222257,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1226222257,
+    "wof:lastmodified":1537590479,
+    "wof:name":"Kigwema-Kibungu",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.97858,
+    -2.96099,
+    28.97858,
+    -2.96099
+],
+  "geometry": {"coordinates":[28.97858,-2.96099],"type":"Point"}
+}

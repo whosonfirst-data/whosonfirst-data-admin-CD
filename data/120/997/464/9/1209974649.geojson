@@ -1,0 +1,71 @@
+{
+  "id": 1209974649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06233,-2.19236,17.06233,-2.19236",
+    "geom:latitude":-2.19236,
+    "geom:longitude":17.06233,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Gomo",
+    "gn:country_code":"CD",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315694,
+    "gn:latitude":-2.19236,
+    "gn:longitude":17.06233,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gongo",
+        "Gomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315694
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fc8704f98d5660c19a5cd5e8a8ac7922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1209974649,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1209974649,
+    "wof:lastmodified":1537590543,
+    "wof:name":"Gomo",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06233,
+    -2.19236,
+    17.06233,
+    -2.19236
+],
+  "geometry": {"coordinates":[17.06233,-2.19236],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209490523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.5,-4.76667,16.5,-4.76667",
+    "geom:latitude":-4.76667,
+    "geom:longitude":16.5,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kambamba",
+    "gn:country_code":"CD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315163,
+    "gn:latitude":-4.76667,
+    "gn:longitude":16.5,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kambamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315163
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7fddbcb18e8b699cf95c3ebacf6a0c05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209490523
+        }
+    ],
+    "wof:id":1209490523,
+    "wof:lastmodified":1536285500,
+    "wof:name":"Kambamba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.5,
+    -4.76667,
+    16.5,
+    -4.76667
+],
+  "geometry": {"coordinates":[16.5,-4.76667],"type":"Point"}
+}

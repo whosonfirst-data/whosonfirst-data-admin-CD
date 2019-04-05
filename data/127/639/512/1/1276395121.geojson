@@ -1,0 +1,70 @@
+{
+  "id": 1276395121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93456,-7.38991,21.93456,-7.38991",
+    "geom:latitude":-7.38991,
+    "geom:longitude":21.93456,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mulangi",
+    "gn:country_code":"CD",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208518,
+    "gn:latitude":-7.38991,
+    "gn:longitude":21.93456,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mulangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mufangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208518
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0ba992c5a0817e88f4c8a6aec1658a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1276395121,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276395121,
+    "wof:lastmodified":1537590360,
+    "wof:name":"Mulangi",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93456,
+    -7.38991,
+    21.93456,
+    -7.38991
+],
+  "geometry": {"coordinates":[21.93456,-7.38991],"type":"Point"}
+}

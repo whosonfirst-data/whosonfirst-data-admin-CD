@@ -1,0 +1,61 @@
+{
+  "id": 1209598733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95,-8.38333,27.95,-8.38333",
+    "geom:latitude":-8.38333,
+    "geom:longitude":27.95,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kileba",
+    "gn:country_code":"CD",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213080,
+    "gn:latitude":-8.38333,
+    "gn:longitude":27.95,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kileba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213080
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"11463c67b65453a0eb9ea47c0b5ab20a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209598733
+        }
+    ],
+    "wof:id":1209598733,
+    "wof:lastmodified":1536282237,
+    "wof:name":"Kileba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95,
+    -8.38333,
+    27.95,
+    -8.38333
+],
+  "geometry": {"coordinates":[27.95,-8.38333],"type":"Point"}
+}

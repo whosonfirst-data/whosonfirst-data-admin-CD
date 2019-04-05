@@ -1,0 +1,70 @@
+{
+  "id": 1293255721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.95362,1.02452,29.95362,1.02452",
+    "geom:latitude":1.02452,
+    "geom:longitude":29.95362,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bonga",
+    "gn:country_code":"CD",
+    "gn:dem":1225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218240,
+    "gn:latitude":1.02452,
+    "gn:longitude":29.95362,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218240
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a1e263e17973d909a37b3fd9cf2d9668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1293255721,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293255721,
+    "wof:lastmodified":1537590454,
+    "wof:name":"Bonga",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.95362,
+    1.02452,
+    29.95362,
+    1.02452
+],
+  "geometry": {"coordinates":[29.95362,1.02452],"type":"Point"}
+}

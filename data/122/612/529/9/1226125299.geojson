@@ -1,0 +1,67 @@
+{
+  "id": 1226125299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25264,-9.19602,25.25264,-9.19602",
+    "geom:latitude":-9.19602,
+    "geom:longitude":25.25264,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tshofwe",
+    "gn:country_code":"CD",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10052153,
+    "gn:latitude":-9.19602,
+    "gn:longitude":25.25264,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tshofwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10052153
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ef96f448433eab6f2d1f28e0dcf11eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1226125299,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226125299,
+    "wof:lastmodified":1536607564,
+    "wof:name":"Tshofwe",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25264,
+    -9.19602,
+    25.25264,
+    -9.19602
+],
+  "geometry": {"coordinates":[25.25264,-9.19602],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209064655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39903,-6.30971,22.39903,-6.30971",
+    "geom:latitude":-6.30971,
+    "geom:longitude":22.39903,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshinema",
+    "gn:country_code":"CD",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8284352,
+    "gn:latitude":-6.30971,
+    "gn:longitude":22.39903,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshinema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8284352
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e6fcc1bac92c0b234423905ba4ffee06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209064655
+        }
+    ],
+    "wof:id":1209064655,
+    "wof:lastmodified":1536298843,
+    "wof:name":"Tshinema",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39903,
+    -6.30971,
+    22.39903,
+    -6.30971
+],
+  "geometry": {"coordinates":[22.39903,-6.30971],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225903187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.961,-6.1675,24.961,-6.1675",
+    "geom:latitude":-6.1675,
+    "geom:longitude":24.961,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kamia",
+    "gn:country_code":"CD",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214627,
+    "gn:latitude":-6.1675,
+    "gn:longitude":24.961,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kamia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214627
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3a0ffbab80979610ca97cbeb1aa5571e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1225903187,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1225903187,
+    "wof:lastmodified":1537590416,
+    "wof:name":"Kamia",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.961,
+    -6.1675,
+    24.961,
+    -6.1675
+],
+  "geometry": {"coordinates":[24.961,-6.1675],"type":"Point"}
+}

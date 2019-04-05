@@ -1,0 +1,67 @@
+{
+  "id": 1326980253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.82515,1.74645,25.82515,1.74645",
+    "geom:latitude":1.74645,
+    "geom:longitude":25.82515,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bangogo",
+    "gn:country_code":"CD",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149803,
+    "gn:latitude":1.74645,
+    "gn:longitude":25.82515,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bangogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149803
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f3bcf72f09de34a2a5b691f8ad276a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1326980253,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1326980253,
+    "wof:lastmodified":1536834783,
+    "wof:name":"Bangogo",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.82515,
+    1.74645,
+    25.82515,
+    1.74645
+],
+  "geometry": {"coordinates":[25.82515,1.74645],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327317311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.18154,-9.83557,27.18154,-9.83557",
+    "geom:latitude":-9.83557,
+    "geom:longitude":27.18154,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sumpwa",
+    "gn:country_code":"CD",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205388,
+    "gn:latitude":-9.83557,
+    "gn:longitude":27.18154,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sumpwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205388
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7561ff42c2ad76147014d22b35b18896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1327317311,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327317311,
+    "wof:lastmodified":1536845968,
+    "wof:name":"Sumpwa",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.18154,
+    -9.83557,
+    27.18154,
+    -9.83557
+],
+  "geometry": {"coordinates":[27.18154,-9.83557],"type":"Point"}
+}

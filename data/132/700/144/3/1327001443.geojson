@@ -1,0 +1,67 @@
+{
+  "id": 1327001443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.08464,2.9882,27.08464,2.9882",
+    "geom:latitude":2.9882,
+    "geom:longitude":27.08464,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pelengu",
+    "gn:country_code":"CD",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145475,
+    "gn:latitude":2.9882,
+    "gn:longitude":27.08464,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pelengu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145475
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"86de0418cfa7d40264a40b6d70068b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1327001443,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327001443,
+    "wof:lastmodified":1536805088,
+    "wof:name":"Pelengu",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.08464,
+    2.9882,
+    27.08464,
+    2.9882
+],
+  "geometry": {"coordinates":[27.08464,2.9882],"type":"Point"}
+}

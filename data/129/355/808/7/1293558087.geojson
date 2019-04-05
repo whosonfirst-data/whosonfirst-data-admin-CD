@@ -1,0 +1,70 @@
+{
+  "id": 1293558087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73928,-10.71703,22.73928,-10.71703",
+    "geom:latitude":-10.71703,
+    "geom:longitude":22.73928,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshingwele",
+    "gn:country_code":"CD",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922072,
+    "gn:latitude":-10.71703,
+    "gn:longitude":22.73928,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshingwele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshinguele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922072
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4252cd0a3b1b4ab89831ac8e16a5e1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1293558087,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293558087,
+    "wof:lastmodified":1537590481,
+    "wof:name":"Tshingwele",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73928,
+    -10.71703,
+    22.73928,
+    -10.71703
+],
+  "geometry": {"coordinates":[22.73928,-10.71703],"type":"Point"}
+}

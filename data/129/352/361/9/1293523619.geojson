@@ -1,0 +1,71 @@
+{
+  "id": 1293523619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5,-0.85,22.5,-0.85",
+    "geom:latitude":-0.85,
+    "geom:longitude":22.5,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Lifanga",
+    "gn:country_code":"CD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211906,
+    "gn:latitude":-0.85,
+    "gn:longitude":22.5,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lifanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lifinga",
+        "Lifanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211906
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7ce32f47500098528ca59fb9360d06b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1293523619,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293523619,
+    "wof:lastmodified":1537590389,
+    "wof:name":"Lifanga",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5,
+    -0.85,
+    22.5,
+    -0.85
+],
+  "geometry": {"coordinates":[22.5,-0.85],"type":"Point"}
+}

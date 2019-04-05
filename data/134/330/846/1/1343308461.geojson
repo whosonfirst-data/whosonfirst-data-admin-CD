@@ -1,0 +1,67 @@
+{
+  "id": 1343308461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91667,0.56667,24.91667,0.56667",
+    "geom:latitude":0.56667,
+    "geom:longitude":24.91667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Itonja",
+    "gn:country_code":"CD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215730,
+    "gn:latitude":0.56667,
+    "gn:longitude":24.91667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Itonja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215730
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6d06d15bff965f3aacada8d54960d13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1343308461,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343308461,
+    "wof:lastmodified":1536965489,
+    "wof:name":"Itonja",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91667,
+    0.56667,
+    24.91667,
+    0.56667
+],
+  "geometry": {"coordinates":[24.91667,0.56667],"type":"Point"}
+}

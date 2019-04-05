@@ -1,0 +1,67 @@
+{
+  "id": 1242815057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20277,-1.99653,20.20277,-1.99653",
+    "geom:latitude":-1.99653,
+    "geom:longitude":20.20277,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Tumba",
+    "gn:country_code":"CD",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8432906,
+    "gn:latitude":-1.99653,
+    "gn:longitude":20.20277,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8432906
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bbe4e5bf58b6196676de7b7ec48166d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1242815057,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1242815057,
+    "wof:lastmodified":1536721942,
+    "wof:name":"Tumba",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20277,
+    -1.99653,
+    20.20277,
+    -1.99653
+],
+  "geometry": {"coordinates":[20.20277,-1.99653],"type":"Point"}
+}

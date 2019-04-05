@@ -1,0 +1,61 @@
+{
+  "id": 1209081929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00766,-6.60425,21.00766,-6.60425",
+    "geom:latitude":-6.60425,
+    "geom:longitude":21.00766,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kanka",
+    "gn:country_code":"CD",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327416,
+    "gn:latitude":-6.60425,
+    "gn:longitude":21.00766,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kanka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327416
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0d4092b962c4cd96dcf489056319b7de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209081929
+        }
+    ],
+    "wof:id":1209081929,
+    "wof:lastmodified":1536298308,
+    "wof:name":"Kanka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00766,
+    -6.60425,
+    21.00766,
+    -6.60425
+],
+  "geometry": {"coordinates":[21.00766,-6.60425],"type":"Point"}
+}

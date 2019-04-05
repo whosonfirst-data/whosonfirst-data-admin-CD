@@ -1,0 +1,71 @@
+{
+  "id": 1360261243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27742,1.68221,30.27742,1.68221",
+    "geom:latitude":1.68221,
+    "geom:longitude":30.27742,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Soleniama Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205479,
+    "gn:latitude":1.68221,
+    "gn:longitude":30.27742,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Soleniama Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soleniama Deuxi\u00e8me",
+        "Soleniama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205479
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6a2d28f90b8f8aefc28c970eea565075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1360261243,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360261243,
+    "wof:lastmodified":1537590324,
+    "wof:name":"Soleniama Deuxieme",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27742000000001,
+    1.68221,
+    30.27742000000001,
+    1.68221
+],
+  "geometry": {"coordinates":[30.27742000000001,1.68221],"type":"Point"}
+}

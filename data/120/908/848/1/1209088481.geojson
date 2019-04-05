@@ -1,0 +1,61 @@
+{
+  "id": 1209088481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.00916,4.09741,28.00916,4.09741",
+    "geom:latitude":4.09741,
+    "geom:longitude":28.00916,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kativungu",
+    "gn:country_code":"CD",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213760,
+    "gn:latitude":4.09741,
+    "gn:longitude":28.00916,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kativungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213760
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dfd8c8d0e4a446ef3f7d8f53f8da33a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209088481
+        }
+    ],
+    "wof:id":1209088481,
+    "wof:lastmodified":1536298110,
+    "wof:name":"Kativungu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00916,
+    4.09741,
+    28.00916,
+    4.09741
+],
+  "geometry": {"coordinates":[28.00916,4.09741],"type":"Point"}
+}

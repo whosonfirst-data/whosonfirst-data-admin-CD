@@ -1,0 +1,67 @@
+{
+  "id": 1277137473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.27767,1.44758,25.27767,1.44758",
+    "geom:latitude":1.44758,
+    "geom:longitude":25.27767,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Lohaie",
+    "gn:country_code":"CD",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149768,
+    "gn:latitude":1.44758,
+    "gn:longitude":25.27767,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lohaie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149768
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d50aef1ecc602bd04a7e0489a7acd8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1277137473,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1277137473,
+    "wof:lastmodified":1536688977,
+    "wof:name":"Lohaie",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.27767,
+    1.44758,
+    25.27767,
+    1.44758
+],
+  "geometry": {"coordinates":[25.27767,1.44758],"type":"Point"}
+}

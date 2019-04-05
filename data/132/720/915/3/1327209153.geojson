@@ -1,0 +1,67 @@
+{
+  "id": 1327209153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29509,-7.58823,19.29509,-7.58823",
+    "geom:latitude":-7.58823,
+    "geom:longitude":19.29509,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shakayimbo",
+    "gn:country_code":"CD",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448208,
+    "gn:latitude":-7.58823,
+    "gn:longitude":19.29509,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shakayimbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448208
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e1e153418790e7d6c29aaa7df21ddcfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1327209153,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327209153,
+    "wof:lastmodified":1537002489,
+    "wof:name":"Shakayimbo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29509,
+    -7.58823,
+    19.29509,
+    -7.58823
+],
+  "geometry": {"coordinates":[19.29509,-7.58823],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1277043073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26292,2.95314,22.26292,2.95314",
+    "geom:latitude":2.95314,
+    "geom:longitude":22.26292,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Benzari Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219051,
+    "gn:latitude":2.95314,
+    "gn:longitude":22.26292,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Benzari Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Benzari Deuxi\u00e8me",
+        "Benzari II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219051
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"624758cf0f99055c64f26b7f325ff2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1277043073,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1277043073,
+    "wof:lastmodified":1537590462,
+    "wof:name":"Benzari Deuxieme",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26292,
+    2.95314,
+    22.26292,
+    2.95314
+],
+  "geometry": {"coordinates":[22.26292,2.95314],"type":"Point"}
+}

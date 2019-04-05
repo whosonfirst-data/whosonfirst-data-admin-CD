@@ -1,0 +1,65 @@
+{
+  "id": 1209177259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.99503,-6.11032,20.99503,-6.11032",
+    "geom:latitude":-6.11032,
+    "geom:longitude":20.99503,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kabeya-Kalala",
+    "gn:country_code":"CD",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215554,
+    "gn:latitude":-6.11032,
+    "gn:longitude":20.99503,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabeya-Kalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabea Kalala",
+        "Kabeya-Kalala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215554
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"163d70e4a18819de3946724842a4a86b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209177259
+        }
+    ],
+    "wof:id":1209177259,
+    "wof:lastmodified":1537590427,
+    "wof:name":"Kabeya-Kalala",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.99503,
+    -6.11032,
+    20.99503,
+    -6.11032
+],
+  "geometry": {"coordinates":[20.99503,-6.11032],"type":"Point"}
+}

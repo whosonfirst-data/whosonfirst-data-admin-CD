@@ -1,0 +1,61 @@
+{
+  "id": 1209576625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.48333,-5.08333,28.48333,-5.08333",
+    "geom:latitude":-5.08333,
+    "geom:longitude":28.48333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mulumba",
+    "gn:country_code":"CD",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208168,
+    "gn:latitude":-5.08333,
+    "gn:longitude":28.48333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mulumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208168
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b2dc9ff6c9e9177bf4eb8180e5fae46f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209576625
+        }
+    ],
+    "wof:id":1209576625,
+    "wof:lastmodified":1536282917,
+    "wof:name":"Mulumba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.48333,
+    -5.08333,
+    28.48333,
+    -5.08333
+],
+  "geometry": {"coordinates":[28.48333,-5.08333],"type":"Point"}
+}

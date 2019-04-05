@@ -1,0 +1,67 @@
+{
+  "id": 1343933735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81311,-7.02141,20.81311,-7.02141",
+    "geom:latitude":-7.02141,
+    "geom:longitude":20.81311,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bataillon",
+    "gn:country_code":"CD",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219395,
+    "gn:latitude":-7.02141,
+    "gn:longitude":20.81311,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bataillon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219395
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"059cd7a791500840a3440d08362eb208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1343933735,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343933735,
+    "wof:lastmodified":1537056188,
+    "wof:name":"Bataillon",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81311,
+    -7.02141,
+    20.81311,
+    -7.02141
+],
+  "geometry": {"coordinates":[20.81311,-7.02141],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243529719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15378,-6.12517,18.15378,-6.12517",
+    "geom:latitude":-6.12517,
+    "geom:longitude":18.15378,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Feshi",
+    "gn:country_code":"CD",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315821,
+    "gn:latitude":-6.12517,
+    "gn:longitude":18.15378,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Feshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315821
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d6a5d93a9f6d3ea903743f9dbd02f338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1243529719,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243529719,
+    "wof:lastmodified":1536685556,
+    "wof:name":"Feshi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15378,
+    -6.12517,
+    18.15378,
+    -6.12517
+],
+  "geometry": {"coordinates":[18.15378,-6.12517],"type":"Point"}
+}

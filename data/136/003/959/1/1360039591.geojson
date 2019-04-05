@@ -1,0 +1,71 @@
+{
+  "id": 1360039591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2,-3.13333,22.2,-3.13333",
+    "geom:latitude":-3.13333,
+    "geom:longitude":22.2,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Iwadji",
+    "gn:country_code":"CD",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215704,
+    "gn:latitude":-3.13333,
+    "gn:longitude":22.2,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Iwadji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awadji",
+        "Iwadji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215704
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"20e0a67257415a5ce2775850542d3d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1360039591,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1360039591,
+    "wof:lastmodified":1537590429,
+    "wof:name":"Iwadji",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2,
+    -3.13333,
+    22.2,
+    -3.13333
+],
+  "geometry": {"coordinates":[22.2,-3.13333],"type":"Point"}
+}

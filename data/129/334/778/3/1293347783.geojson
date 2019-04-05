@@ -1,0 +1,67 @@
+{
+  "id": 1293347783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36548,2.58921,22.36548,2.58921",
+    "geom:latitude":2.58921,
+    "geom:longitude":22.36548,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yakai",
+    "gn:country_code":"CD",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204069,
+    "gn:latitude":2.58921,
+    "gn:longitude":22.36548,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yakai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204069
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"55433ec4228cd0de5d975f9f4d5efe0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1293347783,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293347783,
+    "wof:lastmodified":1536987741,
+    "wof:name":"Yakai",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36548,
+    2.58921,
+    22.36548,
+    2.58921
+],
+  "geometry": {"coordinates":[22.36548,2.58921],"type":"Point"}
+}

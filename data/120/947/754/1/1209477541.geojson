@@ -1,0 +1,61 @@
+{
+  "id": 1209477541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18814,-6.22909,18.18814,-6.22909",
+    "geom:latitude":-6.22909,
+    "geom:longitude":18.18814,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kawumba",
+    "gn:country_code":"CD",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8334461,
+    "gn:latitude":-6.22909,
+    "gn:longitude":18.18814,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kawumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8334461
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3e7db69695fcf8e6529e7c094a3fcd2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209477541
+        }
+    ],
+    "wof:id":1209477541,
+    "wof:lastmodified":1536285888,
+    "wof:name":"Kawumba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18814,
+    -6.22909,
+    18.18814,
+    -6.22909
+],
+  "geometry": {"coordinates":[18.18814,-6.22909],"type":"Point"}
+}

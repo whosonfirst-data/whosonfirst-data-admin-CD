@@ -1,0 +1,67 @@
+{
+  "id": 1259854625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.31221,-7.10439,19.31221,-7.10439",
+    "geom:latitude":-7.10439,
+    "geom:longitude":19.31221,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kabamba",
+    "gn:country_code":"CD",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448252,
+    "gn:latitude":-7.10439,
+    "gn:longitude":19.31221,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448252
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"db3f8b1ef4b4dad4e406ce85780e8233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1259854625,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259854625,
+    "wof:lastmodified":1536819931,
+    "wof:name":"Kabamba",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.31221,
+    -7.10439,
+    19.31221,
+    -7.10439
+],
+  "geometry": {"coordinates":[19.31221,-7.10439],"type":"Point"}
+}

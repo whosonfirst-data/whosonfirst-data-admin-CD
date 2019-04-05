@@ -1,0 +1,67 @@
+{
+  "id": 1293165661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.97071,-5.79082,19.97071,-5.79082",
+    "geom:latitude":-5.79082,
+    "geom:longitude":19.97071,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kinga",
+    "gn:country_code":"CD",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314436,
+    "gn:latitude":-5.79082,
+    "gn:longitude":19.97071,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314436
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6c547c1ef7c4e5c95e59557f469c46d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293165661,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293165661,
+    "wof:lastmodified":1536754206,
+    "wof:name":"Kinga",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.97071,
+    -5.79082,
+    19.97071,
+    -5.79082
+],
+  "geometry": {"coordinates":[19.97071,-5.79082],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209673673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02382,-7.25044,22.02382,-7.25044",
+    "geom:latitude":-7.25044,
+    "geom:longitude":22.02382,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshisenga",
+    "gn:country_code":"CD",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438541,
+    "gn:latitude":-7.25044,
+    "gn:longitude":22.02382,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshisenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438541
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f6ff8c63835c807a9bc8cfaa0c683ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209673673
+        }
+    ],
+    "wof:id":1209673673,
+    "wof:lastmodified":1536279830,
+    "wof:name":"Tshisenga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02382,
+    -7.250439999999998,
+    22.02382,
+    -7.250439999999998
+],
+  "geometry": {"coordinates":[22.02382,-7.25044],"type":"Point"}
+}

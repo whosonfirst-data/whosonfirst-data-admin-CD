@@ -1,0 +1,67 @@
+{
+  "id": 1310073925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.42045,-3.17031,18.42045,-3.17031",
+    "geom:latitude":-3.17031,
+    "geom:longitude":18.42045,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kemba",
+    "gn:country_code":"CD",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314953,
+    "gn:latitude":-3.17031,
+    "gn:longitude":18.42045,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314953
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"10cba45a5d9387eb6167ce6fea0378e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1310073925,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310073925,
+    "wof:lastmodified":1537040442,
+    "wof:name":"Kemba",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.42045,
+    -3.17031,
+    18.42045,
+    -3.17031
+],
+  "geometry": {"coordinates":[18.42045,-3.17031],"type":"Point"}
+}

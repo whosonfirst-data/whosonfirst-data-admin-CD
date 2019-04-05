@@ -1,0 +1,67 @@
+{
+  "id": 1226712481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91635,-6.26389,17.91635,-6.26389",
+    "geom:latitude":-6.26389,
+    "geom:longitude":17.91635,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Menikosi",
+    "gn:country_code":"CD",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434607,
+    "gn:latitude":-6.26389,
+    "gn:longitude":17.91635,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Menikosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434607
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"05e6cde2399bb4767cd3e994d51b785f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226712481,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226712481,
+    "wof:lastmodified":1536763992,
+    "wof:name":"Menikosi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91635,
+    -6.26389,
+    17.91635,
+    -6.26389
+],
+  "geometry": {"coordinates":[17.91635,-6.26389],"type":"Point"}
+}

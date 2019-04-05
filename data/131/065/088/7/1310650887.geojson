@@ -1,0 +1,67 @@
+{
+  "id": 1310650887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92143,1.92146,22.92143,1.92146",
+    "geom:latitude":1.92146,
+    "geom:longitude":22.92143,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Mombongo",
+    "gn:country_code":"CD",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208822,
+    "gn:latitude":1.92146,
+    "gn:longitude":22.92143,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mombongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208822
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ce10f52be80bdcfb84f2526e14133696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1310650887,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1310650887,
+    "wof:lastmodified":1536707590,
+    "wof:name":"Mombongo",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92143,
+    1.92146,
+    22.92143,
+    1.92146
+],
+  "geometry": {"coordinates":[22.92143,1.92146],"type":"Point"}
+}

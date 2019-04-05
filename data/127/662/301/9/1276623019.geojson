@@ -1,0 +1,67 @@
+{
+  "id": 1276623019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81889,-5.93809,22.81889,-5.93809",
+    "geom:latitude":-5.93809,
+    "geom:longitude":22.81889,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Santu-Kapongo",
+    "gn:country_code":"CD",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328969,
+    "gn:latitude":-5.93809,
+    "gn:longitude":22.81889,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Santu-Kapongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328969
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3b971b748d3dc1e8c4637cf0dc8a4aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1276623019,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276623019,
+    "wof:lastmodified":1536887533,
+    "wof:name":"Santu-Kapongo",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81889,
+    -5.93809,
+    22.81889,
+    -5.93809
+],
+  "geometry": {"coordinates":[22.81889,-5.93809],"type":"Point"}
+}

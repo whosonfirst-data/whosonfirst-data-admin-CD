@@ -1,0 +1,67 @@
+{
+  "id": 1343543293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.85364,2.69073,29.85364,2.69073",
+    "geom:latitude":2.69073,
+    "geom:longitude":29.85364,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Aogu",
+    "gn:country_code":"CD",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143117,
+    "gn:latitude":2.69073,
+    "gn:longitude":29.85364,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Aogu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143117
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1e3e2930017fb70f4691d9d07ea4e4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1343543293,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343543293,
+    "wof:lastmodified":1536624797,
+    "wof:name":"Aogu",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.85364,
+    2.69073,
+    29.85364,
+    2.69073
+],
+  "geometry": {"coordinates":[29.85364,2.69073],"type":"Point"}
+}

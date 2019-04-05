@@ -1,0 +1,61 @@
+{
+  "id": 1209068817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.22271,-7.47522,18.22271,-7.47522",
+    "geom:latitude":-7.47522,
+    "geom:longitude":18.22271,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Pimbi Tsakala",
+    "gn:country_code":"CD",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447713,
+    "gn:latitude":-7.47522,
+    "gn:longitude":18.22271,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pimbi Tsakala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447713
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"24b73146cb4db6f717e4fef7819e4932",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209068817
+        }
+    ],
+    "wof:id":1209068817,
+    "wof:lastmodified":1536298713,
+    "wof:name":"Pimbi Tsakala",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.22271,
+    -7.475219999999998,
+    18.22271,
+    -7.475219999999998
+],
+  "geometry": {"coordinates":[18.22271,-7.47522],"type":"Point"}
+}

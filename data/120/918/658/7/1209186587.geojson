@@ -1,0 +1,61 @@
+{
+  "id": 1209186587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05359,3.33575,30.05359,3.33575",
+    "geom:latitude":3.33575,
+    "geom:longitude":30.05359,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kamiro",
+    "gn:country_code":"CD",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214606,
+    "gn:latitude":3.33575,
+    "gn:longitude":30.05359,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kamiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214606
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fc22101471fdfe0d130b41d9374a25f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209186587
+        }
+    ],
+    "wof:id":1209186587,
+    "wof:lastmodified":1536295078,
+    "wof:name":"Kamiro",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.053590000000003,
+    3.33575,
+    30.053590000000003,
+    3.33575
+],
+  "geometry": {"coordinates":[30.05359,3.33575],"type":"Point"}
+}

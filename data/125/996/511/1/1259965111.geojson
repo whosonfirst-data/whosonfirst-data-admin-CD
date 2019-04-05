@@ -1,0 +1,67 @@
+{
+  "id": 1259965111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.46548,-5.67663,14.46548,-5.67663",
+    "geom:latitude":-5.67663,
+    "geom:longitude":14.46548,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kinkonga",
+    "gn:country_code":"CD",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325377,
+    "gn:latitude":-5.67663,
+    "gn:longitude":14.46548,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kinkonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325377
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9fb050f026fb20acc59a4af9d6910d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1259965111,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1259965111,
+    "wof:lastmodified":1536661668,
+    "wof:name":"Kinkonga",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.46548,
+    -5.67663,
+    14.46548,
+    -5.67663
+],
+  "geometry": {"coordinates":[14.46548,-5.67663],"type":"Point"}
+}

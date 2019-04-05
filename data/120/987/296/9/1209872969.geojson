@@ -1,0 +1,71 @@
+{
+  "id": 1209872969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.6193,2.97939,21.6193,2.97939",
+    "geom:latitude":2.97939,
+    "geom:longitude":21.6193,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Mondzuambi",
+    "gn:country_code":"CD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208748,
+    "gn:latitude":2.97939,
+    "gn:longitude":21.6193,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mondzuambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mondjuambi",
+        "Mondzuambi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208748
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bfa027c5116cc6538349d1621c96eddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1209872969,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1209872969,
+    "wof:lastmodified":1537590363,
+    "wof:name":"Mondzuambi",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.6193,
+    2.97939,
+    21.6193,
+    2.97939
+],
+  "geometry": {"coordinates":[21.6193,2.97939],"type":"Point"}
+}

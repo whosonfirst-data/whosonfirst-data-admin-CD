@@ -1,0 +1,67 @@
+{
+  "id": 1344008901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.78333,-6.21667,26.78333,-6.21667",
+    "geom:latitude":-6.21667,
+    "geom:longitude":26.78333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Dino",
+    "gn:country_code":"CD",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217238,
+    "gn:latitude":-6.21667,
+    "gn:longitude":26.78333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217238
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4a60475d56eea1555df3af3b4e24a86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1344008901,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1344008901,
+    "wof:lastmodified":1536950444,
+    "wof:name":"Dino",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.78333,
+    -6.21667,
+    26.78333,
+    -6.21667
+],
+  "geometry": {"coordinates":[26.78333,-6.21667],"type":"Point"}
+}

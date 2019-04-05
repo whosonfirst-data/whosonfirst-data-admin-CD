@@ -1,0 +1,72 @@
+{
+  "id": 1243036265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.36969,-2.49416,17.36969,-2.49416",
+    "geom:latitude":-2.49416,
+    "geom:longitude":17.36969,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bopaka-Pentana",
+    "gn:country_code":"CD",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316525,
+    "gn:latitude":-2.49416,
+    "gn:longitude":17.36969,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bopaka-Pentana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pentana",
+        "Bopaka",
+        "Bopaka-Pentana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316525
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"09baaffb3484c4aaac8fe133971550dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1243036265,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243036265,
+    "wof:lastmodified":1537590554,
+    "wof:name":"Bopaka-Pentana",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.36969,
+    -2.49416,
+    17.36969,
+    -2.49416
+],
+  "geometry": {"coordinates":[17.36969,-2.49416],"type":"Point"}
+}

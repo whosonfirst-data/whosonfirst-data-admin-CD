@@ -1,0 +1,66 @@
+{
+  "id": 1209373759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.95,-6.0,24.95,-6.0",
+    "geom:latitude":-6.0,
+    "geom:longitude":24.95,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Lupiku",
+    "gn:country_code":"CD",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210414,
+    "gn:latitude":-6.0,
+    "gn:longitude":24.95,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lupiku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kifuku",
+        "Lifuku",
+        "Lupiku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210414
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f4c87b2458cd834b959b3cd65070628e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209373759
+        }
+    ],
+    "wof:id":1209373759,
+    "wof:lastmodified":1537590379,
+    "wof:name":"Lupiku",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.95,
+    -6.0,
+    24.95,
+    -6.0
+],
+  "geometry": {"coordinates":[24.95,-6.0],"type":"Point"}
+}

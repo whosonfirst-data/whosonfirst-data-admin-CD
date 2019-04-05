@@ -1,0 +1,67 @@
+{
+  "id": 1243608981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70209,4.20051,19.70209,4.20051",
+    "geom:latitude":4.20051,
+    "geom:longitude":19.70209,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Modiri",
+    "gn:country_code":"CD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312701,
+    "gn:latitude":4.20051,
+    "gn:longitude":19.70209,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Modiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312701
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"69921b7279578f2471e6471af4ee8cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1243608981,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1243608981,
+    "wof:lastmodified":1537065505,
+    "wof:name":"Modiri",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70209,
+    4.20051,
+    19.70209,
+    4.20051
+],
+  "geometry": {"coordinates":[19.70209,4.20051],"type":"Point"}
+}

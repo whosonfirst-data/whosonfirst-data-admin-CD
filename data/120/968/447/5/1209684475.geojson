@@ -1,0 +1,61 @@
+{
+  "id": 1209684475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.48824,-10.54205,23.48824,-10.54205",
+    "geom:latitude":-10.54205,
+    "geom:longitude":23.48824,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Nungu",
+    "gn:country_code":"CD",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466440,
+    "gn:latitude":-10.54205,
+    "gn:longitude":23.48824,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466440
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"425cb0313c4288e011340731cfa11753",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209684475
+        }
+    ],
+    "wof:id":1209684475,
+    "wof:lastmodified":1536279460,
+    "wof:name":"Nungu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48824,
+    -10.54205,
+    23.48824,
+    -10.54205
+],
+  "geometry": {"coordinates":[23.48824,-10.54205],"type":"Point"}
+}

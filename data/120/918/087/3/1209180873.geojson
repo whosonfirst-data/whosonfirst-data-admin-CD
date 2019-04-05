@@ -1,0 +1,61 @@
+{
+  "id": 1209180873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.55182,-4.35699,24.55182,-4.35699",
+    "geom:latitude":-4.35699,
+    "geom:longitude":24.55182,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Shenge",
+    "gn:country_code":"CD",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205606,
+    "gn:latitude":-4.35699,
+    "gn:longitude":24.55182,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205606
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c9e91a69c6f53023a1fda2c874de904c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209180873
+        }
+    ],
+    "wof:id":1209180873,
+    "wof:lastmodified":1536295263,
+    "wof:name":"Shenge",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.551820000000006,
+    -4.3569900000000015,
+    24.551820000000006,
+    -4.3569900000000015
+],
+  "geometry": {"coordinates":[24.55182000000001,-4.35699],"type":"Point"}
+}

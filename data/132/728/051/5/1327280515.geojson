@@ -1,0 +1,67 @@
+{
+  "id": 1327280515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.27023,1.31367,24.27023,1.31367",
+    "geom:latitude":1.31367,
+    "geom:longitude":24.27023,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Basenga",
+    "gn:country_code":"CD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149542,
+    "gn:latitude":1.31367,
+    "gn:longitude":24.27023,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Basenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149542
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"90f435a9126d4b569ef3a27eead6320f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1327280515,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327280515,
+    "wof:lastmodified":1536900246,
+    "wof:name":"Basenga",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.27023,
+    1.31367,
+    24.27023,
+    1.31367
+],
+  "geometry": {"coordinates":[24.27023,1.31367],"type":"Point"}
+}

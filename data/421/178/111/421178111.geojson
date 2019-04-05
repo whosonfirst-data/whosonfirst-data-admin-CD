@@ -1,0 +1,71 @@
+{
+  "id": 421178111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.8628,-2.501884,28.8628,-2.501884",
+    "geom:latitude":-2.501884,
+    "geom:longitude":28.8628,
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mururu",
+    "qs:name_adm0":"Rwanda",
+    "qs:name_adm1":"Province de l'Ouest",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":42123,
+    "qs:woe_adm0":23424937,
+    "qs:woe_id":1410728,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1410728,
+        "qs:id":42123
+    },
+    "wof:country":"CD",
+    "wof:created":1459009171,
+    "wof:geomhash":"a655058edfd7bc4b74620dd98e555125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":421178111,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":421178111,
+    "wof:lastmodified":1466635846,
+    "wof:name":"Mururu",
+    "wof:parent_id":85670003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8628,
+    -2.501884,
+    28.8628,
+    -2.501884
+],
+  "geometry": {"coordinates":[28.8628,-2.501884],"type":"Point"}
+}

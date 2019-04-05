@@ -1,0 +1,67 @@
+{
+  "id": 1293746089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.73041,-6.04722,17.73041,-6.04722",
+    "geom:latitude":-6.04722,
+    "geom:longitude":17.73041,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Boku",
+    "gn:country_code":"CD",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434506,
+    "gn:latitude":-6.04722,
+    "gn:longitude":17.73041,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Boku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434506
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fa260ed23abdbd1d949b1c1923b2aa77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1293746089,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293746089,
+    "wof:lastmodified":1536911908,
+    "wof:name":"Boku",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.73041,
+    -6.04722,
+    17.73041,
+    -6.04722
+],
+  "geometry": {"coordinates":[17.73041,-6.04722],"type":"Point"}
+}

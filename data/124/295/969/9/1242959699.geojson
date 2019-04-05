@@ -1,0 +1,67 @@
+{
+  "id": 1242959699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45114,3.20342,25.45114,3.20342",
+    "geom:latitude":3.20342,
+    "geom:longitude":25.45114,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Balipi",
+    "gn:country_code":"CD",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143680,
+    "gn:latitude":3.20342,
+    "gn:longitude":25.45114,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Balipi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143680
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a9c79029c4d804b2eb72750f85b7dc01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1242959699,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1242959699,
+    "wof:lastmodified":1537009669,
+    "wof:name":"Balipi",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45114,
+    3.20342,
+    25.45114,
+    3.20342
+],
+  "geometry": {"coordinates":[25.45114,3.20342],"type":"Point"}
+}

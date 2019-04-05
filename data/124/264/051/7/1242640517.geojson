@@ -1,0 +1,67 @@
+{
+  "id": 1242640517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03014,-6.62816,21.03014,-6.62816",
+    "geom:latitude":-6.62816,
+    "geom:longitude":21.03014,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bayamba-Major",
+    "gn:country_code":"CD",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327420,
+    "gn:latitude":-6.62816,
+    "gn:longitude":21.03014,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bayamba-Major",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327420
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7e3f0fab065cb88f5783137d9b08fbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1242640517,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1242640517,
+    "wof:lastmodified":1536972912,
+    "wof:name":"Bayamba-Major",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03014,
+    -6.62816,
+    21.03014,
+    -6.62816
+],
+  "geometry": {"coordinates":[21.03014,-6.62816],"type":"Point"}
+}

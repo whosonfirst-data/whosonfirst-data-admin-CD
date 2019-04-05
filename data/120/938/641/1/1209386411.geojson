@@ -1,0 +1,61 @@
+{
+  "id": 1209386411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01954,2.8497,26.01954,2.8497",
+    "geom:latitude":2.8497,
+    "geom:longitude":26.01954,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Masiopa",
+    "gn:country_code":"CD",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209479,
+    "gn:latitude":2.8497,
+    "gn:longitude":26.01954,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Masiopa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209479
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9ecb0c7de41b1b232d0da4ce50d6f8f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209386411
+        }
+    ],
+    "wof:id":1209386411,
+    "wof:lastmodified":1536288610,
+    "wof:name":"Masiopa",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01954,
+    2.8497,
+    26.01954,
+    2.8497
+],
+  "geometry": {"coordinates":[26.01954,2.8497],"type":"Point"}
+}

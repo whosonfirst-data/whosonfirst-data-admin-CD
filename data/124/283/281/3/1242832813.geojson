@@ -1,0 +1,70 @@
+{
+  "id": 1242832813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88081,-9.29133,21.88081,-9.29133",
+    "geom:latitude":-9.29133,
+    "geom:longitude":21.88081,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sakashata",
+    "gn:country_code":"CD",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205977,
+    "gn:latitude":-9.29133,
+    "gn:longitude":21.88081,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sakashata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakashala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205977
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a5c089bf559a39618774aafec9f0a4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1242832813,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242832813,
+    "wof:lastmodified":1537590331,
+    "wof:name":"Sakashata",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88081,
+    -9.29133,
+    21.88081,
+    -9.29133
+],
+  "geometry": {"coordinates":[21.88081,-9.29133],"type":"Point"}
+}

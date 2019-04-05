@@ -1,0 +1,65 @@
+{
+  "id": 1209305147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.21345,-5.84718,14.21345,-5.84718",
+    "geom:latitude":-5.84718,
+    "geom:longitude":14.21345,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lumueno-Mazinga",
+    "gn:country_code":"CD",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313322,
+    "gn:latitude":-5.84718,
+    "gn:longitude":14.21345,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Lumueno-Mazinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lumueno",
+        "Lumueno-Mazinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313322
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"211fe0cc61e439d2fd00bd405fab2308",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209305147
+        }
+    ],
+    "wof:id":1209305147,
+    "wof:lastmodified":1537590521,
+    "wof:name":"Lumueno-Mazinga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.21345,
+    -5.84718,
+    14.21345,
+    -5.84718
+],
+  "geometry": {"coordinates":[14.21345,-5.84718],"type":"Point"}
+}

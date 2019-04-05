@@ -1,0 +1,66 @@
+{
+  "id": 1209673929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48975,-10.83073,26.48975,-10.83073",
+    "geom:latitude":-10.83073,
+    "geom:longitude":26.48975,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Shangalowe",
+    "gn:country_code":"CD",
+    "gn:dem":1498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922169,
+    "gn:latitude":-10.83073,
+    "gn:longitude":26.48975,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shangalowe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangolowe",
+        "Shangalowe",
+        "Shangolume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922169
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d937ef596c3818b3b927d7c964451f27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209673929
+        }
+    ],
+    "wof:id":1209673929,
+    "wof:lastmodified":1537590482,
+    "wof:name":"Shangalowe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48975,
+    -10.83073,
+    26.48975,
+    -10.83073
+],
+  "geometry": {"coordinates":[26.48975,-10.83073],"type":"Point"}
+}

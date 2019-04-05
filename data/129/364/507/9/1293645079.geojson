@@ -1,0 +1,67 @@
+{
+  "id": 1293645079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.43068,-2.15011,17.43068,-2.15011",
+    "geom:latitude":-2.15011,
+    "geom:longitude":17.43068,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mpa",
+    "gn:country_code":"CD",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312468,
+    "gn:latitude":-2.15011,
+    "gn:longitude":17.43068,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mpa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312468
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7958350f059e759abd8816806f97f329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1293645079,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293645079,
+    "wof:lastmodified":1537054842,
+    "wof:name":"Mpa",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.43068,
+    -2.15011,
+    17.43068,
+    -2.15011
+],
+  "geometry": {"coordinates":[17.43068,-2.15011],"type":"Point"}
+}

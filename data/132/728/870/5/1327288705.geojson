@@ -1,0 +1,65 @@
+{
+  "id": 1327288705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.78919,4.27118,21.78919,4.27118",
+    "geom:latitude":4.27118,
+    "geom:longitude":21.78919,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Gbo-Gambo",
+    "gn:country_code":"CD",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8246850,
+    "gn:latitude":4.27118,
+    "gn:longitude":21.78919,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gbo-Gambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Bangui",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8246850
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8485657dbad7915d8c2ad11e45b50754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":1327288705,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327288705,
+    "wof:lastmodified":1536888044,
+    "wof:name":"Gbo-Gambo",
+    "wof:parent_id":85669975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.78919,
+    4.27118,
+    21.78919,
+    4.27118
+],
+  "geometry": {"coordinates":[21.78919,4.27118],"type":"Point"}
+}

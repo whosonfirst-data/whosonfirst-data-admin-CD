@@ -1,0 +1,67 @@
+{
+  "id": 1310403187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19219,-4.50537,15.19219,-4.50537",
+    "geom:latitude":-4.50537,
+    "geom:longitude":15.19219,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dibulu",
+    "gn:country_code":"CD",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316090,
+    "gn:latitude":-4.50537,
+    "gn:longitude":15.19219,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dibulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316090
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"90e01324fd14df909ffa7128ec36b00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679225,
+            "locality_id":1310403187,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1310403187,
+    "wof:lastmodified":1537061878,
+    "wof:name":"Dibulu",
+    "wof:parent_id":1091679225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19219,
+    -4.50537,
+    15.19219,
+    -4.50537
+],
+  "geometry": {"coordinates":[15.19219,-4.50537],"type":"Point"}
+}

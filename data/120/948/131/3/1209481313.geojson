@@ -1,0 +1,61 @@
+{
+  "id": 1209481313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.22593,-7.13288,21.22593,-7.13288",
+    "geom:latitude":-7.13288,
+    "geom:longitude":21.22593,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sumbula",
+    "gn:country_code":"CD",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440338,
+    "gn:latitude":-7.13288,
+    "gn:longitude":21.22593,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sumbula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440338
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3f0be6209c7b63b037a877f4513cb129",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209481313
+        }
+    ],
+    "wof:id":1209481313,
+    "wof:lastmodified":1536285773,
+    "wof:name":"Sumbula",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.22593,
+    -7.13288,
+    21.22593,
+    -7.13288
+],
+  "geometry": {"coordinates":[21.22593,-7.13288],"type":"Point"}
+}

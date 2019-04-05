@@ -1,0 +1,70 @@
+{
+  "id": 1243238055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78033,-5.63576,19.78033,-5.63576",
+    "geom:latitude":-5.63576,
+    "geom:longitude":19.78033,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mukedi",
+    "gn:country_code":"CD",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312369,
+    "gn:latitude":-5.63576,
+    "gn:longitude":19.78033,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mukedi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bukedi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312369
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"38d3e0a85a3acedde19f82215ab1583c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1243238055,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243238055,
+    "wof:lastmodified":1537590512,
+    "wof:name":"Mukedi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78033,
+    -5.63576,
+    19.78033,
+    -5.63576
+],
+  "geometry": {"coordinates":[19.78033,-5.63576],"type":"Point"}
+}

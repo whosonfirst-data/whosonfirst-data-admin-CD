@@ -1,0 +1,67 @@
+{
+  "id": 1226292935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.95212,1.30402,25.95212,1.30402",
+    "geom:latitude":1.30402,
+    "geom:longitude":25.95212,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bafwalia",
+    "gn:country_code":"CD",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149820,
+    "gn:latitude":1.30402,
+    "gn:longitude":25.95212,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bafwalia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149820
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a3c464c40aa77a8c815a8ef8f4ac84f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1226292935,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1226292935,
+    "wof:lastmodified":1536864454,
+    "wof:name":"Bafwalia",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.95212,
+    1.30402,
+    25.95212,
+    1.30402
+],
+  "geometry": {"coordinates":[25.95212,1.30402],"type":"Point"}
+}

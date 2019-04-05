@@ -1,0 +1,67 @@
+{
+  "id": 1309825829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93517,-4.77842,14.93517,-4.77842",
+    "geom:latitude":-4.77842,
+    "geom:longitude":14.93517,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gomina",
+    "gn:country_code":"CD",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443503,
+    "gn:latitude":-4.77842,
+    "gn:longitude":14.93517,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Gomina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443503
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"325320da98bc016a51405d2999f0da5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1309825829,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1309825829,
+    "wof:lastmodified":1536902397,
+    "wof:name":"Gomina",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93517,
+    -4.77842,
+    14.93517,
+    -4.77842
+],
+  "geometry": {"coordinates":[14.93517,-4.77842],"type":"Point"}
+}

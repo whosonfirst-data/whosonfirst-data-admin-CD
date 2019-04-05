@@ -1,0 +1,64 @@
+{
+  "id": 1209292489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.29304,0.11207,29.29304,0.11207",
+    "geom:latitude":0.11207,
+    "geom:longitude":29.29304,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Vuteste",
+    "gn:country_code":"CD",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204365,
+    "gn:latitude":0.11207,
+    "gn:longitude":29.29304,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Vuteste",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vutetse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204365
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4e4fa064b6decd20c2c5d875493090f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209292489
+        }
+    ],
+    "wof:id":1209292489,
+    "wof:lastmodified":1537590312,
+    "wof:name":"Vuteste",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.29304,
+    0.11207,
+    29.29304,
+    0.11207
+],
+  "geometry": {"coordinates":[29.29304,0.11207],"type":"Point"}
+}

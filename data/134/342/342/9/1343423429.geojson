@@ -1,0 +1,67 @@
+{
+  "id": 1343423429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81703,-6.97849,19.81703,-6.97849",
+    "geom:latitude":-6.97849,
+    "geom:longitude":19.81703,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shashidi",
+    "gn:country_code":"CD",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9529113,
+    "gn:latitude":-6.97849,
+    "gn:longitude":19.81703,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shashidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9529113
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d3dffd5939736026a7d2efe986b6ed94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343423429,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343423429,
+    "wof:lastmodified":1536799906,
+    "wof:name":"Shashidi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81703,
+    -6.97849,
+    19.81703,
+    -6.97849
+],
+  "geometry": {"coordinates":[19.81703,-6.97849],"type":"Point"}
+}

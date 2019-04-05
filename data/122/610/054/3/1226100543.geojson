@@ -1,0 +1,67 @@
+{
+  "id": 1226100543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21904,-9.52727,23.21904,-9.52727",
+    "geom:latitude":-9.52727,
+    "geom:longitude":23.21904,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mushindi",
+    "gn:country_code":"CD",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207941,
+    "gn:latitude":-9.52727,
+    "gn:longitude":23.21904,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mushindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207941
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"76ccf00e0bc0d387d42d803d13579df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226100543,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226100543,
+    "wof:lastmodified":1536645660,
+    "wof:name":"Mushindi",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21904,
+    -9.52727,
+    23.21904,
+    -9.52727
+],
+  "geometry": {"coordinates":[23.21904,-9.52727],"type":"Point"}
+}

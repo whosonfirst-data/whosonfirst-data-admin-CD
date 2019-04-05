@@ -1,0 +1,67 @@
+{
+  "id": 1292976085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46608,-5.60834,16.46608,-5.60834",
+    "geom:latitude":-5.60834,
+    "geom:longitude":16.46608,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kapenda Nseke",
+    "gn:country_code":"CD",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8255853,
+    "gn:latitude":-5.60834,
+    "gn:longitude":16.46608,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kapenda Nseke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8255853
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"20301d1978f6718016422dac1fc4b899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1292976085,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1292976085,
+    "wof:lastmodified":1537026159,
+    "wof:name":"Kapenda Nseke",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46608,
+    -5.60834,
+    16.46608,
+    -5.60834
+],
+  "geometry": {"coordinates":[16.46608,-5.60834],"type":"Point"}
+}

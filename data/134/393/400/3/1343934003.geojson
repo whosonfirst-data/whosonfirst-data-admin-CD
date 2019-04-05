@@ -1,0 +1,70 @@
+{
+  "id": 1343934003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.91748,1.45824,29.91748,1.45824",
+    "geom:latitude":1.45824,
+    "geom:longitude":29.91748,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Irumu",
+    "gn:country_code":"CD",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215828,
+    "gn:latitude":1.45824,
+    "gn:longitude":29.91748,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Irumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Irumu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215828
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1cbd4ea177b2f88e0f349e11ffac368d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1343934003,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343934003,
+    "wof:lastmodified":1537590430,
+    "wof:name":"Irumu",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.91748,
+    1.45824,
+    29.91748,
+    1.45824
+],
+  "geometry": {"coordinates":[29.91748,1.45824],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343563975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.96667,0.53333,19.96667,0.53333",
+    "geom:latitude":0.53333,
+    "geom:longitude":19.96667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bolombo-Bofoku",
+    "gn:country_code":"CD",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316733,
+    "gn:latitude":0.53333,
+    "gn:longitude":19.96667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bolombo-Bofoku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316733
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"71b9028f40fbae5eb4fd7c15b2201c43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1343563975,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343563975,
+    "wof:lastmodified":1537091152,
+    "wof:name":"Bolombo-Bofoku",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.96667,
+    0.53333,
+    19.96667,
+    0.53333
+],
+  "geometry": {"coordinates":[19.96667,0.53333],"type":"Point"}
+}

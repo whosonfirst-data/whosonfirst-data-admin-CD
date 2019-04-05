@@ -1,0 +1,67 @@
+{
+  "id": 1242836165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.57181,-5.01856,18.57181,-5.01856",
+    "geom:latitude":-5.01856,
+    "geom:longitude":18.57181,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kisala-Kayita",
+    "gn:country_code":"CD",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275903,
+    "gn:latitude":-5.01856,
+    "gn:longitude":18.57181,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kisala-Kayita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275903
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cb2823bef18b5098151b614f24ec8cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1242836165,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1242836165,
+    "wof:lastmodified":1536691512,
+    "wof:name":"Kisala-Kayita",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.57181,
+    -5.01856,
+    18.57181,
+    -5.01856
+],
+  "geometry": {"coordinates":[18.57181,-5.01856],"type":"Point"}
+}

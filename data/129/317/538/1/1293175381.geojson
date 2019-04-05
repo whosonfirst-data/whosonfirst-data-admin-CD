@@ -1,0 +1,67 @@
+{
+  "id": 1293175381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02205,-3.74947,18.02205,-3.74947",
+    "geom:latitude":-3.74947,
+    "geom:longitude":18.02205,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mbaya-Antera",
+    "gn:country_code":"CD",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312876,
+    "gn:latitude":-3.74947,
+    "gn:longitude":18.02205,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mbaya-Antera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312876
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3fa5c45901780a59db6e44e2a3bfc974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293175381,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293175381,
+    "wof:lastmodified":1536740012,
+    "wof:name":"Mbaya-Antera",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02205,
+    -3.74947,
+    18.02205,
+    -3.74947
+],
+  "geometry": {"coordinates":[18.02205,-3.74947],"type":"Point"}
+}

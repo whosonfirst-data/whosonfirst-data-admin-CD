@@ -1,0 +1,61 @@
+{
+  "id": 1209164547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.61667,0.68333,24.61667,0.68333",
+    "geom:latitude":0.68333,
+    "geom:longitude":24.61667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yalulia",
+    "gn:country_code":"CD",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203910,
+    "gn:latitude":0.68333,
+    "gn:longitude":24.61667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yalulia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203910
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bf080ef0ffc13e236de75f1e7db40c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209164547
+        }
+    ],
+    "wof:id":1209164547,
+    "wof:lastmodified":1536295791,
+    "wof:name":"Yalulia",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.616670000000006,
+    0.68333,
+    24.616670000000006,
+    0.68333
+],
+  "geometry": {"coordinates":[24.61667000000001,0.68333],"type":"Point"}
+}

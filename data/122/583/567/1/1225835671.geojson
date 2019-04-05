@@ -1,0 +1,67 @@
+{
+  "id": 1225835671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59542,-5.26758,14.59542,-5.26758",
+    "geom:latitude":-5.26758,
+    "geom:longitude":14.59542,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bonde",
+    "gn:country_code":"CD",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325639,
+    "gn:latitude":-5.26758,
+    "gn:longitude":14.59542,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Bonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325639
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"79b6289d1ce36fc897d63d6db107551e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1225835671,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1225835671,
+    "wof:lastmodified":1537027049,
+    "wof:name":"Bonde",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59542,
+    -5.26758,
+    14.59542,
+    -5.26758
+],
+  "geometry": {"coordinates":[14.59542,-5.26758],"type":"Point"}
+}

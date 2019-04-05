@@ -1,0 +1,71 @@
+{
+  "id": 1226620649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.73014,-5.56662,18.73014,-5.56662",
+    "geom:latitude":-5.56662,
+    "geom:longitude":18.73014,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kabanga",
+    "gn:country_code":"CD",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315305,
+    "gn:latitude":-5.56662,
+    "gn:longitude":18.73014,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kahanga",
+        "Kabanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315305
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0bc7095aac51e0b820e15293eaa8e30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1226620649,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226620649,
+    "wof:lastmodified":1537590538,
+    "wof:name":"Kabanga",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.73014,
+    -5.56662,
+    18.73014,
+    -5.56662
+],
+  "geometry": {"coordinates":[18.73014,-5.56662],"type":"Point"}
+}

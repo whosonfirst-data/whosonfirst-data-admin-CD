@@ -1,0 +1,71 @@
+{
+  "id": 1276410979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.18993,-10.9219,28.18993,-10.9219",
+    "geom:latitude":-10.9219,
+    "geom:longitude":28.18993,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sapwe",
+    "gn:country_code":"CD",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922190,
+    "gn:latitude":-10.9219,
+    "gn:longitude":28.18993,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sapwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mungwe Sapwe",
+        "Sapwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922190
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"97227051f6077b3f3f257e179d32e236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1276410979,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276410979,
+    "wof:lastmodified":1537590482,
+    "wof:name":"Sapwe",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.18993,
+    -10.9219,
+    28.18993,
+    -10.9219
+],
+  "geometry": {"coordinates":[28.18993,-10.9219],"type":"Point"}
+}

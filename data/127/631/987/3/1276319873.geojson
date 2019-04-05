@@ -1,0 +1,67 @@
+{
+  "id": 1276319873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.58991,4.78609,26.58991,4.78609",
+    "geom:latitude":4.78609,
+    "geom:longitude":26.58991,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Basape",
+    "gn:country_code":"CD",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219450,
+    "gn:latitude":4.78609,
+    "gn:longitude":26.58991,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Basape",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219450
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9708aebd2155b38ca1e7252fffee5d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1276319873,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276319873,
+    "wof:lastmodified":1536796998,
+    "wof:name":"Basape",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.58991,
+    4.78609,
+    26.58991,
+    4.78609
+],
+  "geometry": {"coordinates":[26.58991,4.78609],"type":"Point"}
+}

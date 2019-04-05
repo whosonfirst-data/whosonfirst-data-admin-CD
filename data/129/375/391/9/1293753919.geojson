@@ -1,0 +1,67 @@
+{
+  "id": 1293753919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.63444,-8.6075,24.63444,-8.6075",
+    "geom:latitude":-8.6075,
+    "geom:longitude":24.63444,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Telemeno",
+    "gn:country_code":"CD",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384759,
+    "gn:latitude":-8.6075,
+    "gn:longitude":24.63444,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Telemeno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384759
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"79f7ddf04f2ecce676d3fa9c0606f211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1293753919,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293753919,
+    "wof:lastmodified":1536900214,
+    "wof:name":"Telemeno",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.63444,
+    -8.6075,
+    24.63444,
+    -8.6075
+],
+  "geometry": {"coordinates":[24.63444,-8.6075],"type":"Point"}
+}

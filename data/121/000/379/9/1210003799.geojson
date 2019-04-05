@@ -1,0 +1,67 @@
+{
+  "id": 1210003799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.62285,-2.69979,28.62285,-2.69979",
+    "geom:latitude":-2.69979,
+    "geom:longitude":28.62285,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Burhale",
+    "gn:country_code":"CD",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435287,
+    "gn:latitude":-2.69979,
+    "gn:longitude":28.62285,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Burhale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435287
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9dac5d63839b0d1d021bd7f7b843b3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1210003799,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1210003799,
+    "wof:lastmodified":1536375865,
+    "wof:name":"Burhale",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.62285,
+    -2.69979,
+    28.62285,
+    -2.69979
+],
+  "geometry": {"coordinates":[28.62285,-2.69979],"type":"Point"}
+}

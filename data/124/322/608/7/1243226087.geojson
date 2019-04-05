@@ -1,0 +1,67 @@
+{
+  "id": 1243226087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.67506,-6.80724,17.67506,-6.80724",
+    "geom:latitude":-6.80724,
+    "geom:longitude":17.67506,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kasongo-Bilumbu",
+    "gn:country_code":"CD",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8541643,
+    "gn:latitude":-6.80724,
+    "gn:longitude":17.67506,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kasongo-Bilumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8541643
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"16ffe79eb286ba75c5c0d5566b964e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1243226087,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243226087,
+    "wof:lastmodified":1536624364,
+    "wof:name":"Kasongo-Bilumbu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.67506000000001,
+    -6.80724,
+    17.67506000000001,
+    -6.80724
+],
+  "geometry": {"coordinates":[17.67506000000001,-6.80724],"type":"Point"}
+}

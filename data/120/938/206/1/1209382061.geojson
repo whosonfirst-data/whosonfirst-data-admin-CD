@@ -1,0 +1,61 @@
+{
+  "id": 1209382061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44838,4.04049,19.44838,4.04049",
+    "geom:latitude":4.04049,
+    "geom:longitude":19.44838,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bogose",
+    "gn:country_code":"CD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316930,
+    "gn:latitude":4.04049,
+    "gn:longitude":19.44838,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bogose",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316930
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4d4b03686dd01493e9837227ccf405f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209382061
+        }
+    ],
+    "wof:id":1209382061,
+    "wof:lastmodified":1536288749,
+    "wof:name":"Bogose",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44838,
+    4.04049,
+    19.44838,
+    4.04049
+],
+  "geometry": {"coordinates":[19.44838,4.04049],"type":"Point"}
+}

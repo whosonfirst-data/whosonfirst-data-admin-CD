@@ -1,0 +1,67 @@
+{
+  "id": 1243046797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.63736,-4.02928,25.63736,-4.02928",
+    "geom:latitude":-4.02928,
+    "geom:longitude":25.63736,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kitambwe",
+    "gn:country_code":"CD",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212636,
+    "gn:latitude":-4.02928,
+    "gn:longitude":25.63736,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kitambwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212636
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8e447919a60b7f1eaf9e04e370b36fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1243046797,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1243046797,
+    "wof:lastmodified":1536884130,
+    "wof:name":"Kitambwe",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.63736,
+    -4.02928,
+    25.63736,
+    -4.02928
+],
+  "geometry": {"coordinates":[25.63736,-4.02928],"type":"Point"}
+}

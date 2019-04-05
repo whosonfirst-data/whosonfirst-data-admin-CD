@@ -1,0 +1,67 @@
+{
+  "id": 1310276209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.30362,2.70954,26.30362,2.70954",
+    "geom:latitude":2.70954,
+    "geom:longitude":26.30362,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mbiri",
+    "gn:country_code":"CD",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209269,
+    "gn:latitude":2.70954,
+    "gn:longitude":26.30362,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mbiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209269
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5b0561ef124ca9fc9fb0246124a4b256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1310276209,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1310276209,
+    "wof:lastmodified":1536750147,
+    "wof:name":"Mbiri",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.30362,
+    2.70954,
+    26.30362,
+    2.70954
+],
+  "geometry": {"coordinates":[26.30362,2.70954],"type":"Point"}
+}

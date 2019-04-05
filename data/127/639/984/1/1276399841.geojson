@@ -1,0 +1,67 @@
+{
+  "id": 1276399841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97696,1.88632,25.97696,1.88632",
+    "geom:latitude":1.88632,
+    "geom:longitude":25.97696,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bokope",
+    "gn:country_code":"CD",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149873,
+    "gn:latitude":1.88632,
+    "gn:longitude":25.97696,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bokope",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149873
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b71c72b61cf9d708504575bfc05de949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1276399841,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276399841,
+    "wof:lastmodified":1536689688,
+    "wof:name":"Bokope",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97696,
+    1.88632,
+    25.97696,
+    1.88632
+],
+  "geometry": {"coordinates":[25.97696,1.88632],"type":"Point"}
+}

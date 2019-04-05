@@ -1,0 +1,67 @@
+{
+  "id": 1276956537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5202,-1.77956,28.5202,-1.77956",
+    "geom:latitude":-1.77956,
+    "geom:longitude":28.5202,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Lufunge",
+    "gn:country_code":"CD",
+    "gn:dem":1306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210881,
+    "gn:latitude":-1.77956,
+    "gn:longitude":28.5202,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Lufunge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210881
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"475781f3bfba42e429c53b971e833143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1276956537,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1276956537,
+    "wof:lastmodified":1536939371,
+    "wof:name":"Lufunge",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5202,
+    -1.77956,
+    28.5202,
+    -1.77956
+],
+  "geometry": {"coordinates":[28.5202,-1.77956],"type":"Point"}
+}

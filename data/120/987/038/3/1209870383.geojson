@@ -1,0 +1,72 @@
+{
+  "id": 1209870383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.30033,-5.23401,24.30033,-5.23401",
+    "geom:latitude":-5.23401,
+    "geom:longitude":24.30033,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Samine",
+    "gn:country_code":"CD",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205898,
+    "gn:latitude":-5.23401,
+    "gn:longitude":24.30033,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Samine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Somine-Kokese",
+        "Samine-Kakese",
+        "Samine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205898
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"09f6980521b617a5e74b28fe5b093aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1209870383,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1209870383,
+    "wof:lastmodified":1537590330,
+    "wof:name":"Samine",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.30033,
+    -5.23401,
+    24.30033,
+    -5.23401
+],
+  "geometry": {"coordinates":[24.30033,-5.23401],"type":"Point"}
+}

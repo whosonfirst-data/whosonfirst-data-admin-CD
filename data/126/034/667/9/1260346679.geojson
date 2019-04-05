@@ -1,0 +1,67 @@
+{
+  "id": 1260346679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.2,-2.58333,20.2,-2.58333",
+    "geom:latitude":-2.58333,
+    "geom:longitude":20.2,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bekombo",
+    "gn:country_code":"CD",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219244,
+    "gn:latitude":-2.58333,
+    "gn:longitude":20.2,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bekombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219244
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"04683a865bfe5f601c0710018c8fce8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1260346679,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260346679,
+    "wof:lastmodified":1536625592,
+    "wof:name":"Bekombo",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.2,
+    -2.58333,
+    20.2,
+    -2.58333
+],
+  "geometry": {"coordinates":[20.2,-2.58333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360175293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,-5.21667,15.91667,-5.21667",
+    "geom:latitude":-5.21667,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kitume",
+    "gn:country_code":"CD",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314075,
+    "gn:latitude":-5.21667,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kitume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314075
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a78fd48fde24568f319bd077f8e82957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1360175293,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1360175293,
+    "wof:lastmodified":1536814837,
+    "wof:name":"Kitume",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91667,
+    -5.21667,
+    15.91667,
+    -5.21667
+],
+  "geometry": {"coordinates":[15.91667,-5.21667],"type":"Point"}
+}

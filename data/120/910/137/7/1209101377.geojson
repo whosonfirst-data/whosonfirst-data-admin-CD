@@ -1,0 +1,61 @@
+{
+  "id": 1209101377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.14803,-4.75925,28.14803,-4.75925",
+    "geom:latitude":-4.75925,
+    "geom:longitude":28.14803,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Fataki",
+    "gn:country_code":"CD",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216553,
+    "gn:latitude":-4.75925,
+    "gn:longitude":28.14803,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Fataki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216553
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aa44f6ecc8ef6cede193c9edebc157a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209101377
+        }
+    ],
+    "wof:id":1209101377,
+    "wof:lastmodified":1536297722,
+    "wof:name":"Fataki",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.14803,
+    -4.75925,
+    28.14803,
+    -4.75925
+],
+  "geometry": {"coordinates":[28.14803,-4.75925],"type":"Point"}
+}

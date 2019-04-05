@@ -1,0 +1,67 @@
+{
+  "id": 1276307065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.29725,-5.56317,19.29725,-5.56317",
+    "geom:latitude":-5.56317,
+    "geom:longitude":19.29725,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mazinga Troisieme",
+    "gn:country_code":"CD",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276510,
+    "gn:latitude":-5.56317,
+    "gn:longitude":19.29725,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mazinga Troisi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276510
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"983466a2ac5660e0e28d4e4ad636df03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1276307065,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276307065,
+    "wof:lastmodified":1536813303,
+    "wof:name":"Mazinga Troisieme",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.29725,
+    -5.56317,
+    19.29725,
+    -5.56317
+],
+  "geometry": {"coordinates":[19.29725,-5.56317],"type":"Point"}
+}

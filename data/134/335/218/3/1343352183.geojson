@@ -1,0 +1,67 @@
+{
+  "id": 1343352183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16249,-4.75094,15.16249,-4.75094",
+    "geom:latitude":-4.75094,
+    "geom:longitude":15.16249,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kiosi",
+    "gn:country_code":"CD",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593345,
+    "gn:latitude":-4.75094,
+    "gn:longitude":15.16249,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kiosi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593345
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e8a01ffc8ae5bfc72ccb8a3fb629d102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1343352183,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1343352183,
+    "wof:lastmodified":1536902620,
+    "wof:name":"Kiosi",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16249,
+    -4.75094,
+    15.16249,
+    -4.75094
+],
+  "geometry": {"coordinates":[15.16249,-4.75094],"type":"Point"}
+}

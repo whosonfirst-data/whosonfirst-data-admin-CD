@@ -1,0 +1,67 @@
+{
+  "id": 1343451571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43375,-5.88579,14.43375,-5.88579",
+    "geom:latitude":-5.88579,
+    "geom:longitude":14.43375,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lombo",
+    "gn:country_code":"CD",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325368,
+    "gn:latitude":-5.88579,
+    "gn:longitude":14.43375,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Lombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325368
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b1956843c5b339df8dfaf0c4ac9e4129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1343451571,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1343451571,
+    "wof:lastmodified":1536759236,
+    "wof:name":"Lombo",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43375,
+    -5.88579,
+    14.43375,
+    -5.88579
+],
+  "geometry": {"coordinates":[14.43375,-5.88579],"type":"Point"}
+}

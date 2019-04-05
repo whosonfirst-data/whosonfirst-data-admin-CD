@@ -1,0 +1,61 @@
+{
+  "id": 1209476071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4079,-6.19525,28.4079,-6.19525",
+    "geom:latitude":-6.19525,
+    "geom:longitude":28.4079,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kasanga Niemba",
+    "gn:country_code":"CD",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10010958,
+    "gn:latitude":-6.19525,
+    "gn:longitude":28.4079,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kasanga Niemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10010958
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cdcdce890551df86254e948cd76031e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209476071
+        }
+    ],
+    "wof:id":1209476071,
+    "wof:lastmodified":1536285933,
+    "wof:name":"Kasanga Niemba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4079,
+    -6.19525,
+    28.4079,
+    -6.19525
+],
+  "geometry": {"coordinates":[28.4079,-6.19525],"type":"Point"}
+}

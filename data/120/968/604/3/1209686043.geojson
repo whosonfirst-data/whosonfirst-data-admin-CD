@@ -1,0 +1,61 @@
+{
+  "id": 1209686043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.02794,-8.86974,26.02794,-8.86974",
+    "geom:latitude":-8.86974,
+    "geom:longitude":26.02794,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kaleka",
+    "gn:country_code":"CD",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10041144,
+    "gn:latitude":-8.86974,
+    "gn:longitude":26.02794,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kaleka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10041144
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"93ae5f398999aadfd82e9141d647df0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209686043
+        }
+    ],
+    "wof:id":1209686043,
+    "wof:lastmodified":1536279407,
+    "wof:name":"Kaleka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.02794,
+    -8.86974,
+    26.02794,
+    -8.86974
+],
+  "geometry": {"coordinates":[26.02794,-8.86974],"type":"Point"}
+}

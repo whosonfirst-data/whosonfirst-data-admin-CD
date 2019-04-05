@@ -1,0 +1,67 @@
+{
+  "id": 1343717225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.94453,2.28599,21.94453,2.28599",
+    "geom:latitude":2.28599,
+    "geom:longitude":21.94453,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Bandu",
+    "gn:country_code":"CD",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219605,
+    "gn:latitude":2.28599,
+    "gn:longitude":21.94453,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219605
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"37a79c61060b6e6aac25552dabfe2cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1343717225,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343717225,
+    "wof:lastmodified":1536872353,
+    "wof:name":"Bandu",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.94453,
+    2.28599,
+    21.94453,
+    2.28599
+],
+  "geometry": {"coordinates":[21.94453,2.28599],"type":"Point"}
+}

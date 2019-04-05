@@ -1,0 +1,72 @@
+{
+  "id": 1259544151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25846,1.397,25.25846,1.397",
+    "geom:latitude":1.397,
+    "geom:longitude":25.25846,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Mambo",
+    "gn:country_code":"CD",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208832,
+    "gn:latitude":1.397,
+    "gn:longitude":25.25846,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamboa",
+        "Momboa",
+        "Mambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208832
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9ef89840f17c1cd7da3523bd36ad3353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1259544151,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259544151,
+    "wof:lastmodified":1537590364,
+    "wof:name":"Mambo",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25846,
+    1.397,
+    25.25846,
+    1.397
+],
+  "geometry": {"coordinates":[25.25846,1.397],"type":"Point"}
+}

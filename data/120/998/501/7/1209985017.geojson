@@ -1,0 +1,67 @@
+{
+  "id": 1209985017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35085,-6.17561,22.35085,-6.17561",
+    "geom:latitude":-6.17561,
+    "geom:longitude":22.35085,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mashuka",
+    "gn:country_code":"CD",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283719,
+    "gn:latitude":-6.17561,
+    "gn:longitude":22.35085,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mashuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283719
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"39a95a80e8e4934ee3bb89f5667c4a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1209985017,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1209985017,
+    "wof:lastmodified":1536389002,
+    "wof:name":"Mashuka",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35085,
+    -6.17561,
+    22.35085,
+    -6.17561
+],
+  "geometry": {"coordinates":[22.35085,-6.17561],"type":"Point"}
+}

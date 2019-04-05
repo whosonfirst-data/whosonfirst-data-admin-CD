@@ -1,0 +1,67 @@
+{
+  "id": 1276750029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73333,3.2,26.73333,3.2",
+    "geom:latitude":3.2,
+    "geom:longitude":26.73333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Konzo-Gwali",
+    "gn:country_code":"CD",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212332,
+    "gn:latitude":3.2,
+    "gn:longitude":26.73333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Konzo-Gwali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212332
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"da798d694ffb41eaf10823d125c86559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1276750029,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276750029,
+    "wof:lastmodified":1536717938,
+    "wof:name":"Konzo-Gwali",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73333,
+    3.2,
+    26.73333,
+    3.2
+],
+  "geometry": {"coordinates":[26.73333,3.2],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277142479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.33824,-6.16168,19.33824,-6.16168",
+    "geom:latitude":-6.16168,
+    "geom:longitude":19.33824,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Makala",
+    "gn:country_code":"CD",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9528767,
+    "gn:latitude":-6.16168,
+    "gn:longitude":19.33824,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Makala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9528767
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ac3355ca3b68d35047e3eccd64c4a786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1277142479,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1277142479,
+    "wof:lastmodified":1536681591,
+    "wof:name":"Makala",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.33824,
+    -6.16168,
+    19.33824,
+    -6.16168
+],
+  "geometry": {"coordinates":[19.33824,-6.16168],"type":"Point"}
+}

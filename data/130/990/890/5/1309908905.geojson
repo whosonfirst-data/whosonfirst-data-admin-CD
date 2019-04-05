@@ -1,0 +1,71 @@
+{
+  "id": 1309908905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20015,-0.19595,20.20015,-0.19595",
+    "geom:latitude":-0.19595,
+    "geom:longitude":20.20015,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bokamba-Moke",
+    "gn:country_code":"CD",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218586,
+    "gn:latitude":-0.19595,
+    "gn:longitude":20.20015,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Bokamba-Moke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bokamba-Mole",
+        "Bokamba-Moke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218586
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9a0db52f9813be5be07e65bd8e624f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1309908905,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1309908905,
+    "wof:lastmodified":1537590457,
+    "wof:name":"Bokamba-Moke",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20015,
+    -0.19595,
+    20.20015,
+    -0.19595
+],
+  "geometry": {"coordinates":[20.20015,-0.19595],"type":"Point"}
+}

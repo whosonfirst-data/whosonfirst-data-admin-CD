@@ -1,0 +1,67 @@
+{
+  "id": 1343727705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.02851,-7.17834,18.02851,-7.17834",
+    "geom:latitude":-7.17834,
+    "geom:longitude":18.02851,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sha-Muhembo",
+    "gn:country_code":"CD",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447643,
+    "gn:latitude":-7.17834,
+    "gn:longitude":18.02851,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sha-Muhembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447643
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fe9510cbed0f9ed3cec43fa646609511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343727705,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343727705,
+    "wof:lastmodified":1536856970,
+    "wof:name":"Sha-Muhembo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.02851,
+    -7.17834,
+    18.02851,
+    -7.17834
+],
+  "geometry": {"coordinates":[18.02851,-7.17834],"type":"Point"}
+}

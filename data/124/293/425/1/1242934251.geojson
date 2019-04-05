@@ -1,0 +1,67 @@
+{
+  "id": 1242934251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3,-7.31667,29.3,-7.31667",
+    "geom:latitude":-7.31667,
+    "geom:longitude":29.3,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Leo-Matanga",
+    "gn:country_code":"CD",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211996,
+    "gn:latitude":-7.31667,
+    "gn:longitude":29.3,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"L\u00e9o-Matanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211996
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7348ea1e369ab8500d50280bee79a2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1242934251,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242934251,
+    "wof:lastmodified":1537045282,
+    "wof:name":"Leo-Matanga",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3,
+    -7.31667,
+    29.3,
+    -7.31667
+],
+  "geometry": {"coordinates":[29.3,-7.31667],"type":"Point"}
+}

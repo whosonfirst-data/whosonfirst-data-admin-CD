@@ -1,0 +1,67 @@
+{
+  "id": 1209984671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47543,-3.41957,18.47543,-3.41957",
+    "geom:latitude":-3.41957,
+    "geom:longitude":18.47543,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Sekekwi",
+    "gn:country_code":"CD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8446864,
+    "gn:latitude":-3.41957,
+    "gn:longitude":18.47543,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sekekwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8446864
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8f92c90c925a03bf088597a2e8f6bb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1209984671,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1209984671,
+    "wof:lastmodified":1536389151,
+    "wof:name":"Sekekwi",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47543,
+    -3.41957,
+    18.47543,
+    -3.41957
+],
+  "geometry": {"coordinates":[18.47543,-3.41957],"type":"Point"}
+}

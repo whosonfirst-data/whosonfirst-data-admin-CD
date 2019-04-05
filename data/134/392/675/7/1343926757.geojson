@@ -1,0 +1,67 @@
+{
+  "id": 1343926757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53333,-11.08333,24.53333,-11.08333",
+    "geom:latitude":-11.08333,
+    "geom:longitude":24.53333,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kanema",
+    "gn:country_code":"CD",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923029,
+    "gn:latitude":-11.08333,
+    "gn:longitude":24.53333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kanema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923029
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e481e33655f9b7bf11f61e4e4e6da2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1343926757,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343926757,
+    "wof:lastmodified":1537065845,
+    "wof:name":"Kanema",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53333,
+    -11.08333,
+    24.53333,
+    -11.08333
+],
+  "geometry": {"coordinates":[24.53333,-11.08333],"type":"Point"}
+}

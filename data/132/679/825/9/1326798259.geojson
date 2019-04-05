@@ -1,0 +1,73 @@
+{
+  "id": 1326798259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7005,1.34171,21.7005,1.34171",
+    "geom:latitude":1.34171,
+    "geom:longitude":21.7005,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Kailanga",
+    "gn:country_code":"CD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215211,
+    "gn:latitude":1.34171,
+    "gn:longitude":21.7005,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Kailanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P.B. Kailanga",
+        "Kailanga",
+        "Kailanga I",
+        "Kailanga-Rive"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215211
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d7b2ed1301e9da8990cc25a4e4648909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1326798259,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1326798259,
+    "wof:lastmodified":1537590423,
+    "wof:name":"Kailanga",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7005,
+    1.34171,
+    21.7005,
+    1.34171
+],
+  "geometry": {"coordinates":[21.7005,1.34171],"type":"Point"}
+}

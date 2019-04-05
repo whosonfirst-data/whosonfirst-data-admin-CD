@@ -1,0 +1,71 @@
+{
+  "id": 1226007839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.6357,-6.63692,20.6357,-6.63692",
+    "geom:latitude":-6.63692,
+    "geom:longitude":20.6357,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kayikula",
+    "gn:country_code":"CD",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213578,
+    "gn:latitude":-6.63692,
+    "gn:longitude":20.6357,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kayikula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kajikula",
+        "Kayikula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213578
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6805fd419bf67c88f405a72c565c201b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1226007839,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226007839,
+    "wof:lastmodified":1537590406,
+    "wof:name":"Kayikula",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.6357,
+    -6.63692,
+    20.6357,
+    -6.63692
+],
+  "geometry": {"coordinates":[20.6357,-6.63692],"type":"Point"}
+}

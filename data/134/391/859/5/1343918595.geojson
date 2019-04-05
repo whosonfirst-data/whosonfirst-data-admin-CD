@@ -1,0 +1,67 @@
+{
+  "id": 1343918595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.00274,-0.82407,24.00274,-0.82407",
+    "geom:latitude":-0.82407,
+    "geom:longitude":24.00274,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Osongi",
+    "gn:country_code":"CD",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206511,
+    "gn:latitude":-0.82407,
+    "gn:longitude":24.00274,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Osongi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206511
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"beaa5a21bb896f95f0cd943682ed4f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1343918595,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343918595,
+    "wof:lastmodified":1537077446,
+    "wof:name":"Osongi",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.00274,
+    -0.82407,
+    24.00274,
+    -0.82407
+],
+  "geometry": {"coordinates":[24.00274,-0.82407],"type":"Point"}
+}

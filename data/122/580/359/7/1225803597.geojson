@@ -1,0 +1,67 @@
+{
+  "id": 1225803597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.95612,-7.76004,21.95612,-7.76004",
+    "geom:latitude":-7.76004,
+    "geom:longitude":21.95612,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Salushiku",
+    "gn:country_code":"CD",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440655,
+    "gn:latitude":-7.76004,
+    "gn:longitude":21.95612,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Salushiku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440655
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d3be4df96afd642afec157afb07b76e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1225803597,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1225803597,
+    "wof:lastmodified":1537071571,
+    "wof:name":"Salushiku",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.95612,
+    -7.76004,
+    21.95612,
+    -7.76004
+],
+  "geometry": {"coordinates":[21.95612,-7.76004],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344118549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.80199,-6.06832,19.80199,-6.06832",
+    "geom:latitude":-6.06832,
+    "geom:longitude":19.80199,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mitsumbatshi",
+    "gn:country_code":"CD",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9528819,
+    "gn:latitude":-6.06832,
+    "gn:longitude":19.80199,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mitsumbatshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9528819
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"78ebbd6be0c5920efc0a06612f7b7fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1344118549,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1344118549,
+    "wof:lastmodified":1536792257,
+    "wof:name":"Mitsumbatshi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.80199,
+    -6.06832,
+    19.80199,
+    -6.06832
+],
+  "geometry": {"coordinates":[19.80199,-6.06832],"type":"Point"}
+}

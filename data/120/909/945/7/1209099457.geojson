@@ -1,0 +1,65 @@
+{
+  "id": 1209099457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.39929,-6.00413,12.39929,-6.00413",
+    "geom:latitude":-6.00413,
+    "geom:longitude":12.39929,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Banana",
+    "gn:country_code":"CD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317418,
+    "gn:latitude":-6.00413,
+    "gn:longitude":12.39929,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Banana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banane",
+        "Banana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317418
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f37a45a376f7cc44ece136d9ef049456",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209099457
+        }
+    ],
+    "wof:id":1209099457,
+    "wof:lastmodified":1537590564,
+    "wof:name":"Banana",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.39929,
+    -6.00413,
+    12.39929,
+    -6.00413
+],
+  "geometry": {"coordinates":[12.39929,-6.00413],"type":"Point"}
+}

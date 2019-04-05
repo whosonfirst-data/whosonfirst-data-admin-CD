@@ -1,0 +1,67 @@
+{
+  "id": 1293563585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.724,-5.43248,17.724,-5.43248",
+    "geom:latitude":-5.43248,
+    "geom:longitude":17.724,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kibuka",
+    "gn:country_code":"CD",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274592,
+    "gn:latitude":-5.43248,
+    "gn:longitude":17.724,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kibuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274592
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7fa7203eef4b69e5b7f77ce41eca2272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293563585,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293563585,
+    "wof:lastmodified":1536677458,
+    "wof:name":"Kibuka",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.724,
+    -5.43248,
+    17.724,
+    -5.43248
+],
+  "geometry": {"coordinates":[17.724,-5.43248],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209390763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.74331,-5.67794,20.74331,-5.67794",
+    "geom:latitude":-5.67794,
+    "geom:longitude":20.74331,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kaniuniu",
+    "gn:country_code":"CD",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277094,
+    "gn:latitude":-5.67794,
+    "gn:longitude":20.74331,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kaniuniu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277094
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"84bcc7b63563498c89951327ce176106",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209390763
+        }
+    ],
+    "wof:id":1209390763,
+    "wof:lastmodified":1536288468,
+    "wof:name":"Kaniuniu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.74331,
+    -5.67794,
+    20.74331,
+    -5.67794
+],
+  "geometry": {"coordinates":[20.74331,-5.67794],"type":"Point"}
+}

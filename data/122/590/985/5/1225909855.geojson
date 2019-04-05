@@ -1,0 +1,67 @@
+{
+  "id": 1225909855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.84821,-5.34876,16.84821,-5.34876",
+    "geom:latitude":-5.34876,
+    "geom:longitude":16.84821,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mulopo-Kutu",
+    "gn:country_code":"CD",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8255906,
+    "gn:latitude":-5.34876,
+    "gn:longitude":16.84821,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mulopo-Kutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8255906
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"449bda1d78f4e7410e20a8af9326cb13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1225909855,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1225909855,
+    "wof:lastmodified":1536922072,
+    "wof:name":"Mulopo-Kutu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.84821,
+    -5.34876,
+    16.84821,
+    -5.34876
+],
+  "geometry": {"coordinates":[16.84821,-5.34876],"type":"Point"}
+}

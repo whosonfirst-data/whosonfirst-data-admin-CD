@@ -1,0 +1,61 @@
+{
+  "id": 1209390797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.07929,-6.22761,21.07929,-6.22761",
+    "geom:latitude":-6.22761,
+    "geom:longitude":21.07929,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshisuela",
+    "gn:country_code":"CD",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327227,
+    "gn:latitude":-6.22761,
+    "gn:longitude":21.07929,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshisuela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327227
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d8992d9a758a606f564443387b017879",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209390797
+        }
+    ],
+    "wof:id":1209390797,
+    "wof:lastmodified":1536288467,
+    "wof:name":"Tshisuela",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.07929,
+    -6.2276099999999985,
+    21.07929,
+    -6.2276099999999985
+],
+  "geometry": {"coordinates":[21.07929,-6.22761],"type":"Point"}
+}

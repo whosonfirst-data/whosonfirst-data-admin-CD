@@ -1,0 +1,67 @@
+{
+  "id": 1243436439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43287,4.54412,27.43287,4.54412",
+    "geom:latitude":4.54412,
+    "geom:longitude":27.43287,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Simanambula",
+    "gn:country_code":"CD",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205544,
+    "gn:latitude":4.54412,
+    "gn:longitude":27.43287,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Simanambula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205544
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cea11c6d92ee7b3b1bc973b88826cb3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1243436439,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243436439,
+    "wof:lastmodified":1536819065,
+    "wof:name":"Simanambula",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43287,
+    4.54412,
+    27.43287,
+    4.54412
+],
+  "geometry": {"coordinates":[27.43287,4.54412],"type":"Point"}
+}

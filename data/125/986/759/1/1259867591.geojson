@@ -1,0 +1,67 @@
+{
+  "id": 1259867591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.70536,-0.56122,28.70536,-0.56122",
+    "geom:latitude":-0.56122,
+    "geom:longitude":28.70536,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sake",
+    "gn:country_code":"CD",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205971,
+    "gn:latitude":-0.56122,
+    "gn:longitude":28.70536,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Sake",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205971
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"237d90e963ef089a0c505a91d9123ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1259867591,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1259867591,
+    "wof:lastmodified":1536802115,
+    "wof:name":"Sake",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.70536,
+    -0.56122,
+    28.70536,
+    -0.56122
+],
+  "geometry": {"coordinates":[28.70536,-0.56122],"type":"Point"}
+}

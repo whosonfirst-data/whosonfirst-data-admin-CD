@@ -1,0 +1,67 @@
+{
+  "id": 1243046005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.69916,-0.95252,28.69916,-0.95252",
+    "geom:latitude":-0.95252,
+    "geom:longitude":28.69916,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pinga",
+    "gn:country_code":"CD",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435079,
+    "gn:latitude":-0.95252,
+    "gn:longitude":28.69916,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Pinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435079
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6b06d0e4d8b60c8b7a63bc1329d9eb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1243046005,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1243046005,
+    "wof:lastmodified":1536885343,
+    "wof:name":"Pinga",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.69916,
+    -0.95252,
+    28.69916,
+    -0.95252
+],
+  "geometry": {"coordinates":[28.69916,-0.95252],"type":"Point"}
+}

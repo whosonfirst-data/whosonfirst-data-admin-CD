@@ -1,0 +1,67 @@
+{
+  "id": 1310566857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.28693,-7.73608,18.28693,-7.73608",
+    "geom:latitude":-7.73608,
+    "geom:longitude":18.28693,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ndala",
+    "gn:country_code":"CD",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312115,
+    "gn:latitude":-7.73608,
+    "gn:longitude":18.28693,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ndala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312115
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bd63c586deb5820019d0ec47ca7b76ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1310566857,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310566857,
+    "wof:lastmodified":1536827596,
+    "wof:name":"Ndala",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.28693,
+    -7.73608,
+    18.28693,
+    -7.73608
+],
+  "geometry": {"coordinates":[18.28693,-7.73608],"type":"Point"}
+}

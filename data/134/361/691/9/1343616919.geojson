@@ -1,0 +1,67 @@
+{
+  "id": 1343616919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.74976,2.95769,22.74976,2.95769",
+    "geom:latitude":2.95769,
+    "geom:longitude":22.74976,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Auma",
+    "gn:country_code":"CD",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220162,
+    "gn:latitude":2.95769,
+    "gn:longitude":22.74976,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Auma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220162
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bfa9497c2842c159d7faa2e475844ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1343616919,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343616919,
+    "wof:lastmodified":1537017212,
+    "wof:name":"Auma",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.74976,
+    2.95769,
+    22.74976,
+    2.95769
+],
+  "geometry": {"coordinates":[22.74976,2.95769],"type":"Point"}
+}

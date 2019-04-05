@@ -1,0 +1,71 @@
+{
+  "id": 1225991027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.05,-0.75,25.05,-0.75",
+    "geom:latitude":-0.75,
+    "geom:longitude":25.05,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Batiashinja",
+    "gn:country_code":"CD",
+    "gn:dem":461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219354,
+    "gn:latitude":-0.75,
+    "gn:longitude":25.05,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Batiashinja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ramazani",
+        "Batiashinja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219354
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a93a04ba8cb25ee3480110f47cab0baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1225991027,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1225991027,
+    "wof:lastmodified":1537590466,
+    "wof:name":"Batiashinja",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.05,
+    -0.75,
+    25.05,
+    -0.75
+],
+  "geometry": {"coordinates":[25.05,-0.75],"type":"Point"}
+}

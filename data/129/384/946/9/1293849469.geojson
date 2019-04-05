@@ -1,0 +1,67 @@
+{
+  "id": 1293849469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.89785,-4.97282,16.89785,-4.97282",
+    "geom:latitude":-4.97282,
+    "geom:longitude":16.89785,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kitati",
+    "gn:country_code":"CD",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9947353,
+    "gn:latitude":-4.97282,
+    "gn:longitude":16.89785,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kitati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9947353
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5969cb8bae75d6936545e76817838853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1293849469,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293849469,
+    "wof:lastmodified":1536762751,
+    "wof:name":"Kitati",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.89785,
+    -4.97282,
+    16.89785,
+    -4.97282
+],
+  "geometry": {"coordinates":[16.89785,-4.97282],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209215005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83703,-6.16337,23.83703,-6.16337",
+    "geom:latitude":-6.16337,
+    "geom:longitude":23.83703,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bena-Kalenda",
+    "gn:country_code":"CD",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946687,
+    "gn:latitude":-6.16337,
+    "gn:longitude":23.83703,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Bena-Kalenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946687
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f2c9b6e74927cb70968bdc884765d8db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209215005
+        }
+    ],
+    "wof:id":1209215005,
+    "wof:lastmodified":1536294161,
+    "wof:name":"Bena-Kalenda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83703,
+    -6.16337,
+    23.83703,
+    -6.16337
+],
+  "geometry": {"coordinates":[23.83703,-6.16337],"type":"Point"}
+}

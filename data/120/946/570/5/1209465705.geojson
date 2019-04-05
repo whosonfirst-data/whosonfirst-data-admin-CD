@@ -1,0 +1,61 @@
+{
+  "id": 1209465705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06764,-7.9443,30.06764,-7.9443",
+    "geom:latitude":-7.9443,
+    "geom:longitude":30.06764,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kianza",
+    "gn:country_code":"CD",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213366,
+    "gn:latitude":-7.9443,
+    "gn:longitude":30.06764,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kianza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213366
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b1aab1c534d713ae086b0f2062776bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209465705
+        }
+    ],
+    "wof:id":1209465705,
+    "wof:lastmodified":1536286241,
+    "wof:name":"Kianza",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06764,
+    -7.9443,
+    30.06764,
+    -7.9443
+],
+  "geometry": {"coordinates":[30.06764,-7.9443],"type":"Point"}
+}

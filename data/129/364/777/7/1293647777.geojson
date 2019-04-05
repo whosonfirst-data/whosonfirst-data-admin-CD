@@ -1,0 +1,67 @@
+{
+  "id": 1293647777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.32264,-10.57959,24.32264,-10.57959",
+    "geom:latitude":-10.57959,
+    "geom:longitude":24.32264,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kisafu",
+    "gn:country_code":"CD",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10207253,
+    "gn:latitude":-10.57959,
+    "gn:longitude":24.32264,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kisafu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10207253
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"05f8f168036f6cfd173cd81e1cfd35fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1293647777,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293647777,
+    "wof:lastmodified":1537051179,
+    "wof:name":"Kisafu",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.32264,
+    -10.57959,
+    24.32264,
+    -10.57959
+],
+  "geometry": {"coordinates":[24.32264,-10.57959],"type":"Point"}
+}

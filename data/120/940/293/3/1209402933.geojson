@@ -1,0 +1,61 @@
+{
+  "id": 1209402933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.70056,-1.09278,28.70056,-1.09278",
+    "geom:latitude":-1.09278,
+    "geom:longitude":28.70056,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bukutsha",
+    "gn:country_code":"CD",
+    "gn:dem":1285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217810,
+    "gn:latitude":-1.09278,
+    "gn:longitude":28.70056,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Bukutsha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217810
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ef1137fe17ad9ff5a7feff8f54a46620",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209402933
+        }
+    ],
+    "wof:id":1209402933,
+    "wof:lastmodified":1536288086,
+    "wof:name":"Bukutsha",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.70056,
+    -1.09278,
+    28.70056,
+    -1.09278
+],
+  "geometry": {"coordinates":[28.70056,-1.09278],"type":"Point"}
+}

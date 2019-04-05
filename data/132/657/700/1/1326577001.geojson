@@ -1,0 +1,67 @@
+{
+  "id": 1326577001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.69968,3.93747,18.69968,3.93747",
+    "geom:latitude":3.93747,
+    "geom:longitude":18.69968,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Wodaw",
+    "gn:country_code":"CD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310936,
+    "gn:latitude":3.93747,
+    "gn:longitude":18.69968,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Wodaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310936
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"61a6cd2780aaea80e41cffefc7e79de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1326577001,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1326577001,
+    "wof:lastmodified":1536920156,
+    "wof:name":"Wodaw",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.69968,
+    3.93747,
+    18.69968,
+    3.93747
+],
+  "geometry": {"coordinates":[18.69968,3.93747],"type":"Point"}
+}

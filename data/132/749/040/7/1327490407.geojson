@@ -1,0 +1,71 @@
+{
+  "id": 1327490407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.77209,4.91602,19.77209,4.91602",
+    "geom:latitude":4.91602,
+    "geom:longitude":19.77209,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Vongba Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311014,
+    "gn:latitude":4.91602,
+    "gn:longitude":19.77209,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Vongba Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vongba Deuxi\u00e8me",
+        "Vongba II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311014
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1a7da78173740be885e62b7aec57855a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1327490407,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327490407,
+    "wof:lastmodified":1537590496,
+    "wof:name":"Vongba Deuxieme",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.77209,
+    4.91602,
+    19.77209,
+    4.91602
+],
+  "geometry": {"coordinates":[19.77209,4.91602],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309974955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.56467,-9.54062,23.56467,-9.54062",
+    "geom:latitude":-9.54062,
+    "geom:longitude":23.56467,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kashinda",
+    "gn:country_code":"CD",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462247,
+    "gn:latitude":-9.54062,
+    "gn:longitude":23.56467,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kashinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462247
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dc9e0277422bc278582e8856e5675698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1309974955,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1309974955,
+    "wof:lastmodified":1536687440,
+    "wof:name":"Kashinda",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.56467,
+    -9.54062,
+    23.56467,
+    -9.54062
+],
+  "geometry": {"coordinates":[23.56467,-9.54062],"type":"Point"}
+}

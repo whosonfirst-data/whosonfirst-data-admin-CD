@@ -1,0 +1,67 @@
+{
+  "id": 1343540579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.51543,2.93632,27.51543,2.93632",
+    "geom:latitude":2.93632,
+    "geom:longitude":27.51543,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nakpalapala",
+    "gn:country_code":"CD",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207461,
+    "gn:latitude":2.93632,
+    "gn:longitude":27.51543,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nakpalapala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207461
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e6bf0ec9191ff5ee5fd5070900cfd7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1343540579,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343540579,
+    "wof:lastmodified":1536628946,
+    "wof:name":"Nakpalapala",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.51543,
+    2.93632,
+    27.51543,
+    2.93632
+],
+  "geometry": {"coordinates":[27.51543,2.93632],"type":"Point"}
+}

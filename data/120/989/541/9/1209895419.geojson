@@ -1,0 +1,67 @@
+{
+  "id": 1209895419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.29834,2.56271,23.29834,2.56271",
+    "geom:latitude":2.56271,
+    "geom:longitude":23.29834,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bopopai",
+    "gn:country_code":"CD",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218130,
+    "gn:latitude":2.56271,
+    "gn:longitude":23.29834,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bopopai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218130
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7d698e4e1fa2890f12db4c9a87f14df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1209895419,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1209895419,
+    "wof:lastmodified":1536388842,
+    "wof:name":"Bopopai",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.29834,
+    2.56271,
+    23.29834,
+    2.56271
+],
+  "geometry": {"coordinates":[23.29834,2.56271],"type":"Point"}
+}

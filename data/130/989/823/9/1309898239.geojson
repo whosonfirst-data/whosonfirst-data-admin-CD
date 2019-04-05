@@ -1,0 +1,70 @@
+{
+  "id": 1309898239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69511,-4.18454,15.69511,-4.18454",
+    "geom:latitude":-4.18454,
+    "geom:longitude":15.69511,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Menkaw",
+    "gn:country_code":"CD",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312815,
+    "gn:latitude":-4.18454,
+    "gn:longitude":15.69511,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Menkaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Menkao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312815
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a889621067f2f595087e0186944ec895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1309898239,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1309898239,
+    "wof:lastmodified":1537590516,
+    "wof:name":"Menkaw",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69511,
+    -4.18454,
+    15.69511,
+    -4.18454
+],
+  "geometry": {"coordinates":[15.69511,-4.18454],"type":"Point"}
+}

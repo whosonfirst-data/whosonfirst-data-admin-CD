@@ -1,0 +1,70 @@
+{
+  "id": 1243248877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32932,-5.82594,15.32932,-5.82594",
+    "geom:latitude":-5.82594,
+    "geom:longitude":15.32932,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tumbunani",
+    "gn:country_code":"CD",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311059,
+    "gn:latitude":-5.82594,
+    "gn:longitude":15.32932,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Tumbunani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tumbamani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311059
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2071e0119ad274483656849b3e897ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1243248877,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1243248877,
+    "wof:lastmodified":1537590497,
+    "wof:name":"Tumbunani",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32932,
+    -5.82594,
+    15.32932,
+    -5.82594
+],
+  "geometry": {"coordinates":[15.32932,-5.82594],"type":"Point"}
+}

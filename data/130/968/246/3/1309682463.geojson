@@ -1,0 +1,72 @@
+{
+  "id": 1309682463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.07704,-8.17251,26.07704,-8.17251",
+    "geom:latitude":-8.17251,
+    "geom:longitude":26.07704,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kabudji",
+    "gn:country_code":"CD",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215402,
+    "gn:latitude":-8.17251,
+    "gn:longitude":26.07704,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabudji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabunji",
+        "Kabudji",
+        "Kabundji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215402
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dd69eb692a4926b46f666a17fa95971f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1309682463,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1309682463,
+    "wof:lastmodified":1537590425,
+    "wof:name":"Kabudji",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.07704,
+    -8.17251,
+    26.07704,
+    -8.17251
+],
+  "geometry": {"coordinates":[26.07704,-8.17251],"type":"Point"}
+}

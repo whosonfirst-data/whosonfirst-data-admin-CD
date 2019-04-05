@@ -1,0 +1,67 @@
+{
+  "id": 1210053707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30874,-0.60225,20.30874,-0.60225",
+    "geom:latitude":-0.60225,
+    "geom:longitude":20.30874,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Djuevo",
+    "gn:country_code":"CD",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217101,
+    "gn:latitude":-0.60225,
+    "gn:longitude":20.30874,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Djuevo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217101
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"186848ac986957e6cb217157d844487d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1210053707,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1210053707,
+    "wof:lastmodified":1536370764,
+    "wof:name":"Djuevo",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30874,
+    -0.60225,
+    20.30874,
+    -0.60225
+],
+  "geometry": {"coordinates":[20.30874,-0.60225],"type":"Point"}
+}

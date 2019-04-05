@@ -1,0 +1,71 @@
+{
+  "id": 1310190529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.17822,-4.82698,15.17822,-4.82698",
+    "geom:latitude":-4.82698,
+    "geom:longitude":15.17822,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Luila",
+    "gn:country_code":"CD",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313406,
+    "gn:latitude":-4.82698,
+    "gn:longitude":15.17822,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Luila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wolter",
+        "Luila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313406
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"beefacd41e21938dd91fa39a644ef8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1310190529,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1310190529,
+    "wof:lastmodified":1537590522,
+    "wof:name":"Luila",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.17822,
+    -4.82698,
+    15.17822,
+    -4.82698
+],
+  "geometry": {"coordinates":[15.17822,-4.82698],"type":"Point"}
+}

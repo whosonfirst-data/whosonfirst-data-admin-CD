@@ -1,0 +1,72 @@
+{
+  "id": 1276977043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.70696,-5.69784,12.70696,-5.69784",
+    "geom:latitude":-5.69784,
+    "geom:longitude":12.70696,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kai Ndunda",
+    "gn:country_code":"CD",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315239,
+    "gn:latitude":-5.69784,
+    "gn:longitude":12.70696,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kai Ndunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kai Ndumba",
+        "Kai Dunda",
+        "Kai Ndunda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315239
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"059d3a1574b6f99a518963a62a3c8611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1276977043,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1276977043,
+    "wof:lastmodified":1537590538,
+    "wof:name":"Kai Ndunda",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.70696,
+    -5.69784,
+    12.70696,
+    -5.69784
+],
+  "geometry": {"coordinates":[12.70696,-5.69784],"type":"Point"}
+}

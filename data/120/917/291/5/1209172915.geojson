@@ -1,0 +1,64 @@
+{
+  "id": 1209172915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85124,-6.03385,24.85124,-6.03385",
+    "geom:latitude":-6.03385,
+    "geom:longitude":24.85124,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bitshi-Kabango",
+    "gn:country_code":"CD",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9997688,
+    "gn:latitude":-6.03385,
+    "gn:longitude":24.85124,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bitshi-Kabango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bitshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9997688
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fa5bf724ce24870d252cf30e85efa459",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209172915
+        }
+    ],
+    "wof:id":1209172915,
+    "wof:lastmodified":1537590577,
+    "wof:name":"Bitshi-Kabango",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85124,
+    -6.03385,
+    24.85124,
+    -6.03385
+],
+  "geometry": {"coordinates":[24.85124,-6.03385],"type":"Point"}
+}

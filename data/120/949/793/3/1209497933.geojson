@@ -1,0 +1,65 @@
+{
+  "id": 1209497933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86667,-6.35,25.86667,-6.35",
+    "geom:latitude":-6.35,
+    "geom:longitude":25.86667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lubonge",
+    "gn:country_code":"CD",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211004,
+    "gn:latitude":-6.35,
+    "gn:longitude":25.86667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lubonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lubenga",
+        "Lubonge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211004
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0811733d617629e1a6cdfda44c791171",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209497933
+        }
+    ],
+    "wof:id":1209497933,
+    "wof:lastmodified":1537590384,
+    "wof:name":"Lubonge",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86667000000001,
+    -6.35,
+    25.86667000000001,
+    -6.35
+],
+  "geometry": {"coordinates":[25.86667000000001,-6.35],"type":"Point"}
+}

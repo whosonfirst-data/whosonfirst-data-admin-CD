@@ -1,0 +1,71 @@
+{
+  "id": 1309967763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5237,-4.43364,19.5237,-4.43364",
+    "geom:latitude":-4.43364,
+    "geom:longitude":19.5237,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Zulubanga",
+    "gn:country_code":"CD",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310758,
+    "gn:latitude":-4.43364,
+    "gn:longitude":19.5237,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Zulubanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zuluanga",
+        "Zulubanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310758
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4d061f8f774e47e037e07bbc588d6462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1309967763,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1309967763,
+    "wof:lastmodified":1537590495,
+    "wof:name":"Zulubanga",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5237,
+    -4.43364,
+    19.5237,
+    -4.43364
+],
+  "geometry": {"coordinates":[19.5237,-4.43364],"type":"Point"}
+}

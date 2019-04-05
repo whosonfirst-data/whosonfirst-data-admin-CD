@@ -1,0 +1,71 @@
+{
+  "id": 1327295221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.03554,4.00596,19.03554,4.00596",
+    "geom:latitude":4.00596,
+    "geom:longitude":19.03554,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bumbala Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316244,
+    "gn:latitude":4.00596,
+    "gn:longitude":19.03554,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bumbala Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bumbala Premi\u00e8re",
+        "Bumbala I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316244
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"353ab818219c91fb27884d412254b9b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1327295221,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327295221,
+    "wof:lastmodified":1537590550,
+    "wof:name":"Bumbala Premiere",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.03554,
+    4.00596,
+    19.03554,
+    4.00596
+],
+  "geometry": {"coordinates":[19.03554,4.00596],"type":"Point"}
+}

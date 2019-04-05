@@ -1,0 +1,67 @@
+{
+  "id": 1327038599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.44491,-0.18271,18.44491,-0.18271",
+    "geom:latitude":-0.18271,
+    "geom:longitude":18.44491,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bolokwasamba",
+    "gn:country_code":"CD",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281665,
+    "gn:latitude":-0.18271,
+    "gn:longitude":18.44491,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bolokwasamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281665
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"463672ca2cb4508eb8142f48bea57706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1327038599,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327038599,
+    "wof:lastmodified":1536751311,
+    "wof:name":"Bolokwasamba",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44491,
+    -0.18271,
+    18.44491,
+    -0.18271
+],
+  "geometry": {"coordinates":[18.44491,-0.18271],"type":"Point"}
+}

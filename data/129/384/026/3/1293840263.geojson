@@ -1,0 +1,71 @@
+{
+  "id": 1293840263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22299,-9.76613,22.22299,-9.76613",
+    "geom:latitude":-9.76613,
+    "geom:longitude":22.22299,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Djamba",
+    "gn:country_code":"CD",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217196,
+    "gn:latitude":-9.76613,
+    "gn:longitude":22.22299,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Djamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diamba",
+        "Djamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217196
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4b7bef141c28470fba7969a0bf5965e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1293840263,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293840263,
+    "wof:lastmodified":1537590444,
+    "wof:name":"Djamba",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22299,
+    -9.76613,
+    22.22299,
+    -9.76613
+],
+  "geometry": {"coordinates":[22.22299,-9.76613],"type":"Point"}
+}

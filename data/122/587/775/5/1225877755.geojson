@@ -1,0 +1,67 @@
+{
+  "id": 1225877755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83333,-1.53333,19.83333,-1.53333",
+    "geom:latitude":-1.53333,
+    "geom:longitude":19.83333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Djombo",
+    "gn:country_code":"CD",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316044,
+    "gn:latitude":-1.53333,
+    "gn:longitude":19.83333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Djombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316044
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c19602c9b948027bfb0f481f3a03557b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1225877755,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1225877755,
+    "wof:lastmodified":1536967295,
+    "wof:name":"Djombo",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83333,
+    -1.53333,
+    19.83333,
+    -1.53333
+],
+  "geometry": {"coordinates":[19.83333,-1.53333],"type":"Point"}
+}

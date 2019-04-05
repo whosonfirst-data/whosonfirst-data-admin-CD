@@ -1,0 +1,67 @@
+{
+  "id": 1343932987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32497,-7.59735,18.32497,-7.59735",
+    "geom:latitude":-7.59735,
+    "geom:longitude":18.32497,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shakambuya",
+    "gn:country_code":"CD",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447766,
+    "gn:latitude":-7.59735,
+    "gn:longitude":18.32497,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shakambuya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447766
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d10af162532bd619742cf931bcf19a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343932987,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343932987,
+    "wof:lastmodified":1537057191,
+    "wof:name":"Shakambuya",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32497,
+    -7.59735,
+    18.32497,
+    -7.59735
+],
+  "geometry": {"coordinates":[18.32497,-7.59735],"type":"Point"}
+}

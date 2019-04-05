@@ -1,0 +1,67 @@
+{
+  "id": 1360064545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65315,2.84856,24.65315,2.84856",
+    "geom:latitude":2.84856,
+    "geom:longitude":24.65315,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Balia",
+    "gn:country_code":"CD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8146740,
+    "gn:latitude":2.84856,
+    "gn:longitude":24.65315,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Balia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8146740
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0d571ba036d27b29adcb70ee1b7a5801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1360064545,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360064545,
+    "wof:lastmodified":1536974876,
+    "wof:name":"Balia",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65315,
+    2.84856,
+    24.65315,
+    2.84856
+],
+  "geometry": {"coordinates":[24.65315,2.84856],"type":"Point"}
+}

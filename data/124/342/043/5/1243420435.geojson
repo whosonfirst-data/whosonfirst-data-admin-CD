@@ -1,0 +1,72 @@
+{
+  "id": 1243420435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24696,-7.23866,21.24696,-7.23866",
+    "geom:latitude":-7.23866,
+    "geom:longitude":21.24696,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shamupelete",
+    "gn:country_code":"CD",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205648,
+    "gn:latitude":-7.23866,
+    "gn:longitude":21.24696,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shamupelete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shamubelete",
+        "Shamupelete",
+        "Shamapelete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205648
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"37ec13ad5a782b594fa5d8b31008e10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1243420435,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243420435,
+    "wof:lastmodified":1537590326,
+    "wof:name":"Shamupelete",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24696,
+    -7.23866,
+    21.24696,
+    -7.23866
+],
+  "geometry": {"coordinates":[21.24696,-7.23866],"type":"Point"}
+}

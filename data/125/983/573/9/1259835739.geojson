@@ -1,0 +1,67 @@
+{
+  "id": 1259835739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.89004,-6.08491,22.89004,-6.08491",
+    "geom:latitude":-6.08491,
+    "geom:longitude":22.89004,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Shabangi",
+    "gn:country_code":"CD",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8284091,
+    "gn:latitude":-6.08491,
+    "gn:longitude":22.89004,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shabangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8284091
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e056aac75637a3df956a10e04b8d92f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1259835739,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1259835739,
+    "wof:lastmodified":1536846998,
+    "wof:name":"Shabangi",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.89004,
+    -6.08491,
+    22.89004,
+    -6.08491
+],
+  "geometry": {"coordinates":[22.89004,-6.08491],"type":"Point"}
+}

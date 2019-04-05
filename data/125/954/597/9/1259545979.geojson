@@ -1,0 +1,67 @@
+{
+  "id": 1259545979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.71596,-6.10455,16.71596,-6.10455",
+    "geom:latitude":-6.10455,
+    "geom:longitude":16.71596,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mabaka-Nzadi",
+    "gn:country_code":"CD",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540558,
+    "gn:latitude":-6.10455,
+    "gn:longitude":16.71596,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mabaka-Nzadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540558
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ee9b32191f2aa0f8a72643023db2fd4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1259545979,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259545979,
+    "wof:lastmodified":1536769524,
+    "wof:name":"Mabaka-Nzadi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.71596,
+    -6.10455,
+    16.71596,
+    -6.10455
+],
+  "geometry": {"coordinates":[16.71596,-6.10455],"type":"Point"}
+}

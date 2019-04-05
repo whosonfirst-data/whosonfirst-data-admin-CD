@@ -1,0 +1,67 @@
+{
+  "id": 1276505141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96538,-9.82866,25.96538,-9.82866",
+    "geom:latitude":-9.82866,
+    "geom:longitude":25.96538,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kabwila",
+    "gn:country_code":"CD",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10052505,
+    "gn:latitude":-9.82866,
+    "gn:longitude":25.96538,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kabwila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10052505
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"51fcfeb9888224da2e120b42a8fc1ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1276505141,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276505141,
+    "wof:lastmodified":1537044182,
+    "wof:name":"Kabwila",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96538,
+    -9.82866,
+    25.96538,
+    -9.82866
+],
+  "geometry": {"coordinates":[25.96538,-9.82866],"type":"Point"}
+}

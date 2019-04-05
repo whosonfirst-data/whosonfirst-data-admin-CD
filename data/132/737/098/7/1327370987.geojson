@@ -1,0 +1,71 @@
+{
+  "id": 1327370987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.03617,-1.07428,21.03617,-1.07428",
+    "geom:latitude":-1.07428,
+    "geom:longitude":21.03617,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Bamata",
+    "gn:country_code":"CD",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219702,
+    "gn:latitude":-1.07428,
+    "gn:longitude":21.03617,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bamata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bomata",
+        "Bamata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219702
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a1f38f694cda9c6f1999b38de01a778d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1327370987,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327370987,
+    "wof:lastmodified":1537590471,
+    "wof:name":"Bamata",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.03617,
+    -1.07428,
+    21.03617,
+    -1.07428
+],
+  "geometry": {"coordinates":[21.03617,-1.07428],"type":"Point"}
+}

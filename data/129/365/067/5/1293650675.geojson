@@ -1,0 +1,70 @@
+{
+  "id": 1293650675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.01781,2.47694,19.01781,2.47694",
+    "geom:latitude":2.47694,
+    "geom:longitude":19.01781,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mokandja",
+    "gn:country_code":"CD",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312672,
+    "gn:latitude":2.47694,
+    "gn:longitude":19.01781,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Mokandja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mokandja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312672
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cc619b2fc33cde9bb6d00529521a34ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1293650675,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293650675,
+    "wof:lastmodified":1537590515,
+    "wof:name":"Mokandja",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.01781,
+    2.47694,
+    19.01781,
+    2.47694
+],
+  "geometry": {"coordinates":[19.01781,2.47694],"type":"Point"}
+}

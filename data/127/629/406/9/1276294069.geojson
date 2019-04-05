@@ -1,0 +1,71 @@
+{
+  "id": 1276294069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.4502,-5.89009,17.4502,-5.89009",
+    "geom:latitude":-5.89009,
+    "geom:longitude":17.4502,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kabukulu",
+    "gn:country_code":"CD",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315274,
+    "gn:latitude":-5.89009,
+    "gn:longitude":17.4502,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabukulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabukolu",
+        "Kabukulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315274
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8c2ed6802fbc3ffa1d917dbd0faa9229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1276294069,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276294069,
+    "wof:lastmodified":1537590538,
+    "wof:name":"Kabukulu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.4502,
+    -5.89009,
+    17.4502,
+    -5.89009
+],
+  "geometry": {"coordinates":[17.4502,-5.89009],"type":"Point"}
+}

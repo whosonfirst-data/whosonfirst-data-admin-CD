@@ -1,0 +1,67 @@
+{
+  "id": 1310068149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51545,-7.8229,18.51545,-7.8229",
+    "geom:latitude":-7.8229,
+    "geom:longitude":18.51545,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Gunza",
+    "gn:country_code":"CD",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315638,
+    "gn:latitude":-7.8229,
+    "gn:longitude":18.51545,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gunza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315638
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"892acc2fac228bdc00f1b4b47e29ee11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1310068149,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310068149,
+    "wof:lastmodified":1537048469,
+    "wof:name":"Gunza",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51545,
+    -7.8229,
+    18.51545,
+    -7.8229
+],
+  "geometry": {"coordinates":[18.51545,-7.8229],"type":"Point"}
+}

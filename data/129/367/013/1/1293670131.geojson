@@ -1,0 +1,67 @@
+{
+  "id": 1293670131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.42833,-1.48056,29.42833,-1.48056",
+    "geom:latitude":-1.48056,
+    "geom:longitude":29.42833,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kabare",
+    "gn:country_code":"CD",
+    "gn:dem":3227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215606,
+    "gn:latitude":-1.48056,
+    "gn:longitude":29.42833,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kabare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215606
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"46f81b4d8f38a3dae08e98af37d478fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1293670131,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1293670131,
+    "wof:lastmodified":1537020125,
+    "wof:name":"Kabare",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.42833,
+    -1.48056,
+    29.42833,
+    -1.48056
+],
+  "geometry": {"coordinates":[29.42833,-1.48056],"type":"Point"}
+}

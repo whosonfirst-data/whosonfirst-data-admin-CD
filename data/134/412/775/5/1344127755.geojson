@@ -1,0 +1,67 @@
+{
+  "id": 1344127755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.68154,-11.40998,26.68154,-11.40998",
+    "geom:latitude":-11.40998,
+    "geom:longitude":26.68154,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tenke",
+    "gn:country_code":"CD",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":922121,
+    "gn:latitude":-11.40998,
+    "gn:longitude":26.68154,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Tenke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922121
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6ffea5444f4b870a9d233e11ae60d49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1344127755,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1344127755,
+    "wof:lastmodified":1536779086,
+    "wof:name":"Tenke",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.68154,
+    -11.40998,
+    26.68154,
+    -11.40998
+],
+  "geometry": {"coordinates":[26.68154,-11.40998],"type":"Point"}
+}

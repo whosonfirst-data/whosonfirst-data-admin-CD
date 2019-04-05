@@ -1,0 +1,61 @@
+{
+  "id": 1209199957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86342,-5.53517,15.86342,-5.53517",
+    "geom:latitude":-5.53517,
+    "geom:longitude":15.86342,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kibionso",
+    "gn:country_code":"CD",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314849,
+    "gn:latitude":-5.53517,
+    "gn:longitude":15.86342,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kibionso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314849
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"76be7f4fea4d4d15cfe862351c483389",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209199957
+        }
+    ],
+    "wof:id":1209199957,
+    "wof:lastmodified":1536294645,
+    "wof:name":"Kibionso",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86342,
+    -5.53517,
+    15.86342,
+    -5.53517
+],
+  "geometry": {"coordinates":[15.86342,-5.53517],"type":"Point"}
+}

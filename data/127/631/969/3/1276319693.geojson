@@ -1,0 +1,67 @@
+{
+  "id": 1276319693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94071,4.20183,22.94071,4.20183",
+    "geom:latitude":4.20183,
+    "geom:longitude":22.94071,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Beoto",
+    "gn:country_code":"CD",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247637,
+    "gn:latitude":4.20183,
+    "gn:longitude":22.94071,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Beoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247637
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2b1d1ed7a10fc4dbfca37f9625aacdda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1276319693,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276319693,
+    "wof:lastmodified":1536797220,
+    "wof:name":"Beoto",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94071,
+    4.20183,
+    22.94071,
+    4.20183
+],
+  "geometry": {"coordinates":[22.94071,4.20183],"type":"Point"}
+}

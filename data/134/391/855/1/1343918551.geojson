@@ -1,0 +1,71 @@
+{
+  "id": 1343918551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.52255,-0.43271,23.52255,-0.43271",
+    "geom:latitude":-0.43271,
+    "geom:longitude":23.52255,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Lingomo",
+    "gn:country_code":"CD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211765,
+    "gn:latitude":-0.43271,
+    "gn:longitude":23.52255,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lingomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lingono",
+        "Lingomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211765
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cf99fcfffe88c19e9b421940c7720dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1343918551,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343918551,
+    "wof:lastmodified":1537590388,
+    "wof:name":"Lingomo",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.52255,
+    -0.43271,
+    23.52255,
+    -0.43271
+],
+  "geometry": {"coordinates":[23.52255,-0.43271],"type":"Point"}
+}

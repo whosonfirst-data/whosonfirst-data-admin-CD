@@ -1,0 +1,67 @@
+{
+  "id": 1209985223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7265,-9.39611,22.7265,-9.39611",
+    "geom:latitude":-9.39611,
+    "geom:longitude":22.7265,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sakasako",
+    "gn:country_code":"CD",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461470,
+    "gn:latitude":-9.39611,
+    "gn:longitude":22.7265,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sakasako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461470
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8770837abfcda9ef07458e8a705b800a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1209985223,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1209985223,
+    "wof:lastmodified":1536388915,
+    "wof:name":"Sakasako",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7265,
+    -9.39611,
+    22.7265,
+    -9.39611
+],
+  "geometry": {"coordinates":[22.7265,-9.39611],"type":"Point"}
+}

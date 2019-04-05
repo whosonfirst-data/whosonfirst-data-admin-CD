@@ -1,0 +1,61 @@
+{
+  "id": 1209101195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5,-4.38333,26.5,-4.38333",
+    "geom:latitude":-4.38333,
+    "geom:longitude":26.5,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pene-Kama",
+    "gn:country_code":"CD",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206335,
+    "gn:latitude":-4.38333,
+    "gn:longitude":26.5,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Pene-Kama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206335
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4eb8b7a23adb3284afb0970065ff5abb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209101195
+        }
+    ],
+    "wof:id":1209101195,
+    "wof:lastmodified":1536297727,
+    "wof:name":"Pene-Kama",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5,
+    -4.38333,
+    26.5,
+    -4.38333
+],
+  "geometry": {"coordinates":[26.5,-4.38333],"type":"Point"}
+}

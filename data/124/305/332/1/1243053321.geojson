@@ -1,0 +1,67 @@
+{
+  "id": 1243053321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23982,-4.95942,15.23982,-4.95942",
+    "geom:latitude":-4.95942,
+    "geom:longitude":15.23982,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kiasi",
+    "gn:country_code":"CD",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10049323,
+    "gn:latitude":-4.95942,
+    "gn:longitude":15.23982,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Kiasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10049323
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"56f80b6365ce156a5eea6631468d73d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1243053321,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1243053321,
+    "wof:lastmodified":1536874345,
+    "wof:name":"Kiasi",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23982,
+    -4.95942,
+    15.23982,
+    -4.95942
+],
+  "geometry": {"coordinates":[15.23982,-4.95942],"type":"Point"}
+}

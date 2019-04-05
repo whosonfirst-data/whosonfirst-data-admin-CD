@@ -1,0 +1,67 @@
+{
+  "id": 1243510575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31202,-5.78201,22.31202,-5.78201",
+    "geom:latitude":-5.78201,
+    "geom:longitude":22.31202,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kazadi-a-Kabwe",
+    "gn:country_code":"CD",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413117,
+    "gn:latitude":-5.78201,
+    "gn:longitude":22.31202,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kazadi-a-Kabwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413117
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6895b0c2bd1036b68c36113b85908e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1243510575,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243510575,
+    "wof:lastmodified":1536713511,
+    "wof:name":"Kazadi-a-Kabwe",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31202,
+    -5.78201,
+    22.31202,
+    -5.78201
+],
+  "geometry": {"coordinates":[22.31202,-5.78201],"type":"Point"}
+}

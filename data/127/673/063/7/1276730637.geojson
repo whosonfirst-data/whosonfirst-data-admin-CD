@@ -1,0 +1,67 @@
+{
+  "id": 1276730637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.35,-1.66667,19.35,-1.66667",
+    "geom:latitude":-1.66667,
+    "geom:longitude":19.35,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mbanga",
+    "gn:country_code":"CD",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312893,
+    "gn:latitude":-1.66667,
+    "gn:longitude":19.35,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mbanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312893
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a828cac395826a18021d4f372a7d2e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1276730637,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276730637,
+    "wof:lastmodified":1536743323,
+    "wof:name":"Mbanga",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.35,
+    -1.66667,
+    19.35,
+    -1.66667
+],
+  "geometry": {"coordinates":[19.35,-1.66667],"type":"Point"}
+}

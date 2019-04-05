@@ -1,0 +1,67 @@
+{
+  "id": 1293187235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.0865,3.52583,27.0865,3.52583",
+    "geom:latitude":3.52583,
+    "geom:longitude":27.0865,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dupa",
+    "gn:country_code":"CD",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069376,
+    "gn:latitude":3.52583,
+    "gn:longitude":27.0865,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069376
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f048f86e8d7315ed06478d852686a8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1293187235,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293187235,
+    "wof:lastmodified":1536723347,
+    "wof:name":"Dupa",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.0865,
+    3.52583,
+    27.0865,
+    3.52583
+],
+  "geometry": {"coordinates":[27.0865,3.52583],"type":"Point"}
+}

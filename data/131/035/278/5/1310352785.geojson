@@ -1,0 +1,68 @@
+{
+  "id": 1310352785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.44461,-3.46289,22.44461,-3.46289",
+    "geom:latitude":-3.46289,
+    "geom:longitude":22.44461,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kole",
+    "gn:country_code":"CD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447225,
+    "gn:latitude":-3.46289,
+    "gn:longitude":22.44461,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447225,
+        "wk:page":"Kole%2C_Democratic_Republic_of_the_Congo"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"49cedb17ef33aa25f4d3bd1afd212856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1310352785,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1310352785,
+    "wof:lastmodified":1537489198,
+    "wof:name":"Kole",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.44461,
+    -3.46289,
+    22.44461,
+    -3.46289
+],
+  "geometry": {"coordinates":[22.44461,-3.46289],"type":"Point"}
+}

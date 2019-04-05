@@ -1,0 +1,67 @@
+{
+  "id": 1327190019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.92109,-2.94097,17.92109,-2.94097",
+    "geom:latitude":-2.94097,
+    "geom:longitude":17.92109,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Gangan",
+    "gn:country_code":"CD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431974,
+    "gn:latitude":-2.94097,
+    "gn:longitude":17.92109,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gangan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431974
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"93d5214415e44e1af42171f08ea8ec8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1327190019,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327190019,
+    "wof:lastmodified":1537029648,
+    "wof:name":"Gangan",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.92109,
+    -2.94097,
+    17.92109,
+    -2.94097
+],
+  "geometry": {"coordinates":[17.92109,-2.94097],"type":"Point"}
+}

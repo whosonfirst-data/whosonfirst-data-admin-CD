@@ -1,0 +1,67 @@
+{
+  "id": 1343955701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0767,-4.87105,15.0767,-4.87105",
+    "geom:latitude":-4.87105,
+    "geom:longitude":15.0767,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nsangi",
+    "gn:country_code":"CD",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593380,
+    "gn:latitude":-4.87105,
+    "gn:longitude":15.0767,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Nsangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593380
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"691a448ea8adbd5d5a79b0f6be8cd858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1343955701,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1343955701,
+    "wof:lastmodified":1537025771,
+    "wof:name":"Nsangi",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0767,
+    -4.87105,
+    15.0767,
+    -4.87105
+],
+  "geometry": {"coordinates":[15.0767,-4.87105],"type":"Point"}
+}

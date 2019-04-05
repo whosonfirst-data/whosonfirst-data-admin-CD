@@ -1,0 +1,70 @@
+{
+  "id": 1226489647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.19858,2.64877,19.19858,2.64877",
+    "geom:latitude":2.64877,
+    "geom:longitude":19.19858,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Djando",
+    "gn:country_code":"CD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504874,
+    "gn:latitude":2.64877,
+    "gn:longitude":19.19858,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Djando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Djando"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504874
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7ff0f605e90a61e81a058bb0b5849752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1226489647,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226489647,
+    "wof:lastmodified":1537590569,
+    "wof:name":"Djando",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.19858,
+    2.64877,
+    19.19858,
+    2.64877
+],
+  "geometry": {"coordinates":[19.19858,2.64877],"type":"Point"}
+}

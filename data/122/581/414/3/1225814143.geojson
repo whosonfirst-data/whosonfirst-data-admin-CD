@@ -1,0 +1,67 @@
+{
+  "id": 1225814143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.49064,-9.69092,23.49064,-9.69092",
+    "geom:latitude":-9.69092,
+    "geom:longitude":23.49064,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kamika",
+    "gn:country_code":"CD",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462278,
+    "gn:latitude":-9.69092,
+    "gn:longitude":23.49064,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kamika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462278
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a6096aafe4270ae1b8db07d31fa91dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1225814143,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1225814143,
+    "wof:lastmodified":1537056892,
+    "wof:name":"Kamika",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.49064,
+    -9.69092,
+    23.49064,
+    -9.69092
+],
+  "geometry": {"coordinates":[23.49064,-9.69092],"type":"Point"}
+}

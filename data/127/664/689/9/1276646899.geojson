@@ -1,0 +1,67 @@
+{
+  "id": 1276646899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97542,-5.01406,14.97542,-5.01406",
+    "geom:latitude":-5.01406,
+    "geom:longitude":14.97542,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mayenga",
+    "gn:country_code":"CD",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325192,
+    "gn:latitude":-5.01406,
+    "gn:longitude":14.97542,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mayenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325192
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"39728d9407059a867b055762f9ec663d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1276646899,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1276646899,
+    "wof:lastmodified":1536854564,
+    "wof:name":"Mayenga",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97542,
+    -5.01406,
+    14.97542,
+    -5.01406
+],
+  "geometry": {"coordinates":[14.97542,-5.01406],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327396333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.84532,-6.90517,18.84532,-6.90517",
+    "geom:latitude":-6.90517,
+    "geom:longitude":18.84532,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ka-Ngombo",
+    "gn:country_code":"CD",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315104,
+    "gn:latitude":-6.90517,
+    "gn:longitude":18.84532,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ka-Ngombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315104
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e73ec2eff805f902ee4fdf945b2ebcf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1327396333,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327396333,
+    "wof:lastmodified":1536733201,
+    "wof:name":"Ka-Ngombo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.84532,
+    -6.90517,
+    18.84532,
+    -6.90517
+],
+  "geometry": {"coordinates":[18.84532,-6.90517],"type":"Point"}
+}

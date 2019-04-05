@@ -1,0 +1,70 @@
+{
+  "id": 1243044277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.66438,1.35477,29.66438,1.35477",
+    "geom:latitude":1.35477,
+    "geom:longitude":29.66438,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Apawanta",
+    "gn:country_code":"CD",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220248,
+    "gn:latitude":1.35477,
+    "gn:longitude":29.66438,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Apawanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Apawanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220248
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0abba62a1865c7fa2bc5f7bacb10c580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1243044277,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243044277,
+    "wof:lastmodified":1537590477,
+    "wof:name":"Apawanta",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.66438,
+    1.35477,
+    29.66438,
+    1.35477
+],
+  "geometry": {"coordinates":[29.66438,1.35477],"type":"Point"}
+}

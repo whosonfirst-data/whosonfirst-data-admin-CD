@@ -1,0 +1,67 @@
+{
+  "id": 1327489919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.33804,-8.33204,23.33804,-8.33204",
+    "geom:latitude":-8.33204,
+    "geom:longitude":23.33804,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Satshilefu",
+    "gn:country_code":"CD",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205778,
+    "gn:latitude":-8.33204,
+    "gn:longitude":23.33804,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Satshilefu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205778
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"119ef88fd53f703fdd3ff16046476ad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1327489919,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327489919,
+    "wof:lastmodified":1537092337,
+    "wof:name":"Satshilefu",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33804,
+    -8.33204,
+    23.33804,
+    -8.33204
+],
+  "geometry": {"coordinates":[23.33804,-8.33204],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259571233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.20611,0.55817,29.20611,0.55817",
+    "geom:latitude":0.55817,
+    "geom:longitude":29.20611,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mosali",
+    "gn:country_code":"CD",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329333,
+    "gn:latitude":0.55817,
+    "gn:longitude":29.20611,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Mosali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moseli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329333
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"da6d4c4ecb653ee74c5ab4d526e81bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1259571233,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1259571233,
+    "wof:lastmodified":1537590573,
+    "wof:name":"Mosali",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20611,
+    0.55817,
+    29.20611,
+    0.55817
+],
+  "geometry": {"coordinates":[29.20611,0.55817],"type":"Point"}
+}

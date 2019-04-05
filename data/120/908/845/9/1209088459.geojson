@@ -1,0 +1,61 @@
+{
+  "id": 1209088459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.44845,2.6473,27.44845,2.6473",
+    "geom:latitude":2.6473,
+    "geom:longitude":27.44845,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Banda",
+    "gn:country_code":"CD",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145533,
+    "gn:latitude":2.6473,
+    "gn:longitude":27.44845,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Banda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145533
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1cd47ef428f33649f04a47fdbb72b1eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209088459
+        }
+    ],
+    "wof:id":1209088459,
+    "wof:lastmodified":1536298111,
+    "wof:name":"Banda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.44845,
+    2.6473,
+    27.44845,
+    2.6473
+],
+  "geometry": {"coordinates":[27.44845,2.6473],"type":"Point"}
+}

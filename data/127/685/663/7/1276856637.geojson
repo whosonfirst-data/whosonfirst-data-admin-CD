@@ -1,0 +1,67 @@
+{
+  "id": 1276856637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01726,-4.95241,15.01726,-4.95241",
+    "geom:latitude":-4.95241,
+    "geom:longitude":15.01726,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Senge",
+    "gn:country_code":"CD",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593388,
+    "gn:latitude":-4.95241,
+    "gn:longitude":15.01726,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Senge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593388
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"738c94fd985bf8763da62296cd8f7bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1276856637,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1276856637,
+    "wof:lastmodified":1537069243,
+    "wof:name":"Senge",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01726,
+    -4.95241,
+    15.01726,
+    -4.95241
+],
+  "geometry": {"coordinates":[15.01726,-4.95241],"type":"Point"}
+}

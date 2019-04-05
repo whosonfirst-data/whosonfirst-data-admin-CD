@@ -1,0 +1,65 @@
+{
+  "id": 1209282157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.32041,1.42378,21.32041,1.42378",
+    "geom:latitude":1.42378,
+    "geom:longitude":21.32041,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Lofongo",
+    "gn:country_code":"CD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211616,
+    "gn:latitude":1.42378,
+    "gn:longitude":21.32041,
+    "gn:modification_date":"2018-07-02",
+    "gn:name":"Lofongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lifongo",
+        "Lofongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211616
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9a144b904f11d02b7b488098257da055",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209282157
+        }
+    ],
+    "wof:id":1209282157,
+    "wof:lastmodified":1537590388,
+    "wof:name":"Lofongo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.32041,
+    1.42378,
+    21.32041,
+    1.42378
+],
+  "geometry": {"coordinates":[21.32041,1.42378],"type":"Point"}
+}

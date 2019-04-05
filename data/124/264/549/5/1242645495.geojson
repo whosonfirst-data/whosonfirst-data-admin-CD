@@ -1,0 +1,71 @@
+{
+  "id": 1242645495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99113,-3.16093,17.99113,-3.16093",
+    "geom:latitude":-3.16093,
+    "geom:longitude":17.99113,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Nsontin",
+    "gn:country_code":"CD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311880,
+    "gn:latitude":-3.16093,
+    "gn:longitude":17.99113,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nsontin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sontin",
+        "Nsontin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311880
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8235e01ace76ced41244d9189b7f0081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1242645495,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1242645495,
+    "wof:lastmodified":1537590505,
+    "wof:name":"Nsontin",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99113,
+    -3.16093,
+    17.99113,
+    -3.16093
+],
+  "geometry": {"coordinates":[17.99113,-3.16093],"type":"Point"}
+}

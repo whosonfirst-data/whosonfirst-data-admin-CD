@@ -1,0 +1,67 @@
+{
+  "id": 1309870499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93456,-5.59952,18.93456,-5.59952",
+    "geom:latitude":-5.59952,
+    "geom:longitude":18.93456,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Muinda",
+    "gn:country_code":"CD",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312376,
+    "gn:latitude":-5.59952,
+    "gn:longitude":18.93456,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Muinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312376
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"20e51f98424372543cdd8292b596046d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1309870499,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1309870499,
+    "wof:lastmodified":1536836936,
+    "wof:name":"Muinda",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93456,
+    -5.59952,
+    18.93456,
+    -5.59952
+],
+  "geometry": {"coordinates":[18.93456,-5.59952],"type":"Point"}
+}

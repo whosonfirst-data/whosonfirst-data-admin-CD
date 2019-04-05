@@ -1,0 +1,67 @@
+{
+  "id": 1360044221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.76991,-6.18792,24.76991,-6.18792",
+    "geom:latitude":-6.18792,
+    "geom:longitude":24.76991,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kaba-Kongolo",
+    "gn:country_code":"CD",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215679,
+    "gn:latitude":-6.18792,
+    "gn:longitude":24.76991,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kaba-Kongolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215679
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2d74413dd2065e3dfe6af9b7ff972974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1360044221,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1360044221,
+    "wof:lastmodified":1537004007,
+    "wof:name":"Kaba-Kongolo",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.76991,
+    -6.18792,
+    24.76991,
+    -6.18792
+],
+  "geometry": {"coordinates":[24.76991,-6.18792],"type":"Point"}
+}

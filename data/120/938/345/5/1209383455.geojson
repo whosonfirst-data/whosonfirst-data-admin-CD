@@ -1,0 +1,65 @@
+{
+  "id": 1209383455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93079,-6.78136,21.93079,-6.78136",
+    "geom:latitude":-6.78136,
+    "geom:longitude":21.93079,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bonku",
+    "gn:country_code":"CD",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218162,
+    "gn:latitude":-6.78136,
+    "gn:longitude":21.93079,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bonku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonko",
+        "Bonku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218162
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"43406037452384bf4e179633728b0b94",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209383455
+        }
+    ],
+    "wof:id":1209383455,
+    "wof:lastmodified":1537590453,
+    "wof:name":"Bonku",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93079,
+    -6.78136,
+    21.93079,
+    -6.78136
+],
+  "geometry": {"coordinates":[21.93079,-6.78136],"type":"Point"}
+}

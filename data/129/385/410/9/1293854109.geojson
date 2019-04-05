@@ -1,0 +1,67 @@
+{
+  "id": 1293854109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.4,-7.96667,25.4,-7.96667",
+    "geom:latitude":-7.96667,
+    "geom:longitude":25.4,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kimenkinda",
+    "gn:country_code":"CD",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212945,
+    "gn:latitude":-7.96667,
+    "gn:longitude":25.4,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kimenkinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212945
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a86c3c35d9513d0776d6503963bf5ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1293854109,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293854109,
+    "wof:lastmodified":1536755805,
+    "wof:name":"Kimenkinda",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.4,
+    -7.96667,
+    25.4,
+    -7.96667
+],
+  "geometry": {"coordinates":[25.4,-7.96667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309767909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.40751,-5.4788,18.40751,-5.4788",
+    "geom:latitude":-5.4788,
+    "geom:longitude":18.40751,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Wamba",
+    "gn:country_code":"CD",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276079,
+    "gn:latitude":-5.4788,
+    "gn:longitude":18.40751,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Wamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276079
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"940bd5e00b6f27d8eb4a6fb789145226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1309767909,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1309767909,
+    "wof:lastmodified":1536985052,
+    "wof:name":"Wamba",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.40751,
+    -5.4788,
+    18.40751,
+    -5.4788
+],
+  "geometry": {"coordinates":[18.40751,-5.4788],"type":"Point"}
+}

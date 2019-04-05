@@ -1,0 +1,65 @@
+{
+  "id": 1310691995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65,-4.95,12.65,-4.95",
+    "geom:latitude":-4.95,
+    "geom:longitude":12.65,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Niadi",
+    "gn:country_code":"CD",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311978,
+    "gn:latitude":-4.95,
+    "gn:longitude":12.65,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Niadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311978
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fd8c14117662ec81a30e224f71f34459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":1310691995,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1310691995,
+    "wof:lastmodified":1536647518,
+    "wof:name":"Niadi",
+    "wof:parent_id":85669993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65,
+    -4.95,
+    12.65,
+    -4.95
+],
+  "geometry": {"coordinates":[12.65,-4.95],"type":"Point"}
+}

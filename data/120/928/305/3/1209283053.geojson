@@ -1,0 +1,66 @@
+{
+  "id": 1209283053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85,-7.53333,22.85,-7.53333",
+    "geom:latitude":-7.53333,
+    "geom:longitude":22.85,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mwanza",
+    "gn:country_code":"CD",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207625,
+    "gn:latitude":-7.53333,
+    "gn:longitude":22.85,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mwanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muanza",
+        "Mwene Mwanza",
+        "Mwanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207625
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e3e00bdde31632bcb9fd1594953d41fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209283053
+        }
+    ],
+    "wof:id":1209283053,
+    "wof:lastmodified":1537590349,
+    "wof:name":"Mwanza",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85,
+    -7.53333,
+    22.85,
+    -7.53333
+],
+  "geometry": {"coordinates":[22.85,-7.53333],"type":"Point"}
+}

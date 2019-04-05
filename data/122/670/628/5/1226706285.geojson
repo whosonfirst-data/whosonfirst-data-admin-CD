@@ -1,0 +1,67 @@
+{
+  "id": 1226706285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99068,-6.71799,21.99068,-6.71799",
+    "geom:latitude":-6.71799,
+    "geom:longitude":21.99068,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Luabala",
+    "gn:country_code":"CD",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327476,
+    "gn:latitude":-6.71799,
+    "gn:longitude":21.99068,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Luabala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327476
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"598c304e7dd7f013bda6e0666f2b5f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1226706285,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226706285,
+    "wof:lastmodified":1536773206,
+    "wof:name":"Luabala",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99068,
+    -6.71799,
+    21.99068,
+    -6.71799
+],
+  "geometry": {"coordinates":[21.99068,-6.71799],"type":"Point"}
+}

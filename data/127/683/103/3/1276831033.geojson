@@ -1,0 +1,67 @@
+{
+  "id": 1276831033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75929,-3.75261,17.75929,-3.75261",
+    "geom:latitude":-3.75261,
+    "geom:longitude":17.75929,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Nsalakia",
+    "gn:country_code":"CD",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434009,
+    "gn:latitude":-3.75261,
+    "gn:longitude":17.75929,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nsalakia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434009
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"15ab1db81a2f9d2ded110de68418d987",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1276831033,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276831033,
+    "wof:lastmodified":1536606227,
+    "wof:name":"Nsalakia",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75929,
+    -3.75261,
+    17.75929,
+    -3.75261
+],
+  "geometry": {"coordinates":[17.75929,-3.75261],"type":"Point"}
+}

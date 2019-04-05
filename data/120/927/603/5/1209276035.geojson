@@ -1,0 +1,65 @@
+{
+  "id": 1209276035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23333,-4.55,18.23333,-4.55",
+    "geom:latitude":-4.55,
+    "geom:longitude":18.23333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Gombe I",
+    "gn:country_code":"CD",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315701,
+    "gn:latitude":-4.55,
+    "gn:longitude":18.23333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gombe I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gombe",
+        "Gombe I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315701
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7b6af77f24608cad781cf55305020ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209276035
+        }
+    ],
+    "wof:id":1209276035,
+    "wof:lastmodified":1537590543,
+    "wof:name":"Gombe I",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23333,
+    -4.55,
+    18.23333,
+    -4.55
+],
+  "geometry": {"coordinates":[18.23333,-4.55],"type":"Point"}
+}

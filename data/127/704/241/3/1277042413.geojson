@@ -1,0 +1,67 @@
+{
+  "id": 1277042413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53525,3.9648,22.53525,3.9648",
+    "geom:latitude":3.9648,
+    "geom:longitude":22.53525,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ingwa",
+    "gn:country_code":"CD",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238588,
+    "gn:latitude":3.9648,
+    "gn:longitude":22.53525,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ingwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238588
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"61e9823f47fe470f52464a54178eff98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1277042413,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1277042413,
+    "wof:lastmodified":1536822462,
+    "wof:name":"Ingwa",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53525,
+    3.9648,
+    22.53525,
+    3.9648
+],
+  "geometry": {"coordinates":[22.53525,3.9648],"type":"Point"}
+}

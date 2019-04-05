@@ -1,0 +1,71 @@
+{
+  "id": 1309764585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.98435,-9.99949,25.98435,-9.99949",
+    "geom:latitude":-9.99949,
+    "geom:longitude":25.98435,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mulumbu Mwanze",
+    "gn:country_code":"CD",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208158,
+    "gn:latitude":-9.99949,
+    "gn:longitude":25.98435,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mulumbu Mwanze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mulumbu Mwanza",
+        "Mulumbu Mwanze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208158
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"096e6fee5a8ee7937449359583efb317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1309764585,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1309764585,
+    "wof:lastmodified":1537590356,
+    "wof:name":"Mulumbu Mwanze",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.98435,
+    -9.99949,
+    25.98435,
+    -9.99949
+],
+  "geometry": {"coordinates":[25.98435,-9.99949],"type":"Point"}
+}

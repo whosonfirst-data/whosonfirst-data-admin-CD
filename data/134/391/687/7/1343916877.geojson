@@ -1,0 +1,67 @@
+{
+  "id": 1343916877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.03779,-7.00166,24.03779,-7.00166",
+    "geom:latitude":-7.00166,
+    "geom:longitude":24.03779,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kabuy",
+    "gn:country_code":"CD",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9009813,
+    "gn:latitude":-7.00166,
+    "gn:longitude":24.03779,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabuy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9009813
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"73e839d6a54e8184b3e6b99f308e6f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1343916877,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1343916877,
+    "wof:lastmodified":1537079869,
+    "wof:name":"Kabuy",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.03779,
+    -7.00166,
+    24.03779,
+    -7.00166
+],
+  "geometry": {"coordinates":[24.03779,-7.00166],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310273555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39655,-6.69791,22.39655,-6.69791",
+    "geom:latitude":-6.69791,
+    "geom:longitude":22.39655,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kanlanga",
+    "gn:country_code":"CD",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8285375,
+    "gn:latitude":-6.69791,
+    "gn:longitude":22.39655,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kanlanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8285375
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e67e304a3cd723a15ce5c00bbcc87176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1310273555,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310273555,
+    "wof:lastmodified":1536754103,
+    "wof:name":"Kanlanga",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39655,
+    -6.69791,
+    22.39655,
+    -6.69791
+],
+  "geometry": {"coordinates":[22.39655,-6.69791],"type":"Point"}
+}

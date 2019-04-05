@@ -1,0 +1,61 @@
+{
+  "id": 1209401065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.04631,4.39765,26.04631,4.39765",
+    "geom:latitude":4.39765,
+    "geom:longitude":26.04631,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pamba",
+    "gn:country_code":"CD",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221143,
+    "gn:latitude":4.39765,
+    "gn:longitude":26.04631,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221143
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3995714d9b85d0dd4613e17a332337b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209401065
+        }
+    ],
+    "wof:id":1209401065,
+    "wof:lastmodified":1536288145,
+    "wof:name":"Pamba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.04631,
+    4.39765,
+    26.04631,
+    4.39765
+],
+  "geometry": {"coordinates":[26.04631,4.39765],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327117389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.63333,-8.13333,25.63333,-8.13333",
+    "geom:latitude":-8.13333,
+    "geom:longitude":25.63333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kipembe",
+    "gn:country_code":"CD",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212785,
+    "gn:latitude":-8.13333,
+    "gn:longitude":25.63333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kipembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212785
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bff7879a66cab378941e1c8c4eec42a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1327117389,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327117389,
+    "wof:lastmodified":1536636664,
+    "wof:name":"Kipembe",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.63333,
+    -8.13333,
+    25.63333,
+    -8.13333
+],
+  "geometry": {"coordinates":[25.63333,-8.13333],"type":"Point"}
+}

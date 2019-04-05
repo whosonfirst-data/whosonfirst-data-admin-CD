@@ -1,0 +1,65 @@
+{
+  "id": 1209400201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.90054,-4.86757,13.90054,-4.86757",
+    "geom:latitude":-4.86757,
+    "geom:longitude":13.90054,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kingila",
+    "gn:country_code":"CD",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314416,
+    "gn:latitude":-4.86757,
+    "gn:longitude":13.90054,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kingila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kingile",
+        "Kingila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314416
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1e6e46c587a1cfc3e426a2e398ccd683",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209400201
+        }
+    ],
+    "wof:id":1209400201,
+    "wof:lastmodified":1537590531,
+    "wof:name":"Kingila",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.90054,
+    -4.86757,
+    13.90054,
+    -4.86757
+],
+  "geometry": {"coordinates":[13.90054,-4.86757],"type":"Point"}
+}

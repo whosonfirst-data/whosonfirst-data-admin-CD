@@ -1,0 +1,67 @@
+{
+  "id": 1293058583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.84904,1.24869,21.84904,1.24869",
+    "geom:latitude":1.24869,
+    "geom:longitude":21.84904,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Lokombo",
+    "gn:country_code":"CD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211523,
+    "gn:latitude":1.24869,
+    "gn:longitude":21.84904,
+    "gn:modification_date":"2018-07-03",
+    "gn:name":"Lokombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211523
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"855c87c1df22acdb0ca7088626d2aab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1293058583,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293058583,
+    "wof:lastmodified":1536908939,
+    "wof:name":"Lokombo",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.84904,
+    1.24869,
+    21.84904,
+    1.24869
+],
+  "geometry": {"coordinates":[21.84904,1.24869],"type":"Point"}
+}

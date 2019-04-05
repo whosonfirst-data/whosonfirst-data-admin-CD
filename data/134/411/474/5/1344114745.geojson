@@ -1,0 +1,71 @@
+{
+  "id": 1344114745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.31305,-1.86244,19.31305,-1.86244",
+    "geom:latitude":-1.86244,
+    "geom:longitude":19.31305,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Nkomo",
+    "gn:country_code":"CD",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311941,
+    "gn:latitude":-1.86244,
+    "gn:longitude":19.31305,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nkomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nkonu",
+        "Nkomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311941
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6bc65a94468f01212861395f8fb2a572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1344114745,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1344114745,
+    "wof:lastmodified":1537590506,
+    "wof:name":"Nkomo",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.31305,
+    -1.86244,
+    19.31305,
+    -1.86244
+],
+  "geometry": {"coordinates":[19.31305,-1.86244],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209696933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.20313,0.52788,29.20313,0.52788",
+    "geom:latitude":0.52788,
+    "geom:longitude":29.20313,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pandekali",
+    "gn:country_code":"CD",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206414,
+    "gn:latitude":0.52788,
+    "gn:longitude":29.20313,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Pandekali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pandakali",
+        "Pandekali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206414
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f9f83f02d98d4a91950e45927eff31ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1209696933,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1209696933,
+    "wof:lastmodified":1537590336,
+    "wof:name":"Pandekali",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20313,
+    0.52788,
+    29.20313,
+    0.52788
+],
+  "geometry": {"coordinates":[29.20313,0.52788],"type":"Point"}
+}

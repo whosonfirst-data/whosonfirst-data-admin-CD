@@ -1,0 +1,67 @@
+{
+  "id": 1310442647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.3,-0.7,21.3,-0.7",
+    "geom:latitude":-0.7,
+    "geom:longitude":21.3,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Isongo",
+    "gn:country_code":"CD",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215763,
+    "gn:latitude":-0.7,
+    "gn:longitude":21.3,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Isongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215763
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8156fb611ab95dbea06025ca5b0972b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1310442647,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310442647,
+    "wof:lastmodified":1537006794,
+    "wof:name":"Isongo",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.3,
+    -0.7,
+    21.3,
+    -0.7
+],
+  "geometry": {"coordinates":[21.3,-0.7],"type":"Point"}
+}

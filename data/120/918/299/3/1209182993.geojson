@@ -1,0 +1,66 @@
+{
+  "id": 1209182993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85275,-9.20956,23.85275,-9.20956",
+    "geom:latitude":-9.20956,
+    "geom:longitude":23.85275,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwin Mbiji",
+    "gn:country_code":"CD",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219005,
+    "gn:latitude":-9.20956,
+    "gn:longitude":23.85275,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mwin Mbiji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwana Bishi",
+        "Bezi",
+        "Mwin Mbiji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219005
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"12738a2582a2fcbcce873c1f9389a1a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209182993
+        }
+    ],
+    "wof:id":1209182993,
+    "wof:lastmodified":1537590461,
+    "wof:name":"Mwin Mbiji",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85275,
+    -9.20956,
+    23.85275,
+    -9.20956
+],
+  "geometry": {"coordinates":[23.85275,-9.20956],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310008861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99611,0.62675,17.99611,0.62675",
+    "geom:latitude":0.62675,
+    "geom:longitude":17.99611,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Djundu",
+    "gn:country_code":"CD",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316036,
+    "gn:latitude":0.62675,
+    "gn:longitude":17.99611,
+    "gn:modification_date":"2011-11-05",
+    "gn:name":"Djundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316036
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ad51d939dda20a7336d396e1b16674d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1310008861,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310008861,
+    "wof:lastmodified":1536637297,
+    "wof:name":"Djundu",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99611,
+    0.62675,
+    17.99611,
+    0.62675
+],
+  "geometry": {"coordinates":[17.99611,0.62675],"type":"Point"}
+}

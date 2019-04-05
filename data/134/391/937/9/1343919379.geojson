@@ -1,0 +1,70 @@
+{
+  "id": 1343919379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.06222,2.82003,19.06222,2.82003",
+    "geom:latitude":2.82003,
+    "geom:longitude":19.06222,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Boyazala",
+    "gn:country_code":"CD",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316344,
+    "gn:latitude":2.82003,
+    "gn:longitude":19.06222,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Boyazala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boyazala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316344
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"52dd1d0b554d686df2e0d7234670d22a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1343919379,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343919379,
+    "wof:lastmodified":1537590551,
+    "wof:name":"Boyazala",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06222,
+    2.82003,
+    19.06222,
+    2.82003
+],
+  "geometry": {"coordinates":[19.06222,2.82003],"type":"Point"}
+}

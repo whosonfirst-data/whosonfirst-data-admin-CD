@@ -1,0 +1,67 @@
+{
+  "id": 1276513797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.03333,-2.85,25.03333,-2.85",
+    "geom:latitude":-2.85,
+    "geom:longitude":25.03333,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kinumbi",
+    "gn:country_code":"CD",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212846,
+    "gn:latitude":-2.85,
+    "gn:longitude":25.03333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kinumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212846
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e8654338fbcffacfba1e05306cdea5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1276513797,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1276513797,
+    "wof:lastmodified":1537032896,
+    "wof:name":"Kinumbi",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.03333,
+    -2.85,
+    25.03333,
+    -2.85
+],
+  "geometry": {"coordinates":[25.03333,-2.85],"type":"Point"}
+}

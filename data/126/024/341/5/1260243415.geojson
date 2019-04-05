@@ -1,0 +1,67 @@
+{
+  "id": 1260243415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08333,-4.71667,19.08333,-4.71667",
+    "geom:latitude":-4.71667,
+    "geom:longitude":19.08333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tshangunu",
+    "gn:country_code":"CD",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311129,
+    "gn:latitude":-4.71667,
+    "gn:longitude":19.08333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshangunu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311129
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6175ef5315679b5e864335d909faba7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1260243415,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260243415,
+    "wof:lastmodified":1536766717,
+    "wof:name":"Tshangunu",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08333,
+    -4.71667,
+    19.08333,
+    -4.71667
+],
+  "geometry": {"coordinates":[19.08333,-4.71667],"type":"Point"}
+}

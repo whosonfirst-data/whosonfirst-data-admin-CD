@@ -1,0 +1,64 @@
+{
+  "id": 1209062703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.68327,-10.41736,23.68327,-10.41736",
+    "geom:latitude":-10.41736,
+    "geom:longitude":23.68327,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kambwandi",
+    "gn:country_code":"CD",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923053,
+    "gn:latitude":-10.41736,
+    "gn:longitude":23.68327,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kambwandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kambwandji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923053
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6156cb9abdb6cf38aeee0c46508a0a4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209062703
+        }
+    ],
+    "wof:id":1209062703,
+    "wof:lastmodified":1537590492,
+    "wof:name":"Kambwandi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.68327,
+    -10.41736,
+    23.68327,
+    -10.41736
+],
+  "geometry": {"coordinates":[23.68327,-10.41736],"type":"Point"}
+}

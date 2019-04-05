@@ -1,0 +1,71 @@
+{
+  "id": 1309690345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.42235,0.44449,29.42235,0.44449",
+    "geom:latitude":0.44449,
+    "geom:longitude":29.42235,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mukulia",
+    "gn:country_code":"CD",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208339,
+    "gn:latitude":0.44449,
+    "gn:longitude":29.42235,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mukulia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukuli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208339,
+        "wk:page":"Mukulia"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"715edb5b5142c96ffb8fe2756c5c1a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679907,
+            "locality_id":1309690345,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1309690345,
+    "wof:lastmodified":1537590358,
+    "wof:name":"Mukulia",
+    "wof:parent_id":1091679907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.42235,
+    0.44449,
+    29.42235,
+    0.44449
+],
+  "geometry": {"coordinates":[29.42235,0.44449],"type":"Point"}
+}

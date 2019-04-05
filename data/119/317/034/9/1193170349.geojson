@@ -1,0 +1,67 @@
+{
+  "id": 1193170349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.85958,0.83783,20.85958,0.83783",
+    "geom:latitude":0.83783,
+    "geom:longitude":20.85958,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Lisoko",
+    "gn:country_code":"CD",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8075837,
+    "gn:latitude":0.83783,
+    "gn:longitude":20.85958,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lisoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8075837
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"50452aa2f23bb4ded24644d62b0b489c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1193170349,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1193170349,
+    "wof:lastmodified":1536381185,
+    "wof:name":"Lisoko",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.85958,
+    0.83783,
+    20.85958,
+    0.83783
+],
+  "geometry": {"coordinates":[20.85958,0.83783],"type":"Point"}
+}

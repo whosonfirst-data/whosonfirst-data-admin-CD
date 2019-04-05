@@ -1,0 +1,67 @@
+{
+  "id": 1327392377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.86879,-10.28928,24.86879,-10.28928",
+    "geom:latitude":-10.28928,
+    "geom:longitude":24.86879,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kayeke",
+    "gn:country_code":"CD",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922897,
+    "gn:latitude":-10.28928,
+    "gn:longitude":24.86879,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kayeke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922897
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e745f267cdc53188636f5b81b839e282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1327392377,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327392377,
+    "wof:lastmodified":1536738590,
+    "wof:name":"Kayeke",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.86879,
+    -10.28928,
+    24.86879,
+    -10.28928
+],
+  "geometry": {"coordinates":[24.86879,-10.28928],"type":"Point"}
+}

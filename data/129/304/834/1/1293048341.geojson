@@ -1,0 +1,71 @@
+{
+  "id": 1293048341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.85,4.51667,18.85,4.51667",
+    "geom:latitude":4.51667,
+    "geom:longitude":18.85,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bandi I",
+    "gn:country_code":"CD",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317403,
+    "gn:latitude":4.51667,
+    "gn:longitude":18.85,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bandi I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bandi",
+        "Bandi I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317403
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"eb88f011a85e0644e99d8b193e5f91ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1293048341,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293048341,
+    "wof:lastmodified":1537590564,
+    "wof:name":"Bandi I",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85,
+    4.51667,
+    18.85,
+    4.51667
+],
+  "geometry": {"coordinates":[18.85,4.51667],"type":"Point"}
+}

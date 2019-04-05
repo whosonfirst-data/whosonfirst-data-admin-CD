@@ -1,0 +1,71 @@
+{
+  "id": 1276943489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.15,-4.91667,21.15,-4.91667",
+    "geom:latitude":-4.91667,
+    "geom:longitude":21.15,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ilengi",
+    "gn:country_code":"CD",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215967,
+    "gn:latitude":-4.91667,
+    "gn:longitude":21.15,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ilengi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ilenga",
+        "Ilengi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215967
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"94438ce27898195c1efe0c3ccc4ee7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276943489,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276943489,
+    "wof:lastmodified":1537590431,
+    "wof:name":"Ilengi",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.15,
+    -4.91667,
+    21.15,
+    -4.91667
+],
+  "geometry": {"coordinates":[21.15,-4.91667],"type":"Point"}
+}

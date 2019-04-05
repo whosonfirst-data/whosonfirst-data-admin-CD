@@ -1,0 +1,67 @@
+{
+  "id": 1327109791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.06784,-6.36572,18.06784,-6.36572",
+    "geom:latitude":-6.36572,
+    "geom:longitude":18.06784,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Nzofu",
+    "gn:country_code":"CD",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8373106,
+    "gn:latitude":-6.36572,
+    "gn:longitude":18.06784,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nzofu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8373106
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4996c5ffd0f7ed6ea352136eb0af0c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1327109791,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327109791,
+    "wof:lastmodified":1536648517,
+    "wof:name":"Nzofu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.06784,
+    -6.36572,
+    18.06784,
+    -6.36572
+],
+  "geometry": {"coordinates":[18.06784,-6.36572],"type":"Point"}
+}

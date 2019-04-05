@@ -1,0 +1,67 @@
+{
+  "id": 1276242987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08333,1.75,18.08333,1.75",
+    "geom:latitude":1.75,
+    "geom:longitude":18.08333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mokame",
+    "gn:country_code":"CD",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312678,
+    "gn:latitude":1.75,
+    "gn:longitude":18.08333,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Mokame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312678
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ff8a2bcf0af4ea309a4d95deca11e05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1276242987,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276242987,
+    "wof:lastmodified":1536899696,
+    "wof:name":"Mokame",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08333,
+    1.75,
+    18.08333,
+    1.75
+],
+  "geometry": {"coordinates":[18.08333,1.75],"type":"Point"}
+}

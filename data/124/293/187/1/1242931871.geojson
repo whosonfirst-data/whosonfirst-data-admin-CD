@@ -1,0 +1,67 @@
+{
+  "id": 1242931871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.54867,-10.25984,26.54867,-10.25984",
+    "geom:latitude":-10.25984,
+    "geom:longitude":26.54867,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kalonga",
+    "gn:country_code":"CD",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923083,
+    "gn:latitude":-10.25984,
+    "gn:longitude":26.54867,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kalonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923083
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2a9c11f713145cac7eec4968f298d562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1242931871,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242931871,
+    "wof:lastmodified":1537048520,
+    "wof:name":"Kalonga",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.54867,
+    -10.25984,
+    26.54867,
+    -10.25984
+],
+  "geometry": {"coordinates":[26.54867,-10.25984],"type":"Point"}
+}

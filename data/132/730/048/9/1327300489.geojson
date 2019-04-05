@@ -1,0 +1,73 @@
+{
+  "id": 1327300489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2436,1.79527,30.2436,1.79527",
+    "geom:latitude":1.79527,
+    "geom:longitude":30.2436,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kilomines",
+    "gn:country_code":"CD",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213022,
+    "gn:latitude":1.79527,
+    "gn:longitude":30.2436,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kilomines",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilo",
+        "Bambu",
+        "Kilomines",
+        "Bambumines"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213022
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5b18909e541440ed185ef217245e762e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1327300489,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327300489,
+    "wof:lastmodified":1537590401,
+    "wof:name":"Kilomines",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2436,
+    1.79527,
+    30.2436,
+    1.79527
+],
+  "geometry": {"coordinates":[30.2436,1.79527],"type":"Point"}
+}

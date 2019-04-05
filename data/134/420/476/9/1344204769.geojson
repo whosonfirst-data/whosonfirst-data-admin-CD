@@ -1,0 +1,73 @@
+{
+  "id": 1344204769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96368,2.40335,18.96368,2.40335",
+    "geom:latitude":2.40335,
+    "geom:longitude":18.96368,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Masuka",
+    "gn:country_code":"CD",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316187,
+    "gn:latitude":2.40335,
+    "gn:longitude":18.96368,
+    "gn:modification_date":"2018-06-27",
+    "gn:name":"Masuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Busu-Masuka"
+    ],
+    "name:fra_x_variant":[
+        "Masuka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316187
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8a1c43bd3c3c610ee82f513057c55ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1344204769,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1344204769,
+    "wof:lastmodified":1537590549,
+    "wof:name":"Masuka",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96368,
+    2.40335,
+    18.96368,
+    2.40335
+],
+  "geometry": {"coordinates":[18.96368,2.40335],"type":"Point"}
+}

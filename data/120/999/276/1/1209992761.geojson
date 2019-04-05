@@ -1,0 +1,67 @@
+{
+  "id": 1209992761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.251,0.67222,29.251,0.67222",
+    "geom:latitude":0.67222,
+    "geom:longitude":29.251,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Maperanga",
+    "gn:country_code":"CD",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329327,
+    "gn:latitude":0.67222,
+    "gn:longitude":29.251,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Maperanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329327
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2425a779ff56cfd336dc06cfc78ba3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1209992761,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1209992761,
+    "wof:lastmodified":1536385655,
+    "wof:name":"Maperanga",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.251,
+    0.67222,
+    29.251,
+    0.67222
+],
+  "geometry": {"coordinates":[29.251,0.67222],"type":"Point"}
+}

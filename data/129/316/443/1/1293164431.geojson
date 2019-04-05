@@ -1,0 +1,67 @@
+{
+  "id": 1293164431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.83333,0.8,28.83333,0.8",
+    "geom:latitude":0.8,
+    "geom:longitude":28.83333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Savuni",
+    "gn:country_code":"CD",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205772,
+    "gn:latitude":0.8,
+    "gn:longitude":28.83333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Savuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205772
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"66592a146f9b68817d729aa8dadf7b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1293164431,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293164431,
+    "wof:lastmodified":1536756029,
+    "wof:name":"Savuni",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.83333,
+    0.8,
+    28.83333,
+    0.8
+],
+  "geometry": {"coordinates":[28.83333,0.8],"type":"Point"}
+}

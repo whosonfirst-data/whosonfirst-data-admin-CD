@@ -1,0 +1,67 @@
+{
+  "id": 1310691991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.69386,-5.37552,13.69386,-5.37552",
+    "geom:latitude":-5.37552,
+    "geom:longitude":13.69386,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Banza-Kulu",
+    "gn:country_code":"CD",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317321,
+    "gn:latitude":-5.37552,
+    "gn:longitude":13.69386,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Banza-Kulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317321
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"781d60708c5efdeb13f5f9b35b18369a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1310691991,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1310691991,
+    "wof:lastmodified":1536647525,
+    "wof:name":"Banza-Kulu",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.69386,
+    -5.37552,
+    13.69386,
+    -5.37552
+],
+  "geometry": {"coordinates":[13.69386,-5.37552],"type":"Point"}
+}

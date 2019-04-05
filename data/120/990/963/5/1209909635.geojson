@@ -1,0 +1,67 @@
+{
+  "id": 1209909635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96991,-4.89542,14.96991,-4.89542",
+    "geom:latitude":-4.89542,
+    "geom:longitude":14.96991,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kimbungu",
+    "gn:country_code":"CD",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443470,
+    "gn:latitude":-4.89542,
+    "gn:longitude":14.96991,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Kimbungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443470
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bdd5b604a0b0e0c69d5e2d6f11ab4223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1209909635,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1209909635,
+    "wof:lastmodified":1536380174,
+    "wof:name":"Kimbungu",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96991,
+    -4.89542,
+    14.96991,
+    -4.89542
+],
+  "geometry": {"coordinates":[14.96991,-4.89542],"type":"Point"}
+}

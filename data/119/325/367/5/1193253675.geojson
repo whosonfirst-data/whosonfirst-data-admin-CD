@@ -1,0 +1,67 @@
+{
+  "id": 1193253675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.61089,-6.42646,19.61089,-6.42646",
+    "geom:latitude":-6.42646,
+    "geom:longitude":19.61089,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kakeneneka",
+    "gn:country_code":"CD",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9528952,
+    "gn:latitude":-6.42646,
+    "gn:longitude":19.61089,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kakeneneka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9528952
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a8ddc8a0d48fcacdaa68cade8f47b00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1193253675,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1193253675,
+    "wof:lastmodified":1536365867,
+    "wof:name":"Kakeneneka",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.61089,
+    -6.42646,
+    19.61089,
+    -6.42646
+],
+  "geometry": {"coordinates":[19.61089,-6.42646],"type":"Point"}
+}

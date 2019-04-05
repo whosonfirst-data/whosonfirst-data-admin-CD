@@ -1,0 +1,67 @@
+{
+  "id": 1343271695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21667,1.08333,23.21667,1.08333",
+    "geom:latitude":1.08333,
+    "geom:longitude":23.21667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yahuma",
+    "gn:country_code":"CD",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204088,
+    "gn:latitude":1.08333,
+    "gn:longitude":23.21667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Yahuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204088
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"20ec9feff8662dbee3e37c24797c1bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1343271695,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343271695,
+    "wof:lastmodified":1537017858,
+    "wof:name":"Yahuma",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21667,
+    1.08333,
+    23.21667,
+    1.08333
+],
+  "geometry": {"coordinates":[23.21667,1.08333],"type":"Point"}
+}

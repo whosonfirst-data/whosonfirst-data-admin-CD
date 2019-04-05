@@ -1,0 +1,67 @@
+{
+  "id": 1260038145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.92845,-7.41459,21.92845,-7.41459",
+    "geom:latitude":-7.41459,
+    "geom:longitude":21.92845,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kalombo",
+    "gn:country_code":"CD",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440437,
+    "gn:latitude":-7.41459,
+    "gn:longitude":21.92845,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440437
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ba5e23af28b8c14c764b4e0364553cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1260038145,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1260038145,
+    "wof:lastmodified":1537051316,
+    "wof:name":"Kalombo",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.92845,
+    -7.41459,
+    21.92845,
+    -7.41459
+],
+  "geometry": {"coordinates":[21.92845,-7.41459],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209591985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.07121,1.53709,29.07121,1.53709",
+    "geom:latitude":1.53709,
+    "geom:longitude":29.07121,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Efundu",
+    "gn:country_code":"CD",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504687,
+    "gn:latitude":1.53709,
+    "gn:longitude":29.07121,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Efundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Efundu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504687
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4b38e88abe0e955b8498b85d5ffb1f0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209591985
+        }
+    ],
+    "wof:id":1209591985,
+    "wof:lastmodified":1537590566,
+    "wof:name":"Efundu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.07121,
+    1.53709,
+    29.07121,
+    1.53709
+],
+  "geometry": {"coordinates":[29.07121,1.53709],"type":"Point"}
+}

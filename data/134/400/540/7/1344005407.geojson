@@ -1,0 +1,67 @@
+{
+  "id": 1344005407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96184,2.43918,18.96184,2.43918",
+    "geom:latitude":2.43918,
+    "geom:longitude":18.96184,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Madjata",
+    "gn:country_code":"CD",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8244518,
+    "gn:latitude":2.43918,
+    "gn:longitude":18.96184,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Madjata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8244518
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"73ca2b4bcf9a88acb8f8b0a846a96aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1344005407,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1344005407,
+    "wof:lastmodified":1536955191,
+    "wof:name":"Madjata",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96184,
+    2.43918,
+    18.96184,
+    2.43918
+],
+  "geometry": {"coordinates":[18.96184,2.43918],"type":"Point"}
+}

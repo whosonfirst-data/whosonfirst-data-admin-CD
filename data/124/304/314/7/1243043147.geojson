@@ -1,0 +1,67 @@
+{
+  "id": 1243043147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.03601,-4.71817,17.03601,-4.71817",
+    "geom:latitude":-4.71817,
+    "geom:longitude":17.03601,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kingoma",
+    "gn:country_code":"CD",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314411,
+    "gn:latitude":-4.71817,
+    "gn:longitude":17.03601,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kingoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314411
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9af21cee85b391d1e96f468b8118ef23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1243043147,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243043147,
+    "wof:lastmodified":1536889578,
+    "wof:name":"Kingoma",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.03601,
+    -4.71817,
+    17.03601,
+    -4.71817
+],
+  "geometry": {"coordinates":[17.03601,-4.71817],"type":"Point"}
+}

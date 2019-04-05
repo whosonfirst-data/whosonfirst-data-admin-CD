@@ -1,0 +1,61 @@
+{
+  "id": 1209689931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83923,-5.10975,24.83923,-5.10975",
+    "geom:latitude":-5.10975,
+    "geom:longitude":24.83923,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kitende",
+    "gn:country_code":"CD",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212617,
+    "gn:latitude":-5.10975,
+    "gn:longitude":24.83923,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kitende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212617
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bbb85304f23e77eff470661473945cb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209689931
+        }
+    ],
+    "wof:id":1209689931,
+    "wof:lastmodified":1536279279,
+    "wof:name":"Kitende",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83923,
+    -5.10975,
+    24.83923,
+    -5.10975
+],
+  "geometry": {"coordinates":[24.83923,-5.10975],"type":"Point"}
+}

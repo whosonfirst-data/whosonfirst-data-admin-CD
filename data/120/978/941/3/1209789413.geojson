@@ -1,0 +1,67 @@
+{
+  "id": 1209789413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.53283,-11.35173,27.53283,-11.35173",
+    "geom:latitude":-11.35173,
+    "geom:longitude":27.53283,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kinke",
+    "gn:country_code":"CD",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922819,
+    "gn:latitude":-11.35173,
+    "gn:longitude":27.53283,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kinke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922819
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ac8f8bdce13654d757c39172fee63354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1209789413,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1209789413,
+    "wof:lastmodified":1536395692,
+    "wof:name":"Kinke",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.53283,
+    -11.35173,
+    27.53283,
+    -11.35173
+],
+  "geometry": {"coordinates":[27.53283,-11.35173],"type":"Point"}
+}

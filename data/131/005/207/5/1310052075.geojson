@@ -1,0 +1,67 @@
+{
+  "id": 1310052075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.25854,1.15596,25.25854,1.15596",
+    "geom:latitude":1.15596,
+    "geom:longitude":25.25854,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bambwe",
+    "gn:country_code":"CD",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219678,
+    "gn:latitude":1.15596,
+    "gn:longitude":25.25854,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bambwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219678
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"75c4ee688f7c408d07089dc47871a73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1310052075,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1310052075,
+    "wof:lastmodified":1537070544,
+    "wof:name":"Bambwe",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.25854,
+    1.15596,
+    25.25854,
+    1.15596
+],
+  "geometry": {"coordinates":[25.25854,1.15596],"type":"Point"}
+}

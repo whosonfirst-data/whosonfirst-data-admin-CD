@@ -1,0 +1,73 @@
+{
+  "id": 1209766519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00193,2.41948,19.00193,2.41948",
+    "geom:latitude":2.41948,
+    "geom:longitude":19.00193,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Busu-Gwandi Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504903,
+    "gn:latitude":2.41948,
+    "gn:longitude":19.00193,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Busu-Gwandi Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Busu-Gwandi I"
+    ],
+    "name:und_x_variant":[
+        "Busu-Gwandi Premi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504903
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d5475db4b652d208a6bf27e6d6da9786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1209766519,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1209766519,
+    "wof:lastmodified":1537590570,
+    "wof:name":"Busu-Gwandi Premiere",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00193,
+    2.41948,
+    19.00193,
+    2.41948
+],
+  "geometry": {"coordinates":[19.00193,2.41948],"type":"Point"}
+}

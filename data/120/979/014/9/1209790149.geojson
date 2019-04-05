@@ -1,0 +1,67 @@
+{
+  "id": 1209790149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29543,-5.64023,18.29543,-5.64023",
+    "geom:latitude":-5.64023,
+    "geom:longitude":18.29543,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kikundu",
+    "gn:country_code":"CD",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314718,
+    "gn:latitude":-5.64023,
+    "gn:longitude":18.29543,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kikundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314718
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6eb0b6cf8252406e96d08dc8474de6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1209790149,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1209790149,
+    "wof:lastmodified":1536395380,
+    "wof:name":"Kikundu",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29543,
+    -5.64023,
+    18.29543,
+    -5.64023
+],
+  "geometry": {"coordinates":[18.29543,-5.64023],"type":"Point"}
+}

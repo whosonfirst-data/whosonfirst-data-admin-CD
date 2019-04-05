@@ -1,0 +1,67 @@
+{
+  "id": 1293166365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.71073,-7.0231,18.71073,-7.0231",
+    "geom:latitude":-7.0231,
+    "geom:longitude":18.71073,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shakadiata",
+    "gn:country_code":"CD",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447661,
+    "gn:latitude":-7.0231,
+    "gn:longitude":18.71073,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shakadiata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447661
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"eb039b9e6dbbd62074656c434da43fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1293166365,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293166365,
+    "wof:lastmodified":1536753145,
+    "wof:name":"Shakadiata",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.71073,
+    -7.0231,
+    18.71073,
+    -7.0231
+],
+  "geometry": {"coordinates":[18.71073,-7.0231],"type":"Point"}
+}

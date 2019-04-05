@@ -1,0 +1,61 @@
+{
+  "id": 1209691175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.28147,-5.28075,16.28147,-5.28075",
+    "geom:latitude":-5.28075,
+    "geom:longitude":16.28147,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mulopo-Mbondi",
+    "gn:country_code":"CD",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312306,
+    "gn:latitude":-5.28075,
+    "gn:longitude":16.28147,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mulopo-Mbondi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312306
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b610b90569a7c5594fdbc3f2a076d70c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209691175
+        }
+    ],
+    "wof:id":1209691175,
+    "wof:lastmodified":1536279235,
+    "wof:name":"Mulopo-Mbondi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.281470000000002,
+    -5.28075,
+    16.281470000000002,
+    -5.28075
+],
+  "geometry": {"coordinates":[16.28147,-5.28075],"type":"Point"}
+}

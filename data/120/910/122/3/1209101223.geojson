@@ -1,0 +1,61 @@
+{
+  "id": 1209101223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96667,-1.76667,25.96667,-1.76667",
+    "geom:latitude":-1.76667,
+    "geom:longitude":25.96667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kuvelie",
+    "gn:country_code":"CD",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212153,
+    "gn:latitude":-1.76667,
+    "gn:longitude":25.96667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kuvelie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212153
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"232e7bf8d243c406d867a2a62f3dc0fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209101223
+        }
+    ],
+    "wof:id":1209101223,
+    "wof:lastmodified":1536297726,
+    "wof:name":"Kuvelie",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96667,
+    -1.76667,
+    25.96667,
+    -1.76667
+],
+  "geometry": {"coordinates":[25.96667,-1.76667],"type":"Point"}
+}

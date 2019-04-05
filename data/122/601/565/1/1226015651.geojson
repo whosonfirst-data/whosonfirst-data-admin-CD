@@ -1,0 +1,67 @@
+{
+  "id": 1226015651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.63333,-11.78333,26.63333,-11.78333",
+    "geom:latitude":-11.78333,
+    "geom:longitude":26.63333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Muyo",
+    "gn:country_code":"CD",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922376,
+    "gn:latitude":-11.78333,
+    "gn:longitude":26.63333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Muyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922376
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"07b1c2e14f97793d9a4bec937a37a13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1226015651,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226015651,
+    "wof:lastmodified":1536769167,
+    "wof:name":"Muyo",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.63333,
+    -11.78333,
+    26.63333,
+    -11.78333
+],
+  "geometry": {"coordinates":[26.63333,-11.78333],"type":"Point"}
+}

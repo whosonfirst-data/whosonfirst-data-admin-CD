@@ -1,0 +1,71 @@
+{
+  "id": 1259644035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66289,1.90084,25.66289,1.90084",
+    "geom:latitude":1.90084,
+    "geom:longitude":25.66289,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bolulu Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218350,
+    "gn:latitude":1.90084,
+    "gn:longitude":25.66289,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bolulu Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bolulu Deuxi\u00e8me",
+        "Bolulu II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218350
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"31671df03fca7ffba8e07bc7e2092ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1259644035,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259644035,
+    "wof:lastmodified":1537590455,
+    "wof:name":"Bolulu Deuxieme",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66289,
+    1.90084,
+    25.66289,
+    1.90084
+],
+  "geometry": {"coordinates":[25.66289,1.90084],"type":"Point"}
+}

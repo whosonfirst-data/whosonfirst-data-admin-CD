@@ -1,0 +1,61 @@
+{
+  "id": 1209478153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.83346,-7.18492,20.83346,-7.18492",
+    "geom:latitude":-7.18492,
+    "geom:longitude":20.83346,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shakalunga",
+    "gn:country_code":"CD",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448357,
+    "gn:latitude":-7.18492,
+    "gn:longitude":20.83346,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shakalunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448357
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9517f655dd007987078f663627f146fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209478153
+        }
+    ],
+    "wof:id":1209478153,
+    "wof:lastmodified":1536285870,
+    "wof:name":"Shakalunga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.83346,
+    -7.18492,
+    20.83346,
+    -7.18492
+],
+  "geometry": {"coordinates":[20.83346,-7.18492],"type":"Point"}
+}

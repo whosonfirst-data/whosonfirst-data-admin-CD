@@ -1,0 +1,67 @@
+{
+  "id": 1259448535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57734,-5.72111,16.57734,-5.72111",
+    "geom:latitude":-5.72111,
+    "geom:longitude":16.57734,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kigudi",
+    "gn:country_code":"CD",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314792,
+    "gn:latitude":-5.72111,
+    "gn:longitude":16.57734,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kigudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314792
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"807a910149ff5de59162bf07c937c6a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1259448535,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259448535,
+    "wof:lastmodified":1536909435,
+    "wof:name":"Kigudi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57734,
+    -5.72111,
+    16.57734,
+    -5.72111
+],
+  "geometry": {"coordinates":[16.57734,-5.72111],"type":"Point"}
+}

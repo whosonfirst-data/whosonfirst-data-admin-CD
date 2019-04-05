@@ -1,0 +1,71 @@
+{
+  "id": 1259825999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58856,1.14452,23.58856,1.14452",
+    "geom:latitude":1.14452,
+    "geom:longitude":23.58856,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Elisabetha",
+    "gn:country_code":"CD",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216744,
+    "gn:latitude":1.14452,
+    "gn:longitude":23.58856,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"\u00c9lisabetha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elizabetha",
+        "\u00c9lisabetha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216744
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8052be9ae8e4c830be6ed385466e1037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1259825999,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259825999,
+    "wof:lastmodified":1537590439,
+    "wof:name":"Elisabetha",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58856,
+    1.14452,
+    23.58856,
+    1.14452
+],
+  "geometry": {"coordinates":[23.58856,1.14452],"type":"Point"}
+}

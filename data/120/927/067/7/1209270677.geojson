@@ -1,0 +1,61 @@
+{
+  "id": 1209270677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.93408,-5.67756,22.93408,-5.67756",
+    "geom:latitude":-5.67756,
+    "geom:longitude":22.93408,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mpole",
+    "gn:country_code":"CD",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328409,
+    "gn:latitude":-5.67756,
+    "gn:longitude":22.93408,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mpole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328409
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a125549d61ef1ff33b2eeec72fda5f93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209270677
+        }
+    ],
+    "wof:id":1209270677,
+    "wof:lastmodified":1536292369,
+    "wof:name":"Mpole",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.93408,
+    -5.67756,
+    22.93408,
+    -5.67756
+],
+  "geometry": {"coordinates":[22.93408,-5.67756],"type":"Point"}
+}

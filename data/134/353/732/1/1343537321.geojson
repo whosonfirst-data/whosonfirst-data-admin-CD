@@ -1,0 +1,67 @@
+{
+  "id": 1343537321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56614,-5.2351,20.56614,-5.2351",
+    "geom:latitude":-5.2351,
+    "geom:longitude":20.56614,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shawanga",
+    "gn:country_code":"CD",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277099,
+    "gn:latitude":-5.2351,
+    "gn:longitude":20.56614,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shawanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277099
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"79c34104a2fe0499fa5fbbb506c2733e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1343537321,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343537321,
+    "wof:lastmodified":1536634055,
+    "wof:name":"Shawanga",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56614,
+    -5.2351,
+    20.56614,
+    -5.2351
+],
+  "geometry": {"coordinates":[20.56614,-5.2351],"type":"Point"}
+}

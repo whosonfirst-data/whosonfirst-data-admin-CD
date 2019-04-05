@@ -1,0 +1,67 @@
+{
+  "id": 1327025537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.59061,-5.81744,12.59061,-5.81744",
+    "geom:latitude":-5.81744,
+    "geom:longitude":12.59061,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Malemba",
+    "gn:country_code":"CD",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313129,
+    "gn:latitude":-5.81744,
+    "gn:longitude":12.59061,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Malemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313129
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fa671831de2f89a4374d776bb305e896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1327025537,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1327025537,
+    "wof:lastmodified":1536770909,
+    "wof:name":"Malemba",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59061,
+    -5.81744,
+    12.59061,
+    -5.81744
+],
+  "geometry": {"coordinates":[12.59061,-5.81744],"type":"Point"}
+}

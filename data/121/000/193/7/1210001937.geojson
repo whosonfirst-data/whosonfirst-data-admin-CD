@@ -1,0 +1,72 @@
+{
+  "id": 1210001937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83717,-4.88895,14.83717,-4.88895",
+    "geom:latitude":-4.88895,
+    "geom:longitude":14.83717,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nienga-Mbota",
+    "gn:country_code":"CD",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311973,
+    "gn:latitude":-4.88895,
+    "gn:longitude":14.83717,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Nienga-Mbota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nienga Bota",
+        "Niengatota",
+        "Nienga-Mbota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311973
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9f18d6a0bff79235afae30323af0cd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1210001937,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1210001937,
+    "wof:lastmodified":1537590507,
+    "wof:name":"Nienga-Mbota",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83717,
+    -4.88895,
+    14.83717,
+    -4.88895
+],
+  "geometry": {"coordinates":[14.83717,-4.88895],"type":"Point"}
+}

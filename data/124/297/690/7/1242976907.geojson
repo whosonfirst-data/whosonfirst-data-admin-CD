@@ -1,0 +1,67 @@
+{
+  "id": 1242976907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41936,-6.06758,23.41936,-6.06758",
+    "geom:latitude":-6.06758,
+    "geom:longitude":23.41936,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tshimpange",
+    "gn:country_code":"CD",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946595,
+    "gn:latitude":-6.06758,
+    "gn:longitude":23.41936,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Tshimpange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946595
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1f4ec07c5b7decebd2d8198c9c9404bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1242976907,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1242976907,
+    "wof:lastmodified":1536984612,
+    "wof:name":"Tshimpange",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41936,
+    -6.06758,
+    23.41936,
+    -6.06758
+],
+  "geometry": {"coordinates":[23.41936,-6.06758],"type":"Point"}
+}

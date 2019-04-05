@@ -1,0 +1,61 @@
+{
+  "id": 1209684549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.31403,-10.31486,22.31403,-10.31486",
+    "geom:latitude":-10.31486,
+    "geom:longitude":22.31403,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kambaj Yav",
+    "gn:country_code":"CD",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463722,
+    "gn:latitude":-10.31486,
+    "gn:longitude":22.31403,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kambaj Yav",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463722
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4726fde468ea61f768d0c8aa7a38bbf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209684549
+        }
+    ],
+    "wof:id":1209684549,
+    "wof:lastmodified":1536279458,
+    "wof:name":"Kambaj Yav",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.31403,
+    -10.31486,
+    22.31403,
+    -10.31486
+],
+  "geometry": {"coordinates":[22.31403,-10.31486],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209478157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.20799,-7.063,21.20799,-7.063",
+    "geom:latitude":-7.063,
+    "geom:longitude":21.20799,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshikunji",
+    "gn:country_code":"CD",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204922,
+    "gn:latitude":-7.063,
+    "gn:longitude":21.20799,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshikunji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204922
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b29d6dccd2b636ce30f7b726ad065964",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209478157
+        }
+    ],
+    "wof:id":1209478157,
+    "wof:lastmodified":1536285870,
+    "wof:name":"Tshikunji",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.20799,
+    -7.063,
+    21.20799,
+    -7.063
+],
+  "geometry": {"coordinates":[21.20799,-7.063],"type":"Point"}
+}

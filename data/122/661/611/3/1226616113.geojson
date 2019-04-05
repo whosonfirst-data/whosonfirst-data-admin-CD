@@ -1,0 +1,67 @@
+{
+  "id": 1226616113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8097,-8.60368,25.8097,-8.60368",
+    "geom:latitude":-8.60368,
+    "geom:longitude":25.8097,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Dilomba-Sikala",
+    "gn:country_code":"CD",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217267,
+    "gn:latitude":-8.60368,
+    "gn:longitude":25.8097,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dilomba-Sikala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217267
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"93aaa5f5ec36ad7d62949a8d9bc37e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1226616113,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226616113,
+    "wof:lastmodified":1536901919,
+    "wof:name":"Dilomba-Sikala",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8097,
+    -8.60368,
+    25.8097,
+    -8.60368
+],
+  "geometry": {"coordinates":[25.8097,-8.60368],"type":"Point"}
+}

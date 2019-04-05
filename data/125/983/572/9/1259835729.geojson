@@ -1,0 +1,67 @@
+{
+  "id": 1259835729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.09001,-7.30532,22.09001,-7.30532",
+    "geom:latitude":-7.30532,
+    "geom:longitude":22.09001,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Munia",
+    "gn:country_code":"CD",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438932,
+    "gn:latitude":-7.30532,
+    "gn:longitude":22.09001,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Munia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438932
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f4e3604ccd20f0a70bc877794f8d74a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1259835729,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1259835729,
+    "wof:lastmodified":1536847014,
+    "wof:name":"Munia",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09001,
+    -7.30532,
+    22.09001,
+    -7.30532
+],
+  "geometry": {"coordinates":[22.09001,-7.30532],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 85771835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":29489062.394709,
+    "geom:bbox":"15.317532,-4.321708,15.317532,-4.321708",
+    "geom:latitude":-4.321708,
+    "geom:longitude":15.317532,
+    "gn:latitude":-4.31099,
+    "gn:longitude":15.32735,
+    "iso:country":"CD",
+    "lbl:latitude":-4.321708,
+    "lbl:longitude":15.317532,
+    "mps:latitude":-4.330473,
+    "mps:longitude":15.31203,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:fra_x_preferred":[
+        "Ndolo"
+    ],
+    "name:fra_x_variant":[
+        "Dolo"
+    ],
+    "name:unk_x_variant":[
+        "Dolo",
+        "Ndolo"
+    ],
+    "qs:gn_adm0_cc":"CD",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":2314302,
+    "qs:gn_nam_loc":"Kinshasa, Kinshasa, CD",
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"Ndolo",
+    "qs:local_max":1134,
+    "qs:local_sum":1607,
+    "qs:localhoods":3,
+    "qs:name":"Ndolo",
+    "qs:name_adm0":"R\u00e9publique D\u00e9mocratique du Congo",
+    "qs:name_adm1":"Kinshasa",
+    "qs:name_local":"Kinshasa",
+    "qs:photo_max":214,
+    "qs:photo_sum":1134,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":30,
+    "qs:woe_adm0":23424780,
+    "qs:woe_adm1":2344982,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":1290062,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85669997,
+        102191573,
+        85632643,
+        1091679225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312096,
+        "gp:id":1295047,
+        "qs:id":1167983
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3e9eb2529f40dfe516b7f06987101282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679225,
+            "locality_id":-1,
+            "neighbourhood_id":85771835,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":85771835,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lastmodified":1534379250,
+    "wof:name":"Ndolo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[
+        1126064969
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.317532,
+    -4.321708,
+    15.317532,
+    -4.321708
+],
+  "geometry": {"coordinates":[15.317532,-4.321708],"type":"Point"}
+}

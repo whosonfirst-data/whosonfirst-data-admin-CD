@@ -1,0 +1,67 @@
+{
+  "id": 1226200831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.62159,-9.17101,22.62159,-9.17101",
+    "geom:latitude":-9.17101,
+    "geom:longitude":22.62159,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwene Ikuma",
+    "gn:country_code":"CD",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461405,
+    "gn:latitude":-9.17101,
+    "gn:longitude":22.62159,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwene Ikuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461405
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6d8d7b2e5db3b4bf92a87c24149d1a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226200831,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226200831,
+    "wof:lastmodified":1536997746,
+    "wof:name":"Mwene Ikuma",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.62159,
+    -9.17101,
+    22.62159,
+    -9.17101
+],
+  "geometry": {"coordinates":[22.62159,-9.17101],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226010871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22223,-5.00378,20.22223,-5.00378",
+    "geom:latitude":-5.00378,
+    "geom:longitude":20.22223,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bumbi-Kumakete",
+    "gn:country_code":"CD",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218308,
+    "gn:latitude":-5.00378,
+    "gn:longitude":20.22223,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bumbi-Kumakete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bombi Komaketi",
+        "Bombi",
+        "Bombi Kumaketi",
+        "Bumbi-Kumakete",
+        "Bombi-Kumakete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218308
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"108c13f3fd27ae85634c4b01c70a0ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1226010871,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226010871,
+    "wof:lastmodified":1537590455,
+    "wof:name":"Bumbi-Kumakete",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22223,
+    -5.00378,
+    20.22223,
+    -5.00378
+],
+  "geometry": {"coordinates":[20.22223,-5.00378],"type":"Point"}
+}

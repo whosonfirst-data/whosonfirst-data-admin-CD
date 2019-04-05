@@ -1,0 +1,67 @@
+{
+  "id": 1344115047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88722,-6.93434,21.88722,-6.93434",
+    "geom:latitude":-6.93434,
+    "geom:longitude":21.88722,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshibaia",
+    "gn:country_code":"CD",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327883,
+    "gn:latitude":-6.93434,
+    "gn:longitude":21.88722,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshibaia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327883
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"902b67af62c90078dd5e9fd2378d8fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1344115047,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1344115047,
+    "wof:lastmodified":1536797166,
+    "wof:name":"Tshibaia",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88722000000001,
+    -6.93434,
+    21.88722000000001,
+    -6.93434
+],
+  "geometry": {"coordinates":[21.88722000000001,-6.93434],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243226083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.63333,-5.65,16.63333,-5.65",
+    "geom:latitude":-5.65,
+    "geom:longitude":16.63333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ikwati I",
+    "gn:country_code":"CD",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315502,
+    "gn:latitude":-5.65,
+    "gn:longitude":16.63333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ikwati I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikwati",
+        "Ikwati I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315502
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"709f4827a6a55fee8b4514a41ff9f4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1243226083,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243226083,
+    "wof:lastmodified":1537590541,
+    "wof:name":"Ikwati I",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.63332999999999,
+    -5.65,
+    16.63332999999999,
+    -5.65
+],
+  "geometry": {"coordinates":[16.63332999999999,-5.65],"type":"Point"}
+}

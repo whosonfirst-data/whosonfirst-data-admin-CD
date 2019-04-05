@@ -1,0 +1,67 @@
+{
+  "id": 1293942363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.13226,-5.99162,24.13226,-5.99162",
+    "geom:latitude":-5.99162,
+    "geom:longitude":24.13226,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bakwa-Sumpi",
+    "gn:country_code":"CD",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219770,
+    "gn:latitude":-5.99162,
+    "gn:longitude":24.13226,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bakwa-Sumpi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219770
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8d32da42434cb2052d3fb9f584059dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1293942363,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1293942363,
+    "wof:lastmodified":1536626828,
+    "wof:name":"Bakwa-Sumpi",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.13226,
+    -5.99162,
+    24.13226,
+    -5.99162
+],
+  "geometry": {"coordinates":[24.13226,-5.99162],"type":"Point"}
+}

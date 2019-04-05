@@ -1,0 +1,61 @@
+{
+  "id": 1209252003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01667,-0.81667,23.01667,-0.81667",
+    "geom:latitude":-0.81667,
+    "geom:longitude":23.01667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Yolokonge",
+    "gn:country_code":"CD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203390,
+    "gn:latitude":-0.81667,
+    "gn:longitude":23.01667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yolokonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203390
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4fc0f43c10544abc85c051c3ae4827d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209252003
+        }
+    ],
+    "wof:id":1209252003,
+    "wof:lastmodified":1536292974,
+    "wof:name":"Yolokonge",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01667,
+    -0.81667,
+    23.01667,
+    -0.81667
+],
+  "geometry": {"coordinates":[23.01667,-0.81667],"type":"Point"}
+}

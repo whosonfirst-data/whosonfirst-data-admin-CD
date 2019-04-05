@@ -1,0 +1,67 @@
+{
+  "id": 1343617773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35167,-5.87778,22.35167,-5.87778",
+    "geom:latitude":-5.87778,
+    "geom:longitude":22.35167,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mufombo",
+    "gn:country_code":"CD",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413116,
+    "gn:latitude":-5.87778,
+    "gn:longitude":22.35167,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mufombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413116
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"38c740f79acd421f0adc6933b3d053a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680487,
+            "locality_id":1343617773,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343617773,
+    "wof:lastmodified":1537016001,
+    "wof:name":"Mufombo",
+    "wof:parent_id":1091680487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35167,
+    -5.87778,
+    22.35167,
+    -5.87778
+],
+  "geometry": {"coordinates":[22.35167,-5.87778],"type":"Point"}
+}

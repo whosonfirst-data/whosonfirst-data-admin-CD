@@ -1,0 +1,72 @@
+{
+  "id": 1344221765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48348,-5.48789,18.48348,-5.48789",
+    "geom:latitude":-5.48789,
+    "geom:longitude":18.48348,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kilundu Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314664,
+    "gn:latitude":-5.48789,
+    "gn:longitude":18.48348,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kilundu Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilundu",
+        "Kilundu II",
+        "Kilundu Deuxi\u00e8me"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314664
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ceb0b1f8d19deb18ac0aff53eab3569b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1344221765,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1344221765,
+    "wof:lastmodified":1537590533,
+    "wof:name":"Kilundu Deuxieme",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48348,
+    -5.48789,
+    18.48348,
+    -5.48789
+],
+  "geometry": {"coordinates":[18.48348,-5.48789],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209701095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50572,-5.39235,13.50572,-5.39235",
+    "geom:latitude":-5.39235,
+    "geom:longitude":13.50572,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kulu-Kipandula Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313923,
+    "gn:latitude":-5.39235,
+    "gn:longitude":13.50572,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kulu-Kipandula Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kulu-Kipandula Deuxi\u00e8me",
+        "Kulu-Kipandula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313923
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"907812d766e9c1e16898507c6bd536a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1209701095,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1209701095,
+    "wof:lastmodified":1537590526,
+    "wof:name":"Kulu-Kipandula Deuxieme",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50572,
+    -5.39235,
+    13.50572,
+    -5.39235
+],
+  "geometry": {"coordinates":[13.50572,-5.39235],"type":"Point"}
+}

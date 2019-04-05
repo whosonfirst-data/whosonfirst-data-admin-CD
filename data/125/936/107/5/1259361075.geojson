@@ -1,0 +1,67 @@
+{
+  "id": 1259361075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.55481,-1.34122,28.55481,-1.34122",
+    "geom:latitude":-1.34122,
+    "geom:longitude":28.55481,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mutere",
+    "gn:country_code":"CD",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435559,
+    "gn:latitude":-1.34122,
+    "gn:longitude":28.55481,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Mutere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435559
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4fa4a7bb81dd12e8a9d50c3b968a216e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1259361075,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1259361075,
+    "wof:lastmodified":1537033133,
+    "wof:name":"Mutere",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.55481,
+    -1.34122,
+    28.55481,
+    -1.34122
+],
+  "geometry": {"coordinates":[28.55481,-1.34122],"type":"Point"}
+}

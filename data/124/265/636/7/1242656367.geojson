@@ -1,0 +1,67 @@
+{
+  "id": 1242656367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.17185,-4.25496,28.17185,-4.25496",
+    "geom:latitude":-4.25496,
+    "geom:longitude":28.17185,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pene-Mende",
+    "gn:country_code":"CD",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206318,
+    "gn:latitude":-4.25496,
+    "gn:longitude":28.17185,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Pene-Mende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206318
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4cce312cb5db6963b7f492a435bbb183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1242656367,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1242656367,
+    "wof:lastmodified":1536950647,
+    "wof:name":"Pene-Mende",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.17185,
+    -4.25496,
+    28.17185,
+    -4.25496
+],
+  "geometry": {"coordinates":[28.17185,-4.25496],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276819183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4164,-6.21058,27.4164,-6.21058",
+    "geom:latitude":-6.21058,
+    "geom:longitude":27.4164,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kabemba",
+    "gn:country_code":"CD",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213142,
+    "gn:latitude":-6.21058,
+    "gn:longitude":27.4164,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikomba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213142
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"81dc7792f2460acbd1a762383f9163a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1276819183,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276819183,
+    "wof:lastmodified":1537590402,
+    "wof:name":"Kabemba",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4164,
+    -6.21058,
+    27.4164,
+    -6.21058
+],
+  "geometry": {"coordinates":[27.4164,-6.21058],"type":"Point"}
+}

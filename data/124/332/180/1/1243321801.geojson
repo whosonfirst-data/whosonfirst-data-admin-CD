@@ -1,0 +1,67 @@
+{
+  "id": 1243321801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.32757,-6.62228,22.32757,-6.62228",
+    "geom:latitude":-6.62228,
+    "geom:longitude":22.32757,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mulolo",
+    "gn:country_code":"CD",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208203,
+    "gn:latitude":-6.62228,
+    "gn:longitude":22.32757,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mulolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208203
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8e1c6cedd4bfec635650a74cb3a57763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1243321801,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243321801,
+    "wof:lastmodified":1536984609,
+    "wof:name":"Mulolo",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.32757,
+    -6.62228,
+    22.32757,
+    -6.62228
+],
+  "geometry": {"coordinates":[22.32757,-6.62228],"type":"Point"}
+}

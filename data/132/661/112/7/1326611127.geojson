@@ -1,0 +1,71 @@
+{
+  "id": 1326611127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.59815,-1.39733,28.59815,-1.39733",
+    "geom:latitude":-1.39733,
+    "geom:longitude":28.59815,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bibatama Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218966,
+    "gn:latitude":-1.39733,
+    "gn:longitude":28.59815,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Bibatama Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bibatama Premi\u00e8re",
+        "Bibatama I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218966
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b995e58de85adaa1ddbce525ed07fd28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1326611127,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1326611127,
+    "wof:lastmodified":1537590460,
+    "wof:name":"Bibatama Premiere",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.59815,
+    -1.39733,
+    28.59815,
+    -1.39733
+],
+  "geometry": {"coordinates":[28.59815,-1.39733],"type":"Point"}
+}

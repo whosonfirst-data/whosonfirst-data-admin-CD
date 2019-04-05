@@ -1,0 +1,71 @@
+{
+  "id": 1310363679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.33096,-5.41007,22.33096,-5.41007",
+    "geom:latitude":-5.41007,
+    "geom:longitude":22.33096,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kayembe-Bumba",
+    "gn:country_code":"CD",
+    "gn:dem":531,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213591,
+    "gn:latitude":-5.41007,
+    "gn:longitude":22.33096,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kayembe-Bumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bumba",
+        "Kayembe-Bumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213591
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5dfbeb78f23f3479de75abfc9597282c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1310363679,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310363679,
+    "wof:lastmodified":1537590407,
+    "wof:name":"Kayembe-Bumba",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.33096,
+    -5.41007,
+    22.33096,
+    -5.41007
+],
+  "geometry": {"coordinates":[22.33096,-5.41007],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243334891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3047,2.49771,26.3047,2.49771",
+    "geom:latitude":2.49771,
+    "geom:longitude":26.3047,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Abogwomadu",
+    "gn:country_code":"CD",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220517,
+    "gn:latitude":2.49771,
+    "gn:longitude":26.3047,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Abogwomadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abogwomado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220517
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bfe762655b50ddf90648c21ba513d29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1243334891,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243334891,
+    "wof:lastmodified":1537590478,
+    "wof:name":"Abogwomadu",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3047,
+    2.49771,
+    26.3047,
+    2.49771
+],
+  "geometry": {"coordinates":[26.3047,2.49771],"type":"Point"}
+}

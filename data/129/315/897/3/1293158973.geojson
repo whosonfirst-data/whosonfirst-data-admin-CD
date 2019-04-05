@@ -1,0 +1,67 @@
+{
+  "id": 1293158973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.87672,-5.22065,21.87672,-5.22065",
+    "geom:latitude":-5.22065,
+    "geom:longitude":21.87672,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kayembe-Nzembele",
+    "gn:country_code":"CD",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277563,
+    "gn:latitude":-5.22065,
+    "gn:longitude":21.87672,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kayembe-Nzembele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277563
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ba2f29b870a4c03d25571da61f4b2071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1293158973,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293158973,
+    "wof:lastmodified":1536764187,
+    "wof:name":"Kayembe-Nzembele",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.87672,
+    -5.22065,
+    21.87672,
+    -5.22065
+],
+  "geometry": {"coordinates":[21.87672,-5.22065],"type":"Point"}
+}

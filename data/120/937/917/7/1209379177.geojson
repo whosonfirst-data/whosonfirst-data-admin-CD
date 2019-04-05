@@ -1,0 +1,61 @@
+{
+  "id": 1209379177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.82424,-5.7333,24.82424,-5.7333",
+    "geom:latitude":-5.7333,
+    "geom:longitude":24.82424,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Melembwe",
+    "gn:country_code":"CD",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329519,
+    "gn:latitude":-5.7333,
+    "gn:longitude":24.82424,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Melembwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329519
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"284b85bcfb73f5fe557d83bb546d2e65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209379177
+        }
+    ],
+    "wof:id":1209379177,
+    "wof:lastmodified":1536288843,
+    "wof:name":"Melembwe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.82424,
+    -5.7333,
+    24.82424,
+    -5.7333
+],
+  "geometry": {"coordinates":[24.82424,-5.7333],"type":"Point"}
+}

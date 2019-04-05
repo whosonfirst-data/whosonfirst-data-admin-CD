@@ -1,0 +1,65 @@
+{
+  "id": 1209685337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.47739,4.22663,28.47739,4.22663",
+    "geom:latitude":4.22663,
+    "geom:longitude":28.47739,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kumbaniduwai",
+    "gn:country_code":"CD",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212215,
+    "gn:latitude":4.22663,
+    "gn:longitude":28.47739,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kumbaniduwai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kumbaniduwa",
+        "Kumbaniduwai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212215
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e4efe7bd39f0a3b8c38a3efba1770a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209685337
+        }
+    ],
+    "wof:id":1209685337,
+    "wof:lastmodified":1537590392,
+    "wof:name":"Kumbaniduwai",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.47739,
+    4.22663,
+    28.47739,
+    4.22663
+],
+  "geometry": {"coordinates":[28.47739,4.22663],"type":"Point"}
+}

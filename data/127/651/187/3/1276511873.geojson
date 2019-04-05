@@ -1,0 +1,67 @@
+{
+  "id": 1276511873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48097,-3.86914,18.48097,-3.86914",
+    "geom:latitude":-3.86914,
+    "geom:longitude":18.48097,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Balibi",
+    "gn:country_code":"CD",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317461,
+    "gn:latitude":-3.86914,
+    "gn:longitude":18.48097,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Balibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317461
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9c69145a398986bc5630dd69133bb21b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1276511873,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276511873,
+    "wof:lastmodified":1537035433,
+    "wof:name":"Balibi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48097000000001,
+    -3.86914,
+    18.48097000000001,
+    -3.86914
+],
+  "geometry": {"coordinates":[18.48097000000001,-3.86914],"type":"Point"}
+}

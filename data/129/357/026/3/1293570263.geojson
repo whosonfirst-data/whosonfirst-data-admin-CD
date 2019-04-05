@@ -1,0 +1,71 @@
+{
+  "id": 1293570263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.83333,-0.51667,28.83333,-0.51667",
+    "geom:latitude":-0.51667,
+    "geom:longitude":28.83333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Buniakahemba",
+    "gn:country_code":"CD",
+    "gn:dem":1597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217694,
+    "gn:latitude":-0.51667,
+    "gn:longitude":28.83333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Buniakahemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buniahemba",
+        "Buniakahemba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217694
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6a73cb4717dae26207a24614757922b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1293570263,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1293570263,
+    "wof:lastmodified":1537590449,
+    "wof:name":"Buniakahemba",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.83333,
+    -0.51667,
+    28.83333,
+    -0.51667
+],
+  "geometry": {"coordinates":[28.83333,-0.51667],"type":"Point"}
+}

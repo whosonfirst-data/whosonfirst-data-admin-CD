@@ -1,0 +1,61 @@
+{
+  "id": 1209385169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.75087,-7.06053,24.75087,-7.06053",
+    "geom:latitude":-7.06053,
+    "geom:longitude":24.75087,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kabwe-Katanda",
+    "gn:country_code":"CD",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9009822,
+    "gn:latitude":-7.06053,
+    "gn:longitude":24.75087,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabwe-Katanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9009822
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6b5b40d7cf56c0c7194f6f797a4bc81b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209385169
+        }
+    ],
+    "wof:id":1209385169,
+    "wof:lastmodified":1536288650,
+    "wof:name":"Kabwe-Katanda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.750870000000006,
+    -7.06053,
+    24.750870000000006,
+    -7.06053
+],
+  "geometry": {"coordinates":[24.75087000000001,-7.06053],"type":"Point"}
+}

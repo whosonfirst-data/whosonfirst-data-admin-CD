@@ -1,0 +1,67 @@
+{
+  "id": 1209888557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.40744,2.66251,29.40744,2.66251",
+    "geom:latitude":2.66251,
+    "geom:longitude":29.40744,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kerekongbo",
+    "gn:country_code":"CD",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143127,
+    "gn:latitude":2.66251,
+    "gn:longitude":29.40744,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kerekongbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143127
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d5af93a9dbec7aa8a6cf83cf3ddc97bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1209888557,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1209888557,
+    "wof:lastmodified":1536391806,
+    "wof:name":"Kerekongbo",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.40744,
+    2.66251,
+    29.40744,
+    2.66251
+],
+  "geometry": {"coordinates":[29.40744,2.66251],"type":"Point"}
+}

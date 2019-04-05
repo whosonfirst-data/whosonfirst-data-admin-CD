@@ -1,0 +1,67 @@
+{
+  "id": 1327392143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25543,-5.57421,22.25543,-5.57421",
+    "geom:latitude":-5.57421,
+    "geom:longitude":22.25543,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshinyama",
+    "gn:country_code":"CD",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328520,
+    "gn:latitude":-5.57421,
+    "gn:longitude":22.25543,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshinyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328520
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b464d3b11c91b6e1da2672699e463dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1327392143,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327392143,
+    "wof:lastmodified":1536738908,
+    "wof:name":"Tshinyama",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25543,
+    -5.57421,
+    22.25543,
+    -5.57421
+],
+  "geometry": {"coordinates":[22.25543,-5.57421],"type":"Point"}
+}

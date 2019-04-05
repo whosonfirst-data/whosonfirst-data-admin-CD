@@ -1,0 +1,67 @@
+{
+  "id": 1327195725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83992,-4.22733,17.83992,-4.22733",
+    "geom:latitude":-4.22733,
+    "geom:longitude":17.83992,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bende",
+    "gn:country_code":"CD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445744,
+    "gn:latitude":-4.22733,
+    "gn:longitude":17.83992,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445744
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"77c096aac00eb1de05cca67a7ca59f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1327195725,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327195725,
+    "wof:lastmodified":1537021723,
+    "wof:name":"Bende",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83992000000001,
+    -4.22733,
+    17.83992000000001,
+    -4.22733
+],
+  "geometry": {"coordinates":[17.83992000000001,-4.22733],"type":"Point"}
+}

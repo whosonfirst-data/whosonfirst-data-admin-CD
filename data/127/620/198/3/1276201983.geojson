@@ -1,0 +1,67 @@
+{
+  "id": 1276201983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93699,-6.44869,19.93699,-6.44869",
+    "geom:latitude":-6.44869,
+    "geom:longitude":19.93699,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muavitombo",
+    "gn:country_code":"CD",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9528730,
+    "gn:latitude":-6.44869,
+    "gn:longitude":19.93699,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Muavitombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9528730
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"887ace2ebd7bc0b97b169186a8e94d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276201983,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276201983,
+    "wof:lastmodified":1536955125,
+    "wof:name":"Muavitombo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93699,
+    -6.44869,
+    19.93699,
+    -6.44869
+],
+  "geometry": {"coordinates":[19.93699,-6.44869],"type":"Point"}
+}

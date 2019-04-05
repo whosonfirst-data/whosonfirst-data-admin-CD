@@ -1,0 +1,67 @@
+{
+  "id": 1193008883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16404,-4.69878,15.16404,-4.69878",
+    "geom:latitude":-4.69878,
+    "geom:longitude":15.16404,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kilempo",
+    "gn:country_code":"CD",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593337,
+    "gn:latitude":-4.69878,
+    "gn:longitude":15.16404,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kilempo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593337
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"de6cc02e0b981547fa5e8b597fa02130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1193008883,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1193008883,
+    "wof:lastmodified":1536364011,
+    "wof:name":"Kilempo",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16404,
+    -4.69878,
+    15.16404,
+    -4.69878
+],
+  "geometry": {"coordinates":[15.16404,-4.69878],"type":"Point"}
+}

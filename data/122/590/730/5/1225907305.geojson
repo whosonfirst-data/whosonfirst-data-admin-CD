@@ -1,0 +1,67 @@
+{
+  "id": 1225907305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80096,-6.46741,20.80096,-6.46741",
+    "geom:latitude":-6.46741,
+    "geom:longitude":20.80096,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Sokombi",
+    "gn:country_code":"CD",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283199,
+    "gn:latitude":-6.46741,
+    "gn:longitude":20.80096,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sokombi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283199
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8aae72055038dacfd7533917c89ceb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1225907305,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1225907305,
+    "wof:lastmodified":1536925826,
+    "wof:name":"Sokombi",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80096,
+    -6.46741,
+    20.80096,
+    -6.46741
+],
+  "geometry": {"coordinates":[20.80096,-6.46741],"type":"Point"}
+}

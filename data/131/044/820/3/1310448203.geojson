@@ -1,0 +1,70 @@
+{
+  "id": 1310448203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.61839,1.91036,26.61839,1.91036",
+    "geom:latitude":1.91036,
+    "geom:longitude":26.61839,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Mandjele",
+    "gn:country_code":"CD",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8049214,
+    "gn:latitude":1.91036,
+    "gn:longitude":26.61839,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mandjele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandjale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8049214
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"945945a3c37267978e6c01964db15e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1310448203,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1310448203,
+    "wof:lastmodified":1537590570,
+    "wof:name":"Mandjele",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.61839,
+    1.91036,
+    26.61839,
+    1.91036
+],
+  "geometry": {"coordinates":[26.61839,1.91036],"type":"Point"}
+}

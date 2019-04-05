@@ -1,0 +1,67 @@
+{
+  "id": 1343816463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.44076,-10.76874,22.44076,-10.76874",
+    "geom:latitude":-10.76874,
+    "geom:longitude":22.44076,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshipinda",
+    "gn:country_code":"CD",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463599,
+    "gn:latitude":-10.76874,
+    "gn:longitude":22.44076,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshipinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463599
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e1ba088fd09ec7e81cc5ec60b1bb0ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1343816463,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343816463,
+    "wof:lastmodified":1536730602,
+    "wof:name":"Tshipinda",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.44076,
+    -10.76874,
+    22.44076,
+    -10.76874
+],
+  "geometry": {"coordinates":[22.44076,-10.76874],"type":"Point"}
+}

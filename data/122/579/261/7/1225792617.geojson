@@ -1,0 +1,67 @@
+{
+  "id": 1225792617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.20782,-2.05487,24.20782,-2.05487",
+    "geom:latitude":-2.05487,
+    "geom:longitude":24.20782,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Intana",
+    "gn:country_code":"CD",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215849,
+    "gn:latitude":-2.05487,
+    "gn:longitude":24.20782,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Intana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215849
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6fedda222d33a3e9b36a76fe1afe17a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1225792617,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1225792617,
+    "wof:lastmodified":1537087172,
+    "wof:name":"Intana",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.20782,
+    -2.05487,
+    24.20782,
+    -2.05487
+],
+  "geometry": {"coordinates":[24.20782,-2.05487],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343317877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.44847,-3.96917,16.44847,-3.96917",
+    "geom:latitude":-3.96917,
+    "geom:longitude":16.44847,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Botulu",
+    "gn:country_code":"CD",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316377,
+    "gn:latitude":-3.96917,
+    "gn:longitude":16.44847,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Botulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butulu",
+        "Botulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316377
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"969551d9a88e046c9f72c2aabfa8e955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1343317877,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343317877,
+    "wof:lastmodified":1537590552,
+    "wof:name":"Botulu",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.44847,
+    -3.96917,
+    16.44847,
+    -3.96917
+],
+  "geometry": {"coordinates":[16.44847,-3.96917],"type":"Point"}
+}

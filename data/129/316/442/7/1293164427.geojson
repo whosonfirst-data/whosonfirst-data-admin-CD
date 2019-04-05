@@ -1,0 +1,67 @@
+{
+  "id": 1293164427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.36461,2.87981,30.36461,2.87981",
+    "geom:latitude":2.87981,
+    "geom:longitude":30.36461,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Diri",
+    "gn:country_code":"CD",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143141,
+    "gn:latitude":2.87981,
+    "gn:longitude":30.36461,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Diri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143141
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d23d18f1c28ab0cf92f933c9e3e43e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1293164427,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293164427,
+    "wof:lastmodified":1536756036,
+    "wof:name":"Diri",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.36461,
+    2.87981,
+    30.36461,
+    2.87981
+],
+  "geometry": {"coordinates":[30.36461,2.87981],"type":"Point"}
+}

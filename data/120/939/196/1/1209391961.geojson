@@ -1,0 +1,61 @@
+{
+  "id": 1209391961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.09389,-3.87056,29.09389,-3.87056",
+    "geom:latitude":-3.87056,
+    "geom:longitude":29.09389,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Katungula",
+    "gn:country_code":"CD",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387587,
+    "gn:latitude":-3.87056,
+    "gn:longitude":29.09389,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Katungula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387587
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cef56115dca2467faa67ec84d9f2f8aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209391961
+        }
+    ],
+    "wof:id":1209391961,
+    "wof:lastmodified":1536288430,
+    "wof:name":"Katungula",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.09389,
+    -3.87056,
+    29.09389,
+    -3.87056
+],
+  "geometry": {"coordinates":[29.09389,-3.87056],"type":"Point"}
+}

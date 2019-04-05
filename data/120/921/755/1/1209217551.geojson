@@ -1,0 +1,61 @@
+{
+  "id": 1209217551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.31325,0.03117,18.31325,0.03117",
+    "geom:latitude":0.03117,
+    "geom:longitude":18.31325,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bokala",
+    "gn:country_code":"CD",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8070736,
+    "gn:latitude":0.03117,
+    "gn:longitude":18.31325,
+    "gn:modification_date":"2011-12-09",
+    "gn:name":"Bokala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8070736
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8c566e6c7b4251e33d078725c0ede926",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209217551
+        }
+    ],
+    "wof:id":1209217551,
+    "wof:lastmodified":1536294078,
+    "wof:name":"Bokala",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.31325,
+    0.03117,
+    18.31325,
+    0.03117
+],
+  "geometry": {"coordinates":[18.31325,0.03117],"type":"Point"}
+}

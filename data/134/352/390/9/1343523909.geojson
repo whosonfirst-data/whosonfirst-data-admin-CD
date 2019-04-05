@@ -1,0 +1,67 @@
+{
+  "id": 1343523909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21719,-7.92264,19.21719,-7.92264",
+    "geom:latitude":-7.92264,
+    "geom:longitude":19.21719,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tshilambo",
+    "gn:country_code":"CD",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448184,
+    "gn:latitude":-7.92264,
+    "gn:longitude":19.21719,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshilambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448184
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a004266f9a7dade05d2c3b5ed371cb01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343523909,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343523909,
+    "wof:lastmodified":1536654811,
+    "wof:name":"Tshilambo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21719,
+    -7.92264,
+    19.21719,
+    -7.92264
+],
+  "geometry": {"coordinates":[19.21719,-7.92264],"type":"Point"}
+}

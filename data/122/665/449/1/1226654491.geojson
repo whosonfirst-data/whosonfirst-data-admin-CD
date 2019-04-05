@@ -1,0 +1,67 @@
+{
+  "id": 1226654491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.16019,-0.07866,18.16019,-0.07866",
+    "geom:latitude":-0.07866,
+    "geom:longitude":18.16019,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Latakemela",
+    "gn:country_code":"CD",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281645,
+    "gn:latitude":-0.07866,
+    "gn:longitude":18.16019,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Latakemela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281645
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5199b6863649e641e18c6017095ad62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679473,
+            "locality_id":1226654491,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226654491,
+    "wof:lastmodified":1536845654,
+    "wof:name":"Latakemela",
+    "wof:parent_id":1091679473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.16019,
+    -0.07866,
+    18.16019,
+    -0.07866
+],
+  "geometry": {"coordinates":[18.16019,-0.07866],"type":"Point"}
+}

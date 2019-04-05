@@ -1,0 +1,67 @@
+{
+  "id": 1260138689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36791,-7.99758,23.36791,-7.99758",
+    "geom:latitude":-7.99758,
+    "geom:longitude":23.36791,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kalamba-Kamule",
+    "gn:country_code":"CD",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215029,
+    "gn:latitude":-7.99758,
+    "gn:longitude":23.36791,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kalamba-Kamule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215029
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"141745110c5c22457818d40824975e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1260138689,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260138689,
+    "wof:lastmodified":1536909759,
+    "wof:name":"Kalamba-Kamule",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36791,
+    -7.99758,
+    23.36791,
+    -7.99758
+],
+  "geometry": {"coordinates":[23.36791,-7.99758],"type":"Point"}
+}

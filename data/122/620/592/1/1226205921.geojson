@@ -1,0 +1,67 @@
+{
+  "id": 1226205921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.67816,3.06116,30.67816,3.06116",
+    "geom:latitude":3.06116,
+    "geom:longitude":30.67816,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kari",
+    "gn:country_code":"CD",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214161,
+    "gn:latitude":3.06116,
+    "gn:longitude":30.67816,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214161
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bc7195106c494a3e81bbc38297b46b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1226205921,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1226205921,
+    "wof:lastmodified":1536990320,
+    "wof:name":"Kari",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67816,
+    3.06116,
+    30.67816,
+    3.06116
+],
+  "geometry": {"coordinates":[30.67816,3.06116],"type":"Point"}
+}

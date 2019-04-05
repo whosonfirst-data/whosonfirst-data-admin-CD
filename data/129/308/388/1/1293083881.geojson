@@ -1,0 +1,67 @@
+{
+  "id": 1293083881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.19741,-7.77385,27.19741,-7.77385",
+    "geom:latitude":-7.77385,
+    "geom:longitude":27.19741,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kitwa",
+    "gn:country_code":"CD",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212530,
+    "gn:latitude":-7.77385,
+    "gn:longitude":27.19741,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kitwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212530
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0910a5e8782328b2062240f96d2999ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1293083881,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293083881,
+    "wof:lastmodified":1536870922,
+    "wof:name":"Kitwa",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.19741,
+    -7.77385,
+    27.19741,
+    -7.77385
+],
+  "geometry": {"coordinates":[27.19741,-7.77385],"type":"Point"}
+}

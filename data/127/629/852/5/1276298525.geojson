@@ -1,0 +1,76 @@
+{
+  "id": 1276298525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.05356,1.49579,29.05356,1.49579",
+    "geom:latitude":1.49579,
+    "geom:longitude":29.05356,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tsumbi",
+    "gn:country_code":"CD",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204675,
+    "gn:latitude":1.49579,
+    "gn:longitude":29.05356,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tsumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tsumbi"
+    ],
+    "name:fra_x_variant":[
+        "Tshumbi"
+    ],
+    "name:und_x_variant":[
+        "Tshumbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204675
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"30e5f147b3bfb9097ec9ab4595114f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1276298525,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276298525,
+    "wof:lastmodified":1537590314,
+    "wof:name":"Tsumbi",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.05356,
+    1.49579,
+    29.05356,
+    1.49579
+],
+  "geometry": {"coordinates":[29.05356,1.49579],"type":"Point"}
+}

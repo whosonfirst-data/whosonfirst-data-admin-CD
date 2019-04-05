@@ -1,0 +1,67 @@
+{
+  "id": 1242643415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53281,-4.90842,20.53281,-4.90842",
+    "geom:latitude":-4.90842,
+    "geom:longitude":20.53281,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Itambi-Kakese",
+    "gn:country_code":"CD",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8444035,
+    "gn:latitude":-4.90842,
+    "gn:longitude":20.53281,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Itambi-Kakese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8444035
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bf24b196f7249312763aab60a0262b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1242643415,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1242643415,
+    "wof:lastmodified":1536968880,
+    "wof:name":"Itambi-Kakese",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53281,
+    -4.90842,
+    20.53281,
+    -4.90842
+],
+  "geometry": {"coordinates":[20.53281,-4.90842],"type":"Point"}
+}

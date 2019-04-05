@@ -1,0 +1,61 @@
+{
+  "id": 1209588023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2006,3.12665,30.2006,3.12665",
+    "geom:latitude":3.12665,
+    "geom:longitude":30.2006,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Baido",
+    "gn:country_code":"CD",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219874,
+    "gn:latitude":3.12665,
+    "gn:longitude":30.2006,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Baido",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219874
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c9834062a47355faa7ccfee5de0ea16e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209588023
+        }
+    ],
+    "wof:id":1209588023,
+    "wof:lastmodified":1536282569,
+    "wof:name":"Baido",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2006,
+    3.12665,
+    30.2006,
+    3.12665
+],
+  "geometry": {"coordinates":[30.2006,3.12665],"type":"Point"}
+}

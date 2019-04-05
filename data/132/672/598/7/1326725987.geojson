@@ -1,0 +1,67 @@
+{
+  "id": 1326725987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.76667,-4.91667,12.76667,-4.91667",
+    "geom:latitude":-4.91667,
+    "geom:longitude":12.76667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mbemba",
+    "gn:country_code":"CD",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312868,
+    "gn:latitude":-4.91667,
+    "gn:longitude":12.76667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mbemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312868
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b77e9cd584e8927109a5dcff2df1b8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1326725987,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1326725987,
+    "wof:lastmodified":1536705102,
+    "wof:name":"Mbemba",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.76667,
+    -4.91667,
+    12.76667,
+    -4.91667
+],
+  "geometry": {"coordinates":[12.76667,-4.91667],"type":"Point"}
+}

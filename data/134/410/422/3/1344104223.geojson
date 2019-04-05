@@ -1,0 +1,70 @@
+{
+  "id": 1344104223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.28074,2.8506,19.28074,2.8506",
+    "geom:latitude":2.8506,
+    "geom:longitude":19.28074,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Kizi",
+    "gn:country_code":"CD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504844,
+    "gn:latitude":2.8506,
+    "gn:longitude":19.28074,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kizi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504844
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5ebd14de096aa922bbf7dc3b74474e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1344104223,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1344104223,
+    "wof:lastmodified":1537590568,
+    "wof:name":"Kizi",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.28074,
+    2.8506,
+    19.28074,
+    2.8506
+],
+  "geometry": {"coordinates":[19.28074,2.8506],"type":"Point"}
+}

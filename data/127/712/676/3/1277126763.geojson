@@ -1,0 +1,67 @@
+{
+  "id": 1277126763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01667,1.08333,23.01667,1.08333",
+    "geom:latitude":1.08333,
+    "geom:longitude":23.01667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Baringa",
+    "gn:country_code":"CD",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219478,
+    "gn:latitude":1.08333,
+    "gn:longitude":23.01667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Baringa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219478
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"81a8587a8cb93e1dbb8ca8221f2ba122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1277126763,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1277126763,
+    "wof:lastmodified":1536704602,
+    "wof:name":"Baringa",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01667,
+    1.08333,
+    23.01667,
+    1.08333
+],
+  "geometry": {"coordinates":[23.01667,1.08333],"type":"Point"}
+}

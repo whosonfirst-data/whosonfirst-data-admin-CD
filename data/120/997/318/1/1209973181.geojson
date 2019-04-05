@@ -1,0 +1,67 @@
+{
+  "id": 1209973181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.10167,-10.40331,24.10167,-10.40331",
+    "geom:latitude":-10.40331,
+    "geom:longitude":24.10167,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mukalakanta",
+    "gn:country_code":"CD",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10206953,
+    "gn:latitude":-10.40331,
+    "gn:longitude":24.10167,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mukalakanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206953
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c027d8a9ad88f46e139b6032075d56f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1209973181,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1209973181,
+    "wof:lastmodified":1536394109,
+    "wof:name":"Mukalakanta",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.10167,
+    -10.40331,
+    24.10167,
+    -10.40331
+],
+  "geometry": {"coordinates":[24.10167,-10.40331],"type":"Point"}
+}

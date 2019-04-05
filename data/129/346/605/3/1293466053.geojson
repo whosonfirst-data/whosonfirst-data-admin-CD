@@ -1,0 +1,67 @@
+{
+  "id": 1293466053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74768,3.06957,30.74768,3.06957",
+    "geom:latitude":3.06957,
+    "geom:longitude":30.74768,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Zombaro",
+    "gn:country_code":"CD",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144072,
+    "gn:latitude":3.06957,
+    "gn:longitude":30.74768,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zombaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144072
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1a2d23fb35c330da3da682c1068d12dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1293466053,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293466053,
+    "wof:lastmodified":1536817265,
+    "wof:name":"Zombaro",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74768,
+    3.06957,
+    30.74768,
+    3.06957
+],
+  "geometry": {"coordinates":[30.74768,3.06957],"type":"Point"}
+}

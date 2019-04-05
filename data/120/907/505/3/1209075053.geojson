@@ -1,0 +1,61 @@
+{
+  "id": 1209075053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.72742,-8.45143,22.72742,-8.45143",
+    "geom:latitude":-8.45143,
+    "geom:longitude":22.72742,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mushinde-Malanda",
+    "gn:country_code":"CD",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10014042,
+    "gn:latitude":-8.45143,
+    "gn:longitude":22.72742,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mushinde-Malanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10014042
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d8286f6cc062e128f12d50cf6582ac34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209075053
+        }
+    ],
+    "wof:id":1209075053,
+    "wof:lastmodified":1536298522,
+    "wof:name":"Mushinde-Malanda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.72742,
+    -8.45143,
+    22.72742,
+    -8.45143
+],
+  "geometry": {"coordinates":[22.72742,-8.45143],"type":"Point"}
+}

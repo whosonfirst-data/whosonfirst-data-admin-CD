@@ -1,0 +1,67 @@
+{
+  "id": 1360154993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.02283,-9.40784,26.02283,-9.40784",
+    "geom:latitude":-9.40784,
+    "geom:longitude":26.02283,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Musupei",
+    "gn:country_code":"CD",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10054857,
+    "gn:latitude":-9.40784,
+    "gn:longitude":26.02283,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Musupei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10054857
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"23413c031829659c39efab6f21500875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1360154993,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1360154993,
+    "wof:lastmodified":1536843865,
+    "wof:name":"Musupei",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.02283,
+    -9.40784,
+    26.02283,
+    -9.40784
+],
+  "geometry": {"coordinates":[26.02283,-9.40784],"type":"Point"}
+}

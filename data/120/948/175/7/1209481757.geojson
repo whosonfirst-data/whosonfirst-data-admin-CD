@@ -1,0 +1,61 @@
+{
+  "id": 1209481757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55438,3.37985,30.55438,3.37985",
+    "geom:latitude":3.37985,
+    "geom:longitude":30.55438,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Aribado",
+    "gn:country_code":"CD",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220226,
+    "gn:latitude":3.37985,
+    "gn:longitude":30.55438,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Aribado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220226
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8d7b29c2eff56be309a2094a265292ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209481757
+        }
+    ],
+    "wof:id":1209481757,
+    "wof:lastmodified":1536285761,
+    "wof:name":"Aribado",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55438,
+    3.37985,
+    30.55438,
+    3.37985
+],
+  "geometry": {"coordinates":[30.55438,3.37985],"type":"Point"}
+}

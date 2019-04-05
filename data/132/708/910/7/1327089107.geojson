@@ -1,0 +1,67 @@
+{
+  "id": 1327089107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36572,3.80975,22.36572,3.80975",
+    "geom:latitude":3.80975,
+    "geom:longitude":22.36572,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bigi-Nord",
+    "gn:country_code":"CD",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238571,
+    "gn:latitude":3.80975,
+    "gn:longitude":22.36572,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bigi-Nord",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238571
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fbe3243271fa3fda3540d45f2faa0ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1327089107,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327089107,
+    "wof:lastmodified":1536678775,
+    "wof:name":"Bigi-Nord",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36572,
+    3.80975,
+    22.36572,
+    3.80975
+],
+  "geometry": {"coordinates":[22.36572,3.80975],"type":"Point"}
+}

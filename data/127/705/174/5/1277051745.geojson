@@ -1,0 +1,67 @@
+{
+  "id": 1277051745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4238,-6.38815,20.4238,-6.38815",
+    "geom:latitude":-6.38815,
+    "geom:longitude":20.4238,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mundamisa",
+    "gn:country_code":"CD",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283149,
+    "gn:latitude":-6.38815,
+    "gn:longitude":20.4238,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mundamisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283149
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3832e8a13d4dd83834d2f304535c3f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1277051745,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1277051745,
+    "wof:lastmodified":1536810293,
+    "wof:name":"Mundamisa",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4238,
+    -6.38815,
+    20.4238,
+    -6.38815
+],
+  "geometry": {"coordinates":[20.4238,-6.38815],"type":"Point"}
+}

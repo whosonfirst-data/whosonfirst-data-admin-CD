@@ -1,0 +1,71 @@
+{
+  "id": 1343637331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.4523,-6.20032,21.4523,-6.20032",
+    "geom:latitude":-6.20032,
+    "geom:longitude":21.4523,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kamuesha",
+    "gn:country_code":"CD",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214549,
+    "gn:latitude":-6.20032,
+    "gn:longitude":21.4523,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kamuesha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamwesha",
+        "Kamuesha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214549
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ba8ebf49c46a93c9bd06e8f42f6fb271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1343637331,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343637331,
+    "wof:lastmodified":1537590415,
+    "wof:name":"Kamuesha",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4523,
+    -6.20032,
+    21.4523,
+    -6.20032
+],
+  "geometry": {"coordinates":[21.4523,-6.20032],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344194661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.06667,0.83333,22.06667,0.83333",
+    "geom:latitude":0.83333,
+    "geom:longitude":22.06667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Yasongo",
+    "gn:country_code":"CD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203577,
+    "gn:latitude":0.83333,
+    "gn:longitude":22.06667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yasongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203577
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"74d7d22b453e7abb6102bb517c771be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1344194661,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1344194661,
+    "wof:lastmodified":1536681804,
+    "wof:name":"Yasongo",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.06667,
+    0.83333,
+    22.06667,
+    0.83333
+],
+  "geometry": {"coordinates":[22.06667,0.83333],"type":"Point"}
+}

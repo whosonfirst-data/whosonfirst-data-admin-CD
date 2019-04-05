@@ -1,0 +1,67 @@
+{
+  "id": 1226810505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.76148,2.87151,18.76148,2.87151",
+    "geom:latitude":2.87151,
+    "geom:longitude":18.76148,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Mokodjingo",
+    "gn:country_code":"CD",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8244414,
+    "gn:latitude":2.87151,
+    "gn:longitude":18.76148,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mokodjingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8244414
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cfc044b1991bff35d6e5cd53d783c3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1226810505,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226810505,
+    "wof:lastmodified":1536620353,
+    "wof:name":"Mokodjingo",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.76148,
+    2.87151,
+    18.76148,
+    2.87151
+],
+  "geometry": {"coordinates":[18.76148,2.87151],"type":"Point"}
+}

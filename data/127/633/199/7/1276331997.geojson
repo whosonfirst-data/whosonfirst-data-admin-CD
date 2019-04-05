@@ -1,0 +1,70 @@
+{
+  "id": 1276331997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.2188,-4.33384,15.2188,-4.33384",
+    "geom:latitude":-4.33384,
+    "geom:longitude":15.2188,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kinsuka",
+    "gn:country_code":"CD",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314291,
+    "gn:latitude":-4.33384,
+    "gn:longitude":15.2188,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kinsuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiasuka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314291
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fabd0ad9dd7404f750364b0f828d42b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679225,
+            "locality_id":1276331997,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1276331997,
+    "wof:lastmodified":1537590530,
+    "wof:name":"Kinsuka",
+    "wof:parent_id":1091679225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.2188,
+    -4.33384,
+    15.2188,
+    -4.33384
+],
+  "geometry": {"coordinates":[15.2188,-4.33384],"type":"Point"}
+}

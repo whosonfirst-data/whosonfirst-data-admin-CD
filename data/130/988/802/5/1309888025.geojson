@@ -1,0 +1,67 @@
+{
+  "id": 1309888025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.64496,2.79049,27.64496,2.79049",
+    "geom:latitude":2.79049,
+    "geom:longitude":27.64496,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Gossamo",
+    "gn:country_code":"CD",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145492,
+    "gn:latitude":2.79049,
+    "gn:longitude":27.64496,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gossamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145492
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"35a0d67a07561458e6e3036e57257fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1309888025,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1309888025,
+    "wof:lastmodified":1536812077,
+    "wof:name":"Gossamo",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.64496,
+    2.79049,
+    27.64496,
+    2.79049
+],
+  "geometry": {"coordinates":[27.64496,2.79049],"type":"Point"}
+}

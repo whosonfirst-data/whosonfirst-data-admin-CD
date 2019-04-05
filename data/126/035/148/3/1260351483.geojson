@@ -1,0 +1,67 @@
+{
+  "id": 1260351483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36262,-7.01483,19.36262,-7.01483",
+    "geom:latitude":-7.01483,
+    "geom:longitude":19.36262,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ka-Fundji",
+    "gn:country_code":"CD",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448256,
+    "gn:latitude":-7.01483,
+    "gn:longitude":19.36262,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ka-Fundji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448256
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"29b4b3e4360a417a096abe449f1b7721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1260351483,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260351483,
+    "wof:lastmodified":1536618876,
+    "wof:name":"Ka-Fundji",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.36262,
+    -7.01483,
+    19.36262,
+    -7.01483
+],
+  "geometry": {"coordinates":[19.36262,-7.01483],"type":"Point"}
+}

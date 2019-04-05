@@ -1,0 +1,67 @@
+{
+  "id": 1293263567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43264,2.98552,24.43264,2.98552",
+    "geom:latitude":2.98552,
+    "geom:longitude":24.43264,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gere",
+    "gn:country_code":"CD",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216354,
+    "gn:latitude":2.98552,
+    "gn:longitude":24.43264,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216354
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"66008236fdd768984265fc8dfcfc3f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1293263567,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293263567,
+    "wof:lastmodified":1536610293,
+    "wof:name":"Gere",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43264,
+    2.98552,
+    24.43264,
+    2.98552
+],
+  "geometry": {"coordinates":[24.43264,2.98552],"type":"Point"}
+}

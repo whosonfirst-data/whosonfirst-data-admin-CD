@@ -1,0 +1,67 @@
+{
+  "id": 1326598705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.32458,-10.36155,22.32458,-10.36155",
+    "geom:latitude":-10.36155,
+    "geom:longitude":22.32458,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Liakatsha",
+    "gn:country_code":"CD",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463752,
+    "gn:latitude":-10.36155,
+    "gn:longitude":22.32458,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Liakatsha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463752
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7fef8cfbdc646e5ab26905a79d108251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1326598705,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1326598705,
+    "wof:lastmodified":1536887850,
+    "wof:name":"Liakatsha",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.32458,
+    -10.36155,
+    22.32458,
+    -10.36155
+],
+  "geometry": {"coordinates":[22.32458,-10.36155],"type":"Point"}
+}

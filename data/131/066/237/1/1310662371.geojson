@@ -1,0 +1,67 @@
+{
+  "id": 1310662371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.70782,-5.40311,18.70782,-5.40311",
+    "geom:latitude":-5.40311,
+    "geom:longitude":18.70782,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Lukala",
+    "gn:country_code":"CD",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276093,
+    "gn:latitude":-5.40311,
+    "gn:longitude":18.70782,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lukala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276093
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d3264e9c0d9dec15fc196cf4531699f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1310662371,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310662371,
+    "wof:lastmodified":1536690859,
+    "wof:name":"Lukala",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.70782,
+    -5.40311,
+    18.70782,
+    -5.40311
+],
+  "geometry": {"coordinates":[18.70782,-5.40311],"type":"Point"}
+}

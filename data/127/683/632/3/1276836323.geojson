@@ -1,0 +1,67 @@
+{
+  "id": 1276836323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.15515,1.40757,30.15515,1.40757",
+    "geom:latitude":1.40757,
+    "geom:longitude":30.15515,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Mula",
+    "gn:country_code":"CD",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280502,
+    "gn:latitude":1.40757,
+    "gn:longitude":30.15515,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280502
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"23e5f184876af5e9f4b5d4f2292f411e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1276836323,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276836323,
+    "wof:lastmodified":1537096238,
+    "wof:name":"Mula",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.15515,
+    1.40757,
+    30.15515,
+    1.40757
+],
+  "geometry": {"coordinates":[30.15515,1.40757],"type":"Point"}
+}

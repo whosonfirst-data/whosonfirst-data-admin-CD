@@ -1,0 +1,67 @@
+{
+  "id": 1209975245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.45668,-10.57548,26.45668,-10.57548",
+    "geom:latitude":-10.57548,
+    "geom:longitude":26.45668,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Vweledjuba",
+    "gn:country_code":"CD",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922039,
+    "gn:latitude":-10.57548,
+    "gn:longitude":26.45668,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Vweledjuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922039
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"64ca6c86770d91d5ad3ad2079dbf3c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1209975245,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1209975245,
+    "wof:lastmodified":1536393224,
+    "wof:name":"Vweledjuba",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.45668,
+    -10.57548,
+    26.45668,
+    -10.57548
+],
+  "geometry": {"coordinates":[26.45668,-10.57548],"type":"Point"}
+}

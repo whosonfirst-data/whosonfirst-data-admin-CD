@@ -1,0 +1,67 @@
+{
+  "id": 1310061817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.53349,-6.02209,22.53349,-6.02209",
+    "geom:latitude":-6.02209,
+    "geom:longitude":22.53349,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tabala-Mbumba",
+    "gn:country_code":"CD",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283885,
+    "gn:latitude":-6.02209,
+    "gn:longitude":22.53349,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tabala-Mbumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283885
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c448bb5b2703a786f6df6a4c3979ffdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1310061817,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310061817,
+    "wof:lastmodified":1537057126,
+    "wof:name":"Tabala-Mbumba",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.53349,
+    -6.02209,
+    22.53349,
+    -6.02209
+],
+  "geometry": {"coordinates":[22.53349,-6.02209],"type":"Point"}
+}

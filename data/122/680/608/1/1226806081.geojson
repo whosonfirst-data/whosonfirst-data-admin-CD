@@ -1,0 +1,67 @@
+{
+  "id": 1226806081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.77031,3.93472,20.77031,3.93472",
+    "geom:latitude":3.93472,
+    "geom:longitude":20.77031,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Kogba",
+    "gn:country_code":"CD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235927,
+    "gn:latitude":3.93472,
+    "gn:longitude":20.77031,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kogba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235927
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"add6ce4172b4e52491d6b6919b3c3070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1226806081,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226806081,
+    "wof:lastmodified":1536627015,
+    "wof:name":"Kogba",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.77031,
+    3.93472,
+    20.77031,
+    3.93472
+],
+  "geometry": {"coordinates":[20.77031,3.93472],"type":"Point"}
+}

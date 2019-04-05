@@ -1,0 +1,67 @@
+{
+  "id": 1260358261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.45374,-11.32669,25.45374,-11.32669",
+    "geom:latitude":-11.32669,
+    "geom:longitude":25.45374,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mungwenji",
+    "gn:country_code":"CD",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10225138,
+    "gn:latitude":-11.32669,
+    "gn:longitude":25.45374,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mungwenji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10225138
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"11a0d23083292deb5e2e1bb3e109c1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1260358261,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260358261,
+    "wof:lastmodified":1536609128,
+    "wof:name":"Mungwenji",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.45374,
+    -11.32669,
+    25.45374,
+    -11.32669
+],
+  "geometry": {"coordinates":[25.45374,-11.32669],"type":"Point"}
+}

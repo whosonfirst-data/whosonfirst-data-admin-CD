@@ -1,0 +1,72 @@
+{
+  "id": 1343320499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5675,-9.55315,23.5675,-9.55315",
+    "geom:latitude":-9.55315,
+    "geom:longitude":23.5675,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshibuili",
+    "gn:country_code":"CD",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204983,
+    "gn:latitude":-9.55315,
+    "gn:longitude":23.5675,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshibuili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshibuidi",
+        "Tshibwili",
+        "Tshibuili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204983
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bf82375ab94d461e50fd5aa738cefb2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1343320499,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343320499,
+    "wof:lastmodified":1537590318,
+    "wof:name":"Tshibuili",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5675,
+    -9.55315,
+    23.5675,
+    -9.55315
+],
+  "geometry": {"coordinates":[23.5675,-9.55315],"type":"Point"}
+}

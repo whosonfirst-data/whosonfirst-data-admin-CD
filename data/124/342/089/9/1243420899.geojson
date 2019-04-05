@@ -1,0 +1,67 @@
+{
+  "id": 1243420899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86309,3.38359,30.86309,3.38359",
+    "geom:latitude":3.38359,
+    "geom:longitude":30.86309,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ongita",
+    "gn:country_code":"CD",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8144046,
+    "gn:latitude":3.38359,
+    "gn:longitude":30.86309,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ongita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8144046
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fe0311d1d099e67cd8357f134863cf3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1243420899,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243420899,
+    "wof:lastmodified":1536841362,
+    "wof:name":"Ongita",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86309,
+    3.38359,
+    30.86309,
+    3.38359
+],
+  "geometry": {"coordinates":[30.86309,3.38359],"type":"Point"}
+}

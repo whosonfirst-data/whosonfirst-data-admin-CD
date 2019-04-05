@@ -1,0 +1,67 @@
+{
+  "id": 1327496939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.23173,0.94629,29.23173,0.94629",
+    "geom:latitude":0.94629,
+    "geom:longitude":29.23173,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kenva",
+    "gn:country_code":"CD",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329195,
+    "gn:latitude":0.94629,
+    "gn:longitude":29.23173,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kenva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329195
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7954fa2f1ca970047d8bd61abdd99748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1327496939,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327496939,
+    "wof:lastmodified":1537082290,
+    "wof:name":"Kenva",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.23173,
+    0.94629,
+    29.23173,
+    0.94629
+],
+  "geometry": {"coordinates":[29.23173,0.94629],"type":"Point"}
+}

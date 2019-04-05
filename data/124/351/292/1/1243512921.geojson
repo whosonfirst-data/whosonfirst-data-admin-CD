@@ -1,0 +1,67 @@
+{
+  "id": 1243512921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15052,-8.10027,23.15052,-8.10027",
+    "geom:latitude":-8.10027,
+    "geom:longitude":23.15052,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwin-Irung",
+    "gn:country_code":"CD",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10017041,
+    "gn:latitude":-8.10027,
+    "gn:longitude":23.15052,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwin-Irung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10017041
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cccdb022064020d94c6efcf660f9a4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1243512921,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243512921,
+    "wof:lastmodified":1536710110,
+    "wof:name":"Mwin-Irung",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15052,
+    -8.10027,
+    23.15052,
+    -8.10027
+],
+  "geometry": {"coordinates":[23.15052,-8.10027],"type":"Point"}
+}

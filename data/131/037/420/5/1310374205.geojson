@@ -1,0 +1,67 @@
+{
+  "id": 1310374205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.168,-10.35626,23.168,-10.35626",
+    "geom:latitude":-10.35626,
+    "geom:longitude":23.168,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshilengi",
+    "gn:country_code":"CD",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466569,
+    "gn:latitude":-10.35626,
+    "gn:longitude":23.168,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshilengi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466569
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"29c22c065ce0b1df1256b2196da9b8c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1310374205,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310374205,
+    "wof:lastmodified":1536606075,
+    "wof:name":"Tshilengi",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.16800000000001,
+    -10.35626,
+    23.16800000000001,
+    -10.35626
+],
+  "geometry": {"coordinates":[23.16800000000001,-10.35626],"type":"Point"}
+}

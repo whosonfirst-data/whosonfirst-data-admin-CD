@@ -1,0 +1,67 @@
+{
+  "id": 1310068151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.30596,-5.87932,17.30596,-5.87932",
+    "geom:latitude":-5.87932,
+    "geom:longitude":17.30596,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tsakala Momvidia",
+    "gn:country_code":"CD",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311152,
+    "gn:latitude":-5.87932,
+    "gn:longitude":17.30596,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tsakala Momvidia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311152
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fde2029b26188f3003126fdfb9a8b765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1310068151,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310068151,
+    "wof:lastmodified":1537048467,
+    "wof:name":"Tsakala Momvidia",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.30596,
+    -5.87932,
+    17.30596,
+    -5.87932
+],
+  "geometry": {"coordinates":[17.30596,-5.87932],"type":"Point"}
+}

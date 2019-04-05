@@ -1,0 +1,67 @@
+{
+  "id": 1242951089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.26246,0.04022,29.26246,0.04022",
+    "geom:latitude":0.04022,
+    "geom:longitude":29.26246,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Musienene",
+    "gn:country_code":"CD",
+    "gn:dem":1744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207925,
+    "gn:latitude":0.04022,
+    "gn:longitude":29.26246,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Musienene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207925
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"73570fa3fb6b04c4f0dcc12d6c9f2349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1242951089,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1242951089,
+    "wof:lastmodified":1537021819,
+    "wof:name":"Musienene",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.26246,
+    0.04022,
+    29.26246,
+    0.04022
+],
+  "geometry": {"coordinates":[29.26246,0.04022],"type":"Point"}
+}

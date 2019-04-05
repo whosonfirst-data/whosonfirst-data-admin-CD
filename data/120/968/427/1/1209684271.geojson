@@ -1,0 +1,66 @@
+{
+  "id": 1209684271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85087,-6.82473,22.85087,-6.82473",
+    "geom:latitude":-6.82473,
+    "geom:longitude":22.85087,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mazia-Mpata",
+    "gn:country_code":"CD",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209334,
+    "gn:latitude":-6.82473,
+    "gn:longitude":22.85087,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mazia-Mpata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazia Pata",
+        "Mazia-Mpala",
+        "Mazia-Mpata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209334
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b48151176aca936136198b17e75eb3f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209684271
+        }
+    ],
+    "wof:id":1209684271,
+    "wof:lastmodified":1537590369,
+    "wof:name":"Mazia-Mpata",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85087,
+    -6.82473,
+    22.85087,
+    -6.82473
+],
+  "geometry": {"coordinates":[22.85087,-6.82473],"type":"Point"}
+}

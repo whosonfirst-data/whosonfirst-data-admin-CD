@@ -1,0 +1,67 @@
+{
+  "id": 1344247675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32825,-4.90298,15.32825,-4.90298",
+    "geom:latitude":-4.90298,
+    "geom:longitude":15.32825,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mpela Nseke",
+    "gn:country_code":"CD",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312450,
+    "gn:latitude":-4.90298,
+    "gn:longitude":15.32825,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Mpela Nseke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312450
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3d0f7e9a8e68f862cf3a45f67f84a697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1344247675,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1344247675,
+    "wof:lastmodified":1536602314,
+    "wof:name":"Mpela Nseke",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32825,
+    -4.90298,
+    15.32825,
+    -4.90298
+],
+  "geometry": {"coordinates":[15.32825,-4.90298],"type":"Point"}
+}

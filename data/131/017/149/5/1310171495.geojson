@@ -1,0 +1,72 @@
+{
+  "id": 1310171495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7672,-3.55959,21.7672,-3.55959",
+    "geom:latitude":-3.55959,
+    "geom:longitude":21.7672,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ngele-Aoko",
+    "gn:country_code":"CD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207220,
+    "gn:latitude":-3.55959,
+    "gn:longitude":21.7672,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngele-Aoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngele",
+        "Ngaokeme",
+        "Ngele-Aoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207220
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a0a67f26955156e2fd45b03f7a110c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1310171495,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310171495,
+    "wof:lastmodified":1537590345,
+    "wof:name":"Ngele-Aoko",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7672,
+    -3.55959,
+    21.7672,
+    -3.55959
+],
+  "geometry": {"coordinates":[21.7672,-3.55959],"type":"Point"}
+}

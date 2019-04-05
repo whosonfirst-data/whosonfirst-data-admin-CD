@@ -1,0 +1,71 @@
+{
+  "id": 1360142957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.25564,-5.9359,22.25564,-5.9359",
+    "geom:latitude":-5.9359,
+    "geom:longitude":22.25564,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kalala-Ntanda",
+    "gn:country_code":"CD",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413141,
+    "gn:latitude":-5.9359,
+    "gn:longitude":22.25564,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalala-Ntanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalala-Tanda",
+        "Kalala-Ntanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413141
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6bfd4484f5b288c7a47a3b76fd5e3a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1360142957,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1360142957,
+    "wof:lastmodified":1537590480,
+    "wof:name":"Kalala-Ntanda",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.25564,
+    -5.9359,
+    22.25564,
+    -5.9359
+],
+  "geometry": {"coordinates":[22.25564,-5.9359],"type":"Point"}
+}

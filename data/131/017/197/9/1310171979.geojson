@@ -1,0 +1,67 @@
+{
+  "id": 1310171979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61534,3.06237,30.61534,3.06237",
+    "geom:latitude":3.06237,
+    "geom:longitude":30.61534,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Odra",
+    "gn:country_code":"CD",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206776,
+    "gn:latitude":3.06237,
+    "gn:longitude":30.61534,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Odra",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206776
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e5dafbc18e174ea387b434a53153f2e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1310171979,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1310171979,
+    "wof:lastmodified":1536900880,
+    "wof:name":"Odra",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61534,
+    3.06237,
+    30.61534,
+    3.06237
+],
+  "geometry": {"coordinates":[30.61534,3.06237],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209904133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.89517,0.45785,28.89517,0.45785",
+    "geom:latitude":0.45785,
+    "geom:longitude":28.89517,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mbunia",
+    "gn:country_code":"CD",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209212,
+    "gn:latitude":0.45785,
+    "gn:longitude":28.89517,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Mbunia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209212,
+        "wk:page":"Mbunia"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"64e82c65cadc4e44f30254a426ac5649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1209904133,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1209904133,
+    "wof:lastmodified":1537489112,
+    "wof:name":"Mbunia",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.89517,
+    0.45785,
+    28.89517,
+    0.45785
+],
+  "geometry": {"coordinates":[28.89517,0.45785],"type":"Point"}
+}

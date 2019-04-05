@@ -1,0 +1,67 @@
+{
+  "id": 1259902239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28834,-5.50848,14.28834,-5.50848",
+    "geom:latitude":-5.50848,
+    "geom:longitude":14.28834,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Koko",
+    "gn:country_code":"CD",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325328,
+    "gn:latitude":-5.50848,
+    "gn:longitude":14.28834,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Koko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325328
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8e1e78d6c6ce607775b7c309087d44a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1259902239,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1259902239,
+    "wof:lastmodified":1536752101,
+    "wof:name":"Koko",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28834,
+    -5.50848,
+    14.28834,
+    -5.50848
+],
+  "geometry": {"coordinates":[14.28834,-5.50848],"type":"Point"}
+}

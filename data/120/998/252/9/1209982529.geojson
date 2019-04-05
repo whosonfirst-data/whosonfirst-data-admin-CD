@@ -1,0 +1,71 @@
+{
+  "id": 1209982529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.36813,-4.113,21.36813,-4.113",
+    "geom:latitude":-4.113,
+    "geom:longitude":21.36813,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kabolo",
+    "gn:country_code":"CD",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215493,
+    "gn:latitude":-4.113,
+    "gn:longitude":21.36813,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobolo",
+        "Kabolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215493
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5026bb6169a8e21f5f063c4a974d6dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1209982529,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1209982529,
+    "wof:lastmodified":1537590426,
+    "wof:name":"Kabolo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.36813,
+    -4.113,
+    21.36813,
+    -4.113
+],
+  "geometry": {"coordinates":[21.36813,-4.113],"type":"Point"}
+}

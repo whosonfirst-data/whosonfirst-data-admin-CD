@@ -1,0 +1,70 @@
+{
+  "id": 1327298191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26863,-5.61491,25.26863,-5.61491",
+    "geom:latitude":-5.61491,
+    "geom:longitude":25.26863,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Mitombu",
+    "gn:country_code":"CD",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209023,
+    "gn:latitude":-5.61491,
+    "gn:longitude":25.26863,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mitombu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mitombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209023
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"694efcb6e7213454df81743f031835b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1327298191,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1327298191,
+    "wof:lastmodified":1537590367,
+    "wof:name":"Mitombu",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26863,
+    -5.61491,
+    25.26863,
+    -5.61491
+],
+  "geometry": {"coordinates":[25.26863,-5.61491],"type":"Point"}
+}

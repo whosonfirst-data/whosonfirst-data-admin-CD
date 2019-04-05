@@ -1,0 +1,67 @@
+{
+  "id": 1343237287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.93302,-6.84542,18.93302,-6.84542",
+    "geom:latitude":-6.84542,
+    "geom:longitude":18.93302,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kambandji",
+    "gn:country_code":"CD",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8334536,
+    "gn:latitude":-6.84542,
+    "gn:longitude":18.93302,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kambandji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8334536
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e32edd781e8eac51b24a38d15fb548b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343237287,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343237287,
+    "wof:lastmodified":1537065603,
+    "wof:name":"Kambandji",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.93302000000001,
+    -6.84542,
+    18.93302000000001,
+    -6.84542
+],
+  "geometry": {"coordinates":[18.93302000000001,-6.84542],"type":"Point"}
+}

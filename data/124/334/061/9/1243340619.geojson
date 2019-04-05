@@ -1,0 +1,71 @@
+{
+  "id": 1243340619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.87566,-4.40187,28.87566,-4.40187",
+    "geom:latitude":-4.40187,
+    "geom:longitude":28.87566,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Musungiro",
+    "gn:country_code":"CD",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207886,
+    "gn:latitude":-4.40187,
+    "gn:longitude":28.87566,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Musungiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musingiro",
+        "Musungiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207886
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"54e58905508a223a85d3ed1bb28d8889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1243340619,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1243340619,
+    "wof:lastmodified":1537590353,
+    "wof:name":"Musungiro",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.87566,
+    -4.40187,
+    28.87566,
+    -4.40187
+],
+  "geometry": {"coordinates":[28.87566,-4.40187],"type":"Point"}
+}

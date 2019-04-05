@@ -1,0 +1,72 @@
+{
+  "id": 1276186469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.44291,-4.02961,18.44291,-4.02961",
+    "geom:latitude":-4.02961,
+    "geom:longitude":18.44291,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Luzubi",
+    "gn:country_code":"CD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313258,
+    "gn:latitude":-4.02961,
+    "gn:longitude":18.44291,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Luzubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lusubi",
+        "Lusibi",
+        "Luzubi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313258
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"22745e1a8487e5ad5d1951b0f5d47c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1276186469,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276186469,
+    "wof:lastmodified":1537590520,
+    "wof:name":"Luzubi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.44291,
+    -4.02961,
+    18.44291,
+    -4.02961
+],
+  "geometry": {"coordinates":[18.44291,-4.02961],"type":"Point"}
+}

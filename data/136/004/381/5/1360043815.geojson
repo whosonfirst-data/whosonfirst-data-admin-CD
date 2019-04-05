@@ -1,0 +1,67 @@
+{
+  "id": 1360043815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35446,-10.8048,22.35446,-10.8048",
+    "geom:latitude":-10.8048,
+    "geom:longitude":22.35446,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshiyengu",
+    "gn:country_code":"CD",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463594,
+    "gn:latitude":-10.8048,
+    "gn:longitude":22.35446,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshiyengu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463594
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5e1b39d35b4bc52b5e87c9136408ac84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1360043815,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1360043815,
+    "wof:lastmodified":1537004608,
+    "wof:name":"Tshiyengu",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35446,
+    -10.8048,
+    22.35446,
+    -10.8048
+],
+  "geometry": {"coordinates":[22.35446,-10.8048],"type":"Point"}
+}

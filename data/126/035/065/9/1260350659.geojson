@@ -1,0 +1,67 @@
+{
+  "id": 1260350659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.83043,-5.37807,19.83043,-5.37807",
+    "geom:latitude":-5.37807,
+    "geom:longitude":19.83043,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Misangi-Katembo",
+    "gn:country_code":"CD",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312752,
+    "gn:latitude":-5.37807,
+    "gn:longitude":19.83043,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Misangi-Katembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312752
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dd7e8829c5224930f2f47d1cf1011d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1260350659,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260350659,
+    "wof:lastmodified":1536620037,
+    "wof:name":"Misangi-Katembo",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.83043,
+    -5.37807,
+    19.83043,
+    -5.37807
+],
+  "geometry": {"coordinates":[19.83043,-5.37807],"type":"Point"}
+}

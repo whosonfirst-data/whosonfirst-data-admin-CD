@@ -1,0 +1,70 @@
+{
+  "id": 1276406245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94844,2.26059,30.94844,2.26059",
+    "geom:latitude":2.26059,
+    "geom:longitude":30.94844,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Adjoda",
+    "gn:country_code":"CD",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220495,
+    "gn:latitude":2.26059,
+    "gn:longitude":30.94844,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Adjoda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adjoba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220495
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e0acf27fe9c86fa948b925ac27045af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1276406245,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276406245,
+    "wof:lastmodified":1537590478,
+    "wof:name":"Adjoda",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94844,
+    2.26059,
+    30.94844,
+    2.26059
+],
+  "geometry": {"coordinates":[30.94844,2.26059],"type":"Point"}
+}

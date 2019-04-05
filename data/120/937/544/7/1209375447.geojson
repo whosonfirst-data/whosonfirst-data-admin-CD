@@ -1,0 +1,65 @@
+{
+  "id": 1209375447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.57745,1.67792,26.57745,1.67792",
+    "geom:latitude":1.67792,
+    "geom:longitude":26.57745,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bafwabogbo",
+    "gn:country_code":"CD",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220020,
+    "gn:latitude":1.67792,
+    "gn:longitude":26.57745,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bafwabogbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bafwagbogbo",
+        "Bafwabogbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220020
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0f3dcd613044a122e73f55993a620fa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209375447
+        }
+    ],
+    "wof:id":1209375447,
+    "wof:lastmodified":1537590475,
+    "wof:name":"Bafwabogbo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.57745,
+    1.67792,
+    26.57745,
+    1.67792
+],
+  "geometry": {"coordinates":[26.57745,1.67792],"type":"Point"}
+}

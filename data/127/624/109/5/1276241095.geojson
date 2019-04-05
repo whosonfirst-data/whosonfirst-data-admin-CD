@@ -1,0 +1,67 @@
+{
+  "id": 1276241095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32564,0.05735,18.32564,0.05735",
+    "geom:latitude":0.05735,
+    "geom:longitude":18.32564,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Banfui",
+    "gn:country_code":"CD",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8070910,
+    "gn:latitude":0.05735,
+    "gn:longitude":18.32564,
+    "gn:modification_date":"2011-12-09",
+    "gn:name":"Banfui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8070910
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"674f33963b9e5d260e26da182a9e3aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679473,
+            "locality_id":1276241095,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276241095,
+    "wof:lastmodified":1536902272,
+    "wof:name":"Banfui",
+    "wof:parent_id":1091679473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32564,
+    0.05735,
+    18.32564,
+    0.05735
+],
+  "geometry": {"coordinates":[18.32564,0.05735],"type":"Point"}
+}

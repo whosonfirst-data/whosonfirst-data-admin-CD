@@ -1,0 +1,67 @@
+{
+  "id": 1209985061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88579,-6.73552,21.88579,-6.73552",
+    "geom:latitude":-6.73552,
+    "geom:longitude":21.88579,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshitambikila",
+    "gn:country_code":"CD",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327472,
+    "gn:latitude":-6.73552,
+    "gn:longitude":21.88579,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshitambikila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327472
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"81ac4118e0d21817b3868d0b0fddd1dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1209985061,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1209985061,
+    "wof:lastmodified":1536388985,
+    "wof:name":"Tshitambikila",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88579,
+    -6.73552,
+    21.88579,
+    -6.73552
+],
+  "geometry": {"coordinates":[21.88579,-6.73552],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277154149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41667,-2.25,27.41667,-2.25",
+    "geom:latitude":-2.25,
+    "geom:longitude":27.41667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ibiliki",
+    "gn:country_code":"CD",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216098,
+    "gn:latitude":-2.25,
+    "gn:longitude":27.41667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ibiliki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216098
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7a17072b89fe4d7d4f29c6dd83aecc51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1277154149,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1277154149,
+    "wof:lastmodified":1536664799,
+    "wof:name":"Ibiliki",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41667,
+    -2.25,
+    27.41667,
+    -2.25
+],
+  "geometry": {"coordinates":[27.41667,-2.25],"type":"Point"}
+}

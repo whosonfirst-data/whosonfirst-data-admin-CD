@@ -1,0 +1,67 @@
+{
+  "id": 1327192225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99114,-6.44243,22.99114,-6.44243",
+    "geom:latitude":-6.44243,
+    "geom:longitude":22.99114,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kakambaie",
+    "gn:country_code":"CD",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8284555,
+    "gn:latitude":-6.44243,
+    "gn:longitude":22.99114,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kakambaie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8284555
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e0a1d9e8c058db26bdb3edf3cd8bce00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1327192225,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327192225,
+    "wof:lastmodified":1537026545,
+    "wof:name":"Kakambaie",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99114,
+    -6.44243,
+    22.99114,
+    -6.44243
+],
+  "geometry": {"coordinates":[22.99114,-6.44243],"type":"Point"}
+}

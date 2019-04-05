@@ -1,0 +1,67 @@
+{
+  "id": 1327194555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41363,1.65208,23.41363,1.65208",
+    "geom:latitude":1.65208,
+    "geom:longitude":23.41363,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yahulo",
+    "gn:country_code":"CD",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204089,
+    "gn:latitude":1.65208,
+    "gn:longitude":23.41363,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yahulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204089
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"91fe4b97744b7389fad4b2e739b42a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1327194555,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327194555,
+    "wof:lastmodified":1537023353,
+    "wof:name":"Yahulo",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41363,
+    1.65208,
+    23.41363,
+    1.65208
+],
+  "geometry": {"coordinates":[23.41363,1.65208],"type":"Point"}
+}

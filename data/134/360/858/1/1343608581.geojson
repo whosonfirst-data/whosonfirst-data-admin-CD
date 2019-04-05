@@ -1,0 +1,67 @@
+{
+  "id": 1343608581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.73745,-7.48818,26.73745,-7.48818",
+    "geom:latitude":-7.48818,
+    "geom:longitude":26.73745,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kahungwe",
+    "gn:country_code":"CD",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9940686,
+    "gn:latitude":-7.48818,
+    "gn:longitude":26.73745,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kahungwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9940686
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5ea2e9123354945215f3efecdc3ce31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1343608581,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343608581,
+    "wof:lastmodified":1537028697,
+    "wof:name":"Kahungwe",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.73745,
+    -7.48818,
+    26.73745,
+    -7.48818
+],
+  "geometry": {"coordinates":[26.73745,-7.48818],"type":"Point"}
+}

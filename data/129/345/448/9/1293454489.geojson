@@ -1,0 +1,67 @@
+{
+  "id": 1293454489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.58348,-4.64311,18.58348,-4.64311",
+    "geom:latitude":-4.64311,
+    "geom:longitude":18.58348,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Banza-Manzashi",
+    "gn:country_code":"CD",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317317,
+    "gn:latitude":-4.64311,
+    "gn:longitude":18.58348,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Banza-Manzashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317317
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b72338e8788ef2c68a7a461bf89d7316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293454489,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293454489,
+    "wof:lastmodified":1536833766,
+    "wof:name":"Banza-Manzashi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.58348,
+    -4.64311,
+    18.58348,
+    -4.64311
+],
+  "geometry": {"coordinates":[18.58348,-4.64311],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276707165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36473,1.74234,25.36473,1.74234",
+    "geom:latitude":1.74234,
+    "geom:longitude":25.36473,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Boleia",
+    "gn:country_code":"CD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149719,
+    "gn:latitude":1.74234,
+    "gn:longitude":25.36473,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Boleia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149719
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4efe7496ee3343097841d174c84dff34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1276707165,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276707165,
+    "wof:lastmodified":1536775528,
+    "wof:name":"Boleia",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36473,
+    1.74234,
+    25.36473,
+    1.74234
+],
+  "geometry": {"coordinates":[25.36473,1.74234],"type":"Point"}
+}

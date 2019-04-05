@@ -1,0 +1,67 @@
+{
+  "id": 1243432353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.41249,-1.33327,29.41249,-1.33327",
+    "geom:latitude":-1.33327,
+    "geom:longitude":29.41249,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kabaya",
+    "gn:country_code":"CD",
+    "gn:dem":1609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215592,
+    "gn:latitude":-1.33327,
+    "gn:longitude":29.41249,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Kabaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215592
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ae4c7c3762f0d436732bf2e1fa66d4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1243432353,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1243432353,
+    "wof:lastmodified":1536824913,
+    "wof:name":"Kabaya",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.41249,
+    -1.33327,
+    29.41249,
+    -1.33327
+],
+  "geometry": {"coordinates":[29.41249,-1.33327],"type":"Point"}
+}

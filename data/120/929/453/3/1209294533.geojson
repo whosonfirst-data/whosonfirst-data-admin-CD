@@ -1,0 +1,61 @@
+{
+  "id": 1209294533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.81083,-3.54583,28.81083,-3.54583",
+    "geom:latitude":-3.54583,
+    "geom:longitude":28.81083,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bishombo",
+    "gn:country_code":"CD",
+    "gn:dem":2240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387575,
+    "gn:latitude":-3.54583,
+    "gn:longitude":28.81083,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bishombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387575
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c563f26b81c33cfa3a957ffc6ad0175e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209294533
+        }
+    ],
+    "wof:id":1209294533,
+    "wof:lastmodified":1536291576,
+    "wof:name":"Bishombo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.81083,
+    -3.5458300000000005,
+    28.81083,
+    -3.5458300000000005
+],
+  "geometry": {"coordinates":[28.81083,-3.54583],"type":"Point"}
+}

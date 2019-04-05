@@ -1,0 +1,67 @@
+{
+  "id": 1276616497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21287,-7.48583,18.21287,-7.48583",
+    "geom:latitude":-7.48583,
+    "geom:longitude":18.21287,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kambundi",
+    "gn:country_code":"CD",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315145,
+    "gn:latitude":-7.48583,
+    "gn:longitude":18.21287,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kambundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315145
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"160c7e54fcae985246c0f8a4a8eff5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1276616497,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276616497,
+    "wof:lastmodified":1536896631,
+    "wof:name":"Kambundi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21287,
+    -7.48583,
+    18.21287,
+    -7.48583
+],
+  "geometry": {"coordinates":[18.21287,-7.48583],"type":"Point"}
+}

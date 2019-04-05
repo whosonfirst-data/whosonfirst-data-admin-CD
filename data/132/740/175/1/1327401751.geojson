@@ -1,0 +1,67 @@
+{
+  "id": 1327401751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.352,2.25851,20.352,2.25851",
+    "geom:latitude":2.25851,
+    "geom:longitude":20.352,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Mongolo",
+    "gn:country_code":"CD",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198638,
+    "gn:latitude":2.25851,
+    "gn:longitude":20.352,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mongolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198638
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0741367275154fa47073790310b7d7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1327401751,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327401751,
+    "wof:lastmodified":1536725487,
+    "wof:name":"Mongolo",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.352,
+    2.25851,
+    20.352,
+    2.25851
+],
+  "geometry": {"coordinates":[20.352,2.25851],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242763009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25777,-5.68514,15.25777,-5.68514",
+    "geom:latitude":-5.68514,
+    "geom:longitude":15.25777,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kimvula",
+    "gn:country_code":"CD",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8254471,
+    "gn:latitude":-5.68514,
+    "gn:longitude":15.25777,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Kimvula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8254471
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a8994fbb1c3dd72f723c0f972edf7256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1242763009,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1242763009,
+    "wof:lastmodified":1536796851,
+    "wof:name":"Kimvula",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25777,
+    -5.68514,
+    15.25777,
+    -5.68514
+],
+  "geometry": {"coordinates":[15.25777,-5.68514],"type":"Point"}
+}

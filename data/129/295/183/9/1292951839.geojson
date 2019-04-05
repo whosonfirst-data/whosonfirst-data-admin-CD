@@ -1,0 +1,67 @@
+{
+  "id": 1292951839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35809,2.7337,20.35809,2.7337",
+    "geom:latitude":2.7337,
+    "geom:longitude":20.35809,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Banda",
+    "gn:country_code":"CD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219636,
+    "gn:latitude":2.7337,
+    "gn:longitude":20.35809,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Banda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219636
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5e0aab63c73196ddaa65fba4d3a754e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1292951839,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1292951839,
+    "wof:lastmodified":1537059695,
+    "wof:name":"Banda",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35809,
+    2.7337,
+    20.35809,
+    2.7337
+],
+  "geometry": {"coordinates":[20.35809,2.7337],"type":"Point"}
+}

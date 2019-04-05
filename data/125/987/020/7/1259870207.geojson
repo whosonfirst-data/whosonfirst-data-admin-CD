@@ -1,0 +1,67 @@
+{
+  "id": 1259870207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93286,-4.98564,13.93286,-4.98564",
+    "geom:latitude":-4.98564,
+    "geom:longitude":13.93286,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Wombo",
+    "gn:country_code":"CD",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442632,
+    "gn:latitude":-4.98564,
+    "gn:longitude":13.93286,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Wombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442632
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aaaf54c6fb0c60a1cb8bf1e6e550a68d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1259870207,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1259870207,
+    "wof:lastmodified":1536798453,
+    "wof:name":"Wombo",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93286,
+    -4.98564,
+    13.93286,
+    -4.98564
+],
+  "geometry": {"coordinates":[13.93286,-4.98564],"type":"Point"}
+}

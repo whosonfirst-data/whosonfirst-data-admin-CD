@@ -1,0 +1,67 @@
+{
+  "id": 1242863143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41104,-4.12444,27.41104,-4.12444",
+    "geom:latitude":-4.12444,
+    "geom:longitude":27.41104,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Amusini",
+    "gn:country_code":"CD",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220325,
+    "gn:latitude":-4.12444,
+    "gn:longitude":27.41104,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Amusini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220325
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"74bcc1caa471300d1bf26c73c50454a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1242863143,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1242863143,
+    "wof:lastmodified":1536652224,
+    "wof:name":"Amusini",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41104,
+    -4.12444,
+    27.41104,
+    -4.12444
+],
+  "geometry": {"coordinates":[27.41104,-4.12444],"type":"Point"}
+}

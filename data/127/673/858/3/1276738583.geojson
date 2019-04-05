@@ -1,0 +1,67 @@
+{
+  "id": 1276738583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4657,-4.56474,20.4657,-4.56474",
+    "geom:latitude":-4.56474,
+    "geom:longitude":20.4657,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shakuema",
+    "gn:country_code":"CD",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8444015,
+    "gn:latitude":-4.56474,
+    "gn:longitude":20.4657,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shakuema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8444015
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"123c5bc3e4497db5522fbd3f1343d863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276738583,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276738583,
+    "wof:lastmodified":1536733134,
+    "wof:name":"Shakuema",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4657,
+    -4.56474,
+    20.4657,
+    -4.56474
+],
+  "geometry": {"coordinates":[20.4657,-4.56474],"type":"Point"}
+}

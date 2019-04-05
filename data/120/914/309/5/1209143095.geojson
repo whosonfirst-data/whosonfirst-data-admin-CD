@@ -1,0 +1,65 @@
+{
+  "id": 1209143095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.85,-1.4,22.85,-1.4",
+    "geom:latitude":-1.4,
+    "geom:longitude":22.85,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Yamputu",
+    "gn:country_code":"CD",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203754,
+    "gn:latitude":-1.4,
+    "gn:longitude":22.85,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yamputu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yampulu",
+        "Yamputu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203754
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c45446d165c3dc505f67e6b01071ee05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209143095
+        }
+    ],
+    "wof:id":1209143095,
+    "wof:lastmodified":1537590305,
+    "wof:name":"Yamputu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.85,
+    -1.4,
+    22.85,
+    -1.4
+],
+  "geometry": {"coordinates":[22.85,-1.4],"type":"Point"}
+}

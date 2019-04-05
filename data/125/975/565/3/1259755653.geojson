@@ -1,0 +1,67 @@
+{
+  "id": 1259755653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.99227,3.3052,29.99227,3.3052",
+    "geom:latitude":3.3052,
+    "geom:longitude":29.99227,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Atima",
+    "gn:country_code":"CD",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220175,
+    "gn:latitude":3.3052,
+    "gn:longitude":29.99227,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Atima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220175
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ee044a7586a8119d4a9f785581184bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1259755653,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259755653,
+    "wof:lastmodified":1536963127,
+    "wof:name":"Atima",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99227,
+    3.3052,
+    29.99227,
+    3.3052
+],
+  "geometry": {"coordinates":[29.99227,3.3052],"type":"Point"}
+}

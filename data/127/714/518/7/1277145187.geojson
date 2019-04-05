@@ -1,0 +1,70 @@
+{
+  "id": 1277145187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19259,-1.56583,18.19259,-1.56583",
+    "geom:latitude":-1.56583,
+    "geom:longitude":18.19259,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Lombi",
+    "gn:country_code":"CD",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313575,
+    "gn:latitude":-1.56583,
+    "gn:longitude":18.19259,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lombi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313575
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0bc355777a0868d94a0b64c986dba3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1277145187,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1277145187,
+    "wof:lastmodified":1537590523,
+    "wof:name":"Lombi",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19259,
+    -1.56583,
+    18.19259,
+    -1.56583
+],
+  "geometry": {"coordinates":[18.19259,-1.56583],"type":"Point"}
+}

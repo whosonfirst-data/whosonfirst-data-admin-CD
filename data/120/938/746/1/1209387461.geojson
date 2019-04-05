@@ -1,0 +1,61 @@
+{
+  "id": 1209387461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7427,2.07212,27.7427,2.07212",
+    "geom:latitude":2.07212,
+    "geom:longitude":27.7427,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Atagua",
+    "gn:country_code":"CD",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145461,
+    "gn:latitude":2.07212,
+    "gn:longitude":27.7427,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Atagua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145461
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9261a9b4e617992aab474033a990a8c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209387461
+        }
+    ],
+    "wof:id":1209387461,
+    "wof:lastmodified":1536288575,
+    "wof:name":"Atagua",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7427,
+    2.07212,
+    27.7427,
+    2.07212
+],
+  "geometry": {"coordinates":[27.7427,2.07212],"type":"Point"}
+}

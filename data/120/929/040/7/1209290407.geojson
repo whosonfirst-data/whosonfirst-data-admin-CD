@@ -1,0 +1,61 @@
+{
+  "id": 1209290407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.06583,-6.66288,20.06583,-6.66288",
+    "geom:latitude":-6.66288,
+    "geom:longitude":20.06583,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shambwania",
+    "gn:country_code":"CD",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282949,
+    "gn:latitude":-6.66288,
+    "gn:longitude":20.06583,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shambwania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282949
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"250d70b71a7ea2620821cd1f2cd16be0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209290407
+        }
+    ],
+    "wof:id":1209290407,
+    "wof:lastmodified":1536291713,
+    "wof:name":"Shambwania",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.06583,
+    -6.66288,
+    20.06583,
+    -6.66288
+],
+  "geometry": {"coordinates":[20.06583,-6.66288],"type":"Point"}
+}

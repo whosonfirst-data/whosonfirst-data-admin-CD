@@ -1,0 +1,67 @@
+{
+  "id": 1310570131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.89796,-9.73507,22.89796,-9.73507",
+    "geom:latitude":-9.73507,
+    "geom:longitude":22.89796,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Samukao",
+    "gn:country_code":"CD",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461556,
+    "gn:latitude":-9.73507,
+    "gn:longitude":22.89796,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Samukao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461556
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d3eb599e9f3b75a8c4c84ccd4763c037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1310570131,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310570131,
+    "wof:lastmodified":1536822926,
+    "wof:name":"Samukao",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.89796,
+    -9.73507,
+    22.89796,
+    -9.73507
+],
+  "geometry": {"coordinates":[22.89796,-9.73507],"type":"Point"}
+}

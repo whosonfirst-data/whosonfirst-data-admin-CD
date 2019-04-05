@@ -1,0 +1,67 @@
+{
+  "id": 1226398233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.19168,-3.02185,17.19168,-3.02185",
+    "geom:latitude":-3.02185,
+    "geom:longitude":17.19168,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kembali-Mai",
+    "gn:country_code":"CD",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314951,
+    "gn:latitude":-3.02185,
+    "gn:longitude":17.19168,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kembali-Mai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314951
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3cef5a9e1ec015908a7368b109392ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1226398233,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226398233,
+    "wof:lastmodified":1536714358,
+    "wof:name":"Kembali-Mai",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.19168,
+    -3.02185,
+    17.19168,
+    -3.02185
+],
+  "geometry": {"coordinates":[17.19168,-3.02185],"type":"Point"}
+}

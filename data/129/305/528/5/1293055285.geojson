@@ -1,0 +1,67 @@
+{
+  "id": 1293055285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.33897,-4.26433,24.33897,-4.26433",
+    "geom:latitude":-4.26433,
+    "geom:longitude":24.33897,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Okandjaluka",
+    "gn:country_code":"CD",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8250122,
+    "gn:latitude":-4.26433,
+    "gn:longitude":24.33897,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Okandjaluka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8250122
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3eff073c264f6cd02ed6bead84372f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1293055285,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1293055285,
+    "wof:lastmodified":1536913827,
+    "wof:name":"Okandjaluka",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.33897,
+    -4.26433,
+    24.33897,
+    -4.26433
+],
+  "geometry": {"coordinates":[24.33897,-4.26433],"type":"Point"}
+}

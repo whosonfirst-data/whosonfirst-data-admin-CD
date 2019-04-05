@@ -1,0 +1,67 @@
+{
+  "id": 1293181955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.23333,0.31667,29.23333,0.31667",
+    "geom:latitude":0.31667,
+    "geom:longitude":29.23333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kiavaranga",
+    "gn:country_code":"CD",
+    "gn:dem":1458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213357,
+    "gn:latitude":0.31667,
+    "gn:longitude":29.23333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kiavaranga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213357
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"86978758465977ded5a8d9f97dacf3a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1293181955,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1293181955,
+    "wof:lastmodified":1536730971,
+    "wof:name":"Kiavaranga",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.23333,
+    0.31667,
+    29.23333,
+    0.31667
+],
+  "geometry": {"coordinates":[29.23333,0.31667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310466649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.56719,-4.66253,19.56719,-4.66253",
+    "geom:latitude":-4.66253,
+    "geom:longitude":19.56719,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Luele-Intsumu",
+    "gn:country_code":"CD",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313440,
+    "gn:latitude":-4.66253,
+    "gn:longitude":19.56719,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Luele-Intsumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luele",
+        "Luele-Intsumu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313440
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f474f799abd610eb8dae9048ecc54eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1310466649,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310466649,
+    "wof:lastmodified":1537590522,
+    "wof:name":"Luele-Intsumu",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.56719,
+    -4.66253,
+    19.56719,
+    -4.66253
+],
+  "geometry": {"coordinates":[19.56719,-4.66253],"type":"Point"}
+}

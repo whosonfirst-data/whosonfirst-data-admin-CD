@@ -1,0 +1,70 @@
+{
+  "id": 1277036579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.60381,-3.44016,17.60381,-3.44016",
+    "geom:latitude":-3.44016,
+    "geom:longitude":17.60381,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mushie-Petane",
+    "gn:country_code":"CD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312246,
+    "gn:latitude":-3.44016,
+    "gn:longitude":17.60381,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mushie-Petane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mushie-Pentane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312246
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a49d7ca8781695180ffe0af3e5ef16cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1277036579,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1277036579,
+    "wof:lastmodified":1537590510,
+    "wof:name":"Mushie-Petane",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.60381,
+    -3.44016,
+    17.60381,
+    -3.44016
+],
+  "geometry": {"coordinates":[17.60381,-3.44016],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243229275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.65086,-6.63568,17.65086,-6.63568",
+    "geom:latitude":-6.63568,
+    "geom:longitude":17.65086,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mapanda",
+    "gn:country_code":"CD",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313034,
+    "gn:latitude":-6.63568,
+    "gn:longitude":17.65086,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mapanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313034
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"97f1470dea6233af47ff3bf2ded7cad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1243229275,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243229275,
+    "wof:lastmodified":1536619598,
+    "wof:name":"Mapanda",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.65086,
+    -6.63568,
+    17.65086,
+    -6.63568
+],
+  "geometry": {"coordinates":[17.65086,-6.63568],"type":"Point"}
+}

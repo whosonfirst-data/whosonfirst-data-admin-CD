@@ -1,0 +1,71 @@
+{
+  "id": 1310079655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.73609,-6.87745,23.73609,-6.87745",
+    "geom:latitude":-6.87745,
+    "geom:longitude":23.73609,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kambaye",
+    "gn:country_code":"CD",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214673,
+    "gn:latitude":-6.87745,
+    "gn:longitude":23.73609,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kambaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kambay",
+        "Kambaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214673
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a99ce97ca40893dd2b2ff5cd7ed4da4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1310079655,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1310079655,
+    "wof:lastmodified":1537590417,
+    "wof:name":"Kambaye",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.73609,
+    -6.87745,
+    23.73609,
+    -6.87745
+],
+  "geometry": {"coordinates":[23.73609,-6.87745],"type":"Point"}
+}

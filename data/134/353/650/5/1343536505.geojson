@@ -1,0 +1,65 @@
+{
+  "id": 1343536505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.7739,-6.67938,16.7739,-6.67938",
+    "geom:latitude":-6.67938,
+    "geom:longitude":16.7739,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Manzengele",
+    "gn:country_code":"CD",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331621,
+    "gn:latitude":-6.67938,
+    "gn:longitude":16.7739,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Manzengele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Luanda",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331621
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e6d694700973c67d8ed0872fc1383e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":1343536505,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343536505,
+    "wof:lastmodified":1536635298,
+    "wof:name":"Manzengele",
+    "wof:parent_id":85669985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.7739,
+    -6.67938,
+    16.7739,
+    -6.67938
+],
+  "geometry": {"coordinates":[16.7739,-6.67938],"type":"Point"}
+}

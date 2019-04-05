@@ -1,0 +1,67 @@
+{
+  "id": 1293065839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.09191,-3.68016,18.09191,-3.68016",
+    "geom:latitude":-3.68016,
+    "geom:longitude":18.09191,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ti",
+    "gn:country_code":"CD",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8446914,
+    "gn:latitude":-3.68016,
+    "gn:longitude":18.09191,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8446914
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cfacfe51979d4f13e1222ed35a8062d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293065839,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293065839,
+    "wof:lastmodified":1536898054,
+    "wof:name":"Ti",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.09191,
+    -3.68016,
+    18.09191,
+    -3.68016
+],
+  "geometry": {"coordinates":[18.09191,-3.68016],"type":"Point"}
+}

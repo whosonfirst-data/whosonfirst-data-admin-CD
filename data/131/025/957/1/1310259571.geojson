@@ -1,0 +1,71 @@
+{
+  "id": 1310259571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.41168,3.40823,20.41168,3.40823",
+    "geom:latitude":3.40823,
+    "geom:longitude":20.41168,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Boyawe",
+    "gn:country_code":"CD",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217908,
+    "gn:latitude":3.40823,
+    "gn:longitude":20.41168,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Boyawe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boyamwe",
+        "Boyawe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217908
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5ec4c78e731ac39601257c0c5642501d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1310259571,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310259571,
+    "wof:lastmodified":1537590450,
+    "wof:name":"Boyawe",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.41168,
+    3.40823,
+    20.41168,
+    3.40823
+],
+  "geometry": {"coordinates":[20.41168,3.40823],"type":"Point"}
+}

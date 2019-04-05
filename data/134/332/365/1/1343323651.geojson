@@ -1,0 +1,71 @@
+{
+  "id": 1343323651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.73804,-5.6002,17.73804,-5.6002",
+    "geom:latitude":-5.6002,
+    "geom:longitude":17.73804,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Sekwa-Kiloka",
+    "gn:country_code":"CD",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311538,
+    "gn:latitude":-5.6002,
+    "gn:longitude":17.73804,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sekwa-Kiloka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sekwa-Kitoka",
+        "Sekwa-Kiloka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311538
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2cf4de5054ee60a794ea4901f3fc20f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1343323651,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343323651,
+    "wof:lastmodified":1537590502,
+    "wof:name":"Sekwa-Kiloka",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.73803999999999,
+    -5.6002,
+    17.73803999999999,
+    -5.6002
+],
+  "geometry": {"coordinates":[17.73803999999999,-5.6002],"type":"Point"}
+}

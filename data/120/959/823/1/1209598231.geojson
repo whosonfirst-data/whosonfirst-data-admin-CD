@@ -1,0 +1,61 @@
+{
+  "id": 1209598231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.22109,-7.73716,26.22109,-7.73716",
+    "geom:latitude":-7.73716,
+    "geom:longitude":26.22109,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kizima",
+    "gn:country_code":"CD",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212488,
+    "gn:latitude":-7.73716,
+    "gn:longitude":26.22109,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kizima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212488
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"20dddf9ef2a40c99315e68a3789fb967",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209598231
+        }
+    ],
+    "wof:id":1209598231,
+    "wof:lastmodified":1536282253,
+    "wof:name":"Kizima",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.221090000000004,
+    -7.73716,
+    26.221090000000004,
+    -7.73716
+],
+  "geometry": {"coordinates":[26.22109,-7.73716],"type":"Point"}
+}

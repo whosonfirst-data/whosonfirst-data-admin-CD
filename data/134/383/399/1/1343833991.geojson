@@ -1,0 +1,67 @@
+{
+  "id": 1343833991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18059,-4.386,20.18059,-4.386",
+    "geom:latitude":-4.386,
+    "geom:longitude":20.18059,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ngoie",
+    "gn:country_code":"CD",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207184,
+    "gn:latitude":-4.386,
+    "gn:longitude":20.18059,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngoie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207184
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d1f3a7aadb77f297a101324803d5d1dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1343833991,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343833991,
+    "wof:lastmodified":1536705128,
+    "wof:name":"Ngoie",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18059,
+    -4.386,
+    20.18059,
+    -4.386
+],
+  "geometry": {"coordinates":[20.18059,-4.386],"type":"Point"}
+}

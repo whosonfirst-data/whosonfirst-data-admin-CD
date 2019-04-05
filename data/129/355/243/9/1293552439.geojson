@@ -1,0 +1,67 @@
+{
+  "id": 1293552439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.45852,-6.62262,20.45852,-6.62262",
+    "geom:latitude":-6.62262,
+    "geom:longitude":20.45852,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Lambo-Mukaji",
+    "gn:country_code":"CD",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283286,
+    "gn:latitude":-6.62262,
+    "gn:longitude":20.45852,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lambo-Mukaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283286
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f083c9c6a537460bb2ca448cbe55080d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1293552439,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293552439,
+    "wof:lastmodified":1536693842,
+    "wof:name":"Lambo-Mukaji",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.45852,
+    -6.62262,
+    20.45852,
+    -6.62262
+],
+  "geometry": {"coordinates":[20.45852,-6.62262],"type":"Point"}
+}

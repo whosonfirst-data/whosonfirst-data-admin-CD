@@ -1,0 +1,61 @@
+{
+  "id": 1209177699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74536,2.27987,30.74536,2.27987",
+    "geom:latitude":2.27987,
+    "geom:longitude":30.74536,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Oniaka",
+    "gn:country_code":"CD",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143207,
+    "gn:latitude":2.27987,
+    "gn:longitude":30.74536,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Oniaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143207
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2953929d30967580b38455e554e80372",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209177699
+        }
+    ],
+    "wof:id":1209177699,
+    "wof:lastmodified":1536295366,
+    "wof:name":"Oniaka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74536,
+    2.2798700000000003,
+    30.74536,
+    2.2798700000000003
+],
+  "geometry": {"coordinates":[30.74536,2.27987],"type":"Point"}
+}

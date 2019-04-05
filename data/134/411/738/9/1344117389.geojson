@@ -1,0 +1,71 @@
+{
+  "id": 1344117389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.35,-1.1,24.35,-1.1",
+    "geom:latitude":-1.1,
+    "geom:longitude":24.35,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Osongi II",
+    "gn:country_code":"CD",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206509,
+    "gn:latitude":-1.1,
+    "gn:longitude":24.35,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Osongi II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osongi Likunda",
+        "Osongi II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206509
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0441867b90a646ccb63570fb1b6b354d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1344117389,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1344117389,
+    "wof:lastmodified":1537590337,
+    "wof:name":"Osongi II",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.35,
+    -1.1,
+    24.35,
+    -1.1
+],
+  "geometry": {"coordinates":[24.35,-1.1],"type":"Point"}
+}

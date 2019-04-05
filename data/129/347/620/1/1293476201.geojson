@@ -1,0 +1,67 @@
+{
+  "id": 1293476201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66612,3.93262,23.66612,3.93262",
+    "geom:latitude":3.93262,
+    "geom:longitude":23.66612,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Zowai",
+    "gn:country_code":"CD",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8197558,
+    "gn:latitude":3.93262,
+    "gn:longitude":23.66612,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zowai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8197558
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"db2100eeed80ee0260cdafcdf68dccc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1293476201,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293476201,
+    "wof:lastmodified":1536803327,
+    "wof:name":"Zowai",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66612000000001,
+    3.93262,
+    23.66612000000001,
+    3.93262
+],
+  "geometry": {"coordinates":[23.66612000000001,3.93262],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360046775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04001,2.59635,20.04001,2.59635",
+    "geom:latitude":2.59635,
+    "geom:longitude":20.04001,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bako",
+    "gn:country_code":"CD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219824,
+    "gn:latitude":2.59635,
+    "gn:longitude":20.04001,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219824
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f64d40842ce248326f4199628b461ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1360046775,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1360046775,
+    "wof:lastmodified":1537000343,
+    "wof:name":"Bako",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04001,
+    2.59635,
+    20.04001,
+    2.59635
+],
+  "geometry": {"coordinates":[20.04001,2.59635],"type":"Point"}
+}

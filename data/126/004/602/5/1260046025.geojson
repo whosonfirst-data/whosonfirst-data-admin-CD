@@ -1,0 +1,67 @@
+{
+  "id": 1260046025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.22837,-6.40929,20.22837,-6.40929",
+    "geom:latitude":-6.40929,
+    "geom:longitude":20.22837,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kakungula",
+    "gn:country_code":"CD",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283116,
+    "gn:latitude":-6.40929,
+    "gn:longitude":20.22837,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kakungula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283116
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"273a06f954354b775320040ea3deee7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1260046025,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1260046025,
+    "wof:lastmodified":1537040404,
+    "wof:name":"Kakungula",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.22837,
+    -6.40929,
+    20.22837,
+    -6.40929
+],
+  "geometry": {"coordinates":[20.22837,-6.40929],"type":"Point"}
+}

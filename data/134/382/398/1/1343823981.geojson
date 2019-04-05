@@ -1,0 +1,67 @@
+{
+  "id": 1343823981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14167,-6.70486,21.14167,-6.70486",
+    "geom:latitude":-6.70486,
+    "geom:longitude":21.14167,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kalamba-Muana",
+    "gn:country_code":"CD",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327436,
+    "gn:latitude":-6.70486,
+    "gn:longitude":21.14167,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalamba-Muana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327436
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"876ca8d88e06c3a6a8f4ab21bc8f0918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1343823981,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343823981,
+    "wof:lastmodified":1536719743,
+    "wof:name":"Kalamba-Muana",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14167,
+    -6.70486,
+    21.14167,
+    -6.70486
+],
+  "geometry": {"coordinates":[21.14167,-6.70486],"type":"Point"}
+}

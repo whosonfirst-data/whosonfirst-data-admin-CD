@@ -1,0 +1,67 @@
+{
+  "id": 1327396901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.14258,-6.70698,21.14258,-6.70698",
+    "geom:latitude":-6.70698,
+    "geom:longitude":21.14258,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Difudiabidia",
+    "gn:country_code":"CD",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327437,
+    "gn:latitude":-6.70698,
+    "gn:longitude":21.14258,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Difudiabidia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327437
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"66d30110dc8b899cd3a4a8d6db794f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1327396901,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327396901,
+    "wof:lastmodified":1536732379,
+    "wof:name":"Difudiabidia",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.14258,
+    -6.70698,
+    21.14258,
+    -6.70698
+],
+  "geometry": {"coordinates":[21.14258,-6.70698],"type":"Point"}
+}

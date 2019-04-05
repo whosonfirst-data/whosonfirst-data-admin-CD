@@ -1,0 +1,67 @@
+{
+  "id": 1242935593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05601,-6.11881,18.05601,-6.11881",
+    "geom:latitude":-6.11881,
+    "geom:longitude":18.05601,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tsako-Fioti",
+    "gn:country_code":"CD",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8334448,
+    "gn:latitude":-6.11881,
+    "gn:longitude":18.05601,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tsako-Fioti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8334448
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d5adfc4c67ad8da4211493fc98adf663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1242935593,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1242935593,
+    "wof:lastmodified":1537043416,
+    "wof:name":"Tsako-Fioti",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05601,
+    -6.11881,
+    18.05601,
+    -6.11881
+],
+  "geometry": {"coordinates":[18.05601,-6.11881],"type":"Point"}
+}

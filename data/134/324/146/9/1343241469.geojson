@@ -1,0 +1,67 @@
+{
+  "id": 1343241469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.793,2.83189,26.793,2.83189",
+    "geom:latitude":2.83189,
+    "geom:longitude":26.793,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gugudulu",
+    "gn:country_code":"CD",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216214,
+    "gn:latitude":2.83189,
+    "gn:longitude":26.793,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gugudulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216214
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"903e10d7c147f7d9e060f104ebb251ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1343241469,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343241469,
+    "wof:lastmodified":1537059809,
+    "wof:name":"Gugudulu",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.79300000000001,
+    2.83189,
+    26.79300000000001,
+    2.83189
+],
+  "geometry": {"coordinates":[26.79300000000001,2.83189],"type":"Point"}
+}

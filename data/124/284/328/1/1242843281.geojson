@@ -1,0 +1,67 @@
+{
+  "id": 1242843281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.01998,-10.06225,23.01998,-10.06225",
+    "geom:latitude":-10.06225,
+    "geom:longitude":23.01998,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Katshongo",
+    "gn:country_code":"CD",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466476,
+    "gn:latitude":-10.06225,
+    "gn:longitude":23.01998,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Katshongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466476
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5461e0ca65f269559931e137122b58a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1242843281,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242843281,
+    "wof:lastmodified":1536681047,
+    "wof:name":"Katshongo",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.01998,
+    -10.06225,
+    23.01998,
+    -10.06225
+],
+  "geometry": {"coordinates":[23.01998,-10.06225],"type":"Point"}
+}

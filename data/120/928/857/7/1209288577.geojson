@@ -1,0 +1,65 @@
+{
+  "id": 1209288577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3846,-6.87028,23.3846,-6.87028",
+    "geom:latitude":-6.87028,
+    "geom:longitude":23.3846,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Tshipoko",
+    "gn:country_code":"CD",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204798,
+    "gn:latitude":-6.87028,
+    "gn:longitude":23.3846,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshipoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshiboko",
+        "Tshipoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204798
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a9bdf0500efd7c380d02189a47a8d35e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209288577
+        }
+    ],
+    "wof:id":1209288577,
+    "wof:lastmodified":1537590316,
+    "wof:name":"Tshipoko",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3846,
+    -6.87028,
+    23.3846,
+    -6.87028
+],
+  "geometry": {"coordinates":[23.3846,-6.87028],"type":"Point"}
+}

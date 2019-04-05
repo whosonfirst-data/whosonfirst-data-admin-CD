@@ -1,0 +1,65 @@
+{
+  "id": 1209662921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9,-3.01667,24.9,-3.01667",
+    "geom:latitude":-3.01667,
+    "geom:longitude":24.9,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Pene-Gongo II",
+    "gn:country_code":"CD",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206336,
+    "gn:latitude":-3.01667,
+    "gn:longitude":24.9,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Pene-Gongo II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pene Gongo",
+        "Pene-Gongo II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206336
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cc56a9d102cdfdde0d94a47eb238b7d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209662921
+        }
+    ],
+    "wof:id":1209662921,
+    "wof:lastmodified":1537590335,
+    "wof:name":"Pene-Gongo II",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9,
+    -3.01667,
+    24.9,
+    -3.01667
+],
+  "geometry": {"coordinates":[24.9,-3.01667],"type":"Point"}
+}

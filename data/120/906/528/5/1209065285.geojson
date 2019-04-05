@@ -1,0 +1,61 @@
+{
+  "id": 1209065285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.14141,-6.25882,24.14141,-6.25882",
+    "geom:latitude":-6.25882,
+    "geom:longitude":24.14141,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kioko",
+    "gn:country_code":"CD",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9997739,
+    "gn:latitude":-6.25882,
+    "gn:longitude":24.14141,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kioko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9997739
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a4ab4f6691a41b2dd6e3202861e21887",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209065285
+        }
+    ],
+    "wof:id":1209065285,
+    "wof:lastmodified":1536298824,
+    "wof:name":"Kioko",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.14141,
+    -6.25882,
+    24.14141,
+    -6.25882
+],
+  "geometry": {"coordinates":[24.14141,-6.25882],"type":"Point"}
+}

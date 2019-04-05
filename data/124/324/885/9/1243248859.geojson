@@ -1,0 +1,70 @@
+{
+  "id": 1243248859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51847,-4.74579,15.51847,-4.74579",
+    "geom:latitude":-4.74579,
+    "geom:longitude":15.51847,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mangala",
+    "gn:country_code":"CD",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311778,
+    "gn:latitude":-4.74579,
+    "gn:longitude":15.51847,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Mangala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pangala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311778
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"42f41d2f244a39411db4513f54e0ad57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1243248859,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1243248859,
+    "wof:lastmodified":1537590504,
+    "wof:name":"Mangala",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51847,
+    -4.74579,
+    15.51847,
+    -4.74579
+],
+  "geometry": {"coordinates":[15.51847,-4.74579],"type":"Point"}
+}

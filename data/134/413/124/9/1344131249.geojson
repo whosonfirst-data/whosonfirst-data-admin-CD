@@ -1,0 +1,67 @@
+{
+  "id": 1344131249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.98898,-5.42041,17.98898,-5.42041",
+    "geom:latitude":-5.42041,
+    "geom:longitude":17.98898,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kingondi",
+    "gn:country_code":"CD",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275136,
+    "gn:latitude":-5.42041,
+    "gn:longitude":17.98898,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kingondi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275136
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4abf9032a92fbfe4e134053739ab7e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1344131249,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1344131249,
+    "wof:lastmodified":1536774180,
+    "wof:name":"Kingondi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.98897999999999,
+    -5.42041,
+    17.98897999999999,
+    -5.42041
+],
+  "geometry": {"coordinates":[17.98897999999999,-5.42041],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209875075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.70328,-5.98542,24.70328,-5.98542",
+    "geom:latitude":-5.98542,
+    "geom:longitude":24.70328,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gefu Totue",
+    "gn:country_code":"CD",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216377,
+    "gn:latitude":-5.98542,
+    "gn:longitude":24.70328,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gefu Totue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gefu",
+        "Gefu Totue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216377
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"65718833c7848c118ba5602d0a4bbb20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1209875075,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1209875075,
+    "wof:lastmodified":1537590435,
+    "wof:name":"Gefu Totue",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.70328,
+    -5.98542,
+    24.70328,
+    -5.98542
+],
+  "geometry": {"coordinates":[24.70328,-5.98542],"type":"Point"}
+}

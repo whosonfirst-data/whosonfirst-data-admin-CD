@@ -1,0 +1,67 @@
+{
+  "id": 1276406249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.26025,2.29105,29.26025,2.29105",
+    "geom:latitude":2.29105,
+    "geom:longitude":29.26025,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kuzi",
+    "gn:country_code":"CD",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212151,
+    "gn:latitude":2.29105,
+    "gn:longitude":29.26025,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kuzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212151
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a02678a93cf4b75df7b741a606a50160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1276406249,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276406249,
+    "wof:lastmodified":1536680980,
+    "wof:name":"Kuzi",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.26025,
+    2.29105,
+    29.26025,
+    2.29105
+],
+  "geometry": {"coordinates":[29.26025,2.29105],"type":"Point"}
+}

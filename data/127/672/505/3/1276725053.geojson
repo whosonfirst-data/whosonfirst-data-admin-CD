@@ -1,0 +1,67 @@
+{
+  "id": 1276725053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75146,-6.78298,20.75146,-6.78298",
+    "geom:latitude":-6.78298,
+    "geom:longitude":20.75146,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muamuzombo",
+    "gn:country_code":"CD",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283388,
+    "gn:latitude":-6.78298,
+    "gn:longitude":20.75146,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Muamuzombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283388
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b3a588908ba1e5e4b53ea3c8460081e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276725053,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276725053,
+    "wof:lastmodified":1536750994,
+    "wof:name":"Muamuzombo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75146,
+    -6.78298,
+    20.75146,
+    -6.78298
+],
+  "geometry": {"coordinates":[20.75146,-6.78298],"type":"Point"}
+}

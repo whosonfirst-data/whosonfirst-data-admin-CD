@@ -1,0 +1,67 @@
+{
+  "id": 1276854613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.99393,-9.92133,26.99393,-9.92133",
+    "geom:latitude":-9.92133,
+    "geom:longitude":26.99393,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Milambo-Kabobo",
+    "gn:country_code":"CD",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10054829,
+    "gn:latitude":-9.92133,
+    "gn:longitude":26.99393,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Milambo-Kabobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10054829
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"660c232cf3ae225146a018a156df72bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1276854613,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276854613,
+    "wof:lastmodified":1537071864,
+    "wof:name":"Milambo-Kabobo",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.99393,
+    -9.92133,
+    26.99393,
+    -9.92133
+],
+  "geometry": {"coordinates":[26.99393,-9.92133],"type":"Point"}
+}

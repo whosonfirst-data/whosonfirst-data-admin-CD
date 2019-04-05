@@ -1,0 +1,61 @@
+{
+  "id": 1209377989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35991,-5.71661,20.35991,-5.71661",
+    "geom:latitude":-5.71661,
+    "geom:longitude":20.35991,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ilolo-Mukese",
+    "gn:country_code":"CD",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277011,
+    "gn:latitude":-5.71661,
+    "gn:longitude":20.35991,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ilolo-Mukese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277011
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"61f615020958637fd3679e2bbf1f38b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209377989
+        }
+    ],
+    "wof:id":1209377989,
+    "wof:lastmodified":1536288882,
+    "wof:name":"Ilolo-Mukese",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35991,
+    -5.71661,
+    20.35991,
+    -5.71661
+],
+  "geometry": {"coordinates":[20.35991,-5.71661],"type":"Point"}
+}

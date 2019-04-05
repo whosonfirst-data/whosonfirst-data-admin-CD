@@ -1,0 +1,67 @@
+{
+  "id": 1326686093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.58224,-6.0047,22.58224,-6.0047",
+    "geom:latitude":-6.0047,
+    "geom:longitude":22.58224,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Lumanisha",
+    "gn:country_code":"CD",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283894,
+    "gn:latitude":-6.0047,
+    "gn:longitude":22.58224,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lumanisha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283894
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ea8caa4b110bf5251f9cfdeb51776472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680487,
+            "locality_id":1326686093,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1326686093,
+    "wof:lastmodified":1536762666,
+    "wof:name":"Lumanisha",
+    "wof:parent_id":1091680487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.58224,
+    -6.0047,
+    22.58224,
+    -6.0047
+],
+  "geometry": {"coordinates":[22.58224,-6.0047],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344123019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.445,-4.76109,21.445,-4.76109",
+    "geom:latitude":-4.76109,
+    "geom:longitude":21.445,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ngoyo",
+    "gn:country_code":"CD",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207143,
+    "gn:latitude":-4.76109,
+    "gn:longitude":21.445,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207143
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e5cbb0103cbeb0a51e13c99998a1f873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1344123019,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1344123019,
+    "wof:lastmodified":1536785919,
+    "wof:name":"Ngoyo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.445,
+    -4.76109,
+    21.445,
+    -4.76109
+],
+  "geometry": {"coordinates":[21.445,-4.76109],"type":"Point"}
+}

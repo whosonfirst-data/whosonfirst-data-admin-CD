@@ -1,0 +1,67 @@
+{
+  "id": 1276194461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6291,-9.93645,23.6291,-9.93645",
+    "geom:latitude":-9.93645,
+    "geom:longitude":23.6291,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshihamba",
+    "gn:country_code":"CD",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462327,
+    "gn:latitude":-9.93645,
+    "gn:longitude":23.6291,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshihamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462327
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"05116436a47113c5dbfb9a6d75ab4662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1276194461,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276194461,
+    "wof:lastmodified":1536964951,
+    "wof:name":"Tshihamba",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6291,
+    -9.93645,
+    23.6291,
+    -9.93645
+],
+  "geometry": {"coordinates":[23.6291,-9.93645],"type":"Point"}
+}

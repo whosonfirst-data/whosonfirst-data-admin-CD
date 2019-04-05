@@ -1,0 +1,67 @@
+{
+  "id": 1243518735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.66667,-5.8,25.66667,-5.8",
+    "geom:latitude":-5.8,
+    "geom:longitude":25.66667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kikumbi",
+    "gn:country_code":"CD",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213124,
+    "gn:latitude":-5.8,
+    "gn:longitude":25.66667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kikumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213124
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ca69ed3c06abdf527819c41e8a072cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1243518735,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1243518735,
+    "wof:lastmodified":1536701684,
+    "wof:name":"Kikumbi",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.66667,
+    -5.8,
+    25.66667,
+    -5.8
+],
+  "geometry": {"coordinates":[25.66667,-5.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242940349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.31034,4.31443,20.31034,4.31443",
+    "geom:latitude":4.31443,
+    "geom:longitude":20.31034,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Boeke",
+    "gn:country_code":"CD",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218683,
+    "gn:latitude":4.31443,
+    "gn:longitude":20.31034,
+    "gn:modification_date":"2018-07-24",
+    "gn:name":"Boeke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218683
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1e03959fa02a858862a6e01460a130ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1242940349,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1242940349,
+    "wof:lastmodified":1537036773,
+    "wof:name":"Boeke",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.31034,
+    4.31443,
+    20.31034,
+    4.31443
+],
+  "geometry": {"coordinates":[20.31034,4.31443],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293941901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47658,-11.11964,22.47658,-11.11964",
+    "geom:latitude":-11.11964,
+    "geom:longitude":22.47658,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kumesa",
+    "gn:country_code":"CD",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10224643,
+    "gn:latitude":-11.11964,
+    "gn:longitude":22.47658,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kumesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10224643
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2553318623c8dfa67903297863105b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1293941901,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293941901,
+    "wof:lastmodified":1536627539,
+    "wof:name":"Kumesa",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47658,
+    -11.11964,
+    22.47658,
+    -11.11964
+],
+  "geometry": {"coordinates":[22.47658,-11.11964],"type":"Point"}
+}

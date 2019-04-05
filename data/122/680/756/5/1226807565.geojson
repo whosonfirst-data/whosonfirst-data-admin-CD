@@ -1,0 +1,67 @@
+{
+  "id": 1226807565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27295,-9.96059,22.27295,-9.96059",
+    "geom:latitude":-9.96059,
+    "geom:longitude":22.27295,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sakamasa",
+    "gn:country_code":"CD",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205985,
+    "gn:latitude":-9.96059,
+    "gn:longitude":22.27295,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sakamasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205985
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"de62875ec10aa2470b50485f538c3447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226807565,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226807565,
+    "wof:lastmodified":1536624745,
+    "wof:name":"Sakamasa",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27295,
+    -9.96059,
+    22.27295,
+    -9.96059
+],
+  "geometry": {"coordinates":[22.27295,-9.96059],"type":"Point"}
+}

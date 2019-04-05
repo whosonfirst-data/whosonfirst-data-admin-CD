@@ -1,0 +1,61 @@
+{
+  "id": 1209469681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5463,3.6737,22.5463,3.6737",
+    "geom:latitude":3.6737,
+    "geom:longitude":22.5463,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Tobangene",
+    "gn:country_code":"CD",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238574,
+    "gn:latitude":3.6737,
+    "gn:longitude":22.5463,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tobangene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238574
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"72718e63d5c01b7a9eb090c5c485a080",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209469681
+        }
+    ],
+    "wof:id":1209469681,
+    "wof:lastmodified":1536286119,
+    "wof:name":"Tobangene",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5463,
+    3.6737,
+    22.5463,
+    3.6737
+],
+  "geometry": {"coordinates":[22.5463,3.6737],"type":"Point"}
+}

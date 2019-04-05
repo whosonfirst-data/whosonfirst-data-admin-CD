@@ -1,0 +1,61 @@
+{
+  "id": 1209101165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.35,-4.51667,27.35,-4.51667",
+    "geom:latitude":-4.51667,
+    "geom:longitude":27.35,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ngulungu",
+    "gn:country_code":"CD",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207126,
+    "gn:latitude":-4.51667,
+    "gn:longitude":27.35,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Ngulungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207126
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2a3393a084a1effb76aaa851fca8e797",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209101165
+        }
+    ],
+    "wof:id":1209101165,
+    "wof:lastmodified":1536297728,
+    "wof:name":"Ngulungu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.35,
+    -4.51667,
+    27.35,
+    -4.51667
+],
+  "geometry": {"coordinates":[27.35,-4.51667],"type":"Point"}
+}

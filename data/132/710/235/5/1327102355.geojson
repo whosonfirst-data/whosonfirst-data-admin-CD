@@ -1,0 +1,67 @@
+{
+  "id": 1327102355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.31292,2.19665,21.31292,2.19665",
+    "geom:latitude":2.19665,
+    "geom:longitude":21.31292,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Libangi",
+    "gn:country_code":"CD",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277750,
+    "gn:latitude":2.19665,
+    "gn:longitude":21.31292,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Libangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277750
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f844a6c7e18bd192949036f416ba3b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1327102355,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327102355,
+    "wof:lastmodified":1536659708,
+    "wof:name":"Libangi",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.31292,
+    2.19665,
+    21.31292,
+    2.19665
+],
+  "geometry": {"coordinates":[21.31292,2.19665],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259938279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.97352,-6.86269,22.97352,-6.86269",
+    "geom:latitude":-6.86269,
+    "geom:longitude":22.97352,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bakwa-Tshilenge",
+    "gn:country_code":"CD",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8285335,
+    "gn:latitude":-6.86269,
+    "gn:longitude":22.97352,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bakwa-Tshilenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8285335
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"21f7521e58d017207b04bcd6767ce404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1259938279,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1259938279,
+    "wof:lastmodified":1536700692,
+    "wof:name":"Bakwa-Tshilenge",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.97352,
+    -6.86269,
+    22.97352,
+    -6.86269
+],
+  "geometry": {"coordinates":[22.97352,-6.86269],"type":"Point"}
+}

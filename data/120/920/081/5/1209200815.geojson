@@ -1,0 +1,65 @@
+{
+  "id": 1209200815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.84282,3.50887,25.84282,3.50887",
+    "geom:latitude":3.50887,
+    "geom:longitude":25.84282,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dembia",
+    "gn:country_code":"CD",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217385,
+    "gn:latitude":3.50887,
+    "gn:longitude":25.84282,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dembia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Demba",
+        "Dembia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217385
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ad4034f91b103e6ed7fdee23692279f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209200815
+        }
+    ],
+    "wof:id":1209200815,
+    "wof:lastmodified":1537590446,
+    "wof:name":"Dembia",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.84282,
+    3.50887,
+    25.84282,
+    3.50887
+],
+  "geometry": {"coordinates":[25.84282,3.50887],"type":"Point"}
+}

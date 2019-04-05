@@ -1,0 +1,61 @@
+{
+  "id": 1209082115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9627,-6.91553,20.9627,-6.91553",
+    "geom:latitude":-6.91553,
+    "geom:longitude":20.9627,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Boi-Moke",
+    "gn:country_code":"CD",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283424,
+    "gn:latitude":-6.91553,
+    "gn:longitude":20.9627,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Boi-Moke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283424
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2d083cd8367779c933c142d197c9577c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209082115
+        }
+    ],
+    "wof:id":1209082115,
+    "wof:lastmodified":1536298303,
+    "wof:name":"Boi-Moke",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9627,
+    -6.91553,
+    20.9627,
+    -6.91553
+],
+  "geometry": {"coordinates":[20.9627,-6.91553],"type":"Point"}
+}

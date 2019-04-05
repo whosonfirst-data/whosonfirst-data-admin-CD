@@ -1,0 +1,71 @@
+{
+  "id": 1327197079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4943,-4.5997,20.4943,-4.5997",
+    "geom:latitude":-4.5997,
+    "geom:longitude":20.4943,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshipamba",
+    "gn:country_code":"CD",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204806,
+    "gn:latitude":-4.5997,
+    "gn:longitude":20.4943,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshipamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshipambo",
+        "Tshipamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204806
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6ad30407e91d49e5e7da42fd896da7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1327197079,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327197079,
+    "wof:lastmodified":1537590316,
+    "wof:name":"Tshipamba",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4943,
+    -4.5997,
+    20.4943,
+    -4.5997
+],
+  "geometry": {"coordinates":[20.4943,-4.5997],"type":"Point"}
+}

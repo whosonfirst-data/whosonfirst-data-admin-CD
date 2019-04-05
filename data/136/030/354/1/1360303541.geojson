@@ -1,0 +1,68 @@
+{
+  "id": 1360303541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.83333,-7.06667,29.83333,-7.06667",
+    "geom:latitude":-7.06667,
+    "geom:longitude":29.83333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kafifi",
+    "gn:country_code":"CD",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215328,
+    "gn:latitude":-7.06667,
+    "gn:longitude":29.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kafifi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kafifi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215328
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9fc30963cdcf78240d902668675cc55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":1360303541,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1360303541,
+    "wof:lastmodified":1537590424,
+    "wof:name":"Kafifi",
+    "wof:parent_id":85670015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.83333,
+    -7.06667,
+    29.83333,
+    -7.06667
+],
+  "geometry": {"coordinates":[29.83333,-7.06667],"type":"Point"}
+}

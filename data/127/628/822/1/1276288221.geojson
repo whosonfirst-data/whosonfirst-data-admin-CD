@@ -1,0 +1,67 @@
+{
+  "id": 1276288221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78885,4.35086,20.78885,4.35086",
+    "geom:latitude":4.35086,
+    "geom:longitude":20.78885,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Zambe",
+    "gn:country_code":"CD",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203299,
+    "gn:latitude":4.35086,
+    "gn:longitude":20.78885,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Zambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203299
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b680912eff37344029ff78c2d0f6dea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679653,
+            "locality_id":1276288221,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276288221,
+    "wof:lastmodified":1536838273,
+    "wof:name":"Zambe",
+    "wof:parent_id":1091679653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78885,
+    4.35086,
+    20.78885,
+    4.35086
+],
+  "geometry": {"coordinates":[20.78885,4.35086],"type":"Point"}
+}

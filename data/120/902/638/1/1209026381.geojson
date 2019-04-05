@@ -1,0 +1,61 @@
+{
+  "id": 1209026381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84885,-5.23213,14.84885,-5.23213",
+    "geom:latitude":-5.23213,
+    "geom:longitude":14.84885,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sinsu",
+    "gn:country_code":"CD",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325028,
+    "gn:latitude":-5.23213,
+    "gn:longitude":14.84885,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Sinsu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325028
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"78cff3ffd90cae429b4465d153493c10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209026381
+        }
+    ],
+    "wof:id":1209026381,
+    "wof:lastmodified":1536299984,
+    "wof:name":"Sinsu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84885,
+    -5.2321300000000015,
+    14.84885,
+    -5.2321300000000015
+],
+  "geometry": {"coordinates":[14.84885,-5.23213],"type":"Point"}
+}

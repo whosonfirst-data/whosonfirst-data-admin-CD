@@ -1,0 +1,67 @@
+{
+  "id": 1276236805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00497,0.01288,19.00497,0.01288",
+    "geom:latitude":0.01288,
+    "geom:longitude":19.00497,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bolombo",
+    "gn:country_code":"CD",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316735,
+    "gn:latitude":0.01288,
+    "gn:longitude":19.00497,
+    "gn:modification_date":"2011-12-07",
+    "gn:name":"Bolombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316735
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"49afb916f11a754389d1882f9ba6a485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1276236805,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276236805,
+    "wof:lastmodified":1536908213,
+    "wof:name":"Bolombo",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00497,
+    0.01288,
+    19.00497,
+    0.01288
+],
+  "geometry": {"coordinates":[19.00497,0.01288],"type":"Point"}
+}

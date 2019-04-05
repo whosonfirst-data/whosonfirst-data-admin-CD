@@ -1,0 +1,67 @@
+{
+  "id": 1326684729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.87771,4.74253,19.87771,4.74253",
+    "geom:latitude":4.74253,
+    "geom:longitude":19.87771,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Yuma",
+    "gn:country_code":"CD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310821,
+    "gn:latitude":4.74253,
+    "gn:longitude":19.87771,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310821
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"13e77a6f112f5f21193b0e1cde0a525c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1326684729,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1326684729,
+    "wof:lastmodified":1536764716,
+    "wof:name":"Yuma",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.87771,
+    4.74253,
+    19.87771,
+    4.74253
+],
+  "geometry": {"coordinates":[19.87771,4.74253],"type":"Point"}
+}

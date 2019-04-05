@@ -1,0 +1,67 @@
+{
+  "id": 1259533671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.49598,1.27327,25.49598,1.27327",
+    "geom:latitude":1.27327,
+    "geom:longitude":25.49598,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bendadje",
+    "gn:country_code":"CD",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149837,
+    "gn:latitude":1.27327,
+    "gn:longitude":25.49598,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bendadje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149837
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"28bb5f6834157e08196bd169bbaf4dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1259533671,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259533671,
+    "wof:lastmodified":1536787225,
+    "wof:name":"Bendadje",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.49598,
+    1.27327,
+    25.49598,
+    1.27327
+],
+  "geometry": {"coordinates":[25.49598,1.27327],"type":"Point"}
+}

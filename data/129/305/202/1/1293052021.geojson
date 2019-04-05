@@ -1,0 +1,67 @@
+{
+  "id": 1293052021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.03333,3.2,19.03333,3.2",
+    "geom:latitude":3.2,
+    "geom:longitude":19.03333,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Yembongo",
+    "gn:country_code":"CD",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310857,
+    "gn:latitude":3.2,
+    "gn:longitude":19.03333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yembongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310857
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"17ff1537b58ad83e47732fae119d669e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1293052021,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293052021,
+    "wof:lastmodified":1536918681,
+    "wof:name":"Yembongo",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.03333,
+    3.2,
+    19.03333,
+    3.2
+],
+  "geometry": {"coordinates":[19.03333,3.2],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209301403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03333,-3.98333,28.03333,-3.98333",
+    "geom:latitude":-3.98333,
+    "geom:longitude":28.03333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Musambwa",
+    "gn:country_code":"CD",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208017,
+    "gn:latitude":-3.98333,
+    "gn:longitude":28.03333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Musambwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208017
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fb692c4f7ac1ba1417620f34f5cdc2b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209301403
+        }
+    ],
+    "wof:id":1209301403,
+    "wof:lastmodified":1536291345,
+    "wof:name":"Musambwa",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03333,
+    -3.983330000000001,
+    28.03333,
+    -3.983330000000001
+],
+  "geometry": {"coordinates":[28.03333,-3.98333],"type":"Point"}
+}

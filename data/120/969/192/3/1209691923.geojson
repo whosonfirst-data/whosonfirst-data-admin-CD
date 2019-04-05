@@ -1,0 +1,61 @@
+{
+  "id": 1209691923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2229,-6.88576,21.2229,-6.88576",
+    "geom:latitude":-6.88576,
+    "geom:longitude":21.2229,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshembe",
+    "gn:country_code":"CD",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205057,
+    "gn:latitude":-6.88576,
+    "gn:longitude":21.2229,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205057
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"691807375a37d55066a754b696efe66f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209691923
+        }
+    ],
+    "wof:id":1209691923,
+    "wof:lastmodified":1536279209,
+    "wof:name":"Tshembe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2229,
+    -6.88576,
+    21.2229,
+    -6.88576
+],
+  "geometry": {"coordinates":[21.2229,-6.88576],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327302577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03471,-7.07761,22.03471,-7.07761",
+    "geom:latitude":-7.07761,
+    "geom:longitude":22.03471,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tumbuere",
+    "gn:country_code":"CD",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438414,
+    "gn:latitude":-7.07761,
+    "gn:longitude":22.03471,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tumbuere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438414
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f0f4d785968141a5f6c6a02062f2bd91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1327302577,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327302577,
+    "wof:lastmodified":1536867120,
+    "wof:name":"Tumbuere",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03471,
+    -7.07761,
+    22.03471,
+    -7.07761
+],
+  "geometry": {"coordinates":[22.03471,-7.07761],"type":"Point"}
+}

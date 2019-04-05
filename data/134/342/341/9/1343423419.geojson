@@ -1,0 +1,67 @@
+{
+  "id": 1343423419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32191,-7.6547,18.32191,-7.6547",
+    "geom:latitude":-7.6547,
+    "geom:longitude":18.32191,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kabanda",
+    "gn:country_code":"CD",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447777,
+    "gn:latitude":-7.6547,
+    "gn:longitude":18.32191,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447777
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bfd927d11d932aab5a981fdb2da3b9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343423419,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343423419,
+    "wof:lastmodified":1536799922,
+    "wof:name":"Kabanda",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32191,
+    -7.6547,
+    18.32191,
+    -7.6547
+],
+  "geometry": {"coordinates":[18.32191,-7.6547],"type":"Point"}
+}

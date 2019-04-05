@@ -1,0 +1,71 @@
+{
+  "id": 1343411447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.39494,1.56258,25.39494,1.56258",
+    "geom:latitude":1.56258,
+    "geom:longitude":25.39494,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bodadi",
+    "gn:country_code":"CD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218714,
+    "gn:latitude":1.56258,
+    "gn:longitude":25.39494,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bodadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bobadi",
+        "Bodadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218714
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a9767c4a6f5f7a41f63554c2024bef84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1343411447,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343411447,
+    "wof:lastmodified":1537590458,
+    "wof:name":"Bodadi",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39494,
+    1.56258,
+    25.39494,
+    1.56258
+],
+  "geometry": {"coordinates":[25.39494,1.56258],"type":"Point"}
+}

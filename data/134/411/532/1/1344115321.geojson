@@ -1,0 +1,67 @@
+{
+  "id": 1344115321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02671,-10.10023,23.02671,-10.10023",
+    "geom:latitude":-10.10023,
+    "geom:longitude":23.02671,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Lembejeka",
+    "gn:country_code":"CD",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466484,
+    "gn:latitude":-10.10023,
+    "gn:longitude":23.02671,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lembejeka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466484
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"37eef70e97730328d8839f824fb77530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1344115321,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1344115321,
+    "wof:lastmodified":1536796800,
+    "wof:name":"Lembejeka",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02671,
+    -10.10023,
+    23.02671,
+    -10.10023
+],
+  "geometry": {"coordinates":[23.02671,-10.10023],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360156067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.52316,3.07579,25.52316,3.07579",
+    "geom:latitude":3.07579,
+    "geom:longitude":25.52316,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Lienart",
+    "gn:country_code":"CD",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211914,
+    "gn:latitude":3.07579,
+    "gn:longitude":25.52316,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lienart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lienard",
+        "Li\u00e9nartville",
+        "Lienart"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211914
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bfe5ca3e9d9ee71a45a26f8f99efb1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1360156067,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360156067,
+    "wof:lastmodified":1537590389,
+    "wof:name":"Lienart",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.52316,
+    3.07579,
+    25.52316,
+    3.07579
+],
+  "geometry": {"coordinates":[25.52316,3.07579],"type":"Point"}
+}

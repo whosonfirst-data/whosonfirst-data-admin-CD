@@ -1,0 +1,71 @@
+{
+  "id": 1259690089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65819,-6.18121,23.65819,-6.18121",
+    "geom:latitude":-6.18121,
+    "geom:longitude":23.65819,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lomwele",
+    "gn:country_code":"CD",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211403,
+    "gn:latitude":-6.18121,
+    "gn:longitude":23.65819,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Lomwele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lumwele",
+        "Lomwele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211403
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6ef7bd3a74bad61581c5c75cbe79c84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1259690089,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1259690089,
+    "wof:lastmodified":1537590387,
+    "wof:name":"Lomwele",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65819,
+    -6.18121,
+    23.65819,
+    -6.18121
+],
+  "geometry": {"coordinates":[23.65819,-6.18121],"type":"Point"}
+}

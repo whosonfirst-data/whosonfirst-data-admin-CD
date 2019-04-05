@@ -1,0 +1,67 @@
+{
+  "id": 1276527187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5,2.6,24.5,2.6",
+    "geom:latitude":2.6,
+    "geom:longitude":24.5,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Makundu",
+    "gn:country_code":"CD",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209916,
+    "gn:latitude":2.6,
+    "gn:longitude":24.5,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Makundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209916
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f8181d80a44b06359929e6d436986975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1276527187,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276527187,
+    "wof:lastmodified":1537015592,
+    "wof:name":"Makundu",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5,
+    2.6,
+    24.5,
+    2.6
+],
+  "geometry": {"coordinates":[24.5,2.6],"type":"Point"}
+}

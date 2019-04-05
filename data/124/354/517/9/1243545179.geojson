@@ -1,0 +1,67 @@
+{
+  "id": 1243545179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.1154,-5.82873,16.1154,-5.82873",
+    "geom:latitude":-5.82873,
+    "geom:longitude":16.1154,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pangala",
+    "gn:country_code":"CD",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311776,
+    "gn:latitude":-5.82873,
+    "gn:longitude":16.1154,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Pangala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311776
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dadf706e042ac824a33e94f3e441fc3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1243545179,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1243545179,
+    "wof:lastmodified":1536663277,
+    "wof:name":"Pangala",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.1154,
+    -5.82873,
+    16.1154,
+    -5.82873
+],
+  "geometry": {"coordinates":[16.1154,-5.82873],"type":"Point"}
+}

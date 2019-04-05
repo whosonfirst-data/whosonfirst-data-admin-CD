@@ -1,0 +1,67 @@
+{
+  "id": 1277135099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.67759,-6.60745,22.67759,-6.60745",
+    "geom:latitude":-6.60745,
+    "geom:longitude":22.67759,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshondo",
+    "gn:country_code":"CD",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8284897,
+    "gn:latitude":-6.60745,
+    "gn:longitude":22.67759,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8284897
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3c8a28038a19a68cb40b084b52ca8ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1277135099,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1277135099,
+    "wof:lastmodified":1536692492,
+    "wof:name":"Tshondo",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.67759,
+    -6.60745,
+    22.67759,
+    -6.60745
+],
+  "geometry": {"coordinates":[22.67759,-6.60745],"type":"Point"}
+}

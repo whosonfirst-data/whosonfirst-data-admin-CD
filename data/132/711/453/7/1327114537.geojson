@@ -1,0 +1,67 @@
+{
+  "id": 1327114537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95318,-4.08396,27.95318,-4.08396",
+    "geom:latitude":-4.08396,
+    "geom:longitude":27.95318,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mabondo",
+    "gn:country_code":"CD",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8251136,
+    "gn:latitude":-4.08396,
+    "gn:longitude":27.95318,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Mabondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8251136
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ab5662acd6b2adc82c373ef6f5847e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1327114537,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1327114537,
+    "wof:lastmodified":1536641098,
+    "wof:name":"Mabondo",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95318,
+    -4.08396,
+    27.95318,
+    -4.08396
+],
+  "geometry": {"coordinates":[27.95318,-4.08396],"type":"Point"}
+}

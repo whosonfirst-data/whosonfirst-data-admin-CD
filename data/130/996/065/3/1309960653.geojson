@@ -1,0 +1,71 @@
+{
+  "id": 1309960653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.40582,3.80365,20.40582,3.80365",
+    "geom:latitude":3.80365,
+    "geom:longitude":20.40582,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bodgokola Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218704,
+    "gn:latitude":3.80365,
+    "gn:longitude":20.40582,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bodgokola Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bodgokola Premi\u00e8re",
+        "Bodgokola I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218704
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5d3d798e05fb402c878e29b862c6a7e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1309960653,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1309960653,
+    "wof:lastmodified":1537590458,
+    "wof:name":"Bodgokola Premiere",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.40582,
+    3.80365,
+    20.40582,
+    3.80365
+],
+  "geometry": {"coordinates":[20.40582,3.80365],"type":"Point"}
+}

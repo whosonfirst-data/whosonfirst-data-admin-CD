@@ -1,0 +1,67 @@
+{
+  "id": 1276199045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72916,-8.12048,23.72916,-8.12048",
+    "geom:latitude":-8.12048,
+    "geom:longitude":23.72916,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mwine-Kombo",
+    "gn:country_code":"CD",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207506,
+    "gn:latitude":-8.12048,
+    "gn:longitude":23.72916,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mwine-Kombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207506
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b24be83096e9c2f50ca9ed77a2bfe59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1276199045,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276199045,
+    "wof:lastmodified":1536958979,
+    "wof:name":"Mwine-Kombo",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72916,
+    -8.12048,
+    23.72916,
+    -8.12048
+],
+  "geometry": {"coordinates":[23.72916,-8.12048],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310061511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.52019,-3.17906,17.52019,-3.17906",
+    "geom:latitude":-3.17906,
+    "geom:longitude":17.52019,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kembugunu",
+    "gn:country_code":"CD",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314948,
+    "gn:latitude":-3.17906,
+    "gn:longitude":17.52019,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kembugunu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314948
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cda724296f3a3585ac271435eeaf2931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1310061511,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310061511,
+    "wof:lastmodified":1537057543,
+    "wof:name":"Kembugunu",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.52019,
+    -3.17906,
+    17.52019,
+    -3.17906
+],
+  "geometry": {"coordinates":[17.52019,-3.17906],"type":"Point"}
+}

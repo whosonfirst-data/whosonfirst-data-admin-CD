@@ -1,0 +1,67 @@
+{
+  "id": 1293459869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.37619,-7.81622,25.37619,-7.81622",
+    "geom:latitude":-7.81622,
+    "geom:longitude":25.37619,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kalele",
+    "gn:country_code":"CD",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9077400,
+    "gn:latitude":-7.81622,
+    "gn:longitude":25.37619,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9077400
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b9e957fdbc68c68ecdf4c09432ef3f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1293459869,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293459869,
+    "wof:lastmodified":1536826119,
+    "wof:name":"Kalele",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.37619,
+    -7.81622,
+    25.37619,
+    -7.81622
+],
+  "geometry": {"coordinates":[25.37619,-7.81622],"type":"Point"}
+}

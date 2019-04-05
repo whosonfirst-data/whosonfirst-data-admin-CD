@@ -1,0 +1,67 @@
+{
+  "id": 1243130659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.41575,-8.10222,23.41575,-8.10222",
+    "geom:latitude":-8.10222,
+    "geom:longitude":23.41575,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwin Nkand Kalend",
+    "gn:country_code":"CD",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10017034,
+    "gn:latitude":-8.10222,
+    "gn:longitude":23.41575,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwin Nkand Kalend",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10017034
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"676fefcefeddb713785df2f59b0f1dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1243130659,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243130659,
+    "wof:lastmodified":1536764322,
+    "wof:name":"Mwin Nkand Kalend",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.41575,
+    -8.10222,
+    23.41575,
+    -8.10222
+],
+  "geometry": {"coordinates":[23.41575,-8.10222],"type":"Point"}
+}

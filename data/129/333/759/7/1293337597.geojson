@@ -1,0 +1,76 @@
+{
+  "id": 1293337597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.06989,2.5369,19.06989,2.5369",
+    "geom:latitude":2.5369,
+    "geom:longitude":19.06989,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Busu-Mopia",
+    "gn:country_code":"CD",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316182,
+    "gn:latitude":2.5369,
+    "gn:longitude":19.06989,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Busu-Mopia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Busu-Mopia"
+    ],
+    "name:fra_x_variant":[
+        "Busu-Mopea"
+    ],
+    "name:und_x_variant":[
+        "Busu-Mopea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316182
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3f43cf461509317e10dcc8d54b40e579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1293337597,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293337597,
+    "wof:lastmodified":1537590549,
+    "wof:name":"Busu-Mopia",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.06989,
+    2.5369,
+    19.06989,
+    2.5369
+],
+  "geometry": {"coordinates":[19.06989,2.5369],"type":"Point"}
+}

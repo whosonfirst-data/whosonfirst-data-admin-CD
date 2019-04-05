@@ -1,0 +1,71 @@
+{
+  "id": 1343848735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.29766,-5.79546,14.29766,-5.79546",
+    "geom:latitude":-5.79546,
+    "geom:longitude":14.29766,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Donda Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316024,
+    "gn:latitude":-5.79546,
+    "gn:longitude":14.29766,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Donda Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donda Deuxi\u00e8me",
+        "Donda II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316024
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0c28d3e53434a550741e112cfe8a02d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1343848735,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1343848735,
+    "wof:lastmodified":1537590547,
+    "wof:name":"Donda Deuxieme",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.29766,
+    -5.79546,
+    14.29766,
+    -5.79546
+],
+  "geometry": {"coordinates":[14.29766,-5.79546],"type":"Point"}
+}

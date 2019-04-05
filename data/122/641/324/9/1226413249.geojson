@@ -1,0 +1,67 @@
+{
+  "id": 1226413249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.61484,-11.5924,27.61484,-11.5924",
+    "geom:latitude":-11.5924,
+    "geom:longitude":27.61484,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mwemena",
+    "gn:country_code":"CD",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10226294,
+    "gn:latitude":-11.5924,
+    "gn:longitude":27.61484,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Mwemena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10226294
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7ed251010c66a7e2058180f0245a04b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1226413249,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226413249,
+    "wof:lastmodified":1536692603,
+    "wof:name":"Mwemena",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.61484,
+    -11.5924,
+    27.61484,
+    -11.5924
+],
+  "geometry": {"coordinates":[27.61484,-11.5924],"type":"Point"}
+}

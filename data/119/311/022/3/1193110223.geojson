@@ -1,0 +1,67 @@
+{
+  "id": 1193110223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.96032,-8.8653,25.96032,-8.8653",
+    "geom:latitude":-8.8653,
+    "geom:longitude":25.96032,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kizanga",
+    "gn:country_code":"CD",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212492,
+    "gn:latitude":-8.8653,
+    "gn:longitude":25.96032,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kizanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212492
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f5952689ce0d423246f66513f01ae851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1193110223,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1193110223,
+    "wof:lastmodified":1536374096,
+    "wof:name":"Kizanga",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.96032,
+    -8.8653,
+    25.96032,
+    -8.8653
+],
+  "geometry": {"coordinates":[25.96032,-8.8653],"type":"Point"}
+}

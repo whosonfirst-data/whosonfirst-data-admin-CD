@@ -1,0 +1,67 @@
+{
+  "id": 1293551855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.69778,-5.93323,17.69778,-5.93323",
+    "geom:latitude":-5.93323,
+    "geom:longitude":17.69778,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kwakasa",
+    "gn:country_code":"CD",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274843,
+    "gn:latitude":-5.93323,
+    "gn:longitude":17.69778,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kwakasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274843
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"20e0df914d3c5dd6e8acd35bb2dfa46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1293551855,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293551855,
+    "wof:lastmodified":1536694686,
+    "wof:name":"Kwakasa",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.69777999999999,
+    -5.93323,
+    17.69777999999999,
+    -5.93323
+],
+  "geometry": {"coordinates":[17.69777999999999,-5.93323],"type":"Point"}
+}

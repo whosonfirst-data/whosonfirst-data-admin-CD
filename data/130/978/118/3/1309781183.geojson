@@ -1,0 +1,67 @@
+{
+  "id": 1309781183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.13358,-7.07004,19.13358,-7.07004",
+    "geom:latitude":-7.07004,
+    "geom:longitude":19.13358,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ka-Nguya",
+    "gn:country_code":"CD",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315099,
+    "gn:latitude":-7.07004,
+    "gn:longitude":19.13358,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ka-Nguya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315099
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c46adadedb51907a073bf43e19139f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1309781183,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1309781183,
+    "wof:lastmodified":1536966413,
+    "wof:name":"Ka-Nguya",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.13358,
+    -7.07004,
+    19.13358,
+    -7.07004
+],
+  "geometry": {"coordinates":[19.13358,-7.07004],"type":"Point"}
+}

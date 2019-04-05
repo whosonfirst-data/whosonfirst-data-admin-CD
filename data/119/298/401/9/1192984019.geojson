@@ -1,0 +1,67 @@
+{
+  "id": 1192984019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.85441,-7.39742,18.85441,-7.39742",
+    "geom:latitude":-7.39742,
+    "geom:longitude":18.85441,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mwakandumba",
+    "gn:country_code":"CD",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447745,
+    "gn:latitude":-7.39742,
+    "gn:longitude":18.85441,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwakandumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447745
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7c995f2a708cd439085f2e35e50566e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1192984019,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1192984019,
+    "wof:lastmodified":1536365614,
+    "wof:name":"Mwakandumba",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85441,
+    -7.39742,
+    18.85441,
+    -7.39742
+],
+  "geometry": {"coordinates":[18.85441,-7.39742],"type":"Point"}
+}

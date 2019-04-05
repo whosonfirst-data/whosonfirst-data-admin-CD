@@ -1,0 +1,76 @@
+{
+  "id": 1259359285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0252,1.41284,30.0252,1.41284",
+    "geom:latitude":1.41284,
+    "geom:longitude":30.0252,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Peleka",
+    "gn:country_code":"CD",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206358,
+    "gn:latitude":1.41284,
+    "gn:longitude":30.0252,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Peleka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Peleka"
+    ],
+    "name:fra_x_variant":[
+        "Peteka"
+    ],
+    "name:und_x_variant":[
+        "Peteka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206358
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6decb2b4f3d0d9775845ec388b1a4502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1259359285,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259359285,
+    "wof:lastmodified":1537590335,
+    "wof:name":"Peleka",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0252,
+    1.41284,
+    30.0252,
+    1.41284
+],
+  "geometry": {"coordinates":[30.0252,1.41284],"type":"Point"}
+}

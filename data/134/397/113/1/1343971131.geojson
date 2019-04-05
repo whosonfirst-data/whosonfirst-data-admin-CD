@@ -1,0 +1,71 @@
+{
+  "id": 1343971131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68333,-0.95,17.68333,-0.95",
+    "geom:latitude":-0.95,
+    "geom:longitude":17.68333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Boanda-Moke",
+    "gn:country_code":"CD",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317049,
+    "gn:latitude":-0.95,
+    "gn:longitude":17.68333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Boanda-Moke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boanda",
+        "Boanda-Moke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317049
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"593b6369b2f0438b9eb37aff5e5d8a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1343971131,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343971131,
+    "wof:lastmodified":1537590560,
+    "wof:name":"Boanda-Moke",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68332999999999,
+    -0.95,
+    17.68332999999999,
+    -0.95
+],
+  "geometry": {"coordinates":[17.68332999999999,-0.95],"type":"Point"}
+}

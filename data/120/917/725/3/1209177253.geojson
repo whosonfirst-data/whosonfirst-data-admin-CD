@@ -1,0 +1,61 @@
+{
+  "id": 1209177253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.90159,-5.58657,21.90159,-5.58657",
+    "geom:latitude":-5.58657,
+    "geom:longitude":21.90159,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bulankete",
+    "gn:country_code":"CD",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277600,
+    "gn:latitude":-5.58657,
+    "gn:longitude":21.90159,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bulankete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277600
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4e9949e559c43cb60f0a518e2e420bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209177253
+        }
+    ],
+    "wof:id":1209177253,
+    "wof:lastmodified":1536295380,
+    "wof:name":"Bulankete",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.90159,
+    -5.58657,
+    21.90159,
+    -5.58657
+],
+  "geometry": {"coordinates":[21.90159,-5.58657],"type":"Point"}
+}

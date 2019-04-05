@@ -1,0 +1,67 @@
+{
+  "id": 1260358021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99032,-6.48373,22.99032,-6.48373",
+    "geom:latitude":-6.48373,
+    "geom:longitude":22.99032,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kabeya-Madi",
+    "gn:country_code":"CD",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215552,
+    "gn:latitude":-6.48373,
+    "gn:longitude":22.99032,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabeya-Madi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215552
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3dd855811b45ceddffce94a69c039540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1260358021,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1260358021,
+    "wof:lastmodified":1536609478,
+    "wof:name":"Kabeya-Madi",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99032,
+    -6.48373,
+    22.99032,
+    -6.48373
+],
+  "geometry": {"coordinates":[22.99032,-6.48373],"type":"Point"}
+}

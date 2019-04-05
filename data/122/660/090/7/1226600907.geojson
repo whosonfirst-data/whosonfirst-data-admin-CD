@@ -1,0 +1,67 @@
+{
+  "id": 1226600907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.77871,-5.94975,22.77871,-5.94975",
+    "geom:latitude":-5.94975,
+    "geom:longitude":22.77871,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kapinga-Kamba",
+    "gn:country_code":"CD",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214214,
+    "gn:latitude":-5.94975,
+    "gn:longitude":22.77871,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kapinga-Kamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214214
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2b95328fed136c3a9a312579d593f5e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1226600907,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226600907,
+    "wof:lastmodified":1536922949,
+    "wof:name":"Kapinga-Kamba",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.77871,
+    -5.94975,
+    22.77871,
+    -5.94975
+],
+  "geometry": {"coordinates":[22.77871,-5.94975],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226217021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78764,-4.43877,17.78764,-4.43877",
+    "geom:latitude":-4.43877,
+    "geom:longitude":17.78764,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Pombo",
+    "gn:country_code":"CD",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445730,
+    "gn:latitude":-4.43877,
+    "gn:longitude":17.78764,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Pombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445730
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e37f9a3c8096d9fab4b8619a0b142f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1226217021,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226217021,
+    "wof:lastmodified":1536974623,
+    "wof:name":"Pombo",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78764,
+    -4.43877,
+    17.78764,
+    -4.43877
+],
+  "geometry": {"coordinates":[17.78764,-4.43877],"type":"Point"}
+}

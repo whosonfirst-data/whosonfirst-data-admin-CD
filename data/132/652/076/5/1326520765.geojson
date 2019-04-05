@@ -1,0 +1,70 @@
+{
+  "id": 1326520765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04581,-4.76316,15.04581,-4.76316",
+    "geom:latitude":-4.76316,
+    "geom:longitude":15.04581,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kasonso",
+    "gn:country_code":"CD",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593358,
+    "gn:latitude":-4.76316,
+    "gn:longitude":15.04581,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kasonso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kansonso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593358
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e6710676d294db2f5212d78ae8fb87f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1326520765,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1326520765,
+    "wof:lastmodified":1537590565,
+    "wof:name":"Kasonso",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04581,
+    -4.76316,
+    15.04581,
+    -4.76316
+],
+  "geometry": {"coordinates":[15.04581,-4.76316],"type":"Point"}
+}

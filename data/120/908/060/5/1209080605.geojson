@@ -1,0 +1,61 @@
+{
+  "id": 1209080605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.61802,-5.2841,17.61802,-5.2841",
+    "geom:latitude":-5.2841,
+    "geom:longitude":17.61802,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kilwamba",
+    "gn:country_code":"CD",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274500,
+    "gn:latitude":-5.2841,
+    "gn:longitude":17.61802,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kilwamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274500
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2bd404dacb726942e39980db2a0cb4cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209080605
+        }
+    ],
+    "wof:id":1209080605,
+    "wof:lastmodified":1536298351,
+    "wof:name":"Kilwamba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.61802,
+    -5.2841,
+    17.61802,
+    -5.2841
+],
+  "geometry": {"coordinates":[17.61802,-5.2841],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360150899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.58333,-5.21667,20.58333,-5.21667",
+    "geom:latitude":-5.21667,
+    "geom:longitude":20.58333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Temuniema",
+    "gn:country_code":"CD",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205215,
+    "gn:latitude":-5.21667,
+    "gn:longitude":20.58333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Temuniema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Temunimi",
+        "Temuniema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205215
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9da23f9da96c87269bde932a2a4fa178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1360150899,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1360150899,
+    "wof:lastmodified":1537590322,
+    "wof:name":"Temuniema",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.58333,
+    -5.21667,
+    20.58333,
+    -5.21667
+],
+  "geometry": {"coordinates":[20.58333,-5.21667],"type":"Point"}
+}

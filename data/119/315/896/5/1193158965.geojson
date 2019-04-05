@@ -1,0 +1,67 @@
+{
+  "id": 1193158965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58133,-4.2439,15.58133,-4.2439",
+    "geom:latitude":-4.2439,
+    "geom:longitude":15.58133,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bensati",
+    "gn:country_code":"CD",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593469,
+    "gn:latitude":-4.2439,
+    "gn:longitude":15.58133,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bensati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593469
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ff3a1bda56b83ba1b63662aab33707a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1193158965,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1193158965,
+    "wof:lastmodified":1536370123,
+    "wof:name":"Bensati",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58133,
+    -4.2439,
+    15.58133,
+    -4.2439
+],
+  "geometry": {"coordinates":[15.58133,-4.2439],"type":"Point"}
+}

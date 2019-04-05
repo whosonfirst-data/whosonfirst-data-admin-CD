@@ -1,0 +1,67 @@
+{
+  "id": 1259956181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.28228,1.43925,28.28228,1.43925",
+    "geom:latitude":1.43925,
+    "geom:longitude":28.28228,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Epini",
+    "gn:country_code":"CD",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216670,
+    "gn:latitude":1.43925,
+    "gn:longitude":28.28228,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Epini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216670
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8ed2431dc5110ba40d21adbc82fa0c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1259956181,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259956181,
+    "wof:lastmodified":1536674470,
+    "wof:name":"Epini",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.28228,
+    1.43925,
+    28.28228,
+    1.43925
+],
+  "geometry": {"coordinates":[28.28228,1.43925],"type":"Point"}
+}

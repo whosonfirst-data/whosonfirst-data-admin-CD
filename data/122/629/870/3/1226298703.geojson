@@ -1,0 +1,71 @@
+{
+  "id": 1226298703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.11816,-2.14635,17.11816,-2.14635",
+    "geom:latitude":-2.14635,
+    "geom:longitude":17.11816,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mpa Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312464,
+    "gn:latitude":-2.14635,
+    "gn:longitude":17.11816,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mpa Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mpa Premi\u00e8re",
+        "Mpa I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312464
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bdad382b08aa23731b09525a95602c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1226298703,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226298703,
+    "wof:lastmodified":1537590513,
+    "wof:name":"Mpa Premiere",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.11816,
+    -2.14635,
+    17.11816,
+    -2.14635
+],
+  "geometry": {"coordinates":[17.11816,-2.14635],"type":"Point"}
+}

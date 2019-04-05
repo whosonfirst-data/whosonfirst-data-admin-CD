@@ -1,0 +1,67 @@
+{
+  "id": 1293177149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.84599,1.73172,27.84599,1.73172",
+    "geom:latitude":1.73172,
+    "geom:longitude":27.84599,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Adumbi",
+    "gn:country_code":"CD",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8156818,
+    "gn:latitude":1.73172,
+    "gn:longitude":27.84599,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Adumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8156818
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8c0dd0c176f6484fd860564401fed00b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1293177149,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293177149,
+    "wof:lastmodified":1536737539,
+    "wof:name":"Adumbi",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84599,
+    1.73172,
+    27.84599,
+    1.73172
+],
+  "geometry": {"coordinates":[27.84599,1.73172],"type":"Point"}
+}

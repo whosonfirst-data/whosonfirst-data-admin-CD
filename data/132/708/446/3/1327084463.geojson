@@ -1,0 +1,67 @@
+{
+  "id": 1327084463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43077,1.39841,25.43077,1.39841",
+    "geom:latitude":1.39841,
+    "geom:longitude":25.43077,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bambole",
+    "gn:country_code":"CD",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149845,
+    "gn:latitude":1.39841,
+    "gn:longitude":25.43077,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bambole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149845
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ddb4e3b099c3b2ca59bb21401fee7ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1327084463,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327084463,
+    "wof:lastmodified":1536685532,
+    "wof:name":"Bambole",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43077000000001,
+    1.39841,
+    25.43077000000001,
+    1.39841
+],
+  "geometry": {"coordinates":[25.43077000000001,1.39841],"type":"Point"}
+}

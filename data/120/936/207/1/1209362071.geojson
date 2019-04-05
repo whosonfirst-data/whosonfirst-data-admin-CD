@@ -1,0 +1,65 @@
+{
+  "id": 1209362071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.85308,2.50803,18.85308,2.50803",
+    "geom:latitude":2.50803,
+    "geom:longitude":18.85308,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bobei",
+    "gn:country_code":"CD",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317021,
+    "gn:latitude":2.50803,
+    "gn:longitude":18.85308,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bobei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bobey",
+        "Bobei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317021
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1ab00e48f869a94e8101025baf20501d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209362071
+        }
+    ],
+    "wof:id":1209362071,
+    "wof:lastmodified":1537590559,
+    "wof:name":"Bobei",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.85308,
+    2.50803,
+    18.85308,
+    2.50803
+],
+  "geometry": {"coordinates":[18.85308,2.50803],"type":"Point"}
+}

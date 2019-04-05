@@ -1,0 +1,67 @@
+{
+  "id": 1293369397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.4658,2.85507,26.4658,2.85507",
+    "geom:latitude":2.85507,
+    "geom:longitude":26.4658,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Neza",
+    "gn:country_code":"CD",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207279,
+    "gn:latitude":2.85507,
+    "gn:longitude":26.4658,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Neza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207279
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2efbb0f0177f2d2384e8d6a662550e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1293369397,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293369397,
+    "wof:lastmodified":1536957333,
+    "wof:name":"Neza",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.4658,
+    2.85507,
+    26.4658,
+    2.85507
+],
+  "geometry": {"coordinates":[26.4658,2.85507],"type":"Point"}
+}

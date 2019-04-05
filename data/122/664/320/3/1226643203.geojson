@@ -1,0 +1,67 @@
+{
+  "id": 1226643203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65305,-5.08521,14.65305,-5.08521",
+    "geom:latitude":-5.08521,
+    "geom:longitude":14.65305,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kompani",
+    "gn:country_code":"CD",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328095,
+    "gn:latitude":-5.08521,
+    "gn:longitude":14.65305,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kompani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328095
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2ca2ff89cb6e4e8f5f25d63c740ae95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1226643203,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1226643203,
+    "wof:lastmodified":1536861719,
+    "wof:name":"Kompani",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65305,
+    -5.08521,
+    14.65305,
+    -5.08521
+],
+  "geometry": {"coordinates":[14.65305,-5.08521],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209190261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24383,-5.98354,21.24383,-5.98354",
+    "geom:latitude":-5.98354,
+    "geom:longitude":21.24383,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kayende-Kumbu",
+    "gn:country_code":"CD",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213586,
+    "gn:latitude":-5.98354,
+    "gn:longitude":21.24383,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kayende-Kumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213586
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"330f09af0283bf76b4c92cdf207bf9a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209190261
+        }
+    ],
+    "wof:id":1209190261,
+    "wof:lastmodified":1536294958,
+    "wof:name":"Kayende-Kumbu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24383,
+    -5.9835400000000005,
+    21.24383,
+    -5.9835400000000005
+],
+  "geometry": {"coordinates":[21.24383,-5.98354],"type":"Point"}
+}

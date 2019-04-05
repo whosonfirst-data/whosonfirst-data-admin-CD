@@ -1,0 +1,61 @@
+{
+  "id": 1209283091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45128,-5.59875,22.45128,-5.59875",
+    "geom:latitude":-5.59875,
+    "geom:longitude":22.45128,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tokesha",
+    "gn:country_code":"CD",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413035,
+    "gn:latitude":-5.59875,
+    "gn:longitude":22.45128,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tokesha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413035
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3b262f5297ade254e5806a9a298f6915",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209283091
+        }
+    ],
+    "wof:id":1209283091,
+    "wof:lastmodified":1536291953,
+    "wof:name":"Tokesha",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45128,
+    -5.59875,
+    22.45128,
+    -5.59875
+],
+  "geometry": {"coordinates":[22.45128,-5.59875],"type":"Point"}
+}

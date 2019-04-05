@@ -1,0 +1,67 @@
+{
+  "id": 1343519795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.05073,-6.09211,22.05073,-6.09211",
+    "geom:latitude":-6.09211,
+    "geom:longitude":22.05073,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Katshababala",
+    "gn:country_code":"CD",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213721,
+    "gn:latitude":-6.09211,
+    "gn:longitude":22.05073,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Katshababala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213721
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"81981412988b1860b435c12094a33229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1343519795,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343519795,
+    "wof:lastmodified":1536660784,
+    "wof:name":"Katshababala",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.05073,
+    -6.09211,
+    22.05073,
+    -6.09211
+],
+  "geometry": {"coordinates":[22.05073,-6.09211],"type":"Point"}
+}

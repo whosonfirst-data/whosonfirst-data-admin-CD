@@ -1,0 +1,65 @@
+{
+  "id": 1209383713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.88167,-10.17345,22.88167,-10.17345",
+    "geom:latitude":-10.17345,
+    "geom:longitude":22.88167,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Musela",
+    "gn:country_code":"CD",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922433,
+    "gn:latitude":-10.17345,
+    "gn:longitude":22.88167,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Musela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Museke",
+        "Musela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922433
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"199343390843021c1b2d3b928957f009",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209383713
+        }
+    ],
+    "wof:id":1209383713,
+    "wof:lastmodified":1537590485,
+    "wof:name":"Musela",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.88167,
+    -10.17345,
+    22.88167,
+    -10.17345
+],
+  "geometry": {"coordinates":[22.88167,-10.17345],"type":"Point"}
+}

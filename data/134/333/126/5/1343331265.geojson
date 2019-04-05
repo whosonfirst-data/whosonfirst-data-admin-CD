@@ -1,0 +1,67 @@
+{
+  "id": 1343331265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.84986,3.67091,29.84986,3.67091",
+    "geom:latitude":3.67091,
+    "geom:longitude":29.84986,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Alokwa",
+    "gn:country_code":"CD",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220396,
+    "gn:latitude":3.67091,
+    "gn:longitude":29.84986,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Alokwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220396
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b22579a49b83c657e7e61c6300b86991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1343331265,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343331265,
+    "wof:lastmodified":1536933608,
+    "wof:name":"Alokwa",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.84986,
+    3.67091,
+    29.84986,
+    3.67091
+],
+  "geometry": {"coordinates":[29.84986,3.67091],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327004357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.415,-4.4619,19.415,-4.4619",
+    "geom:latitude":-4.4619,
+    "geom:longitude":19.415,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tshene",
+    "gn:country_code":"CD",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311123,
+    "gn:latitude":-4.4619,
+    "gn:longitude":19.415,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311123
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3958099fd4d225f02d344b0a98247270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1327004357,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327004357,
+    "wof:lastmodified":1536801070,
+    "wof:name":"Tshene",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.415,
+    -4.4619,
+    19.415,
+    -4.4619
+],
+  "geometry": {"coordinates":[19.415,-4.4619],"type":"Point"}
+}

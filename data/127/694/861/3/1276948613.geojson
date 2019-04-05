@@ -1,0 +1,67 @@
+{
+  "id": 1276948613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.94009,-10.9332,27.94009,-10.9332",
+    "geom:latitude":-10.9332,
+    "geom:longitude":27.94009,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kimpopo",
+    "gn:country_code":"CD",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10219809,
+    "gn:latitude":-10.9332,
+    "gn:longitude":27.94009,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kimpopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10219809
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"78e67ef0436bbd558812c44083995f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1276948613,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276948613,
+    "wof:lastmodified":1536949577,
+    "wof:name":"Kimpopo",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94009,
+    -10.9332,
+    27.94009,
+    -10.9332
+],
+  "geometry": {"coordinates":[27.94009,-10.9332],"type":"Point"}
+}

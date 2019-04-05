@@ -1,0 +1,67 @@
+{
+  "id": 1225823321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3,-0.58333,29.3,-0.58333",
+    "geom:latitude":-0.58333,
+    "geom:longitude":29.3,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kaniatsi",
+    "gn:country_code":"CD",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214381,
+    "gn:latitude":-0.58333,
+    "gn:longitude":29.3,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kaniatsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214381
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e82c758a721af7c6c835d181790d568e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1225823321,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1225823321,
+    "wof:lastmodified":1537044239,
+    "wof:name":"Kaniatsi",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3,
+    -0.58333,
+    29.3,
+    -0.58333
+],
+  "geometry": {"coordinates":[29.3,-0.58333],"type":"Point"}
+}

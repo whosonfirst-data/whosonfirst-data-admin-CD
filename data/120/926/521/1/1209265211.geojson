@@ -1,0 +1,61 @@
+{
+  "id": 1209265211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.60459,-6.73051,28.60459,-6.73051",
+    "geom:latitude":-6.73051,
+    "geom:longitude":28.60459,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kasenga",
+    "gn:country_code":"CD",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10010997,
+    "gn:latitude":-6.73051,
+    "gn:longitude":28.60459,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kasenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10010997
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"21570821379289521639d1ccf5c809db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209265211
+        }
+    ],
+    "wof:id":1209265211,
+    "wof:lastmodified":1536292556,
+    "wof:name":"Kasenga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.60459,
+    -6.7305100000000015,
+    28.60459,
+    -6.7305100000000015
+],
+  "geometry": {"coordinates":[28.60459,-6.73051],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209397043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.30423,2.76338,27.30423,2.76338",
+    "geom:latitude":2.76338,
+    "geom:longitude":27.30423,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Maniombe",
+    "gn:country_code":"CD",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145437,
+    "gn:latitude":2.76338,
+    "gn:longitude":27.30423,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Maniombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145437
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"23ca0d0e2a89b301bf82401ad371c0d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209397043
+        }
+    ],
+    "wof:id":1209397043,
+    "wof:lastmodified":1536288266,
+    "wof:name":"Maniombe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.30423,
+    2.76338,
+    27.30423,
+    2.76338
+],
+  "geometry": {"coordinates":[27.30423,2.76338],"type":"Point"}
+}

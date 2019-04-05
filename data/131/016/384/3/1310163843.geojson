@@ -1,0 +1,67 @@
+{
+  "id": 1310163843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5627,-7.3366,22.5627,-7.3366",
+    "geom:latitude":-7.3366,
+    "geom:longitude":22.5627,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mapumba",
+    "gn:country_code":"CD",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438833,
+    "gn:latitude":-7.3366,
+    "gn:longitude":22.5627,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mapumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438833
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"257b80135083c21fbf60d46b5faa4ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1310163843,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310163843,
+    "wof:lastmodified":1536912960,
+    "wof:name":"Mapumba",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5627,
+    -7.3366,
+    22.5627,
+    -7.3366
+],
+  "geometry": {"coordinates":[22.5627,-7.3366],"type":"Point"}
+}

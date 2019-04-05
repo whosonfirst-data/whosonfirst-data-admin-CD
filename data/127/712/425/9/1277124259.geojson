@@ -1,0 +1,67 @@
+{
+  "id": 1277124259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.14273,-3.78624,23.14273,-3.78624",
+    "geom:latitude":-3.78624,
+    "geom:longitude":23.14273,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kodi",
+    "gn:country_code":"CD",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212478,
+    "gn:latitude":-3.78624,
+    "gn:longitude":23.14273,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212478
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e762c56c3d19e033d172de0f920b083d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1277124259,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1277124259,
+    "wof:lastmodified":1536708145,
+    "wof:name":"Kodi",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.14273,
+    -3.78624,
+    23.14273,
+    -3.78624
+],
+  "geometry": {"coordinates":[23.14273,-3.78624],"type":"Point"}
+}

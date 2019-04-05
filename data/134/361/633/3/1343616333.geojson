@@ -1,0 +1,67 @@
+{
+  "id": 1343616333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.02776,3.39402,21.02776,3.39402",
+    "geom:latitude":3.39402,
+    "geom:longitude":21.02776,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Mondoi",
+    "gn:country_code":"CD",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208763,
+    "gn:latitude":3.39402,
+    "gn:longitude":21.02776,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mondoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208763
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5a282da35b8575180b16f8a86fb670c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1343616333,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343616333,
+    "wof:lastmodified":1537018022,
+    "wof:name":"Mondoi",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.02776,
+    3.39402,
+    21.02776,
+    3.39402
+],
+  "geometry": {"coordinates":[21.02776,3.39402],"type":"Point"}
+}

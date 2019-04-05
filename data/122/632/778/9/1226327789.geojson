@@ -1,0 +1,71 @@
+{
+  "id": 1226327789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96635,-5.53239,15.96635,-5.53239",
+    "geom:latitude":-5.53239,
+    "geom:longitude":15.96635,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kikufikama Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314727,
+    "gn:latitude":-5.53239,
+    "gn:longitude":15.96635,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kikufikama Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikufikama Premi\u00e8re",
+        "Kikufikama I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314727
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"005cf61a5896e2ea5c01e668a28fe48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1226327789,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1226327789,
+    "wof:lastmodified":1537590534,
+    "wof:name":"Kikufikama Premiere",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96635,
+    -5.53239,
+    15.96635,
+    -5.53239
+],
+  "geometry": {"coordinates":[15.96635,-5.53239],"type":"Point"}
+}

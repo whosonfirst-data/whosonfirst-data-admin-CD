@@ -1,0 +1,67 @@
+{
+  "id": 1259347213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.35748,-6.55446,25.35748,-6.55446",
+    "geom:latitude":-6.55446,
+    "geom:longitude":25.35748,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Mishi",
+    "gn:country_code":"CD",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209053,
+    "gn:latitude":-6.55446,
+    "gn:longitude":25.35748,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mishi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209053
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e4d5f9f2de30edcbf99d183cfcd90db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1259347213,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1259347213,
+    "wof:lastmodified":1537052376,
+    "wof:name":"Mishi",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.35748,
+    -6.55446,
+    25.35748,
+    -6.55446
+],
+  "geometry": {"coordinates":[25.35748,-6.55446],"type":"Point"}
+}

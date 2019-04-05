@@ -1,0 +1,67 @@
+{
+  "id": 1343652251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23101,-5.41018,15.23101,-5.41018",
+    "geom:latitude":-5.41018,
+    "geom:longitude":15.23101,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Binda",
+    "gn:country_code":"CD",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8254436,
+    "gn:latitude":-5.41018,
+    "gn:longitude":15.23101,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Binda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8254436
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8e7d5fd9e23f8596e5dd1cdd152bc002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1343652251,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1343652251,
+    "wof:lastmodified":1536966651,
+    "wof:name":"Binda",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23101,
+    -5.41018,
+    15.23101,
+    -5.41018
+],
+  "geometry": {"coordinates":[15.23101,-5.41018],"type":"Point"}
+}

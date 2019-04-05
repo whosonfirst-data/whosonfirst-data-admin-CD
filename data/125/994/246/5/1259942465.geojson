@@ -1,0 +1,67 @@
+{
+  "id": 1259942465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58545,-5.72579,17.58545,-5.72579",
+    "geom:latitude":-5.72579,
+    "geom:longitude":17.58545,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bilashi-Muzengo",
+    "gn:country_code":"CD",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274739,
+    "gn:latitude":-5.72579,
+    "gn:longitude":17.58545,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bilashi-Muzengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274739
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4bf112b2d154868b0d99e08126d1c8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1259942465,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259942465,
+    "wof:lastmodified":1536694544,
+    "wof:name":"Bilashi-Muzengo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58545,
+    -5.72579,
+    17.58545,
+    -5.72579
+],
+  "geometry": {"coordinates":[17.58545,-5.72579],"type":"Point"}
+}

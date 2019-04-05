@@ -1,0 +1,67 @@
+{
+  "id": 1360108583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07088,-6.32093,23.07088,-6.32093",
+    "geom:latitude":-6.32093,
+    "geom:longitude":23.07088,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tshinana",
+    "gn:country_code":"CD",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946701,
+    "gn:latitude":-6.32093,
+    "gn:longitude":23.07088,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Tshinana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946701
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"99d51aaf1f6661aa3f3a2b1ababc274d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1360108583,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1360108583,
+    "wof:lastmodified":1536912123,
+    "wof:name":"Tshinana",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07088,
+    -6.32093,
+    23.07088,
+    -6.32093
+],
+  "geometry": {"coordinates":[23.07088,-6.32093],"type":"Point"}
+}

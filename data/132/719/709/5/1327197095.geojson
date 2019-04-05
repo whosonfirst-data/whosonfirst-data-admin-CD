@@ -1,0 +1,67 @@
+{
+  "id": 1327197095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.30082,-5.23627,21.30082,-5.23627",
+    "geom:latitude":-5.23627,
+    "geom:longitude":21.30082,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bakwa-Dongo",
+    "gn:country_code":"CD",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277380,
+    "gn:latitude":-5.23627,
+    "gn:longitude":21.30082,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bakwa-Dongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277380
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6131ec9146e6f98c9e02273496da538a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1327197095,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327197095,
+    "wof:lastmodified":1537019829,
+    "wof:name":"Bakwa-Dongo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.30082,
+    -5.23627,
+    21.30082,
+    -5.23627
+],
+  "geometry": {"coordinates":[21.30082,-5.23627],"type":"Point"}
+}

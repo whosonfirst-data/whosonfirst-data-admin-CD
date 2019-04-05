@@ -1,0 +1,67 @@
+{
+  "id": 1293711089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.90455,-4.10868,15.90455,-4.10868",
+    "geom:latitude":-4.10868,
+    "geom:longitude":15.90455,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Balumu",
+    "gn:country_code":"CD",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317452,
+    "gn:latitude":-4.10868,
+    "gn:longitude":15.90455,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Balumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317452
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ce8765d54e0d09d9c84820574a05033f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1293711089,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1293711089,
+    "wof:lastmodified":1536961997,
+    "wof:name":"Balumu",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.90455,
+    -4.10868,
+    15.90455,
+    -4.10868
+],
+  "geometry": {"coordinates":[15.90455,-4.10868],"type":"Point"}
+}

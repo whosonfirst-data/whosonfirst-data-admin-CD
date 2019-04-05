@@ -1,0 +1,67 @@
+{
+  "id": 1225847975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3,0.88333,20.3,0.88333",
+    "geom:latitude":0.88333,
+    "geom:longitude":20.3,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Elinga",
+    "gn:country_code":"CD",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216747,
+    "gn:latitude":0.88333,
+    "gn:longitude":20.3,
+    "gn:modification_date":"2011-12-07",
+    "gn:name":"Elinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216747
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"531098b26ac5a9cf6d7dfe6d1d48683e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1225847975,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1225847975,
+    "wof:lastmodified":1537009736,
+    "wof:name":"Elinga",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3,
+    0.88333,
+    20.3,
+    0.88333
+],
+  "geometry": {"coordinates":[20.3,0.88333],"type":"Point"}
+}

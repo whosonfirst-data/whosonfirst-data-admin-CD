@@ -1,0 +1,70 @@
+{
+  "id": 1209772501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.77045,3.90495,20.77045,3.90495",
+    "geom:latitude":3.90495,
+    "geom:longitude":20.77045,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Gwado",
+    "gn:country_code":"CD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235920,
+    "gn:latitude":3.90495,
+    "gn:longitude":20.77045,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gwado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gbwado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235920
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"11b568d10b0b3d430491f79c7a243b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1209772501,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1209772501,
+    "wof:lastmodified":1537590571,
+    "wof:name":"Gwado",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.77045,
+    3.90495,
+    20.77045,
+    3.90495
+],
+  "geometry": {"coordinates":[20.77045,3.90495],"type":"Point"}
+}

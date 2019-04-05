@@ -1,0 +1,64 @@
+{
+  "id": 1209272653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36043,-6.02616,22.36043,-6.02616",
+    "geom:latitude":-6.02616,
+    "geom:longitude":22.36043,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kapinga",
+    "gn:country_code":"CD",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214213,
+    "gn:latitude":-6.02616,
+    "gn:longitude":22.36043,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kapinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapinga-Mutonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214213
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"34e208973036e3c8a1a6969ee1a93631",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209272653
+        }
+    ],
+    "wof:id":1209272653,
+    "wof:lastmodified":1537590412,
+    "wof:name":"Kapinga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36043,
+    -6.02616,
+    22.36043,
+    -6.02616
+],
+  "geometry": {"coordinates":[22.36043,-6.02616],"type":"Point"}
+}

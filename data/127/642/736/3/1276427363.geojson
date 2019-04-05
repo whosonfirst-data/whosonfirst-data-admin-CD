@@ -1,0 +1,67 @@
+{
+  "id": 1276427363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.56268,2.87078,27.56268,2.87078",
+    "geom:latitude":2.87078,
+    "geom:longitude":27.56268,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sosovoloko",
+    "gn:country_code":"CD",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145452,
+    "gn:latitude":2.87078,
+    "gn:longitude":27.56268,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sosovoloko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145452
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"35ff114e5b5c8688d2237ec30469ad90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1276427363,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276427363,
+    "wof:lastmodified":1536652567,
+    "wof:name":"Sosovoloko",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.56268,
+    2.87078,
+    27.56268,
+    2.87078
+],
+  "geometry": {"coordinates":[27.56268,2.87078],"type":"Point"}
+}

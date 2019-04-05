@@ -1,0 +1,67 @@
+{
+  "id": 1259448533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32385,-7.63386,18.32385,-7.63386",
+    "geom:latitude":-7.63386,
+    "geom:longitude":18.32385,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kalomba Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447770,
+    "gn:latitude":-7.63386,
+    "gn:longitude":18.32385,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalomba Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447770
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0585e6b3b45fc41800e3bd2ca8606a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1259448533,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259448533,
+    "wof:lastmodified":1536909439,
+    "wof:name":"Kalomba Deuxieme",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32385,
+    -7.63386,
+    18.32385,
+    -7.63386
+],
+  "geometry": {"coordinates":[18.32385,-7.63386],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226019421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80696,-4.37303,17.80696,-4.37303",
+    "geom:latitude":-4.37303,
+    "geom:longitude":17.80696,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Misimbiri",
+    "gn:country_code":"CD",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445637,
+    "gn:latitude":-4.37303,
+    "gn:longitude":17.80696,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Misimbiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445637
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"896c6c31b26391ac4b3d1e652d6ed214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1226019421,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226019421,
+    "wof:lastmodified":1536763530,
+    "wof:name":"Misimbiri",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80696,
+    -4.37303,
+    17.80696,
+    -4.37303
+],
+  "geometry": {"coordinates":[17.80696,-4.37303],"type":"Point"}
+}

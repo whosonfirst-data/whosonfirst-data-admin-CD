@@ -1,0 +1,65 @@
+{
+  "id": 1209064309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29919,-2.27209,18.29919,-2.27209",
+    "geom:latitude":-2.27209,
+    "geom:longitude":18.29919,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Patambalu",
+    "gn:country_code":"CD",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311752,
+    "gn:latitude":-2.27209,
+    "gn:longitude":18.29919,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Patambalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palambalu",
+        "Patambalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311752
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3899b505942533848c66ea5d85b4e493",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209064309
+        }
+    ],
+    "wof:id":1209064309,
+    "wof:lastmodified":1537590504,
+    "wof:name":"Patambalu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29919,
+    -2.27209,
+    18.29919,
+    -2.27209
+],
+  "geometry": {"coordinates":[18.29919,-2.27209],"type":"Point"}
+}

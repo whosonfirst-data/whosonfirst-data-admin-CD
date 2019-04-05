@@ -1,0 +1,61 @@
+{
+  "id": 1209573371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.7,-3.51667,19.7,-3.51667",
+    "geom:latitude":-3.51667,
+    "geom:longitude":19.7,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Nongendjale",
+    "gn:country_code":"CD",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311918,
+    "gn:latitude":-3.51667,
+    "gn:longitude":19.7,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nongendjale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311918
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e28625a39b2392afac66d38c26ab1d20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209573371
+        }
+    ],
+    "wof:id":1209573371,
+    "wof:lastmodified":1536283014,
+    "wof:name":"Nongendjale",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.7,
+    -3.5166699999999995,
+    19.7,
+    -3.5166699999999995
+],
+  "geometry": {"coordinates":[19.7,-3.51667],"type":"Point"}
+}

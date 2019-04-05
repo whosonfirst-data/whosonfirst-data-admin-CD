@@ -1,0 +1,67 @@
+{
+  "id": 1226508505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.89484,-6.41195,19.89484,-6.41195",
+    "geom:latitude":-6.41195,
+    "geom:longitude":19.89484,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kamukamu",
+    "gn:country_code":"CD",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315133,
+    "gn:latitude":-6.41195,
+    "gn:longitude":19.89484,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kamukamu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315133
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6569f92eb640d3c391a28db79459a1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1226508505,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226508505,
+    "wof:lastmodified":1537049741,
+    "wof:name":"Kamukamu",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.89484,
+    -6.41195,
+    19.89484,
+    -6.41195
+],
+  "geometry": {"coordinates":[19.89484,-6.41195],"type":"Point"}
+}

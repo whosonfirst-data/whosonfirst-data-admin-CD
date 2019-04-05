@@ -1,0 +1,67 @@
+{
+  "id": 1225824585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.12486,3.07053,24.12486,3.07053",
+    "geom:latitude":3.07053,
+    "geom:longitude":24.12486,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Akangi",
+    "gn:country_code":"CD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198071,
+    "gn:latitude":3.07053,
+    "gn:longitude":24.12486,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Akangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198071
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cda9848a8a5a2bfb8ec8072994a56a47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1225824585,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1225824585,
+    "wof:lastmodified":1537042462,
+    "wof:name":"Akangi",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.12486,
+    3.07053,
+    24.12486,
+    3.07053
+],
+  "geometry": {"coordinates":[24.12486,3.07053],"type":"Point"}
+}

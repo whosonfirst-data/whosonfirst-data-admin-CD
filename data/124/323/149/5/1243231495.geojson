@@ -1,0 +1,67 @@
+{
+  "id": 1243231495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19077,2.62374,22.19077,2.62374",
+    "geom:latitude":2.62374,
+    "geom:longitude":22.19077,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yamagbow",
+    "gn:country_code":"CD",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279383,
+    "gn:latitude":2.62374,
+    "gn:longitude":22.19077,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yamagbow",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279383
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"23a18a7d3a7f825d27d9f3242f52e23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1243231495,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1243231495,
+    "wof:lastmodified":1536616211,
+    "wof:name":"Yamagbow",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19077,
+    2.62374,
+    22.19077,
+    2.62374
+],
+  "geometry": {"coordinates":[22.19077,2.62374],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327189515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74497,2.63017,21.74497,2.63017",
+    "geom:latitude":2.63017,
+    "geom:longitude":21.74497,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Dandu",
+    "gn:country_code":"CD",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217418,
+    "gn:latitude":2.63017,
+    "gn:longitude":21.74497,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217418
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"724fabf2c636da3ee761a53e60235d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1327189515,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327189515,
+    "wof:lastmodified":1537030339,
+    "wof:name":"Dandu",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74497,
+    2.63017,
+    21.74497,
+    2.63017
+],
+  "geometry": {"coordinates":[21.74497,2.63017],"type":"Point"}
+}

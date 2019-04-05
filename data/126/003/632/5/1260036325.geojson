@@ -1,0 +1,71 @@
+{
+  "id": 1260036325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.52955,-10.04627,24.52955,-10.04627",
+    "geom:latitude":-10.04627,
+    "geom:longitude":24.52955,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Nakulusu",
+    "gn:country_code":"CD",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922319,
+    "gn:latitude":-10.04627,
+    "gn:longitude":24.52955,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nakulusu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nakulusa",
+        "Nakulusu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922319
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"96cc4f6fbeb43cc361fd9b9aad541056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1260036325,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260036325,
+    "wof:lastmodified":1537590484,
+    "wof:name":"Nakulusu",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.52955,
+    -10.04627,
+    24.52955,
+    -10.04627
+],
+  "geometry": {"coordinates":[24.52955,-10.04627],"type":"Point"}
+}

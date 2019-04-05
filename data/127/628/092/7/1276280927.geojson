@@ -1,0 +1,71 @@
+{
+  "id": 1276280927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.30002,1.02597,25.30002,1.02597",
+    "geom:latitude":1.02597,
+    "geom:longitude":25.30002,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Baleke",
+    "gn:country_code":"CD",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219736,
+    "gn:latitude":1.02597,
+    "gn:longitude":25.30002,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Baleke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beleke",
+        "Baleke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219736
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f108dbb9cff0aa2570c4b4992012b7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1276280927,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276280927,
+    "wof:lastmodified":1537590471,
+    "wof:name":"Baleke",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.30002,
+    1.02597,
+    25.30002,
+    1.02597
+],
+  "geometry": {"coordinates":[25.30002,1.02597],"type":"Point"}
+}

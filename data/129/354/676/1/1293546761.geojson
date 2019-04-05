@@ -1,0 +1,71 @@
+{
+  "id": 1293546761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.35117,2.94148,21.35117,2.94148",
+    "geom:latitude":2.94148,
+    "geom:longitude":21.35117,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Gumba",
+    "gn:country_code":"CD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216199,
+    "gn:latitude":2.94148,
+    "gn:longitude":21.35117,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gale",
+        "Gumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216199
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e249d583cd5231157c1db85d2d4752b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1293546761,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293546761,
+    "wof:lastmodified":1537590433,
+    "wof:name":"Gumba",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.35117,
+    2.94148,
+    21.35117,
+    2.94148
+],
+  "geometry": {"coordinates":[21.35117,2.94148],"type":"Point"}
+}

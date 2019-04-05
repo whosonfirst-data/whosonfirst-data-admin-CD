@@ -1,0 +1,61 @@
+{
+  "id": 1209681305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73151,-6.19072,16.73151,-6.19072",
+    "geom:latitude":-6.19072,
+    "geom:longitude":16.73151,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mawangi",
+    "gn:country_code":"CD",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331576,
+    "gn:latitude":-6.19072,
+    "gn:longitude":16.73151,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mawangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331576
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1dc5a0ddef8f988d721ee5c61e17c64c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209681305
+        }
+    ],
+    "wof:id":1209681305,
+    "wof:lastmodified":1536279565,
+    "wof:name":"Mawangi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73151,
+    -6.19072,
+    16.73151,
+    -6.19072
+],
+  "geometry": {"coordinates":[16.73151,-6.19072],"type":"Point"}
+}

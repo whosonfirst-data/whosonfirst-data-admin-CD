@@ -1,0 +1,67 @@
+{
+  "id": 1360157793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.43887,-9.70327,25.43887,-9.70327",
+    "geom:latitude":-9.70327,
+    "geom:longitude":25.43887,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Wafiula",
+    "gn:country_code":"CD",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10052522,
+    "gn:latitude":-9.70327,
+    "gn:longitude":25.43887,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Wafiula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10052522
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0dda69f8caf719ba9d5fa75498ff10a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1360157793,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1360157793,
+    "wof:lastmodified":1536839856,
+    "wof:name":"Wafiula",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.43887,
+    -9.70327,
+    25.43887,
+    -9.70327
+],
+  "geometry": {"coordinates":[25.43887,-9.70327],"type":"Point"}
+}

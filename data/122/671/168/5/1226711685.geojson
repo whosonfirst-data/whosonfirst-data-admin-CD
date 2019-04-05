@@ -1,0 +1,67 @@
+{
+  "id": 1226711685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.79431,-3.72483,18.79431,-3.72483",
+    "geom:latitude":-3.72483,
+    "geom:longitude":18.79431,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mushie-Kobo",
+    "gn:country_code":"CD",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8446932,
+    "gn:latitude":-3.72483,
+    "gn:longitude":18.79431,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mushie-Kobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8446932
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d8845f56df1d1665747477ba306009db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1226711685,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226711685,
+    "wof:lastmodified":1536765203,
+    "wof:name":"Mushie-Kobo",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.79431,
+    -3.72483,
+    18.79431,
+    -3.72483
+],
+  "geometry": {"coordinates":[18.79431,-3.72483],"type":"Point"}
+}

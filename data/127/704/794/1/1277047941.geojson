@@ -1,0 +1,67 @@
+{
+  "id": 1277047941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4964,3.52749,27.4964,3.52749",
+    "geom:latitude":3.52749,
+    "geom:longitude":27.4964,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kongo",
+    "gn:country_code":"CD",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212365,
+    "gn:latitude":3.52749,
+    "gn:longitude":27.4964,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212365
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"44b3222459abaf17d0c00fc50514aab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1277047941,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1277047941,
+    "wof:lastmodified":1536815102,
+    "wof:name":"Kongo",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4964,
+    3.52749,
+    27.4964,
+    3.52749
+],
+  "geometry": {"coordinates":[27.4964,3.52749],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309988353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.26554,3.81998,30.26554,3.81998",
+    "geom:latitude":3.81998,
+    "geom:longitude":30.26554,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Avokiri",
+    "gn:country_code":"CD",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220155,
+    "gn:latitude":3.81998,
+    "gn:longitude":30.26554,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Avokiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220155
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8c77f073c5bd4b4c142ac794a8e4a23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1309988353,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1309988353,
+    "wof:lastmodified":1536668069,
+    "wof:name":"Avokiri",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.26554,
+    3.81998,
+    30.26554,
+    3.81998
+],
+  "geometry": {"coordinates":[30.26554,3.81998],"type":"Point"}
+}

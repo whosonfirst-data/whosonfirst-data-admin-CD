@@ -1,0 +1,67 @@
+{
+  "id": 1276541313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26287,-4.41881,15.26287,-4.41881",
+    "geom:latitude":-4.41881,
+    "geom:longitude":15.26287,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kimpalapala",
+    "gn:country_code":"CD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593301,
+    "gn:latitude":-4.41881,
+    "gn:longitude":15.26287,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kimpalapala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593301
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ddaedf084d367a611389f11ea01e9092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679241,
+            "locality_id":1276541313,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1276541313,
+    "wof:lastmodified":1536996544,
+    "wof:name":"Kimpalapala",
+    "wof:parent_id":1091679241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26287,
+    -4.41881,
+    15.26287,
+    -4.41881
+],
+  "geometry": {"coordinates":[15.26287,-4.41881],"type":"Point"}
+}

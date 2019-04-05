@@ -1,0 +1,61 @@
+{
+  "id": 1209275521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35,-6.96667,26.35,-6.96667",
+    "geom:latitude":-6.96667,
+    "geom:longitude":26.35,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kasongo",
+    "gn:country_code":"CD",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213935,
+    "gn:latitude":-6.96667,
+    "gn:longitude":26.35,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kasongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213935
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c6112182c5099a88d0329d30c3150d84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209275521
+        }
+    ],
+    "wof:id":1209275521,
+    "wof:lastmodified":1536292209,
+    "wof:name":"Kasongo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35,
+    -6.96667,
+    26.35,
+    -6.96667
+],
+  "geometry": {"coordinates":[26.35,-6.96667],"type":"Point"}
+}

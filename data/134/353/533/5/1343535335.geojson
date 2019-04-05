@@ -1,0 +1,70 @@
+{
+  "id": 1343535335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.77341,-7.78536,23.77341,-7.78536",
+    "geom:latitude":-7.78536,
+    "geom:longitude":23.77341,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kabokantanda",
+    "gn:country_code":"CD",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8520625,
+    "gn:latitude":-7.78536,
+    "gn:longitude":23.77341,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabokantanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabokatanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8520625
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"500f59cd70d6d5559ee596fca22571c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1343535335,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1343535335,
+    "wof:lastmodified":1537590577,
+    "wof:name":"Kabokantanda",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.77341,
+    -7.78536,
+    23.77341,
+    -7.78536
+],
+  "geometry": {"coordinates":[23.77341,-7.78536],"type":"Point"}
+}

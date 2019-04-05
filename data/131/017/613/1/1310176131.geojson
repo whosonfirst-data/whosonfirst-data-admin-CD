@@ -1,0 +1,67 @@
+{
+  "id": 1310176131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.48333,-9.8,28.48333,-9.8",
+    "geom:latitude":-9.8,
+    "geom:longitude":28.48333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kabemba",
+    "gn:country_code":"CD",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215572,
+    "gn:latitude":-9.8,
+    "gn:longitude":28.48333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215572
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d65789b5b543a8a9da16348a3479f86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1310176131,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310176131,
+    "wof:lastmodified":1536894530,
+    "wof:name":"Kabemba",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.48333,
+    -9.8,
+    28.48333,
+    -9.8
+],
+  "geometry": {"coordinates":[28.48333,-9.8],"type":"Point"}
+}

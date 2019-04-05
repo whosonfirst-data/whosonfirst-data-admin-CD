@@ -1,0 +1,61 @@
+{
+  "id": 1209395909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.72096,0.34124,29.72096,0.34124",
+    "geom:latitude":0.34124,
+    "geom:longitude":29.72096,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bukokoma",
+    "gn:country_code":"CD",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329305,
+    "gn:latitude":0.34124,
+    "gn:longitude":29.72096,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Bukokoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329305
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fae31c7432ef345df3bab84865abf56e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209395909
+        }
+    ],
+    "wof:id":1209395909,
+    "wof:lastmodified":1536288302,
+    "wof:name":"Bukokoma",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.72096,
+    0.34124,
+    29.72096,
+    0.34124
+],
+  "geometry": {"coordinates":[29.72096,0.34124],"type":"Point"}
+}

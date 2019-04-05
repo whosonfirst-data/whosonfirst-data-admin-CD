@@ -1,0 +1,72 @@
+{
+  "id": 1293679743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84973,-5.39861,14.84973,-5.39861",
+    "geom:latitude":-5.39861,
+    "geom:longitude":14.84973,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mweke",
+    "gn:country_code":"CD",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312134,
+    "gn:latitude":-5.39861,
+    "gn:longitude":14.84973,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mweke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dethieu",
+        "Dethier",
+        "Mweke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312134
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0db9a3cdc703af7386eeee0158b5c891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1293679743,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1293679743,
+    "wof:lastmodified":1537590509,
+    "wof:name":"Mweke",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84973,
+    -5.39861,
+    14.84973,
+    -5.39861
+],
+  "geometry": {"coordinates":[14.84973,-5.39861],"type":"Point"}
+}

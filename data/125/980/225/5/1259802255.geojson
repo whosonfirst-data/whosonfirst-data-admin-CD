@@ -1,0 +1,67 @@
+{
+  "id": 1259802255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.02111,1.435,30.02111,1.435",
+    "geom:latitude":1.435,
+    "geom:longitude":30.02111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Gatuna",
+    "gn:country_code":"CD",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9172238,
+    "gn:latitude":1.435,
+    "gn:longitude":30.02111,
+    "gn:modification_date":"2014-06-26",
+    "gn:name":"Gatuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9172238
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"15759caf4970cf75aa95f6131fec11a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1259802255,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259802255,
+    "wof:lastmodified":1536895998,
+    "wof:name":"Gatuna",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.02111,
+    1.435,
+    30.02111,
+    1.435
+],
+  "geometry": {"coordinates":[30.02111,1.435],"type":"Point"}
+}

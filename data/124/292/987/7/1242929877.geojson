@@ -1,0 +1,67 @@
+{
+  "id": 1242929877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.28798,-10.48586,24.28798,-10.48586",
+    "geom:latitude":-10.48586,
+    "geom:longitude":24.28798,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Lungenda",
+    "gn:country_code":"CD",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10206764,
+    "gn:latitude":-10.48586,
+    "gn:longitude":24.28798,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lungenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206764
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b6c54a45227349020811f6f94670416d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1242929877,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242929877,
+    "wof:lastmodified":1537051295,
+    "wof:name":"Lungenda",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.28798,
+    -10.48586,
+    24.28798,
+    -10.48586
+],
+  "geometry": {"coordinates":[24.28798,-10.48586],"type":"Point"}
+}

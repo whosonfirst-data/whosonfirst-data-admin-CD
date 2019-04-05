@@ -1,0 +1,65 @@
+{
+  "id": 1209400193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06235,-5.64074,13.06235,-5.64074",
+    "geom:latitude":-5.64074,
+    "geom:longitude":13.06235,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kondo",
+    "gn:country_code":"CD",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313981,
+    "gn:latitude":-5.64074,
+    "gn:longitude":13.06235,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kondo-Ineac",
+        "Kondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313981
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"23caf2e45e45e82c6c69800bb0a5334e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209400193
+        }
+    ],
+    "wof:id":1209400193,
+    "wof:lastmodified":1537590527,
+    "wof:name":"Kondo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06235,
+    -5.64074,
+    13.06235,
+    -5.64074
+],
+  "geometry": {"coordinates":[13.06235,-5.64074],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343930261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.69975,2.0581,27.69975,2.0581",
+    "geom:latitude":2.0581,
+    "geom:longitude":27.69975,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Batenawane",
+    "gn:country_code":"CD",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219386,
+    "gn:latitude":2.0581,
+    "gn:longitude":27.69975,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Batenawane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219386
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f1021d628700b0699f68e208283e65e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1343930261,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343930261,
+    "wof:lastmodified":1537060949,
+    "wof:name":"Batenawane",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.69975,
+    2.0581,
+    27.69975,
+    2.0581
+],
+  "geometry": {"coordinates":[27.69975,2.0581],"type":"Point"}
+}

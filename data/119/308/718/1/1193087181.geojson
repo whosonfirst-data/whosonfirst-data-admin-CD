@@ -1,0 +1,70 @@
+{
+  "id": 1193087181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07616,-0.48718,25.07616,-0.48718",
+    "geom:latitude":-0.48718,
+    "geom:longitude":25.07616,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Batiakungu",
+    "gn:country_code":"CD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219369,
+    "gn:latitude":-0.48718,
+    "gn:longitude":25.07616,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Batiakungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Risasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219369
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7292b691842ec8f4335db33ca300d39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1193087181,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1193087181,
+    "wof:lastmodified":1537590466,
+    "wof:name":"Batiakungu",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07616,
+    -0.48718,
+    25.07616,
+    -0.48718
+],
+  "geometry": {"coordinates":[25.07616,-0.48718],"type":"Point"}
+}

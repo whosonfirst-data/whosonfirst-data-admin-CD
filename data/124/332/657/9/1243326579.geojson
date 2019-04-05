@@ -1,0 +1,67 @@
+{
+  "id": 1243326579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23191,-6.33823,20.23191,-6.33823",
+    "geom:latitude":-6.33823,
+    "geom:longitude":20.23191,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kanungu",
+    "gn:country_code":"CD",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283090,
+    "gn:latitude":-6.33823,
+    "gn:longitude":20.23191,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kanungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283090
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"36e7bd24d5f24a3b20419f1a09edd2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1243326579,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243326579,
+    "wof:lastmodified":1536977932,
+    "wof:name":"Kanungu",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23191,
+    -6.33823,
+    20.23191,
+    -6.33823
+],
+  "geometry": {"coordinates":[20.23191,-6.33823],"type":"Point"}
+}

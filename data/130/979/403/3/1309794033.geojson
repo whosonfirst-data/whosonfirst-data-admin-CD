@@ -1,0 +1,67 @@
+{
+  "id": 1309794033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.49067,0.30598,29.49067,0.30598",
+    "geom:latitude":0.30598,
+    "geom:longitude":29.49067,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Katalio",
+    "gn:country_code":"CD",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329430,
+    "gn:latitude":0.30598,
+    "gn:longitude":29.49067,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Katalio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329430
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6be9956ab27679e1bc3ebeb7a47f4975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1309794033,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1309794033,
+    "wof:lastmodified":1536948372,
+    "wof:name":"Katalio",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.49067,
+    0.30598,
+    29.49067,
+    0.30598
+],
+  "geometry": {"coordinates":[29.49067,0.30598],"type":"Point"}
+}

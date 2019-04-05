@@ -1,0 +1,71 @@
+{
+  "id": 1260136515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.21133,-8.5699,23.21133,-8.5699",
+    "geom:latitude":-8.5699,
+    "geom:longitude":23.21133,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshingand Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10016668,
+    "gn:latitude":-8.5699,
+    "gn:longitude":23.21133,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshingand Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshingand Deuxi\u00e8me",
+        "Tshinganda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10016668
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cb58b485f4cb82f7f44663971c92ef4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1260136515,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260136515,
+    "wof:lastmodified":1537590578,
+    "wof:name":"Tshingand Deuxieme",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.21133,
+    -8.5699,
+    23.21133,
+    -8.5699
+],
+  "geometry": {"coordinates":[23.21133,-8.5699],"type":"Point"}
+}

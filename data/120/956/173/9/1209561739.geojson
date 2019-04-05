@@ -1,0 +1,65 @@
+{
+  "id": 1209561739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.22291,-1.10322,24.22291,-1.10322",
+    "geom:latitude":-1.10322,
+    "geom:longitude":24.22291,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Otelakoi",
+    "gn:country_code":"CD",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206492,
+    "gn:latitude":-1.10322,
+    "gn:longitude":24.22291,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Otelakoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otelakoie",
+        "Otelakoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206492
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fd399f7a8f5e1a474fc9b8928a3318e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209561739
+        }
+    ],
+    "wof:id":1209561739,
+    "wof:lastmodified":1537590337,
+    "wof:name":"Otelakoi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22291,
+    -1.10322,
+    24.22291,
+    -1.10322
+],
+  "geometry": {"coordinates":[24.22291,-1.10322],"type":"Point"}
+}

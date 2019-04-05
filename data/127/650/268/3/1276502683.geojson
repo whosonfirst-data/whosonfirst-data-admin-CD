@@ -1,0 +1,71 @@
+{
+  "id": 1276502683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.19174,-7.7142,23.19174,-7.7142",
+    "geom:latitude":-7.7142,
+    "geom:longitude":23.19174,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshibaka-Kaji",
+    "gn:country_code":"CD",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205037,
+    "gn:latitude":-7.7142,
+    "gn:longitude":23.19174,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshibaka-Kaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshibaka",
+        "Tshibaka-Kaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205037
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6e672ae251c73e4ed2a43a505ab9e10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1276502683,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276502683,
+    "wof:lastmodified":1537590319,
+    "wof:name":"Tshibaka-Kaji",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.19174,
+    -7.7142,
+    23.19174,
+    -7.7142
+],
+  "geometry": {"coordinates":[23.19174,-7.7142],"type":"Point"}
+}

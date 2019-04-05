@@ -1,0 +1,61 @@
+{
+  "id": 1209678097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58243,-4.24714,17.58243,-4.24714",
+    "geom:latitude":-4.24714,
+    "geom:longitude":17.58243,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kimpaka",
+    "gn:country_code":"CD",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445778,
+    "gn:latitude":-4.24714,
+    "gn:longitude":17.58243,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kimpaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445778
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e43893a880d989355e5ba67350e95d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209678097
+        }
+    ],
+    "wof:id":1209678097,
+    "wof:lastmodified":1536279677,
+    "wof:name":"Kimpaka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58243,
+    -4.24714,
+    17.58243,
+    -4.24714
+],
+  "geometry": {"coordinates":[17.58243,-4.24714],"type":"Point"}
+}

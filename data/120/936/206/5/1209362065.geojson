@@ -1,0 +1,61 @@
+{
+  "id": 1209362065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99004,2.78495,18.99004,2.78495",
+    "geom:latitude":2.78495,
+    "geom:longitude":18.99004,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Basa Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8244421,
+    "gn:latitude":2.78495,
+    "gn:longitude":18.99004,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Basa Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8244421
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"539e5dac6856cb0bd241bb86bef6c815",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209362065
+        }
+    ],
+    "wof:id":1209362065,
+    "wof:lastmodified":1536289389,
+    "wof:name":"Basa Premiere",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99004,
+    2.78495,
+    18.99004,
+    2.78495
+],
+  "geometry": {"coordinates":[18.99004,2.78495],"type":"Point"}
+}

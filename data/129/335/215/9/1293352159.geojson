@@ -1,0 +1,67 @@
+{
+  "id": 1293352159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.20838,-4.14897,19.20838,-4.14897",
+    "geom:latitude":-4.14897,
+    "geom:longitude":19.20838,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bantsham",
+    "gn:country_code":"CD",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317347,
+    "gn:latitude":-4.14897,
+    "gn:longitude":19.20838,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bantsham",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317347
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f9b9757fcb44650c5426198ccdee4049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293352159,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293352159,
+    "wof:lastmodified":1536981598,
+    "wof:name":"Bantsham",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.20838,
+    -4.14897,
+    19.20838,
+    -4.14897
+],
+  "geometry": {"coordinates":[19.20838,-4.14897],"type":"Point"}
+}

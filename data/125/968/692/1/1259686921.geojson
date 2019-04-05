@@ -1,0 +1,70 @@
+{
+  "id": 1259686921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.39457,-0.82674,19.39457,-0.82674",
+    "geom:latitude":-0.82674,
+    "geom:longitude":19.39457,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mompona",
+    "gn:country_code":"CD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312605,
+    "gn:latitude":-0.82674,
+    "gn:longitude":19.39457,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mompona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mompoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312605
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3de718de451a0047e8c85fe4b86e24b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1259686921,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1259686921,
+    "wof:lastmodified":1537590514,
+    "wof:name":"Mompona",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.39457,
+    -0.82674,
+    19.39457,
+    -0.82674
+],
+  "geometry": {"coordinates":[19.39457,-0.82674],"type":"Point"}
+}

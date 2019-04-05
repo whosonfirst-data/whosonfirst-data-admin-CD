@@ -1,0 +1,61 @@
+{
+  "id": 1209573655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.81333,-5.34037,21.81333,-5.34037",
+    "geom:latitude":-5.34037,
+    "geom:longitude":21.81333,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mayoyo-Lunsanyi",
+    "gn:country_code":"CD",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277589,
+    "gn:latitude":-5.34037,
+    "gn:longitude":21.81333,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mayoyo-Lunsanyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277589
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9be543117f68fc98e0722545ce710539",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209573655
+        }
+    ],
+    "wof:id":1209573655,
+    "wof:lastmodified":1536283005,
+    "wof:name":"Mayoyo-Lunsanyi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.81333,
+    -5.34037,
+    21.81333,
+    -5.34037
+],
+  "geometry": {"coordinates":[21.81333,-5.34037],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343230865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.85072,-10.09153,24.85072,-10.09153",
+    "geom:latitude":-10.09153,
+    "geom:longitude":24.85072,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sandu",
+    "gn:country_code":"CD",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10207086,
+    "gn:latitude":-10.09153,
+    "gn:longitude":24.85072,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10207086
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"59305933af27aa1170b8ae572e8fe5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1343230865,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343230865,
+    "wof:lastmodified":1537074720,
+    "wof:name":"Sandu",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.85072000000001,
+    -10.09153,
+    24.85072000000001,
+    -10.09153
+],
+  "geometry": {"coordinates":[24.85072000000001,-10.09153],"type":"Point"}
+}

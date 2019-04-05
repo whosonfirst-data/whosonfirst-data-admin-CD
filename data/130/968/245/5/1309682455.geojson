@@ -1,0 +1,70 @@
+{
+  "id": 1309682455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55414,-7.72309,26.55414,-7.72309",
+    "geom:latitude":-7.72309,
+    "geom:longitude":26.55414,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kabumbu",
+    "gn:country_code":"CD",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9940806,
+    "gn:latitude":-7.72309,
+    "gn:longitude":26.55414,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9940806
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8c3ac73fe70d0ebd66259e74a01ad763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1309682455,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1309682455,
+    "wof:lastmodified":1537590577,
+    "wof:name":"Kabumbu",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55414,
+    -7.72309,
+    26.55414,
+    -7.72309
+],
+  "geometry": {"coordinates":[26.55414,-7.72309],"type":"Point"}
+}

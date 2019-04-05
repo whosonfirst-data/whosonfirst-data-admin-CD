@@ -1,0 +1,67 @@
+{
+  "id": 1226814635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06499,-5.74947,17.06499,-5.74947",
+    "geom:latitude":-5.74947,
+    "geom:longitude":17.06499,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Indaba",
+    "gn:country_code":"CD",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274760,
+    "gn:latitude":-5.74947,
+    "gn:longitude":17.06499,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Indaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274760
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c1eb68e8f3dd48e479c423b5c516deb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226814635,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226814635,
+    "wof:lastmodified":1536614069,
+    "wof:name":"Indaba",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06499,
+    -5.74947,
+    17.06499,
+    -5.74947
+],
+  "geometry": {"coordinates":[17.06499,-5.74947],"type":"Point"}
+}

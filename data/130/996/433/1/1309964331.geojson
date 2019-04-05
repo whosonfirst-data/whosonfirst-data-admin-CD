@@ -1,0 +1,67 @@
+{
+  "id": 1309964331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.67981,-8.58258,22.67981,-8.58258",
+    "geom:latitude":-8.58258,
+    "geom:longitude":22.67981,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sakayembe",
+    "gn:country_code":"CD",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205972,
+    "gn:latitude":-8.58258,
+    "gn:longitude":22.67981,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sakayembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205972
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d2e0cb77a8328814303b2353ce5d0fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1309964331,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1309964331,
+    "wof:lastmodified":1536703067,
+    "wof:name":"Sakayembe",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.67981,
+    -8.58258,
+    22.67981,
+    -8.58258
+],
+  "geometry": {"coordinates":[22.67981,-8.58258],"type":"Point"}
+}

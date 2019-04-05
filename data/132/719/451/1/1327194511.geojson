@@ -1,0 +1,67 @@
+{
+  "id": 1327194511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.06474,-0.506,24.06474,-0.506",
+    "geom:latitude":-0.506,
+    "geom:longitude":24.06474,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Lelema",
+    "gn:country_code":"CD",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212038,
+    "gn:latitude":-0.506,
+    "gn:longitude":24.06474,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lelema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212038
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1050e3de8580f09e90783a46d598c499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1327194511,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327194511,
+    "wof:lastmodified":1537023409,
+    "wof:name":"Lelema",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.06474,
+    -0.506,
+    24.06474,
+    -0.506
+],
+  "geometry": {"coordinates":[24.06474,-0.506],"type":"Point"}
+}

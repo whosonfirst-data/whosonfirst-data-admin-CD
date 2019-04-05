@@ -1,0 +1,67 @@
+{
+  "id": 1310238131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.80727,-0.78307,22.80727,-0.78307",
+    "geom:latitude":-0.78307,
+    "geom:longitude":22.80727,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Deke",
+    "gn:country_code":"CD",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217402,
+    "gn:latitude":-0.78307,
+    "gn:longitude":22.80727,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Deke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217402
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8fe7af3244b9a32768085358ca46eef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1310238131,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310238131,
+    "wof:lastmodified":1536805017,
+    "wof:name":"Deke",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.80727000000001,
+    -0.78307,
+    22.80727000000001,
+    -0.78307
+],
+  "geometry": {"coordinates":[22.80727000000001,-0.78307],"type":"Point"}
+}

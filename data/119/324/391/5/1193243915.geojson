@@ -1,0 +1,71 @@
+{
+  "id": 1193243915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.76407,-5.32224,16.76407,-5.32224",
+    "geom:latitude":-5.32224,
+    "geom:longitude":16.76407,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kipandi",
+    "gn:country_code":"CD",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314222,
+    "gn:latitude":-5.32224,
+    "gn:longitude":16.76407,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kipandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pandi",
+        "Kipandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314222
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f2d1bfe3829352e6c6b7293469c6b3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1193243915,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1193243915,
+    "wof:lastmodified":1537590529,
+    "wof:name":"Kipandi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.76407,
+    -5.32224,
+    16.76407,
+    -5.32224
+],
+  "geometry": {"coordinates":[16.76407,-5.32224],"type":"Point"}
+}

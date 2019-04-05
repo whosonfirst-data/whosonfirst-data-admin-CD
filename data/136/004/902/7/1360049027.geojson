@@ -1,0 +1,70 @@
+{
+  "id": 1360049027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6684,1.15549,29.6684,1.15549",
+    "geom:latitude":1.15549,
+    "geom:longitude":29.6684,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Manlobe",
+    "gn:country_code":"CD",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504777,
+    "gn:latitude":1.15549,
+    "gn:longitude":29.6684,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Manlobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manlobe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504777
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9a9c7ccbce9e2e0056f6c244f1d5aaaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1360049027,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360049027,
+    "wof:lastmodified":1537590566,
+    "wof:name":"Manlobe",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6684,
+    1.15549,
+    29.6684,
+    1.15549
+],
+  "geometry": {"coordinates":[29.6684,1.15549],"type":"Point"}
+}

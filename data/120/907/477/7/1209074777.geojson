@@ -1,0 +1,61 @@
+{
+  "id": 1209074777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.73832,-6.73413,21.73832,-6.73413",
+    "geom:latitude":-6.73413,
+    "geom:longitude":21.73832,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mushidi",
+    "gn:country_code":"CD",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327467,
+    "gn:latitude":-6.73413,
+    "gn:longitude":21.73832,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mushidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327467
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ef247066a4266783d2e321350ef4a8cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209074777
+        }
+    ],
+    "wof:id":1209074777,
+    "wof:lastmodified":1536298530,
+    "wof:name":"Mushidi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.73832,
+    -6.73413,
+    21.73832,
+    -6.73413
+],
+  "geometry": {"coordinates":[21.73832,-6.73413],"type":"Point"}
+}

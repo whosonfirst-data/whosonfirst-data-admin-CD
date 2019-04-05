@@ -1,0 +1,67 @@
+{
+  "id": 1310273797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.04573,-10.37725,23.04573,-10.37725",
+    "geom:latitude":-10.37725,
+    "geom:longitude":23.04573,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kangela",
+    "gn:country_code":"CD",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466521,
+    "gn:latitude":-10.37725,
+    "gn:longitude":23.04573,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kangela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466521
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"052abb5f0a2f775408ceb2bfb0ef5fc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1310273797,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310273797,
+    "wof:lastmodified":1536753740,
+    "wof:name":"Kangela",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.04573,
+    -10.37725,
+    23.04573,
+    -10.37725
+],
+  "geometry": {"coordinates":[23.04573,-10.37725],"type":"Point"}
+}

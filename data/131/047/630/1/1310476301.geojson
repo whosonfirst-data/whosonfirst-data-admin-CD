@@ -1,0 +1,70 @@
+{
+  "id": 1310476301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.96339,-4.26453,16.96339,-4.26453",
+    "geom:latitude":-4.26453,
+    "geom:longitude":16.96339,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kibwasi",
+    "gn:country_code":"CD",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314837,
+    "gn:latitude":-4.26453,
+    "gn:longitude":16.96339,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kibwasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kibuari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314837
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2b00b1be7b6acaf8a624d16fb4e74ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1310476301,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310476301,
+    "wof:lastmodified":1537590535,
+    "wof:name":"Kibwasi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.96339,
+    -4.26453,
+    16.96339,
+    -4.26453
+],
+  "geometry": {"coordinates":[16.96339,-4.26453],"type":"Point"}
+}

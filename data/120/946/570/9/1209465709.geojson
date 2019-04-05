@@ -1,0 +1,61 @@
+{
+  "id": 1209465709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.61585,-5.62917,27.61585,-5.62917",
+    "geom:latitude":-5.62917,
+    "geom:longitude":27.61585,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kitengetenge",
+    "gn:country_code":"CD",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212602,
+    "gn:latitude":-5.62917,
+    "gn:longitude":27.61585,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kitengetenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212602
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"19b0c82061fe3c7b4ebd8b4a5f9fa110",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209465709
+        }
+    ],
+    "wof:id":1209465709,
+    "wof:lastmodified":1536286241,
+    "wof:name":"Kitengetenge",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.61585,
+    -5.6291699999999985,
+    27.61585,
+    -5.6291699999999985
+],
+  "geometry": {"coordinates":[27.61585,-5.62917],"type":"Point"}
+}

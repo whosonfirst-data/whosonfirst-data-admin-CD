@@ -1,0 +1,67 @@
+{
+  "id": 1242725325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.99003,2.44002,18.99003,2.44002",
+    "geom:latitude":2.44002,
+    "geom:longitude":18.99003,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Busu-Gwandi Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8244487,
+    "gn:latitude":2.44002,
+    "gn:longitude":18.99003,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Busu-Gwandi Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8244487
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b2dfc579ae0a7ee11413b01b0a86477f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1242725325,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1242725325,
+    "wof:lastmodified":1536849958,
+    "wof:name":"Busu-Gwandi Deuxieme",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.99003,
+    2.44002,
+    18.99003,
+    2.44002
+],
+  "geometry": {"coordinates":[18.99003,2.44002],"type":"Point"}
+}

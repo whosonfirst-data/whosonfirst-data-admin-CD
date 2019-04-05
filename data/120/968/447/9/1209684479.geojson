@@ -1,0 +1,61 @@
+{
+  "id": 1209684479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43223,-10.28379,24.43223,-10.28379",
+    "geom:latitude":-10.28379,
+    "geom:longitude":24.43223,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Bondo",
+    "gn:country_code":"CD",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10206938,
+    "gn:latitude":-10.28379,
+    "gn:longitude":24.43223,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206938
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"450f5e348f89fd76c8d5d4de5cd0bfc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209684479
+        }
+    ],
+    "wof:id":1209684479,
+    "wof:lastmodified":1536279460,
+    "wof:name":"Bondo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43223,
+    -10.28379,
+    24.43223,
+    -10.28379
+],
+  "geometry": {"coordinates":[24.43223,-10.28379],"type":"Point"}
+}

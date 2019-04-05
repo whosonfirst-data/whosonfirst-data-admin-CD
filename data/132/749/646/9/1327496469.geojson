@@ -1,0 +1,67 @@
+{
+  "id": 1327496469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80963,-6.48425,20.80963,-6.48425",
+    "geom:latitude":-6.48425,
+    "geom:longitude":20.80963,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ndala",
+    "gn:country_code":"CD",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283200,
+    "gn:latitude":-6.48425,
+    "gn:longitude":20.80963,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ndala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283200
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7804ca2b9b178cc52ee7800d11eb88a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1327496469,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327496469,
+    "wof:lastmodified":1537082969,
+    "wof:name":"Ndala",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80963,
+    -6.48425,
+    20.80963,
+    -6.48425
+],
+  "geometry": {"coordinates":[20.80963,-6.48425],"type":"Point"}
+}

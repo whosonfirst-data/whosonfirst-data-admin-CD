@@ -1,0 +1,67 @@
+{
+  "id": 1243519189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83967,-5.50546,17.83967,-5.50546",
+    "geom:latitude":-5.50546,
+    "geom:longitude":17.83967,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Niangina",
+    "gn:country_code":"CD",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274638,
+    "gn:latitude":-5.50546,
+    "gn:longitude":17.83967,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Niangina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274638
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"99a0fbded5635fdc264b453cde44ac2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1243519189,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243519189,
+    "wof:lastmodified":1536701034,
+    "wof:name":"Niangina",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83967,
+    -5.50546,
+    17.83967,
+    -5.50546
+],
+  "geometry": {"coordinates":[17.83967,-5.50546],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360036311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.46412,2.50488,19.46412,2.50488",
+    "geom:latitude":2.50488,
+    "geom:longitude":19.46412,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Gombo",
+    "gn:country_code":"CD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311342,
+    "gn:latitude":2.50488,
+    "gn:longitude":19.46412,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Gombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sombo"
+    ],
+    "name:fra_x_variant":[
+        "Gombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311342
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aecaeb2b0a1838cb3bf5977b6e19ba6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1360036311,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1360036311,
+    "wof:lastmodified":1537590500,
+    "wof:name":"Gombo",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.46412,
+    2.50488,
+    19.46412,
+    2.50488
+],
+  "geometry": {"coordinates":[19.46412,2.50488],"type":"Point"}
+}

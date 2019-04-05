@@ -1,0 +1,67 @@
+{
+  "id": 1259859473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41667,-2.66667,27.41667,-2.66667",
+    "geom:latitude":-2.66667,
+    "geom:longitude":27.41667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kiamisenge",
+    "gn:country_code":"CD",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213392,
+    "gn:latitude":-2.66667,
+    "gn:longitude":27.41667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kiamisenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213392
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e0771d121f00e1112984b07bd72b5a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1259859473,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1259859473,
+    "wof:lastmodified":1536813164,
+    "wof:name":"Kiamisenge",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41667,
+    -2.66667,
+    27.41667,
+    -2.66667
+],
+  "geometry": {"coordinates":[27.41667,-2.66667],"type":"Point"}
+}

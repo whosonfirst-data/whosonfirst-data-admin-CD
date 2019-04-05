@@ -1,0 +1,67 @@
+{
+  "id": 1293285719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93412,-5.59375,15.93412,-5.59375",
+    "geom:latitude":-5.59375,
+    "geom:longitude":15.93412,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kibutsua",
+    "gn:country_code":"CD",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8254295,
+    "gn:latitude":-5.59375,
+    "gn:longitude":15.93412,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Kibutsua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8254295
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ac29a7021683c905afb7dfce732df66f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1293285719,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1293285719,
+    "wof:lastmodified":1537074838,
+    "wof:name":"Kibutsua",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93412,
+    -5.59375,
+    15.93412,
+    -5.59375
+],
+  "geometry": {"coordinates":[15.93412,-5.59375],"type":"Point"}
+}

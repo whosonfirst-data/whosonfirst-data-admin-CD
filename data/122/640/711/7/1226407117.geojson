@@ -1,0 +1,67 @@
+{
+  "id": 1226407117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.94384,-5.84293,18.94384,-5.84293",
+    "geom:latitude":-5.84293,
+    "geom:longitude":18.94384,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Pinda",
+    "gn:country_code":"CD",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311715,
+    "gn:latitude":-5.84293,
+    "gn:longitude":18.94384,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Pinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311715
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0cc1eef51d612432ca2f5794e71b0f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1226407117,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226407117,
+    "wof:lastmodified":1536701552,
+    "wof:name":"Pinda",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.94384,
+    -5.84293,
+    18.94384,
+    -5.84293
+],
+  "geometry": {"coordinates":[18.94384,-5.84293],"type":"Point"}
+}

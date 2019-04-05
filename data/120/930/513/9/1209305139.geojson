@@ -1,0 +1,61 @@
+{
+  "id": 1209305139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81731,-5.797,14.81731,-5.797",
+    "geom:latitude":-5.797,
+    "geom:longitude":14.81731,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kinsende",
+    "gn:country_code":"CD",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328036,
+    "gn:latitude":-5.797,
+    "gn:longitude":14.81731,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kinsende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328036
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e72c3ac7155b0dcc08bba7489a5306fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209305139
+        }
+    ],
+    "wof:id":1209305139,
+    "wof:lastmodified":1536291222,
+    "wof:name":"Kinsende",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81731,
+    -5.7970000000000015,
+    14.81731,
+    -5.7970000000000015
+],
+  "geometry": {"coordinates":[14.81731,-5.797],"type":"Point"}
+}

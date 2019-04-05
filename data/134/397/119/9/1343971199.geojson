@@ -1,0 +1,67 @@
+{
+  "id": 1343971199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76557,1.89064,19.76557,1.89064",
+    "geom:latitude":1.89064,
+    "geom:longitude":19.76557,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mobeka",
+    "gn:country_code":"CD",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312723,
+    "gn:latitude":1.89064,
+    "gn:longitude":19.76557,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mobeka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312723
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2413b0b719b935a09dbf212097d5bf1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1343971199,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343971199,
+    "wof:lastmodified":1537003678,
+    "wof:name":"Mobeka",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76557,
+    1.89064,
+    19.76557,
+    1.89064
+],
+  "geometry": {"coordinates":[19.76557,1.89064],"type":"Point"}
+}

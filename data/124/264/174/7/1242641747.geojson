@@ -1,0 +1,71 @@
+{
+  "id": 1242641747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.47884,-7.02141,24.47884,-7.02141",
+    "geom:latitude":-7.02141,
+    "geom:longitude":24.47884,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Tshimboko",
+    "gn:country_code":"CD",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204865,
+    "gn:latitude":-7.02141,
+    "gn:longitude":24.47884,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshimboko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshimbako",
+        "Tshimboko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204865
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"39baa20adc36170c57140f28a29bf3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1242641747,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1242641747,
+    "wof:lastmodified":1537590317,
+    "wof:name":"Tshimboko",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.47884,
+    -7.02141,
+    24.47884,
+    -7.02141
+],
+  "geometry": {"coordinates":[24.47884,-7.02141],"type":"Point"}
+}

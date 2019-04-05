@@ -1,0 +1,61 @@
+{
+  "id": 1209080593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.61774,-5.20793,18.61774,-5.20793",
+    "geom:latitude":-5.20793,
+    "geom:longitude":18.61774,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kongila-Lundjindji",
+    "gn:country_code":"CD",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275944,
+    "gn:latitude":-5.20793,
+    "gn:longitude":18.61774,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kongila-Lundjindji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275944
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b75eb4b026ab62704247b66aee6715f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209080593
+        }
+    ],
+    "wof:id":1209080593,
+    "wof:lastmodified":1536298351,
+    "wof:name":"Kongila-Lundjindji",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.61774,
+    -5.20793,
+    18.61774,
+    -5.20793
+],
+  "geometry": {"coordinates":[18.61774,-5.20793],"type":"Point"}
+}

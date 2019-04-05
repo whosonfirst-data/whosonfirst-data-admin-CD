@@ -1,0 +1,67 @@
+{
+  "id": 1343247429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01242,-4.83391,15.01242,-4.83391",
+    "geom:latitude":-4.83391,
+    "geom:longitude":15.01242,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Banza-Yidi",
+    "gn:country_code":"CD",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317306,
+    "gn:latitude":-4.83391,
+    "gn:longitude":15.01242,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Banza-Yidi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317306
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"80430f2e8ccdd54f71de625bd29ee73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1343247429,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1343247429,
+    "wof:lastmodified":1537051607,
+    "wof:name":"Banza-Yidi",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01242,
+    -4.83391,
+    15.01242,
+    -4.83391
+],
+  "geometry": {"coordinates":[15.01242,-4.83391],"type":"Point"}
+}

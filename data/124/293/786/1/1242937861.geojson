@@ -1,0 +1,67 @@
+{
+  "id": 1242937861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33313,-5.75023,18.33313,-5.75023",
+    "geom:latitude":-5.75023,
+    "geom:longitude":18.33313,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Zundu",
+    "gn:country_code":"CD",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276222,
+    "gn:latitude":-5.75023,
+    "gn:longitude":18.33313,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276222
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"05368224d8836305920ee7040de8451c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1242937861,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1242937861,
+    "wof:lastmodified":1537040221,
+    "wof:name":"Zundu",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33313,
+    -5.75023,
+    18.33313,
+    -5.75023
+],
+  "geometry": {"coordinates":[18.33313,-5.75023],"type":"Point"}
+}

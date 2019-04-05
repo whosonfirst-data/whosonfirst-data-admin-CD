@@ -1,0 +1,71 @@
+{
+  "id": 1225809591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.38333,-6.01667,25.38333,-6.01667",
+    "geom:latitude":-6.01667,
+    "geom:longitude":25.38333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Lushiba",
+    "gn:country_code":"CD",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210343,
+    "gn:latitude":-6.01667,
+    "gn:longitude":25.38333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lushiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lushida",
+        "Lushiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210343
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1c704d7c4dbf026911599f58a442f923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1225809591,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1225809591,
+    "wof:lastmodified":1537590379,
+    "wof:name":"Lushiba",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.38333,
+    -6.01667,
+    25.38333,
+    -6.01667
+],
+  "geometry": {"coordinates":[25.38333,-6.01667],"type":"Point"}
+}

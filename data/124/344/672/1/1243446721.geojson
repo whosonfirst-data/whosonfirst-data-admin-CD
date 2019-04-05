@@ -1,0 +1,67 @@
+{
+  "id": 1243446721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.33333,-4.48333,16.33333,-4.48333",
+    "geom:latitude":-4.48333,
+    "geom:longitude":16.33333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mongati",
+    "gn:country_code":"CD",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312576,
+    "gn:latitude":-4.48333,
+    "gn:longitude":16.33333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mongati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312576
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"54dacfce93c5a6164d67c8c9281362bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1243446721,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1243446721,
+    "wof:lastmodified":1536804985,
+    "wof:name":"Mongati",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.33333,
+    -4.48333,
+    16.33333,
+    -4.48333
+],
+  "geometry": {"coordinates":[16.33333,-4.48333],"type":"Point"}
+}

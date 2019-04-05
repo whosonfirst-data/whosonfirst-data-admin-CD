@@ -1,0 +1,71 @@
+{
+  "id": 1344136085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.58462,3.41386,26.58462,3.41386",
+    "geom:latitude":3.41386,
+    "geom:longitude":26.58462,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Basilia",
+    "gn:country_code":"CD",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219421,
+    "gn:latitude":3.41386,
+    "gn:longitude":26.58462,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Basilia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bazilia",
+        "Basilia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219421
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7ac90df77c7a55306d9d4a572c7cb880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1344136085,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1344136085,
+    "wof:lastmodified":1537590467,
+    "wof:name":"Basilia",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.58462,
+    3.41386,
+    26.58462,
+    3.41386
+],
+  "geometry": {"coordinates":[26.58462,3.41386],"type":"Point"}
+}

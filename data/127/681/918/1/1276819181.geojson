@@ -1,0 +1,72 @@
+{
+  "id": 1276819181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.10231,-7.13509,28.10231,-7.13509",
+    "geom:latitude":-7.13509,
+    "geom:longitude":28.10231,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Makuende",
+    "gn:country_code":"CD",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209893,
+    "gn:latitude":-7.13509,
+    "gn:longitude":28.10231,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Makuende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makwende",
+        "Makwende-Bayo",
+        "Makuende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209893
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"64a294dac865f8186fdd87c077398955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1276819181,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276819181,
+    "wof:lastmodified":1537590374,
+    "wof:name":"Makuende",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10231,
+    -7.13509,
+    28.10231,
+    -7.13509
+],
+  "geometry": {"coordinates":[28.10231,-7.13509],"type":"Point"}
+}

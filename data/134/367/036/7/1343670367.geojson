@@ -1,0 +1,67 @@
+{
+  "id": 1343670367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23333,1.4,20.23333,1.4",
+    "geom:latitude":1.4,
+    "geom:longitude":20.23333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Boso-Kongo",
+    "gn:country_code":"CD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218064,
+    "gn:latitude":1.4,
+    "gn:longitude":20.23333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Boso-Kongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218064
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c125cb1782f103152b0f7fa9a4dd72a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1343670367,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343670367,
+    "wof:lastmodified":1536941311,
+    "wof:name":"Boso-Kongo",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23333,
+    1.4,
+    20.23333,
+    1.4
+],
+  "geometry": {"coordinates":[20.23333,1.4],"type":"Point"}
+}

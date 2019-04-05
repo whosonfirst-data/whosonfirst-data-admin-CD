@@ -1,0 +1,67 @@
+{
+  "id": 1260239971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.21449,-10.56649,24.21449,-10.56649",
+    "geom:latitude":-10.56649,
+    "geom:longitude":24.21449,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kaseke",
+    "gn:country_code":"CD",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922969,
+    "gn:latitude":-10.56649,
+    "gn:longitude":24.21449,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kaseke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922969
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4708179e77ad92c1171aa4f075646368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1260239971,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260239971,
+    "wof:lastmodified":1536771554,
+    "wof:name":"Kaseke",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.21449,
+    -10.56649,
+    24.21449,
+    -10.56649
+],
+  "geometry": {"coordinates":[24.21449,-10.56649],"type":"Point"}
+}

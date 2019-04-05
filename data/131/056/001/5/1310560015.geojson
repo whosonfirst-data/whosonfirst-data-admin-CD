@@ -1,0 +1,73 @@
+{
+  "id": 1310560015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.39931,-7.91255,22.39931,-7.91255",
+    "geom:latitude":-7.91255,
+    "geom:longitude":22.39931,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshibaba",
+    "gn:country_code":"CD",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205039,
+    "gn:latitude":-7.91255,
+    "gn:longitude":22.39931,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshibaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsibaba",
+        "Tshibala",
+        "Tshibada",
+        "Tshibaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205039
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"83a80bdabd6ed01d6795c6a8e434a1b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1310560015,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310560015,
+    "wof:lastmodified":1537590319,
+    "wof:name":"Tshibaba",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.39931,
+    -7.91255,
+    22.39931,
+    -7.91255
+],
+  "geometry": {"coordinates":[22.39931,-7.91255],"type":"Point"}
+}

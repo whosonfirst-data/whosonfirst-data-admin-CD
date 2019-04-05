@@ -1,0 +1,61 @@
+{
+  "id": 1209299845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97545,-5.16696,14.97545,-5.16696",
+    "geom:latitude":-5.16696,
+    "geom:longitude":14.97545,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Yongo Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325039,
+    "gn:latitude":-5.16696,
+    "gn:longitude":14.97545,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Yongo Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325039
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"95866c59a89b7a5eef909d31d6dd9d88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209299845
+        }
+    ],
+    "wof:id":1209299845,
+    "wof:lastmodified":1536291396,
+    "wof:name":"Yongo Deuxieme",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97545,
+    -5.16696,
+    14.97545,
+    -5.16696
+],
+  "geometry": {"coordinates":[14.97545,-5.16696],"type":"Point"}
+}

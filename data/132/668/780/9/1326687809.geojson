@@ -1,0 +1,72 @@
+{
+  "id": 1326687809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08781,-3.21751,18.08781,-3.21751",
+    "geom:latitude":-3.21751,
+    "geom:longitude":18.08781,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ndjiwa",
+    "gn:country_code":"CD",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312097,
+    "gn:latitude":-3.21751,
+    "gn:longitude":18.08781,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ndjiwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndjua",
+        "Ndjwa",
+        "Ndjiwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312097
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4cba34855585307f5aae8f15eea60873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1326687809,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1326687809,
+    "wof:lastmodified":1537590509,
+    "wof:name":"Ndjiwa",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08781,
+    -3.21751,
+    18.08781,
+    -3.21751
+],
+  "geometry": {"coordinates":[18.08781,-3.21751],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226824337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.37435,-7.25121,18.37435,-7.25121",
+    "geom:latitude":-7.25121,
+    "geom:longitude":18.37435,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kanimbu",
+    "gn:country_code":"CD",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315095,
+    "gn:latitude":-7.25121,
+    "gn:longitude":18.37435,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kanimbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315095
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3ad14d69b9d9c20befd51d4b0c1ef0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226824337,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226824337,
+    "wof:lastmodified":1537095973,
+    "wof:name":"Kanimbu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.37435,
+    -7.25121,
+    18.37435,
+    -7.25121
+],
+  "geometry": {"coordinates":[18.37435,-7.25121],"type":"Point"}
+}

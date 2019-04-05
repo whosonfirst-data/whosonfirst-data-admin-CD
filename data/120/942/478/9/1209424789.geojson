@@ -1,0 +1,61 @@
+{
+  "id": 1209424789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.21431,-10.51916,25.21431,-10.51916",
+    "geom:latitude":-10.51916,
+    "geom:longitude":25.21431,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lumpande",
+    "gn:country_code":"CD",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922652,
+    "gn:latitude":-10.51916,
+    "gn:longitude":25.21431,
+    "gn:modification_date":"2016-09-22",
+    "gn:name":"Lumpande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922652
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7075bf7fb75cf1489077e82b8f8400e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209424789
+        }
+    ],
+    "wof:id":1209424789,
+    "wof:lastmodified":1536287415,
+    "wof:name":"Lumpande",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.21431,
+    -10.51916,
+    25.21431,
+    -10.51916
+],
+  "geometry": {"coordinates":[25.21431,-10.51916],"type":"Point"}
+}

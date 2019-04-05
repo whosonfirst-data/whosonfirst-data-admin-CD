@@ -1,0 +1,67 @@
+{
+  "id": 1326620713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.95361,-5.83945,12.95361,-5.83945",
+    "geom:latitude":-5.83945,
+    "geom:longitude":12.95361,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pita",
+    "gn:country_code":"CD",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252353,
+    "gn:latitude":-5.83945,
+    "gn:longitude":12.95361,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Pita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252353
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c20dce9aff10ef2a96e1fdc8f4258277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1326620713,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1326620713,
+    "wof:lastmodified":1536855261,
+    "wof:name":"Pita",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.95361,
+    -5.83945,
+    12.95361,
+    -5.83945
+],
+  "geometry": {"coordinates":[12.95361,-5.83945],"type":"Point"}
+}

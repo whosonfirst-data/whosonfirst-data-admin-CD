@@ -1,0 +1,67 @@
+{
+  "id": 1276642239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.34532,3.06918,23.34532,3.06918",
+    "geom:latitude":3.06918,
+    "geom:longitude":23.34532,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bapi",
+    "gn:country_code":"CD",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8197751,
+    "gn:latitude":3.06918,
+    "gn:longitude":23.34532,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bapi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8197751
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a18ae96022f0d97402bce168dc92a32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1276642239,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276642239,
+    "wof:lastmodified":1536860581,
+    "wof:name":"Bapi",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.34532,
+    3.06918,
+    23.34532,
+    3.06918
+],
+  "geometry": {"coordinates":[23.34532,3.06918],"type":"Point"}
+}

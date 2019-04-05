@@ -1,0 +1,61 @@
+{
+  "id": 1209289665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.22533,-6.31883,17.22533,-6.31883",
+    "geom:latitude":-6.31883,
+    "geom:longitude":17.22533,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kikaku-Muyaka",
+    "gn:country_code":"CD",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434636,
+    "gn:latitude":-6.31883,
+    "gn:longitude":17.22533,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kikaku-Muyaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434636
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5ee903b65a2c8bb29ba6f3d101f174f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209289665
+        }
+    ],
+    "wof:id":1209289665,
+    "wof:lastmodified":1536291738,
+    "wof:name":"Kikaku-Muyaka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.22533,
+    -6.31883,
+    17.22533,
+    -6.31883
+],
+  "geometry": {"coordinates":[17.22533,-6.31883],"type":"Point"}
+}

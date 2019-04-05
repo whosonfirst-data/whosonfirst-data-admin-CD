@@ -1,0 +1,71 @@
+{
+  "id": 1193091949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.24329,4.9847,19.24329,4.9847",
+    "geom:latitude":4.9847,
+    "geom:longitude":19.24329,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Ngatungu Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312062,
+    "gn:latitude":4.9847,
+    "gn:longitude":19.24329,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngatungu Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngatungu Deuxi\u00e8me",
+        "Ngatungu II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312062
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"657f2f1253f28e39a5a4a4f65b036c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1193091949,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1193091949,
+    "wof:lastmodified":1537590508,
+    "wof:name":"Ngatungu Deuxieme",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.24329,
+    4.9847,
+    19.24329,
+    4.9847
+],
+  "geometry": {"coordinates":[19.24329,4.9847],"type":"Point"}
+}

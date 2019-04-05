@@ -1,0 +1,71 @@
+{
+  "id": 1276199039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.15583,-8.65917,25.15583,-8.65917",
+    "geom:latitude":-8.65917,
+    "geom:longitude":25.15583,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lupulu",
+    "gn:country_code":"CD",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210406,
+    "gn:latitude":-8.65917,
+    "gn:longitude":25.15583,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lupulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lupula",
+        "Lupulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210406
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aa42344fd76b1bfefdd20de228a5179c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1276199039,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276199039,
+    "wof:lastmodified":1537590379,
+    "wof:name":"Lupulu",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.15583,
+    -8.65917,
+    25.15583,
+    -8.65917
+],
+  "geometry": {"coordinates":[25.15583,-8.65917],"type":"Point"}
+}

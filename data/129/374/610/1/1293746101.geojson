@@ -1,0 +1,67 @@
+{
+  "id": 1293746101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.78872,-6.41587,16.78872,-6.41587",
+    "geom:latitude":-6.41587,
+    "geom:longitude":16.78872,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Buka",
+    "gn:country_code":"CD",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316290,
+    "gn:latitude":-6.41587,
+    "gn:longitude":16.78872,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Buka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316290
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fbadd5bfca2712f01e51f5f368c2047e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1293746101,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293746101,
+    "wof:lastmodified":1536911888,
+    "wof:name":"Buka",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.78872,
+    -6.41587,
+    16.78872,
+    -6.41587
+],
+  "geometry": {"coordinates":[16.78872,-6.41587],"type":"Point"}
+}

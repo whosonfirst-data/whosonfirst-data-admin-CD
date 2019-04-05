@@ -1,0 +1,67 @@
+{
+  "id": 1326686331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.39026,-10.39471,23.39026,-10.39471",
+    "geom:latitude":-10.39471,
+    "geom:longitude":23.39026,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kasamba",
+    "gn:country_code":"CD",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466722,
+    "gn:latitude":-10.39471,
+    "gn:longitude":23.39026,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kasamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466722
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6a67a4959fa6b2ac2f283840a5d9861b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1326686331,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1326686331,
+    "wof:lastmodified":1536762316,
+    "wof:name":"Kasamba",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.39026,
+    -10.39471,
+    23.39026,
+    -10.39471
+],
+  "geometry": {"coordinates":[23.39026,-10.39471],"type":"Point"}
+}

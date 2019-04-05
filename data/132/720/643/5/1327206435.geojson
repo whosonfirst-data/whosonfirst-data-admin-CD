@@ -1,0 +1,67 @@
+{
+  "id": 1327206435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2101,3.45593,28.2101,3.45593",
+    "geom:latitude":3.45593,
+    "geom:longitude":28.2101,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kabadi",
+    "gn:country_code":"CD",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215684,
+    "gn:latitude":3.45593,
+    "gn:longitude":28.2101,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215684
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"85f1ae8a234cbe885ea8d1edfd049442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1327206435,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327206435,
+    "wof:lastmodified":1537006490,
+    "wof:name":"Kabadi",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2101,
+    3.45593,
+    28.2101,
+    3.45593
+],
+  "geometry": {"coordinates":[28.2101,3.45593],"type":"Point"}
+}

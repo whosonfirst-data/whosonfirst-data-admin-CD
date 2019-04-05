@@ -1,0 +1,67 @@
+{
+  "id": 1259944681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.48995,-5.50775,19.48995,-5.50775",
+    "geom:latitude":-5.50775,
+    "geom:longitude":19.48995,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ngongo",
+    "gn:country_code":"CD",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276613,
+    "gn:latitude":-5.50775,
+    "gn:longitude":19.48995,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ngongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276613
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aae3f98fe26dcee48fa505b3263ac0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1259944681,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259944681,
+    "wof:lastmodified":1536691296,
+    "wof:name":"Ngongo",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.48995,
+    -5.50775,
+    19.48995,
+    -5.50775
+],
+  "geometry": {"coordinates":[19.48995,-5.50775],"type":"Point"}
+}

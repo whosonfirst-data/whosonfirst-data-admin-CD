@@ -1,0 +1,61 @@
+{
+  "id": 1209590779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12751,-6.888,17.12751,-6.888",
+    "geom:latitude":-6.888,
+    "geom:longitude":17.12751,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Koshi-Nzala",
+    "gn:country_code":"CD",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434743,
+    "gn:latitude":-6.888,
+    "gn:longitude":17.12751,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Koshi-Nzala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434743
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"42f81f1f12912df9b7f5adf06309566d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209590779
+        }
+    ],
+    "wof:id":1209590779,
+    "wof:lastmodified":1536282486,
+    "wof:name":"Koshi-Nzala",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12751,
+    -6.888,
+    17.12751,
+    -6.888
+],
+  "geometry": {"coordinates":[17.12751,-6.888],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259951335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.65996,4.34813,23.65996,4.34813",
+    "geom:latitude":4.34813,
+    "geom:longitude":23.65996,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Matundu",
+    "gn:country_code":"CD",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209386,
+    "gn:latitude":4.34813,
+    "gn:longitude":23.65996,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Matundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kule Matundu",
+        "Matundu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209386
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1b7b2cc8977006963132ae26f53bcaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1259951335,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259951335,
+    "wof:lastmodified":1537590370,
+    "wof:name":"Matundu",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.65996,
+    4.34813,
+    23.65996,
+    4.34813
+],
+  "geometry": {"coordinates":[23.65996,4.34813],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209477557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.09518,-6.03032,17.09518,-6.03032",
+    "geom:latitude":-6.03032,
+    "geom:longitude":17.09518,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Makumbi",
+    "gn:country_code":"CD",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434227,
+    "gn:latitude":-6.03032,
+    "gn:longitude":17.09518,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Makumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434227
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"496029fdccc1120e07adb509957cf62c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209477557
+        }
+    ],
+    "wof:id":1209477557,
+    "wof:lastmodified":1536285887,
+    "wof:name":"Makumbi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.09518,
+    -6.03032,
+    17.09518,
+    -6.03032
+],
+  "geometry": {"coordinates":[17.09518,-6.03032],"type":"Point"}
+}

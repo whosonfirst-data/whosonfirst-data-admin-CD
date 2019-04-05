@@ -1,0 +1,67 @@
+{
+  "id": 1343919355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00271,3.86452,19.00271,3.86452",
+    "geom:latitude":3.86452,
+    "geom:longitude":19.00271,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bobadono",
+    "gn:country_code":"CD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317043,
+    "gn:latitude":3.86452,
+    "gn:longitude":19.00271,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bobadono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317043
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"92a167a8de4fb390a6c708dea028ec6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1343919355,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343919355,
+    "wof:lastmodified":1537076346,
+    "wof:name":"Bobadono",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00271,
+    3.86452,
+    19.00271,
+    3.86452
+],
+  "geometry": {"coordinates":[19.00271,3.86452],"type":"Point"}
+}

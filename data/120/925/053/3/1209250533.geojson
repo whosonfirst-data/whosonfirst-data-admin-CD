@@ -1,0 +1,65 @@
+{
+  "id": 1209250533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81667,0.85,20.81667,0.85",
+    "geom:latitude":0.85,
+    "geom:longitude":20.81667,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Bengundju",
+    "gn:country_code":"CD",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219058,
+    "gn:latitude":0.85,
+    "gn:longitude":20.81667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bengundju",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bonguntshu",
+        "Bengundju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219058
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"498f86292b55f56fd01847c745ef6e63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209250533
+        }
+    ],
+    "wof:id":1209250533,
+    "wof:lastmodified":1537590462,
+    "wof:name":"Bengundju",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81667,
+    0.85,
+    20.81667,
+    0.85
+],
+  "geometry": {"coordinates":[20.81667,0.85],"type":"Point"}
+}

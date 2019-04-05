@@ -1,0 +1,67 @@
+{
+  "id": 1193192999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.28781,1.4753,25.28781,1.4753",
+    "geom:latitude":1.4753,
+    "geom:longitude":25.28781,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Badjoge",
+    "gn:country_code":"CD",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149769,
+    "gn:latitude":1.4753,
+    "gn:longitude":25.28781,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Badjoge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149769
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"835422215f180fda4849ede1cba035f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1193192999,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1193192999,
+    "wof:lastmodified":1536380810,
+    "wof:name":"Badjoge",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.28781,
+    1.4753,
+    25.28781,
+    1.4753
+],
+  "geometry": {"coordinates":[25.28781,1.4753],"type":"Point"}
+}

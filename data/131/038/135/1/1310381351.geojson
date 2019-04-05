@@ -1,0 +1,67 @@
+{
+  "id": 1310381351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55954,-5.01204,21.55954,-5.01204",
+    "geom:latitude":-5.01204,
+    "geom:longitude":21.55954,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bua-Kaniki",
+    "gn:country_code":"CD",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277422,
+    "gn:latitude":-5.01204,
+    "gn:longitude":21.55954,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bua-Kaniki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277422
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1e9a916985badb0bdaf4b77d3b62a75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1310381351,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310381351,
+    "wof:lastmodified":1537092876,
+    "wof:name":"Bua-Kaniki",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55954,
+    -5.01204,
+    21.55954,
+    -5.01204
+],
+  "geometry": {"coordinates":[21.55954,-5.01204],"type":"Point"}
+}

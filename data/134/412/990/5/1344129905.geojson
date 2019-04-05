@@ -1,0 +1,67 @@
+{
+  "id": 1344129905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.53102,-8.57379,26.53102,-8.57379",
+    "geom:latitude":-8.57379,
+    "geom:longitude":26.53102,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kilumbi",
+    "gn:country_code":"CD",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10041093,
+    "gn:latitude":-8.57379,
+    "gn:longitude":26.53102,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kilumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10041093
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c7df1909213e6f7152a8ab77804b5b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1344129905,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1344129905,
+    "wof:lastmodified":1536776085,
+    "wof:name":"Kilumbi",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.53102,
+    -8.57379,
+    26.53102,
+    -8.57379
+],
+  "geometry": {"coordinates":[26.53102,-8.57379],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209565445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.42859,-0.62747,25.42859,-0.62747",
+    "geom:latitude":-0.62747,
+    "geom:longitude":25.42859,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bonondjali",
+    "gn:country_code":"CD",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219646,
+    "gn:latitude":-0.62747,
+    "gn:longitude":25.42859,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bonondjali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mongamba-Kitoko",
+        "Banandjali",
+        "Bonondjali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219646
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9c8eb06bb3568c21662534942c8ea945",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209565445
+        }
+    ],
+    "wof:id":1209565445,
+    "wof:lastmodified":1537590470,
+    "wof:name":"Bonondjali",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.42859,
+    -0.62747,
+    25.42859,
+    -0.62747
+],
+  "geometry": {"coordinates":[25.42859,-0.62747],"type":"Point"}
+}

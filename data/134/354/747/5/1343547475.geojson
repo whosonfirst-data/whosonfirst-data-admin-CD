@@ -1,0 +1,67 @@
+{
+  "id": 1343547475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41074,3.05402,27.41074,3.05402",
+    "geom:latitude":3.05402,
+    "geom:longitude":27.41074,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nazamba",
+    "gn:country_code":"CD",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069424,
+    "gn:latitude":3.05402,
+    "gn:longitude":27.41074,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nazamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069424
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4208f10dccceafc4ca97ad3aca8ff845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1343547475,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343547475,
+    "wof:lastmodified":1536618538,
+    "wof:name":"Nazamba",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41074,
+    3.05402,
+    27.41074,
+    3.05402
+],
+  "geometry": {"coordinates":[27.41074,3.05402],"type":"Point"}
+}

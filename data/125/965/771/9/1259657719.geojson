@@ -1,0 +1,67 @@
+{
+  "id": 1259657719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.10561,-6.58106,24.10561,-6.58106",
+    "geom:latitude":-6.58106,
+    "geom:longitude":24.10561,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bena-Lulenga",
+    "gn:country_code":"CD",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219150,
+    "gn:latitude":-6.58106,
+    "gn:longitude":24.10561,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bena-Lulenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219150
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f9c5668ace8f3443cad99f6574b5134b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1259657719,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1259657719,
+    "wof:lastmodified":1536604797,
+    "wof:name":"Bena-Lulenga",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.10561,
+    -6.58106,
+    24.10561,
+    -6.58106
+],
+  "geometry": {"coordinates":[24.10561,-6.58106],"type":"Point"}
+}

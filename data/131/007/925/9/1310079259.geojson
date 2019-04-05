@@ -1,0 +1,67 @@
+{
+  "id": 1310079259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98527,-11.81392,27.98527,-11.81392",
+    "geom:latitude":-11.81392,
+    "geom:longitude":27.98527,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Masaba",
+    "gn:country_code":"CD",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10226353,
+    "gn:latitude":-11.81392,
+    "gn:longitude":27.98527,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Masaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10226353
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8cc8f558b93f69921ac04c2b85057c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1310079259,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310079259,
+    "wof:lastmodified":1537033027,
+    "wof:name":"Masaba",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98527,
+    -11.81392,
+    27.98527,
+    -11.81392
+],
+  "geometry": {"coordinates":[27.98527,-11.81392],"type":"Point"}
+}

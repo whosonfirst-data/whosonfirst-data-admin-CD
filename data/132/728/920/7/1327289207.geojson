@@ -1,0 +1,70 @@
+{
+  "id": 1327289207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.4908,2.07093,21.4908,2.07093",
+    "geom:latitude":2.07093,
+    "geom:longitude":21.4908,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Busu-Pangoli",
+    "gn:country_code":"CD",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217574,
+    "gn:latitude":2.07093,
+    "gn:longitude":21.4908,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Busu-Pangoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boso-Pangoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217574
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"03ae709c30884022702dd7093c07d85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1327289207,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327289207,
+    "wof:lastmodified":1537590447,
+    "wof:name":"Busu-Pangoli",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.4908,
+    2.07093,
+    21.4908,
+    2.07093
+],
+  "geometry": {"coordinates":[21.4908,2.07093],"type":"Point"}
+}

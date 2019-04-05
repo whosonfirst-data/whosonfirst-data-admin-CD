@@ -1,0 +1,67 @@
+{
+  "id": 1225826267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2515,0.25127,29.2515,0.25127",
+    "geom:latitude":0.25127,
+    "geom:longitude":29.2515,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Malepe",
+    "gn:country_code":"CD",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209837,
+    "gn:latitude":0.25127,
+    "gn:longitude":29.2515,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Malepe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209837
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d4241bd8ff85c76e4902affecc5e5292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1225826267,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1225826267,
+    "wof:lastmodified":1537040085,
+    "wof:name":"Malepe",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2515,
+    0.25127,
+    29.2515,
+    0.25127
+],
+  "geometry": {"coordinates":[29.2515,0.25127],"type":"Point"}
+}

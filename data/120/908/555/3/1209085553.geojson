@@ -1,0 +1,61 @@
+{
+  "id": 1209085553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.62375,2.44946,23.62375,2.44946",
+    "geom:latitude":2.44946,
+    "geom:longitude":23.62375,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Baengu",
+    "gn:country_code":"CD",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220039,
+    "gn:latitude":2.44946,
+    "gn:longitude":23.62375,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Baengu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220039
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dfa99a4ebc435c78a8054fbc7101329b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209085553
+        }
+    ],
+    "wof:id":1209085553,
+    "wof:lastmodified":1536298198,
+    "wof:name":"Baengu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.62375,
+    2.44946,
+    23.62375,
+    2.44946
+],
+  "geometry": {"coordinates":[23.62375,2.44946],"type":"Point"}
+}

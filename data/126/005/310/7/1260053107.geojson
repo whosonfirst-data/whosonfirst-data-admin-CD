@@ -1,0 +1,67 @@
+{
+  "id": 1260053107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.99179,-8.04508,25.99179,-8.04508",
+    "geom:latitude":-8.04508,
+    "geom:longitude":25.99179,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kapuba",
+    "gn:country_code":"CD",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214193,
+    "gn:latitude":-8.04508,
+    "gn:longitude":25.99179,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kapuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214193
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ad4a19d95c12a464f32d5446cb318b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1260053107,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260053107,
+    "wof:lastmodified":1537030569,
+    "wof:name":"Kapuba",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.99179,
+    -8.04508,
+    25.99179,
+    -8.04508
+],
+  "geometry": {"coordinates":[25.99179,-8.04508],"type":"Point"}
+}

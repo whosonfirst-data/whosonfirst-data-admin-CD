@@ -1,0 +1,67 @@
+{
+  "id": 1243252469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.82207,-4.65053,27.82207,-4.65053",
+    "geom:latitude":-4.65053,
+    "geom:longitude":27.82207,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mangala",
+    "gn:country_code":"CD",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8251147,
+    "gn:latitude":-4.65053,
+    "gn:longitude":27.82207,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Mangala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8251147
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5f98b70ef5fee49baee5585ad3832bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1243252469,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1243252469,
+    "wof:lastmodified":1537081991,
+    "wof:name":"Mangala",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.82207,
+    -4.65053,
+    27.82207,
+    -4.65053
+],
+  "geometry": {"coordinates":[27.82207,-4.65053],"type":"Point"}
+}

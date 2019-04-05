@@ -1,0 +1,61 @@
+{
+  "id": 1209271355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.19094,4.1389,22.19094,4.1389",
+    "geom:latitude":4.1389,
+    "geom:longitude":22.19094,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Gbale",
+    "gn:country_code":"CD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8247602,
+    "gn:latitude":4.1389,
+    "gn:longitude":22.19094,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gbale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8247602
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8b3129013192181a07d00a40f643139e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209271355
+        }
+    ],
+    "wof:id":1209271355,
+    "wof:lastmodified":1536292347,
+    "wof:name":"Gbale",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.19094,
+    4.1389,
+    22.19094,
+    4.1389
+],
+  "geometry": {"coordinates":[22.19094,4.1389],"type":"Point"}
+}

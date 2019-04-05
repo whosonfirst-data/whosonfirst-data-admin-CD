@@ -1,0 +1,67 @@
+{
+  "id": 1277087117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32729,-0.43845,18.32729,-0.43845",
+    "geom:latitude":-0.43845,
+    "geom:longitude":18.32729,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ikalangania",
+    "gn:country_code":"CD",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315546,
+    "gn:latitude":-0.43845,
+    "gn:longitude":18.32729,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ikalangania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315546
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d7cb17b3e35f30741dd9e3e7bd3bc5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1277087117,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1277087117,
+    "wof:lastmodified":1536761483,
+    "wof:name":"Ikalangania",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32729,
+    -0.43845,
+    18.32729,
+    -0.43845
+],
+  "geometry": {"coordinates":[18.32729,-0.43845],"type":"Point"}
+}

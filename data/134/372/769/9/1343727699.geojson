@@ -1,0 +1,71 @@
+{
+  "id": 1343727699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25922,-7.40252,18.25922,-7.40252",
+    "geom:latitude":-7.40252,
+    "geom:longitude":18.25922,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kaniamiwu",
+    "gn:country_code":"CD",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315097,
+    "gn:latitude":-7.40252,
+    "gn:longitude":18.25922,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kaniamiwu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaniamivu",
+        "Kaniamiwu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315097
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d2ad274c8d3c371cbc70d81e6d91be0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343727699,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343727699,
+    "wof:lastmodified":1537590537,
+    "wof:name":"Kaniamiwu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25922000000001,
+    -7.40252,
+    18.25922000000001,
+    -7.40252
+],
+  "geometry": {"coordinates":[18.25922000000001,-7.40252],"type":"Point"}
+}

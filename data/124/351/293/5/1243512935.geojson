@@ -1,0 +1,67 @@
+{
+  "id": 1243512935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.82334,-9.80542,22.82334,-9.80542",
+    "geom:latitude":-9.80542,
+    "geom:longitude":22.82334,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Samazeze",
+    "gn:country_code":"CD",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205924,
+    "gn:latitude":-9.80542,
+    "gn:longitude":22.82334,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Samazeze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205924
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3acbbf5d5242d1032f29bdd1648781cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1243512935,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243512935,
+    "wof:lastmodified":1536710089,
+    "wof:name":"Samazeze",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.82334,
+    -9.80542,
+    22.82334,
+    -9.80542
+],
+  "geometry": {"coordinates":[22.82334,-9.80542],"type":"Point"}
+}

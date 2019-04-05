@@ -1,0 +1,67 @@
+{
+  "id": 1243332229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.2271,-6.54251,22.2271,-6.54251",
+    "geom:latitude":-6.54251,
+    "geom:longitude":22.2271,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Dibwe Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8284633,
+    "gn:latitude":-6.54251,
+    "gn:longitude":22.2271,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dibwe Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8284633
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"72033c41f68c160a2d9b3e54073588fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1243332229,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243332229,
+    "wof:lastmodified":1536970040,
+    "wof:name":"Dibwe Deuxieme",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.2271,
+    -6.54251,
+    22.2271,
+    -6.54251
+],
+  "geometry": {"coordinates":[22.2271,-6.54251],"type":"Point"}
+}

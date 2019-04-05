@@ -1,0 +1,67 @@
+{
+  "id": 1293250631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.99559,-5.52165,21.99559,-5.52165",
+    "geom:latitude":-5.52165,
+    "geom:longitude":21.99559,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kanku-Milu",
+    "gn:country_code":"CD",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277638,
+    "gn:latitude":-5.52165,
+    "gn:longitude":21.99559,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kanku-Milu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277638
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e26f4b8e537a3471596d3bd56d103fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1293250631,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293250631,
+    "wof:lastmodified":1536629877,
+    "wof:name":"Kanku-Milu",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.99559,
+    -5.52165,
+    21.99559,
+    -5.52165
+],
+  "geometry": {"coordinates":[21.99559,-5.52165],"type":"Point"}
+}

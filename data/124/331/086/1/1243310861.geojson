@@ -1,0 +1,67 @@
+{
+  "id": 1243310861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.18871,2.49811,20.18871,2.49811",
+    "geom:latitude":2.49811,
+    "geom:longitude":20.18871,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Boto",
+    "gn:country_code":"CD",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218028,
+    "gn:latitude":2.49811,
+    "gn:longitude":20.18871,
+    "gn:modification_date":"2018-07-06",
+    "gn:name":"Boto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218028
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"df54fd256cda84b9d040894a722b2698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1243310861,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1243310861,
+    "wof:lastmodified":1537000326,
+    "wof:name":"Boto",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.18871,
+    2.49811,
+    20.18871,
+    2.49811
+],
+  "geometry": {"coordinates":[20.18871,2.49811],"type":"Point"}
+}

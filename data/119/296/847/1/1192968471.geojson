@@ -1,0 +1,67 @@
+{
+  "id": 1192968471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.31667,-0.61667,24.31667,-0.61667",
+    "geom:latitude":-0.61667,
+    "geom:longitude":24.31667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yawaria",
+    "gn:country_code":"CD",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203533,
+    "gn:latitude":-0.61667,
+    "gn:longitude":24.31667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yawaria",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203533
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"969e39891532e804a71dd69c24be3d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1192968471,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1192968471,
+    "wof:lastmodified":1536380903,
+    "wof:name":"Yawaria",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.31667,
+    -0.61667,
+    24.31667,
+    -0.61667
+],
+  "geometry": {"coordinates":[24.31667,-0.61667],"type":"Point"}
+}

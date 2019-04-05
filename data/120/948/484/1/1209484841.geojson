@@ -1,0 +1,64 @@
+{
+  "id": 1209484841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.42378,3.44646,29.42378,3.44646",
+    "geom:latitude":3.44646,
+    "geom:longitude":29.42378,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Akwa",
+    "gn:country_code":"CD",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220428,
+    "gn:latitude":3.44646,
+    "gn:longitude":29.42378,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Akwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220428
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bf5cb3bb8f9ede6e557c393c5101fbe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209484841
+        }
+    ],
+    "wof:id":1209484841,
+    "wof:lastmodified":1537590478,
+    "wof:name":"Akwa",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.42378,
+    3.44646,
+    29.42378,
+    3.44646
+],
+  "geometry": {"coordinates":[29.42378,3.44646],"type":"Point"}
+}

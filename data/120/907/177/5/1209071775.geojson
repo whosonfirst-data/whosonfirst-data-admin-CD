@@ -1,0 +1,61 @@
+{
+  "id": 1209071775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.36667,-6.45,19.36667,-6.45",
+    "geom:latitude":-6.45,
+    "geom:longitude":19.36667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kanzanza",
+    "gn:country_code":"CD",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315087,
+    "gn:latitude":-6.45,
+    "gn:longitude":19.36667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kanzanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315087
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fea74f49139d5cd26ee85b9004a64f66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209071775
+        }
+    ],
+    "wof:id":1209071775,
+    "wof:lastmodified":1536298624,
+    "wof:name":"Kanzanza",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.366670000000006,
+    -6.45,
+    19.366670000000006,
+    -6.45
+],
+  "geometry": {"coordinates":[19.36667000000001,-6.45],"type":"Point"}
+}

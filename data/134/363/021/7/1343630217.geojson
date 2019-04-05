@@ -1,0 +1,67 @@
+{
+  "id": 1343630217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.84576,-9.26914,22.84576,-9.26914",
+    "geom:latitude":-9.26914,
+    "geom:longitude":22.84576,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sakalongo",
+    "gn:country_code":"CD",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461421,
+    "gn:latitude":-9.26914,
+    "gn:longitude":22.84576,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sakalongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461421
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5384382ecef6765864fa2455da32e16c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1343630217,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343630217,
+    "wof:lastmodified":1536998019,
+    "wof:name":"Sakalongo",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.84576,
+    -9.26914,
+    22.84576,
+    -9.26914
+],
+  "geometry": {"coordinates":[22.84576,-9.26914],"type":"Point"}
+}

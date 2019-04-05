@@ -1,0 +1,61 @@
+{
+  "id": 1209184973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.58333,-9.51667,27.58333,-9.51667",
+    "geom:latitude":-9.51667,
+    "geom:longitude":27.58333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ngongwe",
+    "gn:country_code":"CD",
+    "gn:dem":1456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207152,
+    "gn:latitude":-9.51667,
+    "gn:longitude":27.58333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngongwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207152
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dfc0901cebd7af4e4d7dc47d3b68bb88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209184973
+        }
+    ],
+    "wof:id":1209184973,
+    "wof:lastmodified":1536295131,
+    "wof:name":"Ngongwe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.58333,
+    -9.51667,
+    27.58333,
+    -9.51667
+],
+  "geometry": {"coordinates":[27.58333,-9.51667],"type":"Point"}
+}

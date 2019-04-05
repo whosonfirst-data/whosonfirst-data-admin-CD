@@ -1,0 +1,67 @@
+{
+  "id": 1343822677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.34868,-5.01372,19.34868,-5.01372",
+    "geom:latitude":-5.01372,
+    "geom:longitude":19.34868,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Elomo-Bushongo",
+    "gn:country_code":"CD",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276569,
+    "gn:latitude":-5.01372,
+    "gn:longitude":19.34868,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Elomo-Bushongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276569
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3ed8c4c08e316d73f41d4927c7303817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1343822677,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343822677,
+    "wof:lastmodified":1536721648,
+    "wof:name":"Elomo-Bushongo",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.34868,
+    -5.01372,
+    19.34868,
+    -5.01372
+],
+  "geometry": {"coordinates":[19.34868,-5.01372],"type":"Point"}
+}

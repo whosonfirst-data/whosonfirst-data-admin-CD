@@ -1,0 +1,67 @@
+{
+  "id": 1292917985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.5535,0.75164,24.5535,0.75164",
+    "geom:latitude":0.75164,
+    "geom:longitude":24.5535,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yalungu",
+    "gn:country_code":"CD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203906,
+    "gn:latitude":0.75164,
+    "gn:longitude":24.5535,
+    "gn:modification_date":"2014-09-27",
+    "gn:name":"Yalungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203906
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"73ddff183b91d06c8171b16fbeb22a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1292917985,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1292917985,
+    "wof:lastmodified":1536611354,
+    "wof:name":"Yalungu",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.5535,
+    0.75164,
+    24.5535,
+    0.75164
+],
+  "geometry": {"coordinates":[24.5535,0.75164],"type":"Point"}
+}

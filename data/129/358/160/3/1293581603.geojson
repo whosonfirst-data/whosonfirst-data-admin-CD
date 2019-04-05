@@ -1,0 +1,67 @@
+{
+  "id": 1293581603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01807,-4.49031,16.01807,-4.49031",
+    "geom:latitude":-4.49031,
+    "geom:longitude":16.01807,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tshuenge",
+    "gn:country_code":"CD",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10400328,
+    "gn:latitude":-4.49031,
+    "gn:longitude":16.01807,
+    "gn:modification_date":"2015-07-24",
+    "gn:name":"Tshuenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10400328
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bd25af54c6dd53527904ada0f44a3910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1293581603,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1293581603,
+    "wof:lastmodified":1536651297,
+    "wof:name":"Tshuenge",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01807,
+    -4.49031,
+    16.01807,
+    -4.49031
+],
+  "geometry": {"coordinates":[16.01807,-4.49031],"type":"Point"}
+}

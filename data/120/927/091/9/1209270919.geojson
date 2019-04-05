@@ -1,0 +1,61 @@
+{
+  "id": 1209270919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.06336,-10.24972,23.06336,-10.24972",
+    "geom:latitude":-10.24972,
+    "geom:longitude":23.06336,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwandondji",
+    "gn:country_code":"CD",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466501,
+    "gn:latitude":-10.24972,
+    "gn:longitude":23.06336,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwandondji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466501
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"53c2ec3494f0e267f763739346af0560",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209270919
+        }
+    ],
+    "wof:id":1209270919,
+    "wof:lastmodified":1536292362,
+    "wof:name":"Mwandondji",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.06336,
+    -10.24972,
+    23.06336,
+    -10.24972
+],
+  "geometry": {"coordinates":[23.06336,-10.24972],"type":"Point"}
+}

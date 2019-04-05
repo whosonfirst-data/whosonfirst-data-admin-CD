@@ -1,0 +1,67 @@
+{
+  "id": 1276513203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.9266,-6.96678,20.9266,-6.96678",
+    "geom:latitude":-6.96678,
+    "geom:longitude":20.9266,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shamutama",
+    "gn:country_code":"CD",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283430,
+    "gn:latitude":-6.96678,
+    "gn:longitude":20.9266,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shamutama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283430
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f9c45defe1fa39448fee207df27510da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276513203,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276513203,
+    "wof:lastmodified":1537033677,
+    "wof:name":"Shamutama",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.9266,
+    -6.96678,
+    20.9266,
+    -6.96678
+],
+  "geometry": {"coordinates":[20.9266,-6.96678],"type":"Point"}
+}

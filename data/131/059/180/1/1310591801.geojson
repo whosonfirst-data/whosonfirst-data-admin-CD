@@ -1,0 +1,67 @@
+{
+  "id": 1310591801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20665,-5.44523,15.20665,-5.44523",
+    "geom:latitude":-5.44523,
+    "geom:longitude":15.20665,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kinsombe",
+    "gn:country_code":"CD",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8254536,
+    "gn:latitude":-5.44523,
+    "gn:longitude":15.20665,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Kinsombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8254536
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ea8ced3739f316f856d4e89b7252727c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1310591801,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1310591801,
+    "wof:lastmodified":1536792783,
+    "wof:name":"Kinsombe",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20665,
+    -5.44523,
+    15.20665,
+    -5.44523
+],
+  "geometry": {"coordinates":[15.20665,-5.44523],"type":"Point"}
+}

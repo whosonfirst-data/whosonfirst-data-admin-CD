@@ -1,0 +1,67 @@
+{
+  "id": 1293547607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.02523,-6.37527,23.02523,-6.37527",
+    "geom:latitude":-6.37527,
+    "geom:longitude":23.02523,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kanienge",
+    "gn:country_code":"CD",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946710,
+    "gn:latitude":-6.37527,
+    "gn:longitude":23.02523,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kanienge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946710
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9544f643b39c77a932e9a9b6be7a3f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1293547607,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293547607,
+    "wof:lastmodified":1536700863,
+    "wof:name":"Kanienge",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.02523,
+    -6.37527,
+    23.02523,
+    -6.37527
+],
+  "geometry": {"coordinates":[23.02523,-6.37527],"type":"Point"}
+}

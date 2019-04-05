@@ -1,0 +1,67 @@
+{
+  "id": 1293871907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.63123,0.35552,29.63123,0.35552",
+    "geom:latitude":0.35552,
+    "geom:longitude":29.63123,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kisima",
+    "gn:country_code":"CD",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329313,
+    "gn:latitude":0.35552,
+    "gn:longitude":29.63123,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kisima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329313
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b0ed3f98eb79d22bed161a9cb23e4b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1293871907,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1293871907,
+    "wof:lastmodified":1536730410,
+    "wof:name":"Kisima",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.63123,
+    0.35552,
+    29.63123,
+    0.35552
+],
+  "geometry": {"coordinates":[29.63123,0.35552],"type":"Point"}
+}

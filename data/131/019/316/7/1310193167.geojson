@@ -1,0 +1,67 @@
+{
+  "id": 1310193167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.38866,0.30655,28.38866,0.30655",
+    "geom:latitude":0.30655,
+    "geom:longitude":28.38866,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sadala",
+    "gn:country_code":"CD",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281450,
+    "gn:latitude":0.30655,
+    "gn:longitude":28.38866,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Sadala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281450
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a18d3b861342f8377d26a570feead214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1310193167,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1310193167,
+    "wof:lastmodified":1536868943,
+    "wof:name":"Sadala",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.38866,
+    0.30655,
+    28.38866,
+    0.30655
+],
+  "geometry": {"coordinates":[28.38866,0.30655],"type":"Point"}
+}

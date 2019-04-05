@@ -1,0 +1,67 @@
+{
+  "id": 1292954923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62915,-3.27007,24.62915,-3.27007",
+    "geom:latitude":-3.27007,
+    "geom:longitude":24.62915,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Lutundula",
+    "gn:country_code":"CD",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8459103,
+    "gn:latitude":-3.27007,
+    "gn:longitude":24.62915,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lutundula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8459103
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c2dbca2cfb8b0349621bfa25e66d5274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1292954923,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1292954923,
+    "wof:lastmodified":1537055459,
+    "wof:name":"Lutundula",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62915,
+    -3.27007,
+    24.62915,
+    -3.27007
+],
+  "geometry": {"coordinates":[24.62915,-3.27007],"type":"Point"}
+}

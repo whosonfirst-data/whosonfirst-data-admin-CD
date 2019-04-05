@@ -1,0 +1,67 @@
+{
+  "id": 1276952635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52236,-5.21894,18.52236,-5.21894",
+    "geom:latitude":-5.21894,
+    "geom:longitude":18.52236,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Munga",
+    "gn:country_code":"CD",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275940,
+    "gn:latitude":-5.21894,
+    "gn:longitude":18.52236,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Munga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275940
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c13a3460a48d027c5e067ffd832e4517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1276952635,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276952635,
+    "wof:lastmodified":1536944358,
+    "wof:name":"Munga",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52236,
+    -5.21894,
+    18.52236,
+    -5.21894
+],
+  "geometry": {"coordinates":[18.52236,-5.21894],"type":"Point"}
+}

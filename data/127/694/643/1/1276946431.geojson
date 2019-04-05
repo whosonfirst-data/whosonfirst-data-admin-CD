@@ -1,0 +1,67 @@
+{
+  "id": 1276946431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61631,-10.43088,23.61631,-10.43088",
+    "geom:latitude":-10.43088,
+    "geom:longitude":23.61631,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Ngongo",
+    "gn:country_code":"CD",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922304,
+    "gn:latitude":-10.43088,
+    "gn:longitude":23.61631,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922304
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9511372d41f2544b42be50ef9f368e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1276946431,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276946431,
+    "wof:lastmodified":1536952347,
+    "wof:name":"Ngongo",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61631,
+    -10.43088,
+    23.61631,
+    -10.43088
+],
+  "geometry": {"coordinates":[23.61631,-10.43088],"type":"Point"}
+}

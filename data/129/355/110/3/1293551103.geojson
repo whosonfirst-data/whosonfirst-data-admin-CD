@@ -1,0 +1,67 @@
+{
+  "id": 1293551103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7964,-4.3722,17.7964,-4.3722",
+    "geom:latitude":-4.3722,
+    "geom:longitude":17.7964,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kimuanza",
+    "gn:country_code":"CD",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314504,
+    "gn:latitude":-4.3722,
+    "gn:longitude":17.7964,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kimuanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314504
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d2912b831f79e1d68af0bddbff94fe7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293551103,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293551103,
+    "wof:lastmodified":1536695784,
+    "wof:name":"Kimuanza",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7964,
+    -4.3722,
+    17.7964,
+    -4.3722
+],
+  "geometry": {"coordinates":[17.7964,-4.3722],"type":"Point"}
+}

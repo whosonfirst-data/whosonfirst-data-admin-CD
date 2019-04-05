@@ -1,0 +1,67 @@
+{
+  "id": 1326484543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.28333,-2.9,23.28333,-2.9",
+    "geom:latitude":-2.9,
+    "geom:longitude":23.28333,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Omeduye",
+    "gn:country_code":"CD",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206618,
+    "gn:latitude":-2.9,
+    "gn:longitude":23.28333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Omeduye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206618
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"995eb4bfb31913cee93b3bcc044b070f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1326484543,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1326484543,
+    "wof:lastmodified":1537050732,
+    "wof:name":"Omeduye",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.28333,
+    -2.9,
+    23.28333,
+    -2.9
+],
+  "geometry": {"coordinates":[23.28333,-2.9],"type":"Point"}
+}

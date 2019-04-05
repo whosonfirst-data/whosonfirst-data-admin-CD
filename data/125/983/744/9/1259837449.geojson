@@ -1,0 +1,71 @@
+{
+  "id": 1259837449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13487,-2.16536,17.13487,-2.16536",
+    "geom:latitude":-2.16536,
+    "geom:longitude":17.13487,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mpa Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312463,
+    "gn:latitude":-2.16536,
+    "gn:longitude":17.13487,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mpa Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mpa Deuxi\u00e8me",
+        "Mpa II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312463
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"428e144f2c210fb996630a7a484ec8c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1259837449,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259837449,
+    "wof:lastmodified":1537590513,
+    "wof:name":"Mpa Deuxieme",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13487000000001,
+    -2.16536,
+    17.13487000000001,
+    -2.16536
+],
+  "geometry": {"coordinates":[17.13487000000001,-2.16536],"type":"Point"}
+}

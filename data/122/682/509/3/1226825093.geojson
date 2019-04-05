@@ -1,0 +1,67 @@
+{
+  "id": 1226825093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13401,-3.89676,21.13401,-3.89676",
+    "geom:latitude":-3.89676,
+    "geom:longitude":21.13401,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Djongo-Sanga",
+    "gn:country_code":"CD",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217109,
+    "gn:latitude":-3.89676,
+    "gn:longitude":21.13401,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Djongo-Sanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217109
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f1aa13514535e079a83d309f3830fa84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1226825093,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226825093,
+    "wof:lastmodified":1537094899,
+    "wof:name":"Djongo-Sanga",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13401,
+    -3.89676,
+    21.13401,
+    -3.89676
+],
+  "geometry": {"coordinates":[21.13401,-3.89676],"type":"Point"}
+}

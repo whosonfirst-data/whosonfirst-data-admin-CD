@@ -1,0 +1,67 @@
+{
+  "id": 1226164791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.20314,-4.37032,15.20314,-4.37032",
+    "geom:latitude":-4.37032,
+    "geom:longitude":15.20314,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kimbwala",
+    "gn:country_code":"CD",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593321,
+    "gn:latitude":-4.37032,
+    "gn:longitude":15.20314,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kimbwala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593321
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d878e5cc7a45facf4dae9cd60eb4a73d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679225,
+            "locality_id":1226164791,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1226164791,
+    "wof:lastmodified":1537048245,
+    "wof:name":"Kimbwala",
+    "wof:parent_id":1091679225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.20314,
+    -4.37032,
+    15.20314,
+    -4.37032
+],
+  "geometry": {"coordinates":[15.20314,-4.37032],"type":"Point"}
+}

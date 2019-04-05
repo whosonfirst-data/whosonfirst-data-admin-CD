@@ -1,0 +1,71 @@
+{
+  "id": 1293512011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02668,-5.07937,15.02668,-5.07937",
+    "geom:latitude":-5.07937,
+    "geom:longitude":15.02668,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mbanza-Nsundi",
+    "gn:country_code":"CD",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312886,
+    "gn:latitude":-5.07937,
+    "gn:longitude":15.02668,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mbanza-Nsundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banza Sundi",
+        "Mbanza-Nsundi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312886
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aef5325d3a5ec35b2e8cd41c7a7c65d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1293512011,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1293512011,
+    "wof:lastmodified":1537590517,
+    "wof:name":"Mbanza-Nsundi",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02668,
+    -5.07937,
+    15.02668,
+    -5.07937
+],
+  "geometry": {"coordinates":[15.02668,-5.07937],"type":"Point"}
+}

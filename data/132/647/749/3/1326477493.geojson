@@ -1,0 +1,67 @@
+{
+  "id": 1326477493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.81667,-5.71667,28.81667,-5.71667",
+    "geom:latitude":-5.71667,
+    "geom:longitude":28.81667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mugambo Jala",
+    "gn:country_code":"CD",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208511,
+    "gn:latitude":-5.71667,
+    "gn:longitude":28.81667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mugambo Jala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208511
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6b861521c627f5e27594cc1a98915273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1326477493,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1326477493,
+    "wof:lastmodified":1537060283,
+    "wof:name":"Mugambo Jala",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.81667,
+    -5.71667,
+    28.81667,
+    -5.71667
+],
+  "geometry": {"coordinates":[28.81667,-5.71667],"type":"Point"}
+}

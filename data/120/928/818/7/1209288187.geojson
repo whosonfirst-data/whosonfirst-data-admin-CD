@@ -1,0 +1,61 @@
+{
+  "id": 1209288187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.41667,-13.15,29.41667,-13.15",
+    "geom:latitude":-13.15,
+    "geom:longitude":29.41667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mulungwe",
+    "gn:country_code":"CD",
+    "gn:dem":1307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922460,
+    "gn:latitude":-13.15,
+    "gn:longitude":29.41667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mulungwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922460
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7a2f48f7ee1244846043dc17bb3e5cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209288187
+        }
+    ],
+    "wof:id":1209288187,
+    "wof:lastmodified":1536291786,
+    "wof:name":"Mulungwe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.41667,
+    -13.15,
+    29.41667,
+    -13.15
+],
+  "geometry": {"coordinates":[29.41667,-13.15],"type":"Point"}
+}

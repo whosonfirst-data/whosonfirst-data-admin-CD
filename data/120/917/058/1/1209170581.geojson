@@ -1,0 +1,61 @@
+{
+  "id": 1209170581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.23033,-9.65018,23.23033,-9.65018",
+    "geom:latitude":-9.65018,
+    "geom:longitude":23.23033,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshingumba",
+    "gn:country_code":"CD",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462354,
+    "gn:latitude":-9.65018,
+    "gn:longitude":23.23033,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshingumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462354
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b65038f43318641ed705f74b487a8296",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209170581
+        }
+    ],
+    "wof:id":1209170581,
+    "wof:lastmodified":1536295594,
+    "wof:name":"Tshingumba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.23033,
+    -9.65018,
+    23.23033,
+    -9.65018
+],
+  "geometry": {"coordinates":[23.23033,-9.65018],"type":"Point"}
+}

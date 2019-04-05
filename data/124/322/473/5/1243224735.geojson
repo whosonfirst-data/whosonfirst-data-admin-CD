@@ -1,0 +1,67 @@
+{
+  "id": 1243224735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.53809,-5.62807,26.53809,-5.62807",
+    "geom:latitude":-5.62807,
+    "geom:longitude":26.53809,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kaseya",
+    "gn:country_code":"CD",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330281,
+    "gn:latitude":-5.62807,
+    "gn:longitude":26.53809,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kaseya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330281
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"49b3be80dc7bc40a8af057646e7a1a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1243224735,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243224735,
+    "wof:lastmodified":1536626457,
+    "wof:name":"Kaseya",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.53809,
+    -5.62807,
+    26.53809,
+    -5.62807
+],
+  "geometry": {"coordinates":[26.53809,-5.62807],"type":"Point"}
+}

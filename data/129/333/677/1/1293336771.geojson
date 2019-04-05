@@ -1,0 +1,67 @@
+{
+  "id": 1293336771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70294,1.23987,23.70294,1.23987",
+    "geom:latitude":1.23987,
+    "geom:longitude":23.70294,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yaitungambuse",
+    "gn:country_code":"CD",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204075,
+    "gn:latitude":1.23987,
+    "gn:longitude":23.70294,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yaitungambuse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204075
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ef0926ed4b500f4df042f28753ed2fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1293336771,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293336771,
+    "wof:lastmodified":1537003610,
+    "wof:name":"Yaitungambuse",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70294,
+    1.23987,
+    23.70294,
+    1.23987
+],
+  "geometry": {"coordinates":[23.70294,1.23987],"type":"Point"}
+}

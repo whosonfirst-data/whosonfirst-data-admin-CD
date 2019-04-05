@@ -1,0 +1,67 @@
+{
+  "id": 1243538103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.97994,-8.38995,27.97994,-8.38995",
+    "geom:latitude":-8.38995,
+    "geom:longitude":27.97994,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Musabaka",
+    "gn:country_code":"CD",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10046562,
+    "gn:latitude":-8.38995,
+    "gn:longitude":27.97994,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Musabaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10046562
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0c1e8bd8e7bda62d50888c03a5cc9868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1243538103,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243538103,
+    "wof:lastmodified":1536673411,
+    "wof:name":"Musabaka",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.97994000000001,
+    -8.38995,
+    27.97994000000001,
+    -8.38995
+],
+  "geometry": {"coordinates":[27.97994000000001,-8.38995],"type":"Point"}
+}

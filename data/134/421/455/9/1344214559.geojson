@@ -1,0 +1,67 @@
+{
+  "id": 1344214559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27021,2.27945,20.27021,2.27945",
+    "geom:latitude":2.27945,
+    "geom:longitude":20.27021,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Mondunga",
+    "gn:country_code":"CD",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198641,
+    "gn:latitude":2.27945,
+    "gn:longitude":20.27021,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mondunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198641
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"54716e8ec118e3505e757f2f9544ff50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1344214559,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1344214559,
+    "wof:lastmodified":1536653307,
+    "wof:name":"Mondunga",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27021,
+    2.27945,
+    20.27021,
+    2.27945
+],
+  "geometry": {"coordinates":[20.27021,2.27945],"type":"Point"}
+}

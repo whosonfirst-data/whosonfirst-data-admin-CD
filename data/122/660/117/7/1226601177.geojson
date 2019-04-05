@@ -1,0 +1,67 @@
+{
+  "id": 1226601177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66659,-9.8813,23.66659,-9.8813",
+    "geom:latitude":-9.8813,
+    "geom:longitude":23.66659,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sakabamba",
+    "gn:country_code":"CD",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462323,
+    "gn:latitude":-9.8813,
+    "gn:longitude":23.66659,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sakabamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462323
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"038341f140f7ec88bfa9da74e13553e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226601177,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226601177,
+    "wof:lastmodified":1536922540,
+    "wof:name":"Sakabamba",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66659,
+    -9.8813,
+    23.66659,
+    -9.8813
+],
+  "geometry": {"coordinates":[23.66659,-9.8813],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310159865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.69532,-4.22177,22.69532,-4.22177",
+    "geom:latitude":-4.22177,
+    "geom:longitude":22.69532,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Basambanu",
+    "gn:country_code":"CD",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219456,
+    "gn:latitude":-4.22177,
+    "gn:longitude":22.69532,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Basambanu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219456
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c3557c835a9e252cfc35813203d1021b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1310159865,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1310159865,
+    "wof:lastmodified":1536918837,
+    "wof:name":"Basambanu",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69532,
+    -4.22177,
+    22.69532,
+    -4.22177
+],
+  "geometry": {"coordinates":[22.69532,-4.22177],"type":"Point"}
+}

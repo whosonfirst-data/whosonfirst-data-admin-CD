@@ -1,0 +1,67 @@
+{
+  "id": 1293353457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.49486,-7.14021,21.49486,-7.14021",
+    "geom:latitude":-7.14021,
+    "geom:longitude":21.49486,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shawadia",
+    "gn:country_code":"CD",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440289,
+    "gn:latitude":-7.14021,
+    "gn:longitude":21.49486,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shawadia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440289
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"04ff261060c50bc1e431884a2e5bf966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1293353457,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293353457,
+    "wof:lastmodified":1536979773,
+    "wof:name":"Shawadia",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.49486,
+    -7.14021,
+    21.49486,
+    -7.14021
+],
+  "geometry": {"coordinates":[21.49486,-7.14021],"type":"Point"}
+}

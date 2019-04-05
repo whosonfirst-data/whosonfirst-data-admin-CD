@@ -1,0 +1,61 @@
+{
+  "id": 1209186581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.63019,2.43048,27.63019,2.43048",
+    "geom:latitude":2.43048,
+    "geom:longitude":27.63019,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tsangba",
+    "gn:country_code":"CD",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145571,
+    "gn:latitude":2.43048,
+    "gn:longitude":27.63019,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tsangba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145571
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"99ae01b4b90f9e50e75eda3c8e943506",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209186581
+        }
+    ],
+    "wof:id":1209186581,
+    "wof:lastmodified":1536295078,
+    "wof:name":"Tsangba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.63019,
+    2.43048,
+    27.63019,
+    2.43048
+],
+  "geometry": {"coordinates":[27.63019,2.43048],"type":"Point"}
+}

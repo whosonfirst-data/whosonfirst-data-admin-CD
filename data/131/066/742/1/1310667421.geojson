@@ -1,0 +1,67 @@
+{
+  "id": 1310667421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.48415,-5.08416,23.48415,-5.08416",
+    "geom:latitude":-5.08416,
+    "geom:longitude":23.48415,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Piana",
+    "gn:country_code":"CD",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206269,
+    "gn:latitude":-5.08416,
+    "gn:longitude":23.48415,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Piana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206269
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5ddf71ba48c1eb5c45f312b954392bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1310667421,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1310667421,
+    "wof:lastmodified":1536683341,
+    "wof:name":"Piana",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.48415,
+    -5.08416,
+    23.48415,
+    -5.08416
+],
+  "geometry": {"coordinates":[23.48415,-5.08416],"type":"Point"}
+}

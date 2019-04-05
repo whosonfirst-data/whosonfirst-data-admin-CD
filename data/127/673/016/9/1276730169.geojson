@@ -1,0 +1,67 @@
+{
+  "id": 1276730169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35232,2.53331,22.35232,2.53331",
+    "geom:latitude":2.53331,
+    "geom:longitude":22.35232,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yamokoto",
+    "gn:country_code":"CD",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203788,
+    "gn:latitude":2.53331,
+    "gn:longitude":22.35232,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yamokoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203788
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ce562f96b434ce4458d5cb10741db111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1276730169,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276730169,
+    "wof:lastmodified":1536743939,
+    "wof:name":"Yamokoto",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35232,
+    2.53331,
+    22.35232,
+    2.53331
+],
+  "geometry": {"coordinates":[22.35232,2.53331],"type":"Point"}
+}

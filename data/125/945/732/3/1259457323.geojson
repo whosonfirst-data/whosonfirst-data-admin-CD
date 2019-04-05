@@ -1,0 +1,67 @@
+{
+  "id": 1259457323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.80676,-5.55301,17.80676,-5.55301",
+    "geom:latitude":-5.55301,
+    "geom:longitude":17.80676,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bindungi",
+    "gn:country_code":"CD",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317083,
+    "gn:latitude":-5.55301,
+    "gn:longitude":17.80676,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bindungi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317083
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f7d01d6cd7927ace886ad680970e8fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1259457323,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259457323,
+    "wof:lastmodified":1536896300,
+    "wof:name":"Bindungi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.80676,
+    -5.55301,
+    17.80676,
+    -5.55301
+],
+  "geometry": {"coordinates":[17.80676,-5.55301],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226403547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.61667,-5.76667,28.61667,-5.76667",
+    "geom:latitude":-5.76667,
+    "geom:longitude":28.61667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kayembe-Lengwe",
+    "gn:country_code":"CD",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213589,
+    "gn:latitude":-5.76667,
+    "gn:longitude":28.61667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kayembe-Lengwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213589
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f7fedc2c404263b083ad45cc7bb956a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1226403547,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226403547,
+    "wof:lastmodified":1536706688,
+    "wof:name":"Kayembe-Lengwe",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.61667000000001,
+    -5.76667,
+    28.61667000000001,
+    -5.76667
+],
+  "geometry": {"coordinates":[28.61667000000001,-5.76667],"type":"Point"}
+}

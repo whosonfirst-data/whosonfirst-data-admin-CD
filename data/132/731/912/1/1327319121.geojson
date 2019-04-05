@@ -1,0 +1,70 @@
+{
+  "id": 1327319121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92281,-4.89034,14.92281,-4.89034",
+    "geom:latitude":-4.89034,
+    "geom:longitude":14.92281,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kitala",
+    "gn:country_code":"CD",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443433,
+    "gn:latitude":-4.89034,
+    "gn:longitude":14.92281,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Kitala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kitata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443433
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"084d12189ff9ed7d404aecfe94c62f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1327319121,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1327319121,
+    "wof:lastmodified":1537590574,
+    "wof:name":"Kitala",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92281,
+    -4.89034,
+    14.92281,
+    -4.89034
+],
+  "geometry": {"coordinates":[14.92281,-4.89034],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293068809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74623,2.63703,21.74623,2.63703",
+    "geom:latitude":2.63703,
+    "geom:longitude":21.74623,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yamakolo",
+    "gn:country_code":"CD",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277782,
+    "gn:latitude":2.63703,
+    "gn:longitude":21.74623,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yamakolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277782
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"55b6ad168f93671e1743b633cc626aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1293068809,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293068809,
+    "wof:lastmodified":1536893539,
+    "wof:name":"Yamakolo",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74623,
+    2.63703,
+    21.74623,
+    2.63703
+],
+  "geometry": {"coordinates":[21.74623,2.63703],"type":"Point"}
+}

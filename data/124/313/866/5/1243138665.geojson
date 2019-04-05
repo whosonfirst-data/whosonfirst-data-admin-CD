@@ -1,0 +1,67 @@
+{
+  "id": 1243138665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03333,2.01667,31.03333,2.01667",
+    "geom:latitude":2.01667,
+    "geom:longitude":31.03333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ara",
+    "gn:country_code":"CD",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220235,
+    "gn:latitude":2.01667,
+    "gn:longitude":31.03333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220235
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"85af912a2c76d4872bce7ca430ff95af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1243138665,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243138665,
+    "wof:lastmodified":1536752381,
+    "wof:name":"Ara",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03333,
+    2.01667,
+    31.03333,
+    2.01667
+],
+  "geometry": {"coordinates":[31.03333,2.01667],"type":"Point"}
+}

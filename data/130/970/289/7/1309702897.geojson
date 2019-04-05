@@ -1,0 +1,67 @@
+{
+  "id": 1309702897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96621,-5.08476,14.96621,-5.08476",
+    "geom:latitude":-5.08476,
+    "geom:longitude":14.96621,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lukuti",
+    "gn:country_code":"CD",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327915,
+    "gn:latitude":-5.08476,
+    "gn:longitude":14.96621,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Lukuti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327915
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b4dff106ce03de1b2c439765bbb56c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1309702897,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1309702897,
+    "wof:lastmodified":1537076417,
+    "wof:name":"Lukuti",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96621,
+    -5.08476,
+    14.96621,
+    -5.08476
+],
+  "geometry": {"coordinates":[14.96621,-5.08476],"type":"Point"}
+}

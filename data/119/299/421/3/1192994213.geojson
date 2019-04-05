@@ -1,0 +1,67 @@
+{
+  "id": 1192994213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.29628,-6.81114,21.29628,-6.81114",
+    "geom:latitude":-6.81114,
+    "geom:longitude":21.29628,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Lupemba",
+    "gn:country_code":"CD",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327503,
+    "gn:latitude":-6.81114,
+    "gn:longitude":21.29628,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lupemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327503
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f784321cf31cab7e757aa98b39830786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1192994213,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1192994213,
+    "wof:lastmodified":1536377604,
+    "wof:name":"Lupemba",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.29628,
+    -6.81114,
+    21.29628,
+    -6.81114
+],
+  "geometry": {"coordinates":[21.29628,-6.81114],"type":"Point"}
+}

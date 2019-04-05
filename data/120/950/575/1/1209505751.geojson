@@ -1,0 +1,64 @@
+{
+  "id": 1209505751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.04788,-4.97048,13.04788,-4.97048",
+    "geom:latitude":-4.97048,
+    "geom:longitude":13.04788,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kinkonzi",
+    "gn:country_code":"CD",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314735,
+    "gn:latitude":-4.97048,
+    "gn:longitude":13.04788,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kinkonzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikonzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314735
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fad340609054c358dd309d2de45ef635",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209505751
+        }
+    ],
+    "wof:id":1209505751,
+    "wof:lastmodified":1537590534,
+    "wof:name":"Kinkonzi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.04788,
+    -4.97048,
+    13.04788,
+    -4.97048
+],
+  "geometry": {"coordinates":[13.04788,-4.97048],"type":"Point"}
+}

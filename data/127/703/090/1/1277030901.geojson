@@ -1,0 +1,70 @@
+{
+  "id": 1277030901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.61056,-10.89105,23.61056,-10.89105",
+    "geom:latitude":-10.89105,
+    "geom:longitude":23.61056,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kakala",
+    "gn:country_code":"CD",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466430,
+    "gn:latitude":-10.89105,
+    "gn:longitude":23.61056,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kakala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466430
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c83199c3b4c838adb70f28f2551e9aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1277030901,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1277030901,
+    "wof:lastmodified":1537590576,
+    "wof:name":"Kakala",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.61056,
+    -10.89105,
+    23.61056,
+    -10.89105
+],
+  "geometry": {"coordinates":[23.61056,-10.89105],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309886821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.37714,0.4185,28.37714,0.4185",
+    "geom:latitude":0.4185,
+    "geom:longitude":28.37714,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kulata",
+    "gn:country_code":"CD",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281452,
+    "gn:latitude":0.4185,
+    "gn:longitude":28.37714,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Kulata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281452
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"080023786c6aba381838182aaf27e470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1309886821,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1309886821,
+    "wof:lastmodified":1536813715,
+    "wof:name":"Kulata",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.37714,
+    0.4185,
+    28.37714,
+    0.4185
+],
+  "geometry": {"coordinates":[28.37714,0.4185],"type":"Point"}
+}

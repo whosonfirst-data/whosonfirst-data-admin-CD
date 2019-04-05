@@ -1,0 +1,61 @@
+{
+  "id": 1209473335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72312,-9.26746,23.72312,-9.26746",
+    "geom:latitude":-9.26746,
+    "geom:longitude":23.72312,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshitalika",
+    "gn:country_code":"CD",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462231,
+    "gn:latitude":-9.26746,
+    "gn:longitude":23.72312,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshitalika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462231
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"df97ed23ab89d9d05221e71521083161",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209473335
+        }
+    ],
+    "wof:id":1209473335,
+    "wof:lastmodified":1536286013,
+    "wof:name":"Tshitalika",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72312,
+    -9.26746,
+    23.72312,
+    -9.26746
+],
+  "geometry": {"coordinates":[23.72312,-9.26746],"type":"Point"}
+}

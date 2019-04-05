@@ -1,0 +1,68 @@
+{
+  "id": 1310570153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.42944,-10.72194,25.42944,-10.72194",
+    "geom:latitude":-10.72194,
+    "geom:longitude":25.42944,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kamoto",
+    "gn:country_code":"CD",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1105451,
+    "gn:latitude":-10.72194,
+    "gn:longitude":25.42944,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kamoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1105451,
+        "wk:page":"Kamoto_Mine"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c524684526e0656f04727075ec10702b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1310570153,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310570153,
+    "wof:lastmodified":1537489163,
+    "wof:name":"Kamoto",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.42944,
+    -10.72194,
+    25.42944,
+    -10.72194
+],
+  "geometry": {"coordinates":[25.42944,-10.72194],"type":"Point"}
+}

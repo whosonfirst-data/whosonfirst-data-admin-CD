@@ -1,0 +1,67 @@
+{
+  "id": 1209810989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19614,-4.72762,14.19614,-4.72762",
+    "geom:latitude":-4.72762,
+    "geom:longitude":14.19614,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Moabi",
+    "gn:country_code":"CD",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312738,
+    "gn:latitude":-4.72762,
+    "gn:longitude":14.19614,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Moabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312738
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5d8627a75f574a466daa006b5544f5b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1209810989,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1209810989,
+    "wof:lastmodified":1536386451,
+    "wof:name":"Moabi",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19614,
+    -4.72762,
+    14.19614,
+    -4.72762
+],
+  "geometry": {"coordinates":[14.19614,-4.72762],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209085555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41421,3.12167,27.41421,3.12167",
+    "geom:latitude":3.12167,
+    "geom:longitude":27.41421,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Punduda",
+    "gn:country_code":"CD",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069416,
+    "gn:latitude":3.12167,
+    "gn:longitude":27.41421,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Punduda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069416
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2ad2b29382f683dacff6fef16214e738",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209085555
+        }
+    ],
+    "wof:id":1209085555,
+    "wof:lastmodified":1536298198,
+    "wof:name":"Punduda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41421,
+    3.12167,
+    27.41421,
+    3.12167
+],
+  "geometry": {"coordinates":[27.41421,3.12167],"type":"Point"}
+}

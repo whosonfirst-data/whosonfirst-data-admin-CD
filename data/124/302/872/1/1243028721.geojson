@@ -1,0 +1,67 @@
+{
+  "id": 1243028721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.27458,-0.94988,24.27458,-0.94988",
+    "geom:latitude":-0.94988,
+    "geom:longitude":24.27458,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Elipa",
+    "gn:country_code":"CD",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282301,
+    "gn:latitude":-0.94988,
+    "gn:longitude":24.27458,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Elipa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282301
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8e9dcbdf97aea16fafe656cf7236a224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1243028721,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243028721,
+    "wof:lastmodified":1536911171,
+    "wof:name":"Elipa",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.27458,
+    -0.94988,
+    24.27458,
+    -0.94988
+],
+  "geometry": {"coordinates":[24.27458,-0.94988],"type":"Point"}
+}

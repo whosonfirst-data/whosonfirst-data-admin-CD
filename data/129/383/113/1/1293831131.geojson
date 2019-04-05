@@ -1,0 +1,70 @@
+{
+  "id": 1293831131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.98237,2.39986,18.98237,2.39986",
+    "geom:latitude":2.39986,
+    "geom:longitude":18.98237,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Busu-Nalongo",
+    "gn:country_code":"CD",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316180,
+    "gn:latitude":2.39986,
+    "gn:longitude":18.98237,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Busu-Nalongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Busu-Nalongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316180
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b4c8a5fca89b4b97092a38e80ccc7a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1293831131,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293831131,
+    "wof:lastmodified":1537590549,
+    "wof:name":"Busu-Nalongo",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.98237,
+    2.39986,
+    18.98237,
+    2.39986
+],
+  "geometry": {"coordinates":[18.98237,2.39986],"type":"Point"}
+}

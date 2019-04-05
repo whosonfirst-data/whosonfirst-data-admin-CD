@@ -1,0 +1,65 @@
+{
+  "id": 1209618055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.64611,-0.10698,18.64611,-0.10698",
+    "geom:latitude":-0.10698,
+    "geom:longitude":18.64611,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ikwa",
+    "gn:country_code":"CD",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315503,
+    "gn:latitude":-0.10698,
+    "gn:longitude":18.64611,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Ikwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikau",
+        "Ikwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315503
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b93184fc2df884853b15413539f0fbae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209618055
+        }
+    ],
+    "wof:id":1209618055,
+    "wof:lastmodified":1537590541,
+    "wof:name":"Ikwa",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.64611,
+    -0.10698,
+    18.64611,
+    -0.10698
+],
+  "geometry": {"coordinates":[18.64611,-0.10698],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260145903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37719,-5.45841,17.37719,-5.45841",
+    "geom:latitude":-5.45841,
+    "geom:longitude":17.37719,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kalungu-Hululu",
+    "gn:country_code":"CD",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274607,
+    "gn:latitude":-5.45841,
+    "gn:longitude":17.37719,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalungu-Hululu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274607
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1e62be91440fc6a0c4fe5d3a1c723e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1260145903,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260145903,
+    "wof:lastmodified":1536899525,
+    "wof:name":"Kalungu-Hululu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37719,
+    -5.45841,
+    17.37719,
+    -5.45841
+],
+  "geometry": {"coordinates":[17.37719,-5.45841],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276524015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55088,1.64028,30.55088,1.64028",
+    "geom:latitude":1.64028,
+    "geom:longitude":30.55088,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Delo",
+    "gn:country_code":"CD",
+    "gn:dem":1749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280519,
+    "gn:latitude":1.64028,
+    "gn:longitude":30.55088,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Delo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280519
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"38c4611c70dfd5132a7dc1f3be226395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1276524015,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276524015,
+    "wof:lastmodified":1537019687,
+    "wof:name":"Delo",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55088,
+    1.64028,
+    30.55088,
+    1.64028
+],
+  "geometry": {"coordinates":[30.55088,1.64028],"type":"Point"}
+}

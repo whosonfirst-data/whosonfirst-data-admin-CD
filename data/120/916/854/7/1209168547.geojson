@@ -1,0 +1,62 @@
+{
+  "id": 1209168547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.4393,-4.7343,24.4393,-4.7343",
+    "geom:latitude":-4.7343,
+    "geom:longitude":24.4393,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Lubefu",
+    "gn:country_code":"CD",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211088,
+    "gn:latitude":-4.7343,
+    "gn:longitude":24.4393,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lubefu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211088,
+        "wk:page":"Lubefu"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3650c17c3eb951855184b61b966a27c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209168547
+        }
+    ],
+    "wof:id":1209168547,
+    "wof:lastmodified":1537489118,
+    "wof:name":"Lubefu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.4393,
+    -4.7343,
+    24.4393,
+    -4.7343
+],
+  "geometry": {"coordinates":[24.4393,-4.7343],"type":"Point"}
+}

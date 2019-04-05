@@ -1,0 +1,72 @@
+{
+  "id": 1360156065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.55019,2.94322,23.55019,2.94322",
+    "geom:latitude":2.94322,
+    "geom:longitude":23.55019,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Adupai",
+    "gn:country_code":"CD",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220488,
+    "gn:latitude":2.94322,
+    "gn:longitude":23.55019,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Adupai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adupa",
+        "Adupay",
+        "Adupai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220488
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2fbb17b3b6d15c7313dd6e30f8b7c20a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1360156065,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360156065,
+    "wof:lastmodified":1537590478,
+    "wof:name":"Adupai",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.55019,
+    2.94322,
+    23.55019,
+    2.94322
+],
+  "geometry": {"coordinates":[23.55019,2.94322],"type":"Point"}
+}

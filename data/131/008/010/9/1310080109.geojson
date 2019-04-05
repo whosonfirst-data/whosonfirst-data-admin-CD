@@ -1,0 +1,67 @@
+{
+  "id": 1310080109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9234,-4.80572,19.9234,-4.80572",
+    "geom:latitude":-4.80572,
+    "geom:longitude":19.9234,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Nguembe",
+    "gn:country_code":"CD",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312008,
+    "gn:latitude":-4.80572,
+    "gn:longitude":19.9234,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nguembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312008
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6da92fcaaf271130a661a787d5958a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1310080109,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310080109,
+    "wof:lastmodified":1537031836,
+    "wof:name":"Nguembe",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9234,
+    -4.80572,
+    19.9234,
+    -4.80572
+],
+  "geometry": {"coordinates":[19.9234,-4.80572],"type":"Point"}
+}

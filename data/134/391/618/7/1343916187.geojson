@@ -1,0 +1,67 @@
+{
+  "id": 1343916187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81347,-7.33274,22.81347,-7.33274",
+    "geom:latitude":-7.33274,
+    "geom:longitude":22.81347,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Saka",
+    "gn:country_code":"CD",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438779,
+    "gn:latitude":-7.33274,
+    "gn:longitude":22.81347,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Saka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438779
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4d816fe6e637d1b9257465e4b7f53865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1343916187,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343916187,
+    "wof:lastmodified":1537080874,
+    "wof:name":"Saka",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81347,
+    -7.33274,
+    22.81347,
+    -7.33274
+],
+  "geometry": {"coordinates":[22.81347,-7.33274],"type":"Point"}
+}

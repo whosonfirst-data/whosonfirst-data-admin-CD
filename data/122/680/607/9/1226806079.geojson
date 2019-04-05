@@ -1,0 +1,70 @@
+{
+  "id": 1226806079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90145,4.22567,20.90145,4.22567",
+    "geom:latitude":4.22567,
+    "geom:longitude":20.90145,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Molegbe",
+    "gn:country_code":"CD",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8244142,
+    "gn:latitude":4.22567,
+    "gn:longitude":20.90145,
+    "gn:modification_date":"2018-07-23",
+    "gn:name":"Molegbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molegbwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8244142
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8de3333e7bb6c59a969e09a78f704be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679653,
+            "locality_id":1226806079,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226806079,
+    "wof:lastmodified":1537590571,
+    "wof:name":"Molegbe",
+    "wof:parent_id":1091679653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90145,
+    4.22567,
+    20.90145,
+    4.22567
+],
+  "geometry": {"coordinates":[20.90145,4.22567],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209070623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.98333,-4.98333,24.98333,-4.98333",
+    "geom:latitude":-4.98333,
+    "geom:longitude":24.98333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Katele",
+    "gn:country_code":"CD",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213810,
+    "gn:latitude":-4.98333,
+    "gn:longitude":24.98333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Katele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213810
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8aa5b7e4dbc2a2996e82140f9ec6739f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209070623
+        }
+    ],
+    "wof:id":1209070623,
+    "wof:lastmodified":1536298658,
+    "wof:name":"Katele",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.98333,
+    -4.9833300000000005,
+    24.98333,
+    -4.9833300000000005
+],
+  "geometry": {"coordinates":[24.98333,-4.98333],"type":"Point"}
+}

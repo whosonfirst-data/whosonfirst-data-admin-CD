@@ -1,0 +1,67 @@
+{
+  "id": 1243321791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4648,-6.75628,22.4648,-6.75628",
+    "geom:latitude":-6.75628,
+    "geom:longitude":22.4648,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bakwamwanza",
+    "gn:country_code":"CD",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8285208,
+    "gn:latitude":-6.75628,
+    "gn:longitude":22.4648,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bakwamwanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8285208
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a552d974769f6c6344cf1fd56728bfac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1243321791,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243321791,
+    "wof:lastmodified":1536984625,
+    "wof:name":"Bakwamwanza",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4648,
+    -6.75628,
+    22.4648,
+    -6.75628
+],
+  "geometry": {"coordinates":[22.4648,-6.75628],"type":"Point"}
+}

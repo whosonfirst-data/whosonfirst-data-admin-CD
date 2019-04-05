@@ -1,0 +1,64 @@
+{
+  "id": 1209491575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.99069,1.83559,28.99069,1.83559",
+    "geom:latitude":1.83559,
+    "geom:longitude":28.99069,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Opoku",
+    "gn:country_code":"CD",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7028815,
+    "gn:latitude":1.83559,
+    "gn:longitude":28.99069,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Opoku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Opoku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7028815
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"817533f294b725b480b801ecbdead65e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209491575
+        }
+    ],
+    "wof:id":1209491575,
+    "wof:lastmodified":1537590565,
+    "wof:name":"Opoku",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.99069,
+    1.83559,
+    28.99069,
+    1.83559
+],
+  "geometry": {"coordinates":[28.99069,1.83559],"type":"Point"}
+}

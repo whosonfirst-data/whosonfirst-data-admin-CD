@@ -1,0 +1,70 @@
+{
+  "id": 1226403791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.21275,2.7271,19.21275,2.7271",
+    "geom:latitude":2.7271,
+    "geom:longitude":19.21275,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bwaha",
+    "gn:country_code":"CD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316155,
+    "gn:latitude":2.7271,
+    "gn:longitude":19.21275,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bwaha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bwaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316155
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2799a79ea1758a8f978a5b14ba08cd31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1226403791,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226403791,
+    "wof:lastmodified":1537590548,
+    "wof:name":"Bwaha",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.21275,
+    2.7271,
+    19.21275,
+    2.7271
+],
+  "geometry": {"coordinates":[19.21275,2.7271],"type":"Point"}
+}

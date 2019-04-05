@@ -1,0 +1,67 @@
+{
+  "id": 1293188035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.75249,-2.63182,27.75249,-2.63182",
+    "geom:latitude":-2.63182,
+    "geom:longitude":27.75249,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kidambo",
+    "gn:country_code":"CD",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213238,
+    "gn:latitude":-2.63182,
+    "gn:longitude":27.75249,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Kidambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213238
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f3daf39f32075fb518867a7247c20bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1293188035,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1293188035,
+    "wof:lastmodified":1536722173,
+    "wof:name":"Kidambo",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.75249,
+    -2.63182,
+    27.75249,
+    -2.63182
+],
+  "geometry": {"coordinates":[27.75249,-2.63182],"type":"Point"}
+}

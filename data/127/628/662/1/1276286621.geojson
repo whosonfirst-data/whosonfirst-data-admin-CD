@@ -1,0 +1,67 @@
+{
+  "id": 1276286621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.93026,2.00776,21.93026,2.00776",
+    "geom:latitude":2.00776,
+    "geom:longitude":21.93026,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yaweta",
+    "gn:country_code":"CD",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203528,
+    "gn:latitude":2.00776,
+    "gn:longitude":21.93026,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yaweta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203528
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"04b6d6ab90bdc32df127d0f1a2a00772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1276286621,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276286621,
+    "wof:lastmodified":1536840363,
+    "wof:name":"Yaweta",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.93026,
+    2.00776,
+    21.93026,
+    2.00776
+],
+  "geometry": {"coordinates":[21.93026,2.00776],"type":"Point"}
+}

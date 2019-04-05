@@ -1,0 +1,67 @@
+{
+  "id": 1226504931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71019,-5.76478,17.71019,-5.76478",
+    "geom:latitude":-5.76478,
+    "geom:longitude":17.71019,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yumbi",
+    "gn:country_code":"CD",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274732,
+    "gn:latitude":-5.76478,
+    "gn:longitude":17.71019,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274732
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"417dcd77034d227b707b8f5aeda1b477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226504931,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226504931,
+    "wof:lastmodified":1537054624,
+    "wof:name":"Yumbi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71019,
+    -5.76478,
+    17.71019,
+    -5.76478
+],
+  "geometry": {"coordinates":[17.71019,-5.76478],"type":"Point"}
+}

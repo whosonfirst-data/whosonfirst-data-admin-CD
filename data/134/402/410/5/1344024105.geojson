@@ -1,0 +1,67 @@
+{
+  "id": 1344024105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56671,-6.66456,20.56671,-6.66456",
+    "geom:latitude":-6.66456,
+    "geom:longitude":20.56671,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shakambe",
+    "gn:country_code":"CD",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205676,
+    "gn:latitude":-6.66456,
+    "gn:longitude":20.56671,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shakambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205676
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1f0ed96242d2728aa6cb8364c3e1fb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1344024105,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1344024105,
+    "wof:lastmodified":1536928924,
+    "wof:name":"Shakambe",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56671,
+    -6.66456,
+    20.56671,
+    -6.66456
+],
+  "geometry": {"coordinates":[20.56671,-6.66456],"type":"Point"}
+}

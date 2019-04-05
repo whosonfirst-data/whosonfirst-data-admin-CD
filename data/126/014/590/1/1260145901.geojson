@@ -1,0 +1,67 @@
+{
+  "id": 1260145901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.95981,-5.71617,17.95981,-5.71617",
+    "geom:latitude":-5.71617,
+    "geom:longitude":17.95981,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Nzofu-Manianga",
+    "gn:country_code":"CD",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274719,
+    "gn:latitude":-5.71617,
+    "gn:longitude":17.95981,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nzofu-Manianga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274719
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0939893719d0d46ad5f7eea3172d7282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1260145901,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260145901,
+    "wof:lastmodified":1536899528,
+    "wof:name":"Nzofu-Manianga",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.95981,
+    -5.71617,
+    17.95981,
+    -5.71617
+],
+  "geometry": {"coordinates":[17.95981,-5.71617],"type":"Point"}
+}

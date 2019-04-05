@@ -1,0 +1,67 @@
+{
+  "id": 1360179797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.73612,-4.58947,15.73612,-4.58947",
+    "geom:latitude":-4.58947,
+    "geom:longitude":15.73612,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Wasa",
+    "gn:country_code":"CD",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310963,
+    "gn:latitude":-4.58947,
+    "gn:longitude":15.73612,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Wasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310963
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f4d9a953062e7ad74082f2c68d0cfd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1360179797,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1360179797,
+    "wof:lastmodified":1536808689,
+    "wof:name":"Wasa",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.73612,
+    -4.58947,
+    15.73612,
+    -4.58947
+],
+  "geometry": {"coordinates":[15.73612,-4.58947],"type":"Point"}
+}

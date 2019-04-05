@@ -1,0 +1,67 @@
+{
+  "id": 1343318387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91253,-8.92072,21.91253,-8.92072",
+    "geom:latitude":-8.92072,
+    "geom:longitude":21.91253,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kavambo",
+    "gn:country_code":"CD",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8458541,
+    "gn:latitude":-8.92072,
+    "gn:longitude":21.91253,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kavambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458541
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0073b10eeaf74de3da7dcabceb8ff7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1343318387,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343318387,
+    "wof:lastmodified":1536951641,
+    "wof:name":"Kavambo",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91253,
+    -8.92072,
+    21.91253,
+    -8.92072
+],
+  "geometry": {"coordinates":[21.91253,-8.92072],"type":"Point"}
+}

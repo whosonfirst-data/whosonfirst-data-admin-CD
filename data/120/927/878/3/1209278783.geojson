@@ -1,0 +1,61 @@
+{
+  "id": 1209278783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.93747,-6.07224,25.93747,-6.07224",
+    "geom:latitude":-6.07224,
+    "geom:longitude":25.93747,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bakebe",
+    "gn:country_code":"CD",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219841,
+    "gn:latitude":-6.07224,
+    "gn:longitude":25.93747,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bakebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219841
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"47862a6a95de17b21a8e913e4674e175",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209278783
+        }
+    ],
+    "wof:id":1209278783,
+    "wof:lastmodified":1536292097,
+    "wof:name":"Bakebe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93747,
+    -6.07224,
+    25.93747,
+    -6.07224
+],
+  "geometry": {"coordinates":[25.93747,-6.07224],"type":"Point"}
+}

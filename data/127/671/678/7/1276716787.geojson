@@ -1,0 +1,67 @@
+{
+  "id": 1276716787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.74185,2.10436,21.74185,2.10436",
+    "geom:latitude":2.10436,
+    "geom:longitude":21.74185,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Boso-Mbila",
+    "gn:country_code":"CD",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277722,
+    "gn:latitude":2.10436,
+    "gn:longitude":21.74185,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Boso-Mbila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277722
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"21c5dca9c4625b2d35a8b21252017aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1276716787,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276716787,
+    "wof:lastmodified":1536762403,
+    "wof:name":"Boso-Mbila",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.74185,
+    2.10436,
+    21.74185,
+    2.10436
+],
+  "geometry": {"coordinates":[21.74185,2.10436],"type":"Point"}
+}

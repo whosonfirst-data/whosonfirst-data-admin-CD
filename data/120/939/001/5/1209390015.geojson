@@ -1,0 +1,61 @@
+{
+  "id": 1209390015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.49389,-5.106,16.49389,-5.106",
+    "geom:latitude":-5.106,
+    "geom:longitude":16.49389,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ngundu Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8255794,
+    "gn:latitude":-5.106,
+    "gn:longitude":16.49389,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ngundu Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8255794
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d14f3b7f73bd03416ed3c376c71d3a34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209390015
+        }
+    ],
+    "wof:id":1209390015,
+    "wof:lastmodified":1536288492,
+    "wof:name":"Ngundu Deuxieme",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.49389,
+    -5.106,
+    16.49389,
+    -5.106
+],
+  "geometry": {"coordinates":[16.49389,-5.106],"type":"Point"}
+}

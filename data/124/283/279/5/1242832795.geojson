@@ -1,0 +1,67 @@
+{
+  "id": 1242832795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96738,-9.88106,23.96738,-9.88106",
+    "geom:latitude":-9.88106,
+    "geom:longitude":23.96738,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Namwana",
+    "gn:country_code":"CD",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207435,
+    "gn:latitude":-9.88106,
+    "gn:longitude":23.96738,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Namwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207435
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"80b5c480c3a2b5398d0110de660677dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1242832795,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242832795,
+    "wof:lastmodified":1536696447,
+    "wof:name":"Namwana",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96738,
+    -9.88106,
+    23.96738,
+    -9.88106
+],
+  "geometry": {"coordinates":[23.96738,-9.88106],"type":"Point"}
+}

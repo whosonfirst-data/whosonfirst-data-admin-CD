@@ -1,0 +1,67 @@
+{
+  "id": 1209974651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.92745,-3.00404,17.92745,-3.00404",
+    "geom:latitude":-3.00404,
+    "geom:longitude":17.92745,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Moshie",
+    "gn:country_code":"CD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8433757,
+    "gn:latitude":-3.00404,
+    "gn:longitude":17.92745,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Moshie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8433757
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"62a024e520bad4de16fe613754ce260f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1209974651,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1209974651,
+    "wof:lastmodified":1536393477,
+    "wof:name":"Moshie",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.92745,
+    -3.00404,
+    17.92745,
+    -3.00404
+],
+  "geometry": {"coordinates":[17.92745,-3.00404],"type":"Point"}
+}

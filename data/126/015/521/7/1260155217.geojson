@@ -1,0 +1,67 @@
+{
+  "id": 1260155217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.57246,-5.72829,18.57246,-5.72829",
+    "geom:latitude":-5.72829,
+    "geom:longitude":18.57246,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kilokoko",
+    "gn:country_code":"CD",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276256,
+    "gn:latitude":-5.72829,
+    "gn:longitude":18.57246,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kilokoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276256
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"02d3c86d90d6cf2c1f568c98b64b2255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1260155217,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260155217,
+    "wof:lastmodified":1536886300,
+    "wof:name":"Kilokoko",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.57246,
+    -5.72829,
+    18.57246,
+    -5.72829
+],
+  "geometry": {"coordinates":[18.57246,-5.72829],"type":"Point"}
+}

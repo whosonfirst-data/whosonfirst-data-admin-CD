@@ -1,0 +1,67 @@
+{
+  "id": 1259674311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.22636,-4.77672,14.22636,-4.77672",
+    "geom:latitude":-4.77672,
+    "geom:longitude":14.22636,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Luvuvama",
+    "gn:country_code":"CD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313264,
+    "gn:latitude":-4.77672,
+    "gn:longitude":14.22636,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Luvuvama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313264
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4b2b7a353c6d69853ed1d0a9f58a6474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1259674311,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1259674311,
+    "wof:lastmodified":1537077139,
+    "wof:name":"Luvuvama",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.22636,
+    -4.77672,
+    14.22636,
+    -4.77672
+],
+  "geometry": {"coordinates":[14.22636,-4.77672],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209379171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6993,-7.37296,23.6993,-7.37296",
+    "geom:latitude":-7.37296,
+    "geom:longitude":23.6993,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kabwa",
+    "gn:country_code":"CD",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215388,
+    "gn:latitude":-7.37296,
+    "gn:longitude":23.6993,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215388
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5d96f0bb6d14972186e0e3742d24b101",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209379171
+        }
+    ],
+    "wof:id":1209379171,
+    "wof:lastmodified":1536288844,
+    "wof:name":"Kabwa",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6993,
+    -7.372960000000001,
+    23.6993,
+    -7.372960000000001
+],
+  "geometry": {"coordinates":[23.6993,-7.37296],"type":"Point"}
+}

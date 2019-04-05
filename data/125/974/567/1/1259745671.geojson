@@ -1,0 +1,67 @@
+{
+  "id": 1259745671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.25819,-6.11565,17.25819,-6.11565",
+    "geom:latitude":-6.11565,
+    "geom:longitude":17.25819,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mahumbwa",
+    "gn:country_code":"CD",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434583,
+    "gn:latitude":-6.11565,
+    "gn:longitude":17.25819,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mahumbwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434583
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e0031e57df54acafd0b4141612d8b4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1259745671,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259745671,
+    "wof:lastmodified":1536977144,
+    "wof:name":"Mahumbwa",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.25819,
+    -6.11565,
+    17.25819,
+    -6.11565
+],
+  "geometry": {"coordinates":[17.25819,-6.11565],"type":"Point"}
+}

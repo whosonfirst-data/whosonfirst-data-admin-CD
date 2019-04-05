@@ -1,0 +1,67 @@
+{
+  "id": 1327195163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.79624,-7.23121,26.79624,-7.23121",
+    "geom:latitude":-7.23121,
+    "geom:longitude":26.79624,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mutombo",
+    "gn:country_code":"CD",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207816,
+    "gn:latitude":-7.23121,
+    "gn:longitude":26.79624,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mutombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207816
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aff8c95f6adfb2097b5165010112fa1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1327195163,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327195163,
+    "wof:lastmodified":1537022498,
+    "wof:name":"Mutombo",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.79624,
+    -7.23121,
+    26.79624,
+    -7.23121
+],
+  "geometry": {"coordinates":[26.79624,-7.23121],"type":"Point"}
+}

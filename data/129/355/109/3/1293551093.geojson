@@ -1,0 +1,71 @@
+{
+  "id": 1293551093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.18681,-4.16153,17.18681,-4.16153",
+    "geom:latitude":-4.16153,
+    "geom:longitude":17.18681,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kinkolo",
+    "gn:country_code":"CD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314334,
+    "gn:latitude":-4.16153,
+    "gn:longitude":17.18681,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kinkolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikolo",
+        "Kinkolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314334
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a5dab8263f18e5d626ea122221aebc2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293551093,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293551093,
+    "wof:lastmodified":1537590530,
+    "wof:name":"Kinkolo",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.18681,
+    -4.16153,
+    17.18681,
+    -4.16153
+],
+  "geometry": {"coordinates":[17.18681,-4.16153],"type":"Point"}
+}

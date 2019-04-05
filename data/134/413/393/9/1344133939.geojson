@@ -1,0 +1,67 @@
+{
+  "id": 1344133939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.09972,-3.84556,29.09972,-3.84556",
+    "geom:latitude":-3.84556,
+    "geom:longitude":29.09972,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kaboke",
+    "gn:country_code":"CD",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387590,
+    "gn:latitude":-3.84556,
+    "gn:longitude":29.09972,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kaboke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387590
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fd1001663ca8100fe8d14914f5edd8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1344133939,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1344133939,
+    "wof:lastmodified":1536770117,
+    "wof:name":"Kaboke",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.09972,
+    -3.84556,
+    29.09972,
+    -3.84556
+],
+  "geometry": {"coordinates":[29.09972,-3.84556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276191249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.56918,-6.70733,20.56918,-6.70733",
+    "geom:latitude":-6.70733,
+    "geom:longitude":20.56918,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muengema",
+    "gn:country_code":"CD",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283369,
+    "gn:latitude":-6.70733,
+    "gn:longitude":20.56918,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Muengema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283369
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e224e74f99af3e27549ba1384179b30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276191249,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276191249,
+    "wof:lastmodified":1536969112,
+    "wof:name":"Muengema",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.56918,
+    -6.70733,
+    20.56918,
+    -6.70733
+],
+  "geometry": {"coordinates":[20.56918,-6.70733],"type":"Point"}
+}

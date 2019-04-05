@@ -1,0 +1,67 @@
+{
+  "id": 1310402661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89047,-5.59096,14.89047,-5.59096",
+    "geom:latitude":-5.59096,
+    "geom:longitude":14.89047,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tungila",
+    "gn:country_code":"CD",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311052,
+    "gn:latitude":-5.59096,
+    "gn:longitude":14.89047,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Tungila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311052
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e3ec1647e7aa52b1c84b5f48b562986e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1310402661,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1310402661,
+    "wof:lastmodified":1537062604,
+    "wof:name":"Tungila",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89047,
+    -5.59096,
+    14.89047,
+    -5.59096
+],
+  "geometry": {"coordinates":[14.89047,-5.59096],"type":"Point"}
+}

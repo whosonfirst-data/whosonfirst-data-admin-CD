@@ -1,0 +1,61 @@
+{
+  "id": 1209380367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.81319,-6.7992,19.81319,-6.7992",
+    "geom:latitude":-6.7992,
+    "geom:longitude":19.81319,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shatshiwawa",
+    "gn:country_code":"CD",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9529068,
+    "gn:latitude":-6.7992,
+    "gn:longitude":19.81319,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shatshiwawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9529068
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e395fa399fc82c753b67dacfd1b0ff00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209380367
+        }
+    ],
+    "wof:id":1209380367,
+    "wof:lastmodified":1536288804,
+    "wof:name":"Shatshiwawa",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.81319,
+    -6.7992,
+    19.81319,
+    -6.7992
+],
+  "geometry": {"coordinates":[19.81319,-6.7992],"type":"Point"}
+}

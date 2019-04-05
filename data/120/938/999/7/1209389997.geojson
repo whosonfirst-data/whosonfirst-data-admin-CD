@@ -1,0 +1,61 @@
+{
+  "id": 1209389997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.70568,-5.67421,16.70568,-5.67421",
+    "geom:latitude":-5.67421,
+    "geom:longitude":16.70568,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Koti",
+    "gn:country_code":"CD",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8255864,
+    "gn:latitude":-5.67421,
+    "gn:longitude":16.70568,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Koti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8255864
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"89110d9189f546f80fd0e5e3a62f0b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209389997
+        }
+    ],
+    "wof:id":1209389997,
+    "wof:lastmodified":1536288493,
+    "wof:name":"Koti",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.705679999999994,
+    -5.67421,
+    16.705679999999994,
+    -5.67421
+],
+  "geometry": {"coordinates":[16.70567999999999,-5.67421],"type":"Point"}
+}

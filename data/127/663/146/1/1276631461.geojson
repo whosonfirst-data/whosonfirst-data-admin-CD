@@ -1,0 +1,70 @@
+{
+  "id": 1276631461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.25765,0.85237,29.25765,0.85237",
+    "geom:latitude":0.85237,
+    "geom:longitude":29.25765,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Biakutu",
+    "gn:country_code":"CD",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218994,
+    "gn:latitude":0.85237,
+    "gn:longitude":29.25765,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Biakutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Biakatu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218994
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"653a42246afb8e212e4ba58fd5b1c457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1276631461,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276631461,
+    "wof:lastmodified":1537590461,
+    "wof:name":"Biakutu",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25765,
+    0.85237,
+    29.25765,
+    0.85237
+],
+  "geometry": {"coordinates":[29.25765,0.85237],"type":"Point"}
+}

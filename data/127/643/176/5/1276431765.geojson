@@ -1,0 +1,67 @@
+{
+  "id": 1276431765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.01667,-4.95,13.01667,-4.95",
+    "geom:latitude":-4.95,
+    "geom:longitude":13.01667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lampa",
+    "gn:country_code":"CD",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313819,
+    "gn:latitude":-4.95,
+    "gn:longitude":13.01667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lampa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313819
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d1dcf592d0c890cc6d5b07575a93a06f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1276431765,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1276431765,
+    "wof:lastmodified":1536646309,
+    "wof:name":"Lampa",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.01667,
+    -4.95,
+    13.01667,
+    -4.95
+],
+  "geometry": {"coordinates":[13.01667,-4.95],"type":"Point"}
+}

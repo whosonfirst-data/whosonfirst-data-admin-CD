@@ -1,0 +1,67 @@
+{
+  "id": 1242633513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88138,-7.33001,21.88138,-7.33001",
+    "geom:latitude":-7.33001,
+    "geom:longitude":21.88138,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshimbundu",
+    "gn:country_code":"CD",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440459,
+    "gn:latitude":-7.33001,
+    "gn:longitude":21.88138,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshimbundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440459
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3d8e4615438664b71ec581137e77846f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1242633513,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1242633513,
+    "wof:lastmodified":1536982695,
+    "wof:name":"Tshimbundu",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88138,
+    -7.33001,
+    21.88138,
+    -7.33001
+],
+  "geometry": {"coordinates":[21.88138,-7.33001],"type":"Point"}
+}

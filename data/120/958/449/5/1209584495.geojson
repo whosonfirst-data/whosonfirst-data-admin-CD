@@ -1,0 +1,61 @@
+{
+  "id": 1209584495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.81986,-9.50263,22.81986,-9.50263",
+    "geom:latitude":-9.50263,
+    "geom:longitude":22.81986,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Satatshi",
+    "gn:country_code":"CD",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461869,
+    "gn:latitude":-9.50263,
+    "gn:longitude":22.81986,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Satatshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461869
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1e1792207acaf6c368920cee65d936e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209584495
+        }
+    ],
+    "wof:id":1209584495,
+    "wof:lastmodified":1536282681,
+    "wof:name":"Satatshi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.81986,
+    -9.50263,
+    22.81986,
+    -9.50263
+],
+  "geometry": {"coordinates":[22.81986,-9.50263],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343916391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.13713,-9.78172,23.13713,-9.78172",
+    "geom:latitude":-9.78172,
+    "geom:longitude":23.13713,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshikoi",
+    "gn:country_code":"CD",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462302,
+    "gn:latitude":-9.78172,
+    "gn:longitude":23.13713,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshikoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462302
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c259e87f5589a43c1a76df568bf1342d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1343916391,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343916391,
+    "wof:lastmodified":1537080593,
+    "wof:name":"Tshikoi",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.13713,
+    -9.78172,
+    23.13713,
+    -9.78172
+],
+  "geometry": {"coordinates":[23.13713,-9.78172],"type":"Point"}
+}

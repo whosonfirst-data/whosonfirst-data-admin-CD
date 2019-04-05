@@ -1,0 +1,61 @@
+{
+  "id": 1209265223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.03333,-6.35,29.03333,-6.35",
+    "geom:latitude":-6.35,
+    "geom:longitude":29.03333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Swakala",
+    "gn:country_code":"CD",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205368,
+    "gn:latitude":-6.35,
+    "gn:longitude":29.03333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Swakala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205368
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a2db5063604eedf8d259e76c2ac9383a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209265223
+        }
+    ],
+    "wof:id":1209265223,
+    "wof:lastmodified":1536292556,
+    "wof:name":"Swakala",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03333,
+    -6.35,
+    29.03333,
+    -6.35
+],
+  "geometry": {"coordinates":[29.03333,-6.35],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209188309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.45019,-7.04505,23.45019,-7.04505",
+    "geom:latitude":-7.04505,
+    "geom:longitude":23.45019,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ilunga",
+    "gn:country_code":"CD",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8520451,
+    "gn:latitude":-7.04505,
+    "gn:longitude":23.45019,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ilunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8520451
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"86a6aaca19c66585af39c33c9a2f115d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209188309
+        }
+    ],
+    "wof:id":1209188309,
+    "wof:lastmodified":1536295022,
+    "wof:name":"Ilunga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.45019,
+    -7.04505,
+    23.45019,
+    -7.04505
+],
+  "geometry": {"coordinates":[23.45019,-7.04505],"type":"Point"}
+}

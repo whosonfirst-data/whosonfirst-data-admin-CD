@@ -1,0 +1,67 @@
+{
+  "id": 1226516709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.77194,-5.80635,18.77194,-5.80635",
+    "geom:latitude":-5.80635,
+    "geom:longitude":18.77194,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Munkongo",
+    "gn:country_code":"CD",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276276,
+    "gn:latitude":-5.80635,
+    "gn:longitude":18.77194,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Munkongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276276
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"328843d31bdf9bb5d77d49b7161afcd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1226516709,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226516709,
+    "wof:lastmodified":1537038349,
+    "wof:name":"Munkongo",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.77194,
+    -5.80635,
+    18.77194,
+    -5.80635
+],
+  "geometry": {"coordinates":[18.77194,-5.80635],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226100557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.97808,-9.51707,23.97808,-9.51707",
+    "geom:latitude":-9.51707,
+    "geom:longitude":23.97808,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Namuyemba",
+    "gn:country_code":"CD",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214513,
+    "gn:latitude":-9.51707,
+    "gn:longitude":23.97808,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Namuyemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamuyembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214513
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"56407af7f5869477ff26fce0f2d77d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226100557,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226100557,
+    "wof:lastmodified":1537590415,
+    "wof:name":"Namuyemba",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.97808,
+    -9.51707,
+    23.97808,
+    -9.51707
+],
+  "geometry": {"coordinates":[23.97808,-9.51707],"type":"Point"}
+}

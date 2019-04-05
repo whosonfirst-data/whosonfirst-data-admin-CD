@@ -1,0 +1,67 @@
+{
+  "id": 1327000899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.69818,-11.04014,26.69818,-11.04014",
+    "geom:latitude":-11.04014,
+    "geom:longitude":26.69818,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Yokatala",
+    "gn:country_code":"CD",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10225758,
+    "gn:latitude":-11.04014,
+    "gn:longitude":26.69818,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Yokatala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10225758
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d97797dd70ae6ac83d5d5b94953fa409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680181,
+            "locality_id":1327000899,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327000899,
+    "wof:lastmodified":1536805855,
+    "wof:name":"Yokatala",
+    "wof:parent_id":1091680181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69818,
+    -11.04014,
+    26.69818,
+    -11.04014
+],
+  "geometry": {"coordinates":[26.69818,-11.04014],"type":"Point"}
+}

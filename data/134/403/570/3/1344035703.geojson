@@ -1,0 +1,67 @@
+{
+  "id": 1344035703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.15773,-0.34587,29.15773,-0.34587",
+    "geom:latitude":-0.34587,
+    "geom:longitude":29.15773,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mambosa",
+    "gn:country_code":"CD",
+    "gn:dem":2178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209737,
+    "gn:latitude":-0.34587,
+    "gn:longitude":29.15773,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mambosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209737
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"abbc0f0e575efdc8d82c92406b6af563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1344035703,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1344035703,
+    "wof:lastmodified":1536911807,
+    "wof:name":"Mambosa",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.15773,
+    -0.34587,
+    29.15773,
+    -0.34587
+],
+  "geometry": {"coordinates":[29.15773,-0.34587],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343916191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27988,-5.98476,22.27988,-5.98476",
+    "geom:latitude":-5.98476,
+    "geom:longitude":22.27988,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mipalala",
+    "gn:country_code":"CD",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413136,
+    "gn:latitude":-5.98476,
+    "gn:longitude":22.27988,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mipalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413136
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e72176662dc7d7d3583da2cf146a8623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1343916191,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343916191,
+    "wof:lastmodified":1537080871,
+    "wof:name":"Mipalala",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27988,
+    -5.98476,
+    22.27988,
+    -5.98476
+],
+  "geometry": {"coordinates":[22.27988,-5.98476],"type":"Point"}
+}

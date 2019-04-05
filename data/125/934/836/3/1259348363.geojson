@@ -1,0 +1,67 @@
+{
+  "id": 1259348363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21064,-5.80703,18.21064,-5.80703",
+    "geom:latitude":-5.80703,
+    "geom:longitude":18.21064,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mobwa-Kwenge",
+    "gn:country_code":"CD",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276193,
+    "gn:latitude":-5.80703,
+    "gn:longitude":18.21064,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mobwa-Kwenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276193
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2199810adce46816d789388fc0410d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1259348363,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259348363,
+    "wof:lastmodified":1537050806,
+    "wof:name":"Mobwa-Kwenge",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21064,
+    -5.80703,
+    18.21064,
+    -5.80703
+],
+  "geometry": {"coordinates":[18.21064,-5.80703],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209500419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.52042,-4.90204,13.52042,-4.90204",
+    "geom:latitude":-4.90204,
+    "geom:longitude":13.52042,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pembo-Soki",
+    "gn:country_code":"CD",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442518,
+    "gn:latitude":-4.90204,
+    "gn:longitude":13.52042,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Pembo-Soki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442518
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0b31b2b0f62bc3c2cd738e9b8b7e632d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209500419
+        }
+    ],
+    "wof:id":1209500419,
+    "wof:lastmodified":1536285201,
+    "wof:name":"Pembo-Soki",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.52042,
+    -4.90204,
+    13.52042,
+    -4.90204
+],
+  "geometry": {"coordinates":[13.52042,-4.90204],"type":"Point"}
+}

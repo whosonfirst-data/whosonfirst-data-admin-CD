@@ -1,0 +1,67 @@
+{
+  "id": 1292969707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88933,-9.4998,21.88933,-9.4998",
+    "geom:latitude":-9.4998,
+    "geom:longitude":21.88933,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Samandjimba",
+    "gn:country_code":"CD",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8459474,
+    "gn:latitude":-9.4998,
+    "gn:longitude":21.88933,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Samandjimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8459474
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"933d2697f29350062ec4157c3e82bcd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1292969707,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1292969707,
+    "wof:lastmodified":1537035047,
+    "wof:name":"Samandjimba",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88933,
+    -9.4998,
+    21.88933,
+    -9.4998
+],
+  "geometry": {"coordinates":[21.88933,-9.4998],"type":"Point"}
+}

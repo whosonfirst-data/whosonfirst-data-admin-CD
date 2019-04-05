@@ -1,0 +1,67 @@
+{
+  "id": 1310458139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88661,-5.25959,21.88661,-5.25959",
+    "geom:latitude":-5.25959,
+    "geom:longitude":21.88661,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Loboya-Bululu",
+    "gn:country_code":"CD",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277570,
+    "gn:latitude":-5.25959,
+    "gn:longitude":21.88661,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Loboya-Bululu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277570
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0acd6d6335f5d3b2b2a549e4db99c6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1310458139,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310458139,
+    "wof:lastmodified":1536984553,
+    "wof:name":"Loboya-Bululu",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88661,
+    -5.25959,
+    21.88661,
+    -5.25959
+],
+  "geometry": {"coordinates":[21.88661,-5.25959],"type":"Point"}
+}

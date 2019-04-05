@@ -1,0 +1,61 @@
+{
+  "id": 1209197897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.5607,-9.85064,26.5607,-9.85064",
+    "geom:latitude":-9.85064,
+    "geom:longitude":26.5607,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Museba",
+    "gn:country_code":"CD",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207989,
+    "gn:latitude":-9.85064,
+    "gn:longitude":26.5607,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Museba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207989
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bcf14842c0594464062e24bd95145fe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209197897
+        }
+    ],
+    "wof:id":1209197897,
+    "wof:lastmodified":1536294709,
+    "wof:name":"Museba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.5607,
+    -9.85064,
+    26.5607,
+    -9.85064
+],
+  "geometry": {"coordinates":[26.5607,-9.85064],"type":"Point"}
+}

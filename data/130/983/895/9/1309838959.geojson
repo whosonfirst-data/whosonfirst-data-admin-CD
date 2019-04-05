@@ -1,0 +1,67 @@
+{
+  "id": 1309838959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.52857,-6.42408,23.52857,-6.42408",
+    "geom:latitude":-6.42408,
+    "geom:longitude":23.52857,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mukongo",
+    "gn:country_code":"CD",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208360,
+    "gn:latitude":-6.42408,
+    "gn:longitude":23.52857,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mukongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208360
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ad795460b6e35bd85891e6507dddfe82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1309838959,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1309838959,
+    "wof:lastmodified":1536882733,
+    "wof:name":"Mukongo",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.52857,
+    -6.42408,
+    23.52857,
+    -6.42408
+],
+  "geometry": {"coordinates":[23.52857,-6.42408],"type":"Point"}
+}

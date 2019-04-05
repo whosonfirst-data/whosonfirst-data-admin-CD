@@ -1,0 +1,67 @@
+{
+  "id": 1360248487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.76384,2.11561,29.76384,2.11561",
+    "geom:latitude":2.11561,
+    "geom:longitude":29.76384,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Liongo",
+    "gn:country_code":"CD",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143102,
+    "gn:latitude":2.11561,
+    "gn:longitude":29.76384,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Liongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143102
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1352a85422314219a3d491e7cd436560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1360248487,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360248487,
+    "wof:lastmodified":1536710328,
+    "wof:name":"Liongo",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.76384,
+    2.11561,
+    29.76384,
+    2.11561
+],
+  "geometry": {"coordinates":[29.76384,2.11561],"type":"Point"}
+}

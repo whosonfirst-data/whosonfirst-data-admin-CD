@@ -1,0 +1,67 @@
+{
+  "id": 1310074243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.63214,-6.80059,21.63214,-6.80059",
+    "geom:latitude":-6.80059,
+    "geom:longitude":21.63214,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kalumuanga",
+    "gn:country_code":"CD",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327493,
+    "gn:latitude":-6.80059,
+    "gn:longitude":21.63214,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalumuanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327493
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"19e3e117224e85cdecc8b4dd31221c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1310074243,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310074243,
+    "wof:lastmodified":1537039988,
+    "wof:name":"Kalumuanga",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.63214,
+    -6.80059,
+    21.63214,
+    -6.80059
+],
+  "geometry": {"coordinates":[21.63214,-6.80059],"type":"Point"}
+}

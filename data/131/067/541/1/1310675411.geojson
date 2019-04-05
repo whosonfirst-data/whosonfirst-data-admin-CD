@@ -1,0 +1,67 @@
+{
+  "id": 1310675411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.48936,-5.31869,18.48936,-5.31869",
+    "geom:latitude":-5.31869,
+    "geom:longitude":18.48936,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kisambwari",
+    "gn:country_code":"CD",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275985,
+    "gn:latitude":-5.31869,
+    "gn:longitude":18.48936,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kisambwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275985
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b412cee2edfaeabb0f10027705829925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1310675411,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310675411,
+    "wof:lastmodified":1536671800,
+    "wof:name":"Kisambwari",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.48936,
+    -5.31869,
+    18.48936,
+    -5.31869
+],
+  "geometry": {"coordinates":[18.48936,-5.31869],"type":"Point"}
+}

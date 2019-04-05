@@ -1,0 +1,67 @@
+{
+  "id": 1327103247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.96936,-6.3471,22.96936,-6.3471",
+    "geom:latitude":-6.3471,
+    "geom:longitude":22.96936,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mukosa",
+    "gn:country_code":"CD",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208357,
+    "gn:latitude":-6.3471,
+    "gn:longitude":22.96936,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mukosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208357
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c265e0c43ad7ea284354ec416706750d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1327103247,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1327103247,
+    "wof:lastmodified":1536658478,
+    "wof:name":"Mukosa",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.96936,
+    -6.3471,
+    22.96936,
+    -6.3471
+],
+  "geometry": {"coordinates":[22.96936,-6.3471],"type":"Point"}
+}

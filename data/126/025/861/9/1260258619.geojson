@@ -1,0 +1,71 @@
+{
+  "id": 1260258619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1129,-5.56046,21.1129,-5.56046",
+    "geom:latitude":-5.56046,
+    "geom:longitude":21.1129,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshikuma",
+    "gn:country_code":"CD",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204928,
+    "gn:latitude":-5.56046,
+    "gn:longitude":21.1129,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshikuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshikima",
+        "Tshikuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204928
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"16199088a3683dd14b02c13cc47cc56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1260258619,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1260258619,
+    "wof:lastmodified":1537590318,
+    "wof:name":"Tshikuma",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1129,
+    -5.56046,
+    21.1129,
+    -5.56046
+],
+  "geometry": {"coordinates":[21.1129,-5.56046],"type":"Point"}
+}

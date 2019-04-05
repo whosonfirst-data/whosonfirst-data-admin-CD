@@ -1,0 +1,67 @@
+{
+  "id": 1310396161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.7153,-4.91284,14.7153,-4.91284",
+    "geom:latitude":-4.91284,
+    "geom:longitude":14.7153,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mvuanza",
+    "gn:country_code":"CD",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443385,
+    "gn:latitude":-4.91284,
+    "gn:longitude":14.7153,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Mvuanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443385
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d293d476ff8e82e8eceae0e16510a86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1310396161,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1310396161,
+    "wof:lastmodified":1537071658,
+    "wof:name":"Mvuanza",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.7153,
+    -4.91284,
+    14.7153,
+    -4.91284
+],
+  "geometry": {"coordinates":[14.7153,-4.91284],"type":"Point"}
+}

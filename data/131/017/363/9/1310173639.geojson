@@ -1,0 +1,71 @@
+{
+  "id": 1310173639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.46531,-3.61394,20.46531,-3.61394",
+    "geom:latitude":-3.61394,
+    "geom:longitude":20.46531,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Lokori Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211510,
+    "gn:latitude":-3.61394,
+    "gn:longitude":20.46531,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lokori Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lokori Deuxi\u00e8me",
+        "Lokori II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211510
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0484b266d574006d668794ea5ad611c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1310173639,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310173639,
+    "wof:lastmodified":1537590387,
+    "wof:name":"Lokori Deuxieme",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.46531,
+    -3.61394,
+    20.46531,
+    -3.61394
+],
+  "geometry": {"coordinates":[20.46531,-3.61394],"type":"Point"}
+}

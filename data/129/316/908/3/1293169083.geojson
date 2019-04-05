@@ -1,0 +1,67 @@
+{
+  "id": 1293169083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.98841,-2.11788,16.98841,-2.11788",
+    "geom:latitude":-2.11788,
+    "geom:longitude":16.98841,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bokoli",
+    "gn:country_code":"CD",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316854,
+    "gn:latitude":-2.11788,
+    "gn:longitude":16.98841,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bokoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316854
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"377c8a50a0e86ce0e1722f88f0db1f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1293169083,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293169083,
+    "wof:lastmodified":1536749113,
+    "wof:name":"Bokoli",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.98841,
+    -2.11788,
+    16.98841,
+    -2.11788
+],
+  "geometry": {"coordinates":[16.98841,-2.11788],"type":"Point"}
+}

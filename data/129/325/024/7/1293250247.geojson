@@ -1,0 +1,67 @@
+{
+  "id": 1293250247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25,-1.55,18.25,-1.55",
+    "geom:latitude":-1.55,
+    "geom:longitude":18.25,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Balendjale",
+    "gn:country_code":"CD",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317464,
+    "gn:latitude":-1.55,
+    "gn:longitude":18.25,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Balendjale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317464
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"459c25b41cb883cb3ed123c39e98c0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1293250247,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293250247,
+    "wof:lastmodified":1536630488,
+    "wof:name":"Balendjale",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25,
+    -1.55,
+    18.25,
+    -1.55
+],
+  "geometry": {"coordinates":[18.25,-1.55],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243246537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.71621,-8.24953,26.71621,-8.24953",
+    "geom:latitude":-8.24953,
+    "geom:longitude":26.71621,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kana-Kidila",
+    "gn:country_code":"CD",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10041058,
+    "gn:latitude":-8.24953,
+    "gn:longitude":26.71621,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kana-Kidila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10041058
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c1e1fda081519e7dd10f4569182e0407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1243246537,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243246537,
+    "wof:lastmodified":1537090488,
+    "wof:name":"Kana-Kidila",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.71621,
+    -8.24953,
+    26.71621,
+    -8.24953
+],
+  "geometry": {"coordinates":[26.71621,-8.24953],"type":"Point"}
+}

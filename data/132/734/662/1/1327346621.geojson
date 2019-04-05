@@ -1,0 +1,67 @@
+{
+  "id": 1327346621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.88282,1.08618,19.88282,1.08618",
+    "geom:latitude":1.08618,
+    "geom:longitude":19.88282,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ifomi",
+    "gn:country_code":"CD",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315564,
+    "gn:latitude":1.08618,
+    "gn:longitude":19.88282,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ifomi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315564
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bf1748f40c85ac9b70a1c15523b59992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1327346621,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327346621,
+    "wof:lastmodified":1536804485,
+    "wof:name":"Ifomi",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.88282,
+    1.08618,
+    19.88282,
+    1.08618
+],
+  "geometry": {"coordinates":[19.88282,1.08618],"type":"Point"}
+}

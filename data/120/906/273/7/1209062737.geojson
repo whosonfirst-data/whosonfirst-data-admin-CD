@@ -1,0 +1,61 @@
+{
+  "id": 1209062737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.69227,-10.42928,22.69227,-10.42928",
+    "geom:latitude":-10.42928,
+    "geom:longitude":22.69227,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Munyiku",
+    "gn:country_code":"CD",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463619,
+    "gn:latitude":-10.42928,
+    "gn:longitude":22.69227,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Munyiku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463619
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4e2014d59732e7841ab7a145e354cc9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209062737
+        }
+    ],
+    "wof:id":1209062737,
+    "wof:lastmodified":1536298901,
+    "wof:name":"Munyiku",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.69227,
+    -10.42928,
+    22.69227,
+    -10.42928
+],
+  "geometry": {"coordinates":[22.69227,-10.42928],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293776337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.79168,-4.56907,15.79168,-4.56907",
+    "geom:latitude":-4.56907,
+    "geom:longitude":15.79168,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Makie",
+    "gn:country_code":"CD",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313166,
+    "gn:latitude":-4.56907,
+    "gn:longitude":15.79168,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Makie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313166
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"586e370adaff3d0d539c2bc4215cd722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1293776337,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1293776337,
+    "wof:lastmodified":1536866463,
+    "wof:name":"Makie",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.79168,
+    -4.56907,
+    15.79168,
+    -4.56907
+],
+  "geometry": {"coordinates":[15.79168,-4.56907],"type":"Point"}
+}

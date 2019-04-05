@@ -1,0 +1,67 @@
+{
+  "id": 1260145893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.79019,-5.9601,17.79019,-5.9601",
+    "geom:latitude":-5.9601,
+    "geom:longitude":17.79019,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kilinda",
+    "gn:country_code":"CD",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274839,
+    "gn:latitude":-5.9601,
+    "gn:longitude":17.79019,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kilinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274839
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3bde2632f4e6f2ff40657cdf5e6468bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1260145893,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260145893,
+    "wof:lastmodified":1536899536,
+    "wof:name":"Kilinda",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.79019,
+    -5.9601,
+    17.79019,
+    -5.9601
+],
+  "geometry": {"coordinates":[17.79019,-5.9601],"type":"Point"}
+}

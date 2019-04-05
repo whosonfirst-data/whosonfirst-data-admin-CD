@@ -1,0 +1,67 @@
+{
+  "id": 1243531579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.98669,-1.81401,28.98669,-1.81401",
+    "geom:latitude":-1.81401,
+    "geom:longitude":28.98669,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kisungwe",
+    "gn:country_code":"CD",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212655,
+    "gn:latitude":-1.81401,
+    "gn:longitude":28.98669,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Kisungwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212655
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"647072a6f54baeb9b570047a77aa21f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1243531579,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1243531579,
+    "wof:lastmodified":1536682825,
+    "wof:name":"Kisungwe",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.98669000000001,
+    -1.81401,
+    28.98669000000001,
+    -1.81401
+],
+  "geometry": {"coordinates":[28.98669000000001,-1.81401],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259855779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.00825,1.80253,29.00825,1.80253",
+    "geom:latitude":1.80253,
+    "geom:longitude":29.00825,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Olukaikai",
+    "gn:country_code":"CD",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206648,
+    "gn:latitude":1.80253,
+    "gn:longitude":29.00825,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Olukaikai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Olukaikai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206648
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ecb91a862d8ae29c67aa055829a7432c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1259855779,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259855779,
+    "wof:lastmodified":1537590339,
+    "wof:name":"Olukaikai",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.00825,
+    1.80253,
+    29.00825,
+    1.80253
+],
+  "geometry": {"coordinates":[29.00825,1.80253],"type":"Point"}
+}

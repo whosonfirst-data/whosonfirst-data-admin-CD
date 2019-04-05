@@ -1,0 +1,71 @@
+{
+  "id": 1243014779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.51667,-0.11667,24.51667,-0.11667",
+    "geom:latitude":-0.11667,
+    "geom:longitude":24.51667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yatukumi",
+    "gn:country_code":"CD",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203558,
+    "gn:latitude":-0.11667,
+    "gn:longitude":24.51667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yatukumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yatukuma",
+        "Yatukumi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203558
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6acce6e496da1ccf05aaad17f33daf37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1243014779,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243014779,
+    "wof:lastmodified":1537590303,
+    "wof:name":"Yatukumi",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.51667,
+    -0.11667,
+    24.51667,
+    -0.11667
+],
+  "geometry": {"coordinates":[24.51667,-0.11667],"type":"Point"}
+}

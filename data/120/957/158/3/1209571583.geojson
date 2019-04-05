@@ -1,0 +1,61 @@
+{
+  "id": 1209571583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.26363,-6.09491,22.26363,-6.09491",
+    "geom:latitude":-6.09491,
+    "geom:longitude":22.26363,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bilolo-Kakole",
+    "gn:country_code":"CD",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283616,
+    "gn:latitude":-6.09491,
+    "gn:longitude":22.26363,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bilolo-Kakole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283616
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1605700e7be7c9988620c6f1d54ea35b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209571583
+        }
+    ],
+    "wof:id":1209571583,
+    "wof:lastmodified":1536283066,
+    "wof:name":"Bilolo-Kakole",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.26363,
+    -6.09491,
+    22.26363,
+    -6.09491
+],
+  "geometry": {"coordinates":[22.26363,-6.09491],"type":"Point"}
+}

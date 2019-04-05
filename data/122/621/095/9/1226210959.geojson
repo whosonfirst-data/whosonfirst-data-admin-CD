@@ -1,0 +1,67 @@
+{
+  "id": 1226210959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.90648,-6.01485,22.90648,-6.01485",
+    "geom:latitude":-6.01485,
+    "geom:longitude":22.90648,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshibasu",
+    "gn:country_code":"CD",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205018,
+    "gn:latitude":-6.01485,
+    "gn:longitude":22.90648,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshibasu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205018
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dddd2dbbe5bb8caedb95e5a5342c93bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1226210959,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226210959,
+    "wof:lastmodified":1536983147,
+    "wof:name":"Tshibasu",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.90648,
+    -6.01485,
+    22.90648,
+    -6.01485
+],
+  "geometry": {"coordinates":[22.90648,-6.01485],"type":"Point"}
+}

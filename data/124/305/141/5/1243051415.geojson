@@ -1,0 +1,70 @@
+{
+  "id": 1243051415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.72198,-10.98823,27.72198,-10.98823",
+    "geom:latitude":-10.98823,
+    "geom:longitude":27.72198,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kimpompo",
+    "gn:country_code":"CD",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923045,
+    "gn:latitude":-10.98823,
+    "gn:longitude":27.72198,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kimpompo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kampumpa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923045
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"819b0a44ef07d96ea3374ecfa65a6421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1243051415,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243051415,
+    "wof:lastmodified":1537590492,
+    "wof:name":"Kimpompo",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72198,
+    -10.98823,
+    27.72198,
+    -10.98823
+],
+  "geometry": {"coordinates":[27.72198,-10.98823],"type":"Point"}
+}

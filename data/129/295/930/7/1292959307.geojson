@@ -1,0 +1,67 @@
+{
+  "id": 1292959307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18256,-8.14412,22.18256,-8.14412",
+    "geom:latitude":-8.14412,
+    "geom:longitude":22.18256,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwamujing",
+    "gn:country_code":"CD",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10013862,
+    "gn:latitude":-8.14412,
+    "gn:longitude":22.18256,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwamujing",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10013862
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8173afad631040d9f013761ee683ef5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1292959307,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1292959307,
+    "wof:lastmodified":1537049501,
+    "wof:name":"Mwamujing",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18256,
+    -8.14412,
+    22.18256,
+    -8.14412
+],
+  "geometry": {"coordinates":[22.18256,-8.14412],"type":"Point"}
+}

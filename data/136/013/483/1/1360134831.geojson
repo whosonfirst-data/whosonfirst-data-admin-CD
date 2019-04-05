@@ -1,0 +1,67 @@
+{
+  "id": 1360134831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.81667,-1.15,24.81667,-1.15",
+    "geom:latitude":-1.15,
+    "geom:longitude":24.81667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Mohera",
+    "gn:country_code":"CD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208945,
+    "gn:latitude":-1.15,
+    "gn:longitude":24.81667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mohera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208945
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9263810b16c315d688f31430822e86e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1360134831,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360134831,
+    "wof:lastmodified":1536873048,
+    "wof:name":"Mohera",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.81667,
+    -1.15,
+    24.81667,
+    -1.15
+],
+  "geometry": {"coordinates":[24.81667,-1.15],"type":"Point"}
+}

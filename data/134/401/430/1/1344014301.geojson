@@ -1,0 +1,67 @@
+{
+  "id": 1344014301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8753,-5.90671,21.8753,-5.90671",
+    "geom:latitude":-5.90671,
+    "geom:longitude":21.8753,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshintu-a-Kalundu",
+    "gn:country_code":"CD",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277624,
+    "gn:latitude":-5.90671,
+    "gn:longitude":21.8753,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshintu-a-Kalundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277624
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8b56b478017719e1b7faa1ac8d5203b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1344014301,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1344014301,
+    "wof:lastmodified":1536942966,
+    "wof:name":"Tshintu-a-Kalundu",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8753,
+    -5.90671,
+    21.8753,
+    -5.90671
+],
+  "geometry": {"coordinates":[21.8753,-5.90671],"type":"Point"}
+}

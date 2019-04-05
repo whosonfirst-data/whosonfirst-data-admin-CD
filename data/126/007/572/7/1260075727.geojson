@@ -1,0 +1,67 @@
+{
+  "id": 1260075727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40507,-5.2625,14.40507,-5.2625",
+    "geom:latitude":-5.2625,
+    "geom:longitude":14.40507,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Buinga",
+    "gn:country_code":"CD",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316295,
+    "gn:latitude":-5.2625,
+    "gn:longitude":14.40507,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Buinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316295
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"02c93bd16b403c22e5e01f5df2e7e8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1260075727,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1260075727,
+    "wof:lastmodified":1536998501,
+    "wof:name":"Buinga",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40507,
+    -5.2625,
+    14.40507,
+    -5.2625
+],
+  "geometry": {"coordinates":[14.40507,-5.2625],"type":"Point"}
+}

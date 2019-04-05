@@ -1,0 +1,61 @@
+{
+  "id": 1209089257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.2924,-7.9684,24.2924,-7.9684",
+    "geom:latitude":-7.9684,
+    "geom:longitude":24.2924,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tshifumbe",
+    "gn:country_code":"CD",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204970,
+    "gn:latitude":-7.9684,
+    "gn:longitude":24.2924,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshifumbe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204970
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dfb9d77d0d7101cb8daa9eec7914a5c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209089257
+        }
+    ],
+    "wof:id":1209089257,
+    "wof:lastmodified":1536298087,
+    "wof:name":"Tshifumbe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.2924,
+    -7.9684,
+    24.2924,
+    -7.9684
+],
+  "geometry": {"coordinates":[24.2924,-7.9684],"type":"Point"}
+}

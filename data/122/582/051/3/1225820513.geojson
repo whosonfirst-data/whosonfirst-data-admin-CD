@@ -1,0 +1,67 @@
+{
+  "id": 1225820513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.86993,-6.27748,16.86993,-6.27748",
+    "geom:latitude":-6.27748,
+    "geom:longitude":16.86993,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kiangata",
+    "gn:country_code":"CD",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331575,
+    "gn:latitude":-6.27748,
+    "gn:longitude":16.86993,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kiangata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331575
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"952d28a71a360794beaec28b98c7c163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1225820513,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1225820513,
+    "wof:lastmodified":1537048092,
+    "wof:name":"Kiangata",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.86993,
+    -6.27748,
+    16.86993,
+    -6.27748
+],
+  "geometry": {"coordinates":[16.86993,-6.27748],"type":"Point"}
+}

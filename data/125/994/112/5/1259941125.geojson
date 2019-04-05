@@ -1,0 +1,70 @@
+{
+  "id": 1259941125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.34288,-5.97092,28.34288,-5.97092",
+    "geom:latitude":-5.97092,
+    "geom:longitude":28.34288,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Luga",
+    "gn:country_code":"CD",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211146,
+    "gn:latitude":-5.97092,
+    "gn:longitude":28.34288,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Luga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211146
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"930af11f6d64142e886ec3c8b70234a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1259941125,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1259941125,
+    "wof:lastmodified":1537590385,
+    "wof:name":"Luga",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.34288,
+    -5.97092,
+    28.34288,
+    -5.97092
+],
+  "geometry": {"coordinates":[28.34288,-5.97092],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276786379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.30373,-4.56699,14.30373,-4.56699",
+    "geom:latitude":-4.56699,
+    "geom:longitude":14.30373,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mwanga-Lele",
+    "gn:country_code":"CD",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443211,
+    "gn:latitude":-4.56699,
+    "gn:longitude":14.30373,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Mwanga-Lele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443211
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ab3dc4fee8c9ffad4bd1a98751c2d1fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1276786379,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1276786379,
+    "wof:lastmodified":1536669003,
+    "wof:name":"Mwanga-Lele",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.30373,
+    -4.56699,
+    14.30373,
+    -4.56699
+],
+  "geometry": {"coordinates":[14.30373,-4.56699],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193238959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.00588,-0.62235,24.00588,-0.62235",
+    "geom:latitude":-0.62235,
+    "geom:longitude":24.00588,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Likelenge",
+    "gn:country_code":"CD",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211868,
+    "gn:latitude":-0.62235,
+    "gn:longitude":24.00588,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Likelenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211868
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e8b4918aeff8424e0997f60f31ff2f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1193238959,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1193238959,
+    "wof:lastmodified":1536380532,
+    "wof:name":"Likelenge",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.00588,
+    -0.62235,
+    24.00588,
+    -0.62235
+],
+  "geometry": {"coordinates":[24.00588,-0.62235],"type":"Point"}
+}

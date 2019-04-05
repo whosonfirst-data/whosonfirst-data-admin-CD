@@ -1,0 +1,67 @@
+{
+  "id": 1327104771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56667,-7.35,25.56667,-7.35",
+    "geom:latitude":-7.35,
+    "geom:longitude":25.56667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kina",
+    "gn:country_code":"CD",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212917,
+    "gn:latitude":-7.35,
+    "gn:longitude":25.56667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212917
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"da6db47fed727a98ac1f59d280685f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1327104771,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327104771,
+    "wof:lastmodified":1536656237,
+    "wof:name":"Kina",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56667,
+    -7.35,
+    25.56667,
+    -7.35
+],
+  "geometry": {"coordinates":[25.56667,-7.35],"type":"Point"}
+}

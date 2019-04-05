@@ -1,0 +1,67 @@
+{
+  "id": 1344230081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.24943,-6.90006,25.24943,-6.90006",
+    "geom:latitude":-6.90006,
+    "geom:longitude":25.24943,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mujike",
+    "gn:country_code":"CD",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208467,
+    "gn:latitude":-6.90006,
+    "gn:longitude":25.24943,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mujike",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208467
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"269f12b22c451df9c228a10fc399c961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1344230081,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1344230081,
+    "wof:lastmodified":1536629214,
+    "wof:name":"Mujike",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.24943,
+    -6.90006,
+    25.24943,
+    -6.90006
+],
+  "geometry": {"coordinates":[25.24943,-6.90006],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226708401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58829,-9.68329,23.58829,-9.68329",
+    "geom:latitude":-9.68329,
+    "geom:longitude":23.58829,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kajila",
+    "gn:country_code":"CD",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462264,
+    "gn:latitude":-9.68329,
+    "gn:longitude":23.58829,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kajila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462264
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0593ee2b49704d439854856591269902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226708401,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226708401,
+    "wof:lastmodified":1536770043,
+    "wof:name":"Kajila",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58829,
+    -9.68329,
+    23.58829,
+    -9.68329
+],
+  "geometry": {"coordinates":[23.58829,-9.68329],"type":"Point"}
+}

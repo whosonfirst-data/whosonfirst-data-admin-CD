@@ -1,0 +1,67 @@
+{
+  "id": 1327020467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.55273,-5.83028,13.55273,-5.83028",
+    "geom:latitude":-5.83028,
+    "geom:longitude":13.55273,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kimazebo",
+    "gn:country_code":"CD",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252947,
+    "gn:latitude":-5.83028,
+    "gn:longitude":13.55273,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Kimazebo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252947
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6e6940d2b570e6d9fde92bdf3c569e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1327020467,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1327020467,
+    "wof:lastmodified":1536778233,
+    "wof:name":"Kimazebo",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.55273,
+    -5.83028,
+    13.55273,
+    -5.83028
+],
+  "geometry": {"coordinates":[13.55273,-5.83028],"type":"Point"}
+}

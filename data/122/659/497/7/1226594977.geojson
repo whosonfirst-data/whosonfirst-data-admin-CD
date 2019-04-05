@@ -1,0 +1,67 @@
+{
+  "id": 1226594977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.11119,3.01956,20.11119,3.01956",
+    "geom:latitude":3.01956,
+    "geom:longitude":20.11119,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Boyasekandji",
+    "gn:country_code":"CD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235976,
+    "gn:latitude":3.01956,
+    "gn:longitude":20.11119,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Boyasekandji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235976
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"90474859eb34bdb0713e4bc1d5dca9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1226594977,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226594977,
+    "wof:lastmodified":1536930624,
+    "wof:name":"Boyasekandji",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.11119,
+    3.01956,
+    20.11119,
+    3.01956
+],
+  "geometry": {"coordinates":[20.11119,3.01956],"type":"Point"}
+}

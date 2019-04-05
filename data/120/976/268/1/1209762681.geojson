@@ -1,0 +1,67 @@
+{
+  "id": 1209762681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.23333,-5.73333,29.23333,-5.73333",
+    "geom:latitude":-5.73333,
+    "geom:longitude":29.23333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mufwa",
+    "gn:country_code":"CD",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208513,
+    "gn:latitude":-5.73333,
+    "gn:longitude":29.23333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mufwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208513
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"82eeb689d1324b04fdea1e6a69c8a351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1209762681,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1209762681,
+    "wof:lastmodified":1536387805,
+    "wof:name":"Mufwa",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.23333,
+    -5.73333,
+    29.23333,
+    -5.73333
+],
+  "geometry": {"coordinates":[29.23333,-5.73333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277139399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.12643,-6.97085,17.12643,-6.97085",
+    "geom:latitude":-6.97085,
+    "geom:longitude":17.12643,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kanapumba",
+    "gn:country_code":"CD",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434760,
+    "gn:latitude":-6.97085,
+    "gn:longitude":17.12643,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kanapumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434760
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"21985ef870782072b3c8a1f445e6e1b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1277139399,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1277139399,
+    "wof:lastmodified":1536686104,
+    "wof:name":"Kanapumba",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.12643,
+    -6.97085,
+    17.12643,
+    -6.97085
+],
+  "geometry": {"coordinates":[17.12643,-6.97085],"type":"Point"}
+}

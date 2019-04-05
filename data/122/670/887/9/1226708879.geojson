@@ -1,0 +1,67 @@
+{
+  "id": 1226708879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56667,-5.08333,25.56667,-5.08333",
+    "geom:latitude":-5.08333,
+    "geom:longitude":25.56667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Lukoma",
+    "gn:country_code":"CD",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210702,
+    "gn:latitude":-5.08333,
+    "gn:longitude":25.56667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lukoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210702
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7dd5b9bd12a37e2f4e86bf7c9c24c83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1226708879,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1226708879,
+    "wof:lastmodified":1536769348,
+    "wof:name":"Lukoma",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56667,
+    -5.08333,
+    25.56667,
+    -5.08333
+],
+  "geometry": {"coordinates":[25.56667,-5.08333],"type":"Point"}
+}

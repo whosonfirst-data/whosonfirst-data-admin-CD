@@ -1,0 +1,71 @@
+{
+  "id": 1310370067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.34277,-4.98358,18.34277,-4.98358",
+    "geom:latitude":-4.98358,
+    "geom:longitude":18.34277,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Banza-Kikumba",
+    "gn:country_code":"CD",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317326,
+    "gn:latitude":-4.98358,
+    "gn:longitude":18.34277,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Banza-Kikumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banza",
+        "Banza-Kikumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317326
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"812348bc3f2e7f0426413d7fda911326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1310370067,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310370067,
+    "wof:lastmodified":1537590563,
+    "wof:name":"Banza-Kikumba",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.34277,
+    -4.98358,
+    18.34277,
+    -4.98358
+],
+  "geometry": {"coordinates":[18.34277,-4.98358],"type":"Point"}
+}

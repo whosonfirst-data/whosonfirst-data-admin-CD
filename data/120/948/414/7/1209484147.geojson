@@ -1,0 +1,65 @@
+{
+  "id": 1209484147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47139,-10.34537,22.47139,-10.34537",
+    "geom:latitude":-10.34537,
+    "geom:longitude":22.47139,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Muyeye",
+    "gn:country_code":"CD",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922378,
+    "gn:latitude":-10.34537,
+    "gn:longitude":22.47139,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Muyeye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mujeje",
+        "Muyeye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922378
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b593037deb740071bb9e320cb6a49e9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209484147
+        }
+    ],
+    "wof:id":1209484147,
+    "wof:lastmodified":1537590484,
+    "wof:name":"Muyeye",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47139,
+    -10.34537,
+    22.47139,
+    -10.34537
+],
+  "geometry": {"coordinates":[22.47139,-10.34537],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343428111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.80905,3.43997,20.80905,3.43997",
+    "geom:latitude":3.43997,
+    "geom:longitude":20.80905,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bokosa",
+    "gn:country_code":"CD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218503,
+    "gn:latitude":3.43997,
+    "gn:longitude":20.80905,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bokosa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218503
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0a96a3fe931d9b2b8089a76e4990a5f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1343428111,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343428111,
+    "wof:lastmodified":1536793331,
+    "wof:name":"Bokosa",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.80905,
+    3.43997,
+    20.80905,
+    3.43997
+],
+  "geometry": {"coordinates":[20.80905,3.43997],"type":"Point"}
+}

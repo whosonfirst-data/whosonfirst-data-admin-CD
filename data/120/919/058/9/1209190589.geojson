@@ -1,0 +1,61 @@
+{
+  "id": 1209190589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95629,1.15252,27.95629,1.15252",
+    "geom:latitude":1.15252,
+    "geom:longitude":27.95629,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bavakemba",
+    "gn:country_code":"CD",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219313,
+    "gn:latitude":1.15252,
+    "gn:longitude":27.95629,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bavakemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219313
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e79edce6f6325dfc61c76339655ca5cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209190589
+        }
+    ],
+    "wof:id":1209190589,
+    "wof:lastmodified":1536294948,
+    "wof:name":"Bavakemba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.956290000000006,
+    1.15252,
+    27.956290000000006,
+    1.15252
+],
+  "geometry": {"coordinates":[27.95629000000001,1.15252],"type":"Point"}
+}

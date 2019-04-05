@@ -1,0 +1,67 @@
+{
+  "id": 1309872925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.5166,4.26641,20.5166,4.26641",
+    "geom:latitude":4.26641,
+    "geom:longitude":20.5166,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bagilo-Moke",
+    "gn:country_code":"CD",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8246401,
+    "gn:latitude":4.26641,
+    "gn:longitude":20.5166,
+    "gn:modification_date":"2018-07-23",
+    "gn:name":"Bagilo-Moke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8246401
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6fbdffa5591f10ba03453b556cce549d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1309872925,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1309872925,
+    "wof:lastmodified":1536833457,
+    "wof:name":"Bagilo-Moke",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.5166,
+    4.26641,
+    20.5166,
+    4.26641
+],
+  "geometry": {"coordinates":[20.5166,4.26641],"type":"Point"}
+}

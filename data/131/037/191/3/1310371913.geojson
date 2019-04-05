@@ -1,0 +1,67 @@
+{
+  "id": 1310371913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56046,-2.27877,22.56046,-2.27877",
+    "geom:latitude":-2.27877,
+    "geom:longitude":22.56046,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Okania-Lingomo",
+    "gn:country_code":"CD",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448332,
+    "gn:latitude":-2.27877,
+    "gn:longitude":22.56046,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Okania-Lingomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448332
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dd5424769a7c7628cdeae264663e3133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1310371913,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1310371913,
+    "wof:lastmodified":1536609638,
+    "wof:name":"Okania-Lingomo",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56046,
+    -2.27877,
+    22.56046,
+    -2.27877
+],
+  "geometry": {"coordinates":[22.56046,-2.27877],"type":"Point"}
+}

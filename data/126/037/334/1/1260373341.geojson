@@ -1,0 +1,67 @@
+{
+  "id": 1260373341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.94529,-8.13654,23.94529,-8.13654",
+    "geom:latitude":-8.13654,
+    "geom:longitude":23.94529,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tshikunda",
+    "gn:country_code":"CD",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204926,
+    "gn:latitude":-8.13654,
+    "gn:longitude":23.94529,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshikunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204926
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"09c0f37a7df1da91cca2b2c8650ce65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1260373341,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260373341,
+    "wof:lastmodified":1537085343,
+    "wof:name":"Tshikunda",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.94529,
+    -8.13654,
+    23.94529,
+    -8.13654
+],
+  "geometry": {"coordinates":[23.94529,-8.13654],"type":"Point"}
+}

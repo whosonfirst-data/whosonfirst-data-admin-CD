@@ -1,0 +1,67 @@
+{
+  "id": 1309992981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.14778,-3.12667,29.14778,-3.12667",
+    "geom:latitude":-3.12667,
+    "geom:longitude":29.14778,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Biliba",
+    "gn:country_code":"CD",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387690,
+    "gn:latitude":-3.12667,
+    "gn:longitude":29.14778,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Biliba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387690
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5ecf475efac80d358a915ec3f2263cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1309992981,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1309992981,
+    "wof:lastmodified":1536661417,
+    "wof:name":"Biliba",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.14778,
+    -3.12667,
+    29.14778,
+    -3.12667
+],
+  "geometry": {"coordinates":[29.14778,-3.12667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243429691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.97612,-5.0581,16.97612,-5.0581",
+    "geom:latitude":-5.0581,
+    "geom:longitude":16.97612,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kibila",
+    "gn:country_code":"CD",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8255943,
+    "gn:latitude":-5.0581,
+    "gn:longitude":16.97612,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kibila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8255943
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"875a4d1425363bc39d18e8a445533a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1243429691,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243429691,
+    "wof:lastmodified":1536828717,
+    "wof:name":"Kibila",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.97612,
+    -5.0581,
+    16.97612,
+    -5.0581
+],
+  "geometry": {"coordinates":[16.97612,-5.0581],"type":"Point"}
+}

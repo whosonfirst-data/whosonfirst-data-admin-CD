@@ -1,0 +1,61 @@
+{
+  "id": 1209521395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70546,-6.52986,23.70546,-6.52986",
+    "geom:latitude":-6.52986,
+    "geom:longitude":23.70546,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bakwa Kalongi",
+    "gn:country_code":"CD",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9947256,
+    "gn:latitude":-6.52986,
+    "gn:longitude":23.70546,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Bakwa Kalongi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9947256
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1c2838c612b83a16e2bf952e6f6fd490",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209521395
+        }
+    ],
+    "wof:id":1209521395,
+    "wof:lastmodified":1536284568,
+    "wof:name":"Bakwa Kalongi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70546,
+    -6.52986,
+    23.70546,
+    -6.52986
+],
+  "geometry": {"coordinates":[23.70546,-6.52986],"type":"Point"}
+}

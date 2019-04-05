@@ -1,0 +1,67 @@
+{
+  "id": 1193247263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.36528,-10.88028,25.36528,-10.88028",
+    "geom:latitude":-10.88028,
+    "geom:longitude":25.36528,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Shimishi",
+    "gn:country_code":"CD",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922165,
+    "gn:latitude":-10.88028,
+    "gn:longitude":25.36528,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Shimishi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922165
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1e4d2f733d3a343c9ae23f6bb1796b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1193247263,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1193247263,
+    "wof:lastmodified":1536372001,
+    "wof:name":"Shimishi",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.36528,
+    -10.88028,
+    25.36528,
+    -10.88028
+],
+  "geometry": {"coordinates":[25.36528,-10.88028],"type":"Point"}
+}

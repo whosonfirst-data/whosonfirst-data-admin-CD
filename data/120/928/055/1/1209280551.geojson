@@ -1,0 +1,66 @@
+{
+  "id": 1209280551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.77378,-6.19584,20.77378,-6.19584",
+    "geom:latitude":-6.19584,
+    "geom:longitude":20.77378,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshiluata",
+    "gn:country_code":"CD",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204897,
+    "gn:latitude":-6.19584,
+    "gn:longitude":20.77378,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshiluata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshilwata",
+        "Tshikwata",
+        "Tshiluata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204897
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2ada1a847829843d67f8828f6232419c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209280551
+        }
+    ],
+    "wof:id":1209280551,
+    "wof:lastmodified":1537590317,
+    "wof:name":"Tshiluata",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.77378,
+    -6.19584,
+    20.77378,
+    -6.19584
+],
+  "geometry": {"coordinates":[20.77378,-6.19584],"type":"Point"}
+}

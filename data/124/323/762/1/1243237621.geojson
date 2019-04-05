@@ -1,0 +1,71 @@
+{
+  "id": 1243237621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.92787,-6.89325,23.92787,-6.89325",
+    "geom:latitude":-6.89325,
+    "geom:longitude":23.92787,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Misombo I",
+    "gn:country_code":"CD",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209046,
+    "gn:latitude":-6.89325,
+    "gn:longitude":23.92787,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Misombo I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Misombo",
+        "Misombo I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209046
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4a34be5ecdbb79696b9cdd15209880e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1243237621,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1243237621,
+    "wof:lastmodified":1537590367,
+    "wof:name":"Misombo I",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.92787,
+    -6.89325,
+    23.92787,
+    -6.89325
+],
+  "geometry": {"coordinates":[23.92787,-6.89325],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226305999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.39536,-5.67676,20.39536,-5.67676",
+    "geom:latitude":-5.67676,
+    "geom:longitude":20.39536,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Malonga",
+    "gn:country_code":"CD",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209877,
+    "gn:latitude":-5.67676,
+    "gn:longitude":20.39536,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Malonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209877
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dca495d5bb02890e641ac5c4e2d55a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1226305999,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226305999,
+    "wof:lastmodified":1537590374,
+    "wof:name":"Malonga",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.39536,
+    -5.67676,
+    20.39536,
+    -5.67676
+],
+  "geometry": {"coordinates":[20.39536,-5.67676],"type":"Point"}
+}

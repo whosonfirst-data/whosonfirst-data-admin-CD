@@ -1,0 +1,67 @@
+{
+  "id": 1209991667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.68583,-5.89948,17.68583,-5.89948",
+    "geom:latitude":-5.89948,
+    "geom:longitude":17.68583,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tsinga-Ngowa",
+    "gn:country_code":"CD",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274841,
+    "gn:latitude":-5.89948,
+    "gn:longitude":17.68583,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tsinga-Ngowa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274841
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"00a465b16985b964811f19cee92ec791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1209991667,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1209991667,
+    "wof:lastmodified":1536386127,
+    "wof:name":"Tsinga-Ngowa",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.68583,
+    -5.89948,
+    17.68583,
+    -5.89948
+],
+  "geometry": {"coordinates":[17.68583,-5.89948],"type":"Point"}
+}

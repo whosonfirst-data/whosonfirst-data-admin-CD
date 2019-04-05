@@ -1,0 +1,67 @@
+{
+  "id": 1226322031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.16348,3.057,25.16348,3.057",
+    "geom:latitude":3.057,
+    "geom:longitude":25.16348,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kumu",
+    "gn:country_code":"CD",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212201,
+    "gn:latitude":3.057,
+    "gn:longitude":25.16348,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212201
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d62b52261f0127f5d4e925b8ab7e40af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1226322031,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1226322031,
+    "wof:lastmodified":1536822841,
+    "wof:name":"Kumu",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.16348,
+    3.057,
+    25.16348,
+    3.057
+],
+  "geometry": {"coordinates":[25.16348,3.057],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293272165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.02001,-3.18121,29.02001,-3.18121",
+    "geom:latitude":-3.18121,
+    "geom:longitude":29.02001,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kanigo",
+    "gn:country_code":"CD",
+    "gn:dem":2176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435478,
+    "gn:latitude":-3.18121,
+    "gn:longitude":29.02001,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Kanigo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435478
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"66db932662a9b110d63e278d6929b8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1293272165,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1293272165,
+    "wof:lastmodified":1537094270,
+    "wof:name":"Kanigo",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.02001,
+    -3.18121,
+    29.02001,
+    -3.18121
+],
+  "geometry": {"coordinates":[29.02001,-3.18121],"type":"Point"}
+}

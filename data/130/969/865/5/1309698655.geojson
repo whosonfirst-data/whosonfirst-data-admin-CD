@@ -1,0 +1,67 @@
+{
+  "id": 1309698655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.82217,4.69048,24.82217,4.69048",
+    "geom:latitude":4.69048,
+    "geom:longitude":24.82217,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hambulo",
+    "gn:country_code":"CD",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221220,
+    "gn:latitude":4.69048,
+    "gn:longitude":24.82217,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Hambulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221220
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3e993315381f399c9f78375089ccf511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1309698655,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1309698655,
+    "wof:lastmodified":1537082462,
+    "wof:name":"Hambulo",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.82217,
+    4.69048,
+    24.82217,
+    4.69048
+],
+  "geometry": {"coordinates":[24.82217,4.69048],"type":"Point"}
+}

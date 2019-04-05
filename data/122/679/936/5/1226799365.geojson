@@ -1,0 +1,72 @@
+{
+  "id": 1226799365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.38565,-1.02149,24.38565,-1.02149",
+    "geom:latitude":-1.02149,
+    "geom:longitude":24.38565,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Osongi Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206510,
+    "gn:latitude":-1.02149,
+    "gn:longitude":24.38565,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Osongi Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Osongi",
+        "Osongi I",
+        "Osongi Premi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206510
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"266e3f7d9aa2715a3909641af20c61b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1226799365,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1226799365,
+    "wof:lastmodified":1537590337,
+    "wof:name":"Osongi Premiere",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.38565,
+    -1.02149,
+    24.38565,
+    -1.02149
+],
+  "geometry": {"coordinates":[24.38565,-1.02149],"type":"Point"}
+}

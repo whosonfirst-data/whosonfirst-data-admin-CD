@@ -1,0 +1,67 @@
+{
+  "id": 1293660615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.10253,4.0945,26.10253,4.0945",
+    "geom:latitude":4.0945,
+    "geom:longitude":26.10253,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tumanolu",
+    "gn:country_code":"CD",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204624,
+    "gn:latitude":4.0945,
+    "gn:longitude":26.10253,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tumanolu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204624
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d185bdc12676041deb728f263baf0c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1293660615,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293660615,
+    "wof:lastmodified":1537033330,
+    "wof:name":"Tumanolu",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.10253,
+    4.0945,
+    26.10253,
+    4.0945
+],
+  "geometry": {"coordinates":[26.10253,4.0945],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309780495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.97303,-5.51953,18.97303,-5.51953",
+    "geom:latitude":-5.51953,
+    "geom:longitude":18.97303,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Manzumbu",
+    "gn:country_code":"CD",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276159,
+    "gn:latitude":-5.51953,
+    "gn:longitude":18.97303,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Manzumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276159
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4a37399f8293ad8ea70627e369d607c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1309780495,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1309780495,
+    "wof:lastmodified":1536967386,
+    "wof:name":"Manzumbu",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.97303,
+    -5.51953,
+    18.97303,
+    -5.51953
+],
+  "geometry": {"coordinates":[18.97303,-5.51953],"type":"Point"}
+}

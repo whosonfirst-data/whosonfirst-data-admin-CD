@@ -1,0 +1,61 @@
+{
+  "id": 1209587035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58975,2.44896,23.58975,2.44896",
+    "geom:latitude":2.44896,
+    "geom:longitude":23.58975,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kindi-Bombo",
+    "gn:country_code":"CD",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147204,
+    "gn:latitude":2.44896,
+    "gn:longitude":23.58975,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kindi-Bombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147204
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9869a614e3793b7a67d85779902737c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209587035
+        }
+    ],
+    "wof:id":1209587035,
+    "wof:lastmodified":1536282601,
+    "wof:name":"Kindi-Bombo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58975,
+    2.44896,
+    23.58975,
+    2.44896
+],
+  "geometry": {"coordinates":[23.58975,2.44896],"type":"Point"}
+}

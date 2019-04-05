@@ -1,0 +1,67 @@
+{
+  "id": 1259456925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.36508,-5.65108,24.36508,-5.65108",
+    "geom:latitude":-5.65108,
+    "geom:longitude":24.36508,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kipange",
+    "gn:country_code":"CD",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329450,
+    "gn:latitude":-5.65108,
+    "gn:longitude":24.36508,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kipange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329450
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b90049a8eabc375bf49c6e73225a4744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1259456925,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1259456925,
+    "wof:lastmodified":1536896889,
+    "wof:name":"Kipange",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.36508,
+    -5.65108,
+    24.36508,
+    -5.65108
+],
+  "geometry": {"coordinates":[24.36508,-5.65108],"type":"Point"}
+}

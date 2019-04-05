@@ -1,0 +1,72 @@
+{
+  "id": 1243339375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.04496,-4.49165,21.04496,-4.49165",
+    "geom:latitude":-4.49165,
+    "geom:longitude":21.04496,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bishangu",
+    "gn:country_code":"CD",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218802,
+    "gn:latitude":-4.49165,
+    "gn:longitude":21.04496,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bishangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bushanga",
+        "Bishanga",
+        "Bishangu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218802
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7bbed23b0b632c90ff2a38cabb232dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1243339375,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243339375,
+    "wof:lastmodified":1537590459,
+    "wof:name":"Bishangu",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.04496,
+    -4.49165,
+    21.04496,
+    -4.49165
+],
+  "geometry": {"coordinates":[21.04496,-4.49165],"type":"Point"}
+}

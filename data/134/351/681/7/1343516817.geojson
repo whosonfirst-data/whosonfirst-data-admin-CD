@@ -1,0 +1,67 @@
+{
+  "id": 1343516817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.24767,2.46927,23.24767,2.46927",
+    "geom:latitude":2.46927,
+    "geom:longitude":23.24767,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yaenengu",
+    "gn:country_code":"CD",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147161,
+    "gn:latitude":2.46927,
+    "gn:longitude":23.24767,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yaenengu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147161
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"257305ae1338cd776f5aa81d785b548a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1343516817,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343516817,
+    "wof:lastmodified":1536665029,
+    "wof:name":"Yaenengu",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.24767,
+    2.46927,
+    23.24767,
+    2.46927
+],
+  "geometry": {"coordinates":[23.24767,2.46927],"type":"Point"}
+}

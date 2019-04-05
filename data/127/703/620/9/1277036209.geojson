@@ -1,0 +1,67 @@
+{
+  "id": 1277036209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13747,2.69181,20.13747,2.69181",
+    "geom:latitude":2.69181,
+    "geom:longitude":20.13747,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Akula",
+    "gn:country_code":"CD",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198619,
+    "gn:latitude":2.69181,
+    "gn:longitude":20.13747,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Akula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198619
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a7935be92ebfe1d5dfb2cfb7f29a5dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1277036209,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1277036209,
+    "wof:lastmodified":1536830668,
+    "wof:name":"Akula",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13747,
+    2.69181,
+    20.13747,
+    2.69181
+],
+  "geometry": {"coordinates":[20.13747,2.69181],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209571253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.02036,-1.65164,19.02036,-1.65164",
+    "geom:latitude":-1.65164,
+    "geom:longitude":19.02036,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Djobe",
+    "gn:country_code":"CD",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316049,
+    "gn:latitude":-1.65164,
+    "gn:longitude":19.02036,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Djobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316049
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f506bdbc070411d2c37b15bf20687183",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209571253
+        }
+    ],
+    "wof:id":1209571253,
+    "wof:lastmodified":1536283076,
+    "wof:name":"Djobe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.02036,
+    -1.6516400000000002,
+    19.02036,
+    -1.6516400000000002
+],
+  "geometry": {"coordinates":[19.02036,-1.65164],"type":"Point"}
+}

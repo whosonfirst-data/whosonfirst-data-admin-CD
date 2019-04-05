@@ -1,0 +1,67 @@
+{
+  "id": 1243346983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.71026,-12.18632,27.71026,-12.18632",
+    "geom:latitude":-12.18632,
+    "geom:longitude":27.71026,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kabulili",
+    "gn:country_code":"CD",
+    "gn:dem":1265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1099063,
+    "gn:latitude":-12.18632,
+    "gn:longitude":27.71026,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabulili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1099063
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f9b251b13b42374335211437aa6d5c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1243346983,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243346983,
+    "wof:lastmodified":1536949289,
+    "wof:name":"Kabulili",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.71026,
+    -12.18632,
+    27.71026,
+    -12.18632
+],
+  "geometry": {"coordinates":[27.71026,-12.18632],"type":"Point"}
+}

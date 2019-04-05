@@ -1,0 +1,67 @@
+{
+  "id": 1277044275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35901,-8.3737,22.35901,-8.3737",
+    "geom:latitude":-8.3737,
+    "geom:longitude":22.35901,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Masaka",
+    "gn:country_code":"CD",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209540,
+    "gn:latitude":-8.3737,
+    "gn:longitude":22.35901,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Masaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209540
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0d01cc9cad29e6d3cc3ee713b76b6aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1277044275,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1277044275,
+    "wof:lastmodified":1536820018,
+    "wof:name":"Masaka",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35901,
+    -8.3737,
+    22.35901,
+    -8.3737
+],
+  "geometry": {"coordinates":[22.35901,-8.3737],"type":"Point"}
+}

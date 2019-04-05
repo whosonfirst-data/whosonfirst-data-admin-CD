@@ -1,0 +1,72 @@
+{
+  "id": 1276938865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.89721,-4.53149,18.89721,-4.53149",
+    "geom:latitude":-4.53149,
+    "geom:longitude":18.89721,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Nkara",
+    "gn:country_code":"CD",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311962,
+    "gn:latitude":-4.53149,
+    "gn:longitude":18.89721,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nkara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kara",
+        "Nkara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311962,
+        "wk:page":"Nkara"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"66e37b1bdf50018ea30233498c439571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1276938865,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276938865,
+    "wof:lastmodified":1537590507,
+    "wof:name":"Nkara",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.89721,
+    -4.53149,
+    18.89721,
+    -4.53149
+],
+  "geometry": {"coordinates":[18.89721,-4.53149],"type":"Point"}
+}

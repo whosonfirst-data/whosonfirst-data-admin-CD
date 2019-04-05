@@ -1,0 +1,67 @@
+{
+  "id": 1209898351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.2098,3.46421,28.2098,3.46421",
+    "geom:latitude":3.46421,
+    "geom:longitude":28.2098,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nematshaga",
+    "gn:country_code":"CD",
+    "gn:dem":722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8023295,
+    "gn:latitude":3.46421,
+    "gn:longitude":28.2098,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nematshaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8023295
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"93869a8b1faf5b445858720a3065a71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1209898351,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1209898351,
+    "wof:lastmodified":1536387577,
+    "wof:name":"Nematshaga",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.2098,
+    3.46421,
+    28.2098,
+    3.46421
+],
+  "geometry": {"coordinates":[28.2098,3.46421],"type":"Point"}
+}

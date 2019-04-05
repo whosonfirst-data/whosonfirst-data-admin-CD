@@ -1,0 +1,71 @@
+{
+  "id": 1260231827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.87004,-7.15014,26.87004,-7.15014",
+    "geom:latitude":-7.15014,
+    "geom:longitude":26.87004,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kahia",
+    "gn:country_code":"CD",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215252,
+    "gn:latitude":-7.15014,
+    "gn:longitude":26.87004,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kahia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabia",
+        "Kahia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215252
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9dba03382897c032a5b673053623efb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1260231827,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260231827,
+    "wof:lastmodified":1537590424,
+    "wof:name":"Kahia",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.87004,
+    -7.15014,
+    26.87004,
+    -7.15014
+],
+  "geometry": {"coordinates":[26.87004,-7.15014],"type":"Point"}
+}

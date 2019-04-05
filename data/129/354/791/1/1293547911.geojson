@@ -1,0 +1,67 @@
+{
+  "id": 1293547911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.78333,-10.9,24.78333,-10.9",
+    "geom:latitude":-10.9,
+    "geom:longitude":24.78333,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Nabanza",
+    "gn:country_code":"CD",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922320,
+    "gn:latitude":-10.9,
+    "gn:longitude":24.78333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nabanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922320
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a2c584befdee904e6671adea6d112847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1293547911,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293547911,
+    "wof:lastmodified":1536700420,
+    "wof:name":"Nabanza",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.78333,
+    -10.9,
+    24.78333,
+    -10.9
+],
+  "geometry": {"coordinates":[24.78333,-10.9],"type":"Point"}
+}

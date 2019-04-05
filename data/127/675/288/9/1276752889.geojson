@@ -1,0 +1,67 @@
+{
+  "id": 1276752889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.03333,-1.73333,26.03333,-1.73333",
+    "geom:latitude":-1.73333,
+    "geom:longitude":26.03333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bena-Karabi",
+    "gn:country_code":"CD",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219158,
+    "gn:latitude":-1.73333,
+    "gn:longitude":26.03333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Bena-Karabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219158
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2a76fda608e9889c4d4b0551645ca0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1276752889,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1276752889,
+    "wof:lastmodified":1536714050,
+    "wof:name":"Bena-Karabi",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.03333,
+    -1.73333,
+    26.03333,
+    -1.73333
+],
+  "geometry": {"coordinates":[26.03333,-1.73333],"type":"Point"}
+}

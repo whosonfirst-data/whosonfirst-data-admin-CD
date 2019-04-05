@@ -1,0 +1,67 @@
+{
+  "id": 1259385645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.39647,-0.95049,19.39647,-0.95049",
+    "geom:latitude":-0.95049,
+    "geom:longitude":19.39647,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bolengambi",
+    "gn:country_code":"CD",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316772,
+    "gn:latitude":-0.95049,
+    "gn:longitude":19.39647,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Bolengambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316772
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"caf1ebe0b98af9950488f24bb11b517b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1259385645,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1259385645,
+    "wof:lastmodified":1536998362,
+    "wof:name":"Bolengambi",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.39647,
+    -0.95049,
+    19.39647,
+    -0.95049
+],
+  "geometry": {"coordinates":[19.39647,-0.95049],"type":"Point"}
+}

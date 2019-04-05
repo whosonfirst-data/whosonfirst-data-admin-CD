@@ -1,0 +1,67 @@
+{
+  "id": 1226398755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.244,-7.95432,22.244,-7.95432",
+    "geom:latitude":-7.95432,
+    "geom:longitude":22.244,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwadi Huku",
+    "gn:country_code":"CD",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439014,
+    "gn:latitude":-7.95432,
+    "gn:longitude":22.244,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwadi Huku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439014
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ef256f4b85b8ff62cb03391af36191f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226398755,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226398755,
+    "wof:lastmodified":1536713613,
+    "wof:name":"Mwadi Huku",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.244,
+    -7.95432,
+    22.244,
+    -7.95432
+],
+  "geometry": {"coordinates":[22.244,-7.95432],"type":"Point"}
+}

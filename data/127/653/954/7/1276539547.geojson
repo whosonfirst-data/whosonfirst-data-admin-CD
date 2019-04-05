@@ -1,0 +1,67 @@
+{
+  "id": 1276539547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.39761,-4.82343,14.39761,-4.82343",
+    "geom:latitude":-4.82343,
+    "geom:longitude":14.39761,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sonso",
+    "gn:country_code":"CD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443301,
+    "gn:latitude":-4.82343,
+    "gn:longitude":14.39761,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Sonso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443301
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8f4b7dc9dd8da407d55578c5718cad2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1276539547,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1276539547,
+    "wof:lastmodified":1536998906,
+    "wof:name":"Sonso",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.39761,
+    -4.82343,
+    14.39761,
+    -4.82343
+],
+  "geometry": {"coordinates":[14.39761,-4.82343],"type":"Point"}
+}

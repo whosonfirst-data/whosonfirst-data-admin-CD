@@ -1,0 +1,67 @@
+{
+  "id": 1276933165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.14171,-8.2027,23.14171,-8.2027",
+    "geom:latitude":-8.2027,
+    "geom:longitude":23.14171,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Rumang",
+    "gn:country_code":"CD",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10017045,
+    "gn:latitude":-8.2027,
+    "gn:longitude":23.14171,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rumang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10017045
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dcc597805dcd54f7792ed6db846323a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1276933165,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276933165,
+    "wof:lastmodified":1536969664,
+    "wof:name":"Rumang",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.14171,
+    -8.2027,
+    23.14171,
+    -8.2027
+],
+  "geometry": {"coordinates":[23.14171,-8.2027],"type":"Point"}
+}

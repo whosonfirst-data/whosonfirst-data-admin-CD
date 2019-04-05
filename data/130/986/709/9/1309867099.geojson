@@ -1,0 +1,70 @@
+{
+  "id": 1309867099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.74064,2.37906,19.74064,2.37906",
+    "geom:latitude":2.37906,
+    "geom:longitude":19.74064,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Goto",
+    "gn:country_code":"CD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504895,
+    "gn:latitude":2.37906,
+    "gn:longitude":19.74064,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Goto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Goto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504895
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"eed6598c5fc7dcbe1369c101489cca74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1309867099,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1309867099,
+    "wof:lastmodified":1537590569,
+    "wof:name":"Goto",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.74064,
+    2.37906,
+    19.74064,
+    2.37906
+],
+  "geometry": {"coordinates":[19.74064,2.37906],"type":"Point"}
+}

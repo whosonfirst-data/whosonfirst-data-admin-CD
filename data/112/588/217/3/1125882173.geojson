@@ -1,0 +1,106 @@
+{
+  "id": 1125882173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.39139,-4.38361,15.39139,-4.38361",
+    "geom:latitude":-4.38361,
+    "geom:longitude":15.39139,
+    "gn:gn_country":"CD",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":485167,
+    "gn:population":485167,
+    "iso:country":"CD",
+    "lbl:latitude":-4.38361,
+    "lbl:longitude":15.39139,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0633\u064a\u0646\u0627"
+    ],
+    "name:baq_x_preferred":[
+        "Masina"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u5e0c\u7d0d\u5340"
+    ],
+    "name:dut_x_preferred":[
+        "Masina"
+    ],
+    "name:eng_x_preferred":[
+        "Masina"
+    ],
+    "name:fre_x_preferred":[
+        "Masina"
+    ],
+    "name:ind_x_preferred":[
+        "Masina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b7\u30ca"
+    ],
+    "name:lin_x_preferred":[
+        "Mas\u00edna"
+    ],
+    "qs_pg:aaroncc":"CD",
+    "qs_pg:gn_country":"CD",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":2593460,
+    "qs_pg:gn_pop":485167,
+    "qs_pg:name":"Masina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":1036678,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593460,
+        "qs_pg:id":1036678,
+        "wd:id":"Q3297273"
+    },
+    "wof:country":"CD",
+    "wof:created":1497294869,
+    "wof:geomhash":"9f00b72f6ea7d56367e4f75a1a120ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1125882173,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1125882173,
+    "wof:lastmodified":1553816598,
+    "wof:name":"Masina",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:population":485167,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.39139,
+    -4.38361,
+    15.39139,
+    -4.38361
+],
+  "geometry": {"coordinates":[15.39139,-4.38361],"type":"Point"}
+}

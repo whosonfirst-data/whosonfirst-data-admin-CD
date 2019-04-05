@@ -1,0 +1,67 @@
+{
+  "id": 1327304185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33735,-7.25517,25.33735,-7.25517",
+    "geom:latitude":-7.25517,
+    "geom:longitude":25.33735,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kimani",
+    "gn:country_code":"CD",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9077263,
+    "gn:latitude":-7.25517,
+    "gn:longitude":25.33735,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kimani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9077263
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7e232d40ccdf01f60698c21d9811f307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1327304185,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327304185,
+    "wof:lastmodified":1536864735,
+    "wof:name":"Kimani",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33735,
+    -7.25517,
+    25.33735,
+    -7.25517
+],
+  "geometry": {"coordinates":[25.33735,-7.25517],"type":"Point"}
+}

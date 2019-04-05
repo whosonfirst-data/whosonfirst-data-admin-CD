@@ -1,0 +1,67 @@
+{
+  "id": 1260248099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.61663,-7.27295,21.61663,-7.27295",
+    "geom:latitude":-7.27295,
+    "geom:longitude":21.61663,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Katshoko",
+    "gn:country_code":"CD",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440262,
+    "gn:latitude":-7.27295,
+    "gn:longitude":21.61663,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Katshoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440262
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0f74ecd66c156a97c0428b65ef65bc1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1260248099,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1260248099,
+    "wof:lastmodified":1536760096,
+    "wof:name":"Katshoko",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61663,
+    -7.27295,
+    21.61663,
+    -7.27295
+],
+  "geometry": {"coordinates":[21.61663,-7.27295],"type":"Point"}
+}

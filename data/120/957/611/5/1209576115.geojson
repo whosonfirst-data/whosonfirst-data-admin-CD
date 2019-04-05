@@ -1,0 +1,61 @@
+{
+  "id": 1209576115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.10917,1.82839,27.10917,1.82839",
+    "geom:latitude":1.82839,
+    "geom:longitude":27.10917,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bafwamamba",
+    "gn:country_code":"CD",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219978,
+    "gn:latitude":1.82839,
+    "gn:longitude":27.10917,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bafwamamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219978
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"786190f4192d2a42a6d206f1dec49ed9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209576115
+        }
+    ],
+    "wof:id":1209576115,
+    "wof:lastmodified":1536282933,
+    "wof:name":"Bafwamamba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.10917,
+    1.82839,
+    27.10917,
+    1.82839
+],
+  "geometry": {"coordinates":[27.10917,1.82839],"type":"Point"}
+}

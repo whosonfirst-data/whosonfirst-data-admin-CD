@@ -1,0 +1,71 @@
+{
+  "id": 1343427007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.69563,-5.86307,20.69563,-5.86307",
+    "geom:latitude":-5.86307,
+    "geom:longitude":20.69563,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mukaya",
+    "gn:country_code":"CD",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208422,
+    "gn:latitude":-5.86307,
+    "gn:longitude":20.69563,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mukaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukala",
+        "Mukaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208422
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"409cf5f4187cc80238c0c86a533fc30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1343427007,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343427007,
+    "wof:lastmodified":1537590359,
+    "wof:name":"Mukaya",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.69563,
+    -5.86307,
+    20.69563,
+    -5.86307
+],
+  "geometry": {"coordinates":[20.69563,-5.86307],"type":"Point"}
+}

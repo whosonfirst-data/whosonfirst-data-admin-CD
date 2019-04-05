@@ -1,0 +1,71 @@
+{
+  "id": 1360307729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.72953,-5.27759,13.72953,-5.27759",
+    "geom:latitude":-5.27759,
+    "geom:longitude":13.72953,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mafuambo-Kibenza",
+    "gn:country_code":"CD",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313204,
+    "gn:latitude":-5.27759,
+    "gn:longitude":13.72953,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mafuambo-Kibenza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mafuambo",
+        "Mafuambo-Kibenza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313204
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a2b855137e0ac5cdbaf4c847765a0dea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1360307729,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1360307729,
+    "wof:lastmodified":1537590520,
+    "wof:name":"Mafuambo-Kibenza",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.72953,
+    -5.27759,
+    13.72953,
+    -5.27759
+],
+  "geometry": {"coordinates":[13.72953,-5.27759],"type":"Point"}
+}

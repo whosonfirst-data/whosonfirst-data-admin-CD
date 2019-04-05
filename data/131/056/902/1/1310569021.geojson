@@ -1,0 +1,67 @@
+{
+  "id": 1310569021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.3976,2.42902,23.3976,2.42902",
+    "geom:latitude":2.42902,
+    "geom:longitude":23.3976,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yangenga",
+    "gn:country_code":"CD",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8147174,
+    "gn:latitude":2.42902,
+    "gn:longitude":23.3976,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yangenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8147174
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"035b3c123b11520fdf3211bc02a1e9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1310569021,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310569021,
+    "wof:lastmodified":1536824491,
+    "wof:name":"Yangenga",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.3976,
+    2.42902,
+    23.3976,
+    2.42902
+],
+  "geometry": {"coordinates":[23.3976,2.42902],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209799001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7541,-11.82358,27.7541,-11.82358",
+    "geom:latitude":-11.82358,
+    "geom:longitude":27.7541,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kombe",
+    "gn:country_code":"CD",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10226311,
+    "gn:latitude":-11.82358,
+    "gn:longitude":27.7541,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10226311
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f6727e99cc4f46d4eb1fb9c79baa1786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1209799001,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1209799001,
+    "wof:lastmodified":1536391575,
+    "wof:name":"Kombe",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7541,
+    -11.82358,
+    27.7541,
+    -11.82358
+],
+  "geometry": {"coordinates":[27.7541,-11.82358],"type":"Point"}
+}

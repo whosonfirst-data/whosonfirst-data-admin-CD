@@ -1,0 +1,67 @@
+{
+  "id": 1293180241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58109,3.62882,23.58109,3.62882",
+    "geom:latitude":3.62882,
+    "geom:longitude":23.58109,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Bondu",
+    "gn:country_code":"CD",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218245,
+    "gn:latitude":3.62882,
+    "gn:longitude":23.58109,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bondu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218245
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2789d0c4c52161cff939b32c7b4e557a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1293180241,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293180241,
+    "wof:lastmodified":1536733345,
+    "wof:name":"Bondu",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58109,
+    3.62882,
+    23.58109,
+    3.62882
+],
+  "geometry": {"coordinates":[23.58109,3.62882],"type":"Point"}
+}

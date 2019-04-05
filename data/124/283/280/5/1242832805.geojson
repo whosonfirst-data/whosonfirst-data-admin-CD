@@ -1,0 +1,72 @@
+{
+  "id": 1242832805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.46667,-10.5,25.46667,-10.5",
+    "geom:latitude":-10.5,
+    "geom:longitude":25.46667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Zilo",
+    "gn:country_code":"CD",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922019,
+    "gn:latitude":-10.5,
+    "gn:longitude":25.46667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Zilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nzilo",
+        "Nzilo I",
+        "Zilo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922019
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"259819c7bfc162635ac19f7e67ad357f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1242832805,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242832805,
+    "wof:lastmodified":1537590480,
+    "wof:name":"Zilo",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.46667,
+    -10.5,
+    25.46667,
+    -10.5
+],
+  "geometry": {"coordinates":[25.46667,-10.5],"type":"Point"}
+}

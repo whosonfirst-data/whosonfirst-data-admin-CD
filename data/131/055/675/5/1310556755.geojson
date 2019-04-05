@@ -1,0 +1,67 @@
+{
+  "id": 1310556755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.7614,2.05802,21.7614,2.05802",
+    "geom:latitude":2.05802,
+    "geom:longitude":21.7614,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Boso-Mangbanda",
+    "gn:country_code":"CD",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277720,
+    "gn:latitude":2.05802,
+    "gn:longitude":21.7614,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Boso-Mangbanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277720
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8a202b1938d3f118f65e0063378d78a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1310556755,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310556755,
+    "wof:lastmodified":1536842106,
+    "wof:name":"Boso-Mangbanda",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.7614,
+    2.05802,
+    21.7614,
+    2.05802
+],
+  "geometry": {"coordinates":[21.7614,2.05802],"type":"Point"}
+}

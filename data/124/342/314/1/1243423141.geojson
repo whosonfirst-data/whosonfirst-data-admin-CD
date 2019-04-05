@@ -1,0 +1,70 @@
+{
+  "id": 1243423141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91252,-9.71122,22.91252,-9.71122",
+    "geom:latitude":-9.71122,
+    "geom:longitude":22.91252,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sawamba",
+    "gn:country_code":"CD",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205770,
+    "gn:latitude":-9.71122,
+    "gn:longitude":22.91252,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sawamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Swamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205770
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2b6c828e2f14df41431d1b62fe7b4992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1243423141,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243423141,
+    "wof:lastmodified":1537590327,
+    "wof:name":"Sawamba",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91252,
+    -9.71122,
+    22.91252,
+    -9.71122
+],
+  "geometry": {"coordinates":[22.91252,-9.71122],"type":"Point"}
+}

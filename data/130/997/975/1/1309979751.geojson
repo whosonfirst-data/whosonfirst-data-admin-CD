@@ -1,0 +1,67 @@
+{
+  "id": 1309979751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.555,-8.55418,28.555,-8.55418",
+    "geom:latitude":-8.55418,
+    "geom:longitude":28.555,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kipata Kabwande",
+    "gn:country_code":"CD",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10048352,
+    "gn:latitude":-8.55418,
+    "gn:longitude":28.555,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kipata Kabwande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10048352
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b62e057b94b72e8adeeb6c5e42f2e292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1309979751,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1309979751,
+    "wof:lastmodified":1536680446,
+    "wof:name":"Kipata Kabwande",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.555,
+    -8.55418,
+    28.555,
+    -8.55418
+],
+  "geometry": {"coordinates":[28.555,-8.55418],"type":"Point"}
+}

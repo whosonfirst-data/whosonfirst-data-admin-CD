@@ -1,0 +1,67 @@
+{
+  "id": 1309762309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.82811,-7.21456,21.82811,-7.21456",
+    "geom:latitude":-7.21456,
+    "geom:longitude":21.82811,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bampese",
+    "gn:country_code":"CD",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219669,
+    "gn:latitude":-7.21456,
+    "gn:longitude":21.82811,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bampese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219669
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"975500ba1d8708cd79de6930ed18beb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1309762309,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1309762309,
+    "wof:lastmodified":1536993090,
+    "wof:name":"Bampese",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.82811,
+    -7.21456,
+    21.82811,
+    -7.21456
+],
+  "geometry": {"coordinates":[21.82811,-7.21456],"type":"Point"}
+}

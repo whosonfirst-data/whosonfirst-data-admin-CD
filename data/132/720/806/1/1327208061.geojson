@@ -1,0 +1,70 @@
+{
+  "id": 1327208061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36755,-6.8544,23.36755,-6.8544",
+    "geom:latitude":-6.8544,
+    "geom:longitude":23.36755,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Katabaie",
+    "gn:country_code":"CD",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213889,
+    "gn:latitude":-6.8544,
+    "gn:longitude":23.36755,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Katabaie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katabaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213889
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"02226d03b2c497d2d055497a0b55144a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1327208061,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1327208061,
+    "wof:lastmodified":1537590409,
+    "wof:name":"Katabaie",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36755,
+    -6.8544,
+    23.36755,
+    -6.8544
+],
+  "geometry": {"coordinates":[23.36755,-6.8544],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277096217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87828,-4.81689,14.87828,-4.81689",
+    "geom:latitude":-4.81689,
+    "geom:longitude":14.87828,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gombe-Kyani",
+    "gn:country_code":"CD",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443442,
+    "gn:latitude":-4.81689,
+    "gn:longitude":14.87828,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Gombe-Kyani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gombe-Kyale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443442
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"01a1ce48988fdc54bdd510144026b36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1277096217,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1277096217,
+    "wof:lastmodified":1537590574,
+    "wof:name":"Gombe-Kyani",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87828,
+    -4.81689,
+    14.87828,
+    -4.81689
+],
+  "geometry": {"coordinates":[14.87828,-4.81689],"type":"Point"}
+}

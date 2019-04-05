@@ -1,0 +1,67 @@
+{
+  "id": 1276397591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8231,-7.95646,21.8231,-7.95646",
+    "geom:latitude":-7.95646,
+    "geom:longitude":21.8231,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kasa",
+    "gn:country_code":"CD",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440669,
+    "gn:latitude":-7.95646,
+    "gn:longitude":21.8231,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440669
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aa1eb2397d0accf6ba6cce8f81eb29c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1276397591,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276397591,
+    "wof:lastmodified":1536692768,
+    "wof:name":"Kasa",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8231,
+    -7.95646,
+    21.8231,
+    -7.95646
+],
+  "geometry": {"coordinates":[21.8231,-7.95646],"type":"Point"}
+}

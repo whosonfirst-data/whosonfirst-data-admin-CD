@@ -1,0 +1,70 @@
+{
+  "id": 1226724355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49634,-4.19273,17.49634,-4.19273",
+    "geom:latitude":-4.19273,
+    "geom:longitude":17.49634,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bulukumbi",
+    "gn:country_code":"CD",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316264,
+    "gn:latitude":-4.19273,
+    "gn:longitude":17.49634,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bulukumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulukumbi I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316264
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"82d5abb49a783f6b74b3534579f25bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1226724355,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226724355,
+    "wof:lastmodified":1537590550,
+    "wof:name":"Bulukumbi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49634,
+    -4.19273,
+    17.49634,
+    -4.19273
+],
+  "geometry": {"coordinates":[17.49634,-4.19273],"type":"Point"}
+}

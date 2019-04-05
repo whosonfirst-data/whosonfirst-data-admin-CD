@@ -1,0 +1,67 @@
+{
+  "id": 1343516285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15892,3.91564,20.15892,3.91564",
+    "geom:latitude":3.91564,
+    "geom:longitude":20.15892,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Botelenza",
+    "gn:country_code":"CD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218036,
+    "gn:latitude":3.91564,
+    "gn:longitude":20.15892,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Botelenza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218036
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"af49659642e28857302d9b8efff678a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1343516285,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343516285,
+    "wof:lastmodified":1536665800,
+    "wof:name":"Botelenza",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15892,
+    3.91564,
+    20.15892,
+    3.91564
+],
+  "geometry": {"coordinates":[20.15892,3.91564],"type":"Point"}
+}

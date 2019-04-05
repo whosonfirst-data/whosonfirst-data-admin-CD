@@ -1,0 +1,67 @@
+{
+  "id": 1343757917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8,-4.7,25.8,-4.7",
+    "geom:latitude":-4.7,
+    "geom:longitude":25.8,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Djali-Pene-Okembe",
+    "gn:country_code":"CD",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217200,
+    "gn:latitude":-4.7,
+    "gn:longitude":25.8,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Djali-Pene-Okembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217200
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"210767e8343c4f83a891f9ea02075145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1343757917,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1343757917,
+    "wof:lastmodified":1536813945,
+    "wof:name":"Djali-Pene-Okembe",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8,
+    -4.7,
+    25.8,
+    -4.7
+],
+  "geometry": {"coordinates":[25.8,-4.7],"type":"Point"}
+}

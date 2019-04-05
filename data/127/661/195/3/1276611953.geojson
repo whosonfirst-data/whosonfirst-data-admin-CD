@@ -1,0 +1,67 @@
+{
+  "id": 1276611953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.952,-7.16768,21.952,-7.16768",
+    "geom:latitude":-7.16768,
+    "geom:longitude":21.952,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshimvula",
+    "gn:country_code":"CD",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440560,
+    "gn:latitude":-7.16768,
+    "gn:longitude":21.952,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshimvula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440560
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dea66bb65c42e1edb6d055a385b76d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1276611953,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276611953,
+    "wof:lastmodified":1536903051,
+    "wof:name":"Tshimvula",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.952,
+    -7.16768,
+    21.952,
+    -7.16768
+],
+  "geometry": {"coordinates":[21.952,-7.16768],"type":"Point"}
+}

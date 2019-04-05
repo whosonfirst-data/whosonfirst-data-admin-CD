@@ -1,0 +1,67 @@
+{
+  "id": 1343636669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10788,-7.14243,17.10788,-7.14243",
+    "geom:latitude":-7.14243,
+    "geom:longitude":17.10788,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tsakala",
+    "gn:country_code":"CD",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447367,
+    "gn:latitude":-7.14243,
+    "gn:longitude":17.10788,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tsakala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447367
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9915f6655eb9b53cd4e37ed8b74eb042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343636669,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343636669,
+    "wof:lastmodified":1536988603,
+    "wof:name":"Tsakala",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10788,
+    -7.14243,
+    17.10788,
+    -7.14243
+],
+  "geometry": {"coordinates":[17.10788,-7.14243],"type":"Point"}
+}

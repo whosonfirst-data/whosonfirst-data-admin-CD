@@ -1,0 +1,67 @@
+{
+  "id": 1277152181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.54964,-8.06715,17.54964,-8.06715",
+    "geom:latitude":-8.06715,
+    "geom:longitude":17.54964,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kapondo",
+    "gn:country_code":"CD",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448398,
+    "gn:latitude":-8.06715,
+    "gn:longitude":17.54964,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kapondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448398
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9a6323ad5e17c390b3712c71b39522c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1277152181,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1277152181,
+    "wof:lastmodified":1536667657,
+    "wof:name":"Kapondo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.54964,
+    -8.06715,
+    17.54964,
+    -8.06715
+],
+  "geometry": {"coordinates":[17.54964,-8.06715],"type":"Point"}
+}

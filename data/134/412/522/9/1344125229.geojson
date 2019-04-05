@@ -1,0 +1,71 @@
+{
+  "id": 1344125229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.86898,-3.02415,17.86898,-3.02415",
+    "geom:latitude":-3.02415,
+    "geom:longitude":17.86898,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Kembeni Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314950,
+    "gn:latitude":-3.02415,
+    "gn:longitude":17.86898,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kembeni Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kembeni Deuxi\u00e8me",
+        "Kembeni II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314950
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6d1d601ee1717de8f1d31517973e4646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1344125229,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1344125229,
+    "wof:lastmodified":1537590536,
+    "wof:name":"Kembeni Deuxieme",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.86898,
+    -3.02415,
+    17.86898,
+    -3.02415
+],
+  "geometry": {"coordinates":[17.86898,-3.02415],"type":"Point"}
+}

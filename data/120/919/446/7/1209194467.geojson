@@ -1,0 +1,61 @@
+{
+  "id": 1209194467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.02278,-3.51583,29.02278,-3.51583",
+    "geom:latitude":-3.51583,
+    "geom:longitude":29.02278,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kitu",
+    "gn:country_code":"CD",
+    "gn:dem":2921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387627,
+    "gn:latitude":-3.51583,
+    "gn:longitude":29.02278,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kitu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387627
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"76475cf81862959e3e268f16bfe12df0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209194467
+        }
+    ],
+    "wof:id":1209194467,
+    "wof:lastmodified":1536294820,
+    "wof:name":"Kitu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.02278,
+    -3.51583,
+    29.02278,
+    -3.51583
+],
+  "geometry": {"coordinates":[29.02278,-3.51583],"type":"Point"}
+}

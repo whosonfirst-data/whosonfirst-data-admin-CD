@@ -1,0 +1,67 @@
+{
+  "id": 1243141711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68664,2.79949,27.68664,2.79949",
+    "geom:latitude":2.79949,
+    "geom:longitude":27.68664,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Isiro",
+    "gn:country_code":"CD",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11353098,
+    "gn:latitude":2.79949,
+    "gn:longitude":27.68664,
+    "gn:modification_date":"2016-12-04",
+    "gn:name":"Isiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11353098
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1874232f809e83768648dffbc302d55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1243141711,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243141711,
+    "wof:lastmodified":1536747853,
+    "wof:name":"Isiro",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68664,
+    2.79949,
+    27.68664,
+    2.79949
+],
+  "geometry": {"coordinates":[27.68664,2.79949],"type":"Point"}
+}

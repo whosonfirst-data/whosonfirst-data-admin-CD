@@ -1,0 +1,67 @@
+{
+  "id": 1310074207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35972,-5.23074,22.35972,-5.23074",
+    "geom:latitude":-5.23074,
+    "geom:longitude":22.35972,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kankonde",
+    "gn:country_code":"CD",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328444,
+    "gn:latitude":-5.23074,
+    "gn:longitude":22.35972,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kankonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328444
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"805cd8a497a7a8fbeadb5c561f2081c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1310074207,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310074207,
+    "wof:lastmodified":1537040042,
+    "wof:name":"Kankonde",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35972000000001,
+    -5.23074,
+    22.35972000000001,
+    -5.23074
+],
+  "geometry": {"coordinates":[22.35972000000001,-5.23074],"type":"Point"}
+}

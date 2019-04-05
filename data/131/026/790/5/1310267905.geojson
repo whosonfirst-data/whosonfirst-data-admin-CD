@@ -1,0 +1,67 @@
+{
+  "id": 1310267905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.90685,-7.0063,20.90685,-7.0063",
+    "geom:latitude":-7.0063,
+    "geom:longitude":20.90685,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kambamba",
+    "gn:country_code":"CD",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214682,
+    "gn:latitude":-7.0063,
+    "gn:longitude":20.90685,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kambamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214682
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"761f2f8cc388a8c2f50e263d74a6e2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1310267905,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310267905,
+    "wof:lastmodified":1536762540,
+    "wof:name":"Kambamba",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.90685,
+    -7.0063,
+    20.90685,
+    -7.0063
+],
+  "geometry": {"coordinates":[20.90685,-7.0063],"type":"Point"}
+}

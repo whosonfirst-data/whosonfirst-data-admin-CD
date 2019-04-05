@@ -1,0 +1,67 @@
+{
+  "id": 1242742247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.8601,-6.09729,24.8601,-6.09729",
+    "geom:latitude":-6.09729,
+    "geom:longitude":24.8601,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Tambwe",
+    "gn:country_code":"CD",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205281,
+    "gn:latitude":-6.09729,
+    "gn:longitude":24.8601,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tambwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205281
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ebae4338d44f5b5da978a59ee6c1d31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1242742247,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1242742247,
+    "wof:lastmodified":1536825774,
+    "wof:name":"Tambwe",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.8601,
+    -6.09729,
+    24.8601,
+    -6.09729
+],
+  "geometry": {"coordinates":[24.8601,-6.09729],"type":"Point"}
+}

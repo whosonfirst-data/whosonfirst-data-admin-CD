@@ -1,0 +1,67 @@
+{
+  "id": 1276938853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.84967,-5.3668,17.84967,-5.3668",
+    "geom:latitude":-5.3668,
+    "geom:longitude":17.84967,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tamba-Kaka",
+    "gn:country_code":"CD",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311260,
+    "gn:latitude":-5.3668,
+    "gn:longitude":17.84967,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tamba-Kaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311260
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e7809758ec682c082d10c9310f089b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1276938853,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276938853,
+    "wof:lastmodified":1536962259,
+    "wof:name":"Tamba-Kaka",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.84967,
+    -5.3668,
+    17.84967,
+    -5.3668
+],
+  "geometry": {"coordinates":[17.84967,-5.3668],"type":"Point"}
+}

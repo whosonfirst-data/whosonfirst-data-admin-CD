@@ -1,0 +1,73 @@
+{
+  "id": 1343831021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.79268,-9.05367,24.79268,-9.05367",
+    "geom:latitude":-9.05367,
+    "geom:longitude":24.79268,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Luaba Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211215,
+    "gn:latitude":-9.05367,
+    "gn:longitude":24.79268,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Luaba Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luabo II",
+        "Luabo",
+        "Luabo-ya-Tshini",
+        "Luaba Deuxi\u00e8me"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211215
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d9db03afb0ad298714aa46f9fd9aafe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1343831021,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343831021,
+    "wof:lastmodified":1537590386,
+    "wof:name":"Luaba Deuxieme",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.79268,
+    -9.05367,
+    24.79268,
+    -9.05367
+],
+  "geometry": {"coordinates":[24.79268,-9.05367],"type":"Point"}
+}

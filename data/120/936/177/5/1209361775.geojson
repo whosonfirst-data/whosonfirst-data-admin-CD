@@ -1,0 +1,61 @@
+{
+  "id": 1209361775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08329,-8.12811,30.08329,-8.12811",
+    "geom:latitude":-8.12811,
+    "geom:longitude":30.08329,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Nonda",
+    "gn:country_code":"CD",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10048866,
+    "gn:latitude":-8.12811,
+    "gn:longitude":30.08329,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Nonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10048866
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9450d3600f8e4d5808b7144bd48138d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209361775
+        }
+    ],
+    "wof:id":1209361775,
+    "wof:lastmodified":1536289398,
+    "wof:name":"Nonda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08329,
+    -8.128110000000001,
+    30.08329,
+    -8.128110000000001
+],
+  "geometry": {"coordinates":[30.08329,-8.12811],"type":"Point"}
+}

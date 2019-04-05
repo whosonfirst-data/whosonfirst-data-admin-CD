@@ -1,0 +1,70 @@
+{
+  "id": 1343328753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.55238,3.82351,20.55238,3.82351",
+    "geom:latitude":3.82351,
+    "geom:longitude":20.55238,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bodjakadame",
+    "gn:country_code":"CD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218698,
+    "gn:latitude":3.82351,
+    "gn:longitude":20.55238,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bodjakadame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bodjakadamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218698
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f3aa8471624ac96b4cba32e7b2a03275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1343328753,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343328753,
+    "wof:lastmodified":1537590458,
+    "wof:name":"Bodjakadame",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.55238,
+    3.82351,
+    20.55238,
+    3.82351
+],
+  "geometry": {"coordinates":[20.55238,3.82351],"type":"Point"}
+}

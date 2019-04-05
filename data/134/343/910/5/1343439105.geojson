@@ -1,0 +1,67 @@
+{
+  "id": 1343439105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33034,-0.02691,29.33034,-0.02691",
+    "geom:latitude":-0.02691,
+    "geom:longitude":29.33034,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rwese",
+    "gn:country_code":"CD",
+    "gn:dem":2200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327968,
+    "gn:latitude":-0.02691,
+    "gn:longitude":29.33034,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Rwese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327968
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f49ae530b778155063304d4bf0cf7078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1343439105,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1343439105,
+    "wof:lastmodified":1536777676,
+    "wof:name":"Rwese",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33034,
+    -0.02691,
+    29.33034,
+    -0.02691
+],
+  "geometry": {"coordinates":[29.33034,-0.02691],"type":"Point"}
+}

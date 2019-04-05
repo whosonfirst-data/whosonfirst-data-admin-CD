@@ -1,0 +1,79 @@
+{
+  "id": 421192367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"15.25,-4.33333,15.25,-4.33333",
+    "geom:latitude":-4.33333,
+    "geom:longitude":15.25,
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "L\u00e9o-II"
+    ],
+    "qs:gn_country":"CD",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2313779,
+    "qs:gn_pop":0,
+    "qs:name":"L\u00e9o-Ouest",
+    "qs:name_adm0":"R\u00e9publique D\u00e9mocratique du Congo",
+    "qs:name_adm1":"Kinshasa",
+    "qs:photos":195,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":195,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1167978,
+    "qs:woe_adm0":23424780,
+    "qs:woe_id":1291035,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        1091679225,
+        85669997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313779,
+        "gp:id":1291035,
+        "qs:id":1167978
+    },
+    "wof:country":"CD",
+    "wof:created":1459009734,
+    "wof:geomhash":"e41d66901a7d8877ce71c32bce93588b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679225,
+            "locality_id":-1,
+            "neighbourhood_id":421192367,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":421192367,
+    "wof:lastmodified":1531858682,
+    "wof:name":"L\u00e9o-Ouest",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25,
+    -4.33333,
+    15.25,
+    -4.33333
+],
+  "geometry": {"coordinates":[15.25,-4.33333],"type":"Point"}
+}

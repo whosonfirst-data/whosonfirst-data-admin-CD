@@ -1,0 +1,67 @@
+{
+  "id": 1344091065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.95788,-1.50013,20.95788,-1.50013",
+    "geom:latitude":-1.50013,
+    "geom:longitude":20.95788,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Bombe",
+    "gn:country_code":"CD",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8432905,
+    "gn:latitude":-1.50013,
+    "gn:longitude":20.95788,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8432905
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"04ff271e549199cd1f3c8e1b87fc575b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1344091065,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1344091065,
+    "wof:lastmodified":1536830503,
+    "wof:name":"Bombe",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.95788,
+    -1.50013,
+    20.95788,
+    -1.50013
+],
+  "geometry": {"coordinates":[20.95788,-1.50013],"type":"Point"}
+}

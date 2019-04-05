@@ -1,0 +1,71 @@
+{
+  "id": 1343525771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53563,-5.77286,24.53563,-5.77286",
+    "geom:latitude":-5.77286,
+    "geom:longitude":24.53563,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kabongo-Sankuru",
+    "gn:country_code":"CD",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215469,
+    "gn:latitude":-5.77286,
+    "gn:longitude":24.53563,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabongo-Sankuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabango-Sankuru",
+        "Kabongo-Sankuru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215469
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"532b193965c0cca1272ce437bde643e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1343525771,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1343525771,
+    "wof:lastmodified":1537590426,
+    "wof:name":"Kabongo-Sankuru",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53563,
+    -5.77286,
+    24.53563,
+    -5.77286
+],
+  "geometry": {"coordinates":[24.53563,-5.77286],"type":"Point"}
+}

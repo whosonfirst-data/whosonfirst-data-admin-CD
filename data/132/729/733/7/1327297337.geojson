@@ -1,0 +1,70 @@
+{
+  "id": 1327297337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81939,2.04695,30.81939,2.04695",
+    "geom:latitude":2.04695,
+    "geom:longitude":30.81939,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lonadu",
+    "gn:country_code":"CD",
+    "gn:dem":2083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211317,
+    "gn:latitude":2.04695,
+    "gn:longitude":30.81939,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lonadu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Loradu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211317
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c7fc3e1ae9f586a928d59d7a740df851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1327297337,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327297337,
+    "wof:lastmodified":1537590386,
+    "wof:name":"Lonadu",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81939,
+    2.04695,
+    30.81939,
+    2.04695
+],
+  "geometry": {"coordinates":[30.81939,2.04695],"type":"Point"}
+}

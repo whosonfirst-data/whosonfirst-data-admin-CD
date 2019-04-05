@@ -1,0 +1,61 @@
+{
+  "id": 1209060539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.54743,-4.93592,23.54743,-4.93592",
+    "geom:latitude":-4.93592,
+    "geom:longitude":23.54743,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Bombaie",
+    "gn:country_code":"CD",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8250014,
+    "gn:latitude":-4.93592,
+    "gn:longitude":23.54743,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bombaie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8250014
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8fc739b8459fd2f95aa20ca3a9b79911",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209060539
+        }
+    ],
+    "wof:id":1209060539,
+    "wof:lastmodified":1536298969,
+    "wof:name":"Bombaie",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.54743,
+    -4.9359199999999985,
+    23.54743,
+    -4.9359199999999985
+],
+  "geometry": {"coordinates":[23.54743,-4.93592],"type":"Point"}
+}

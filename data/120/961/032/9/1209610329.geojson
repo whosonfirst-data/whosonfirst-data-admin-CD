@@ -1,0 +1,61 @@
+{
+  "id": 1209610329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.86522,-4.94914,27.86522,-4.94914",
+    "geom:latitude":-4.94914,
+    "geom:longitude":27.86522,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kikalaye",
+    "gn:country_code":"CD",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8251125,
+    "gn:latitude":-4.94914,
+    "gn:longitude":27.86522,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Kikalaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8251125
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ebb6bda9a5aa05d5660dbab70fbd0676",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209610329
+        }
+    ],
+    "wof:id":1209610329,
+    "wof:lastmodified":1536281868,
+    "wof:name":"Kikalaye",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.86522,
+    -4.94914,
+    27.86522,
+    -4.94914
+],
+  "geometry": {"coordinates":[27.86522,-4.94914],"type":"Point"}
+}

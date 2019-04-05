@@ -1,0 +1,67 @@
+{
+  "id": 1292973969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.01833,-7.94527,26.01833,-7.94527",
+    "geom:latitude":-7.94527,
+    "geom:longitude":26.01833,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kafumbi",
+    "gn:country_code":"CD",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9940766,
+    "gn:latitude":-7.94527,
+    "gn:longitude":26.01833,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kafumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9940766
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"06cda09f6ce754495aaa7426e2db5400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1292973969,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1292973969,
+    "wof:lastmodified":1537029148,
+    "wof:name":"Kafumbi",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.01833,
+    -7.94527,
+    26.01833,
+    -7.94527
+],
+  "geometry": {"coordinates":[26.01833,-7.94527],"type":"Point"}
+}

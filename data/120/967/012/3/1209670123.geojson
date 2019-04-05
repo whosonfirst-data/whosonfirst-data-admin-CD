@@ -1,0 +1,61 @@
+{
+  "id": 1209670123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.44174,3.77104,20.44174,3.77104",
+    "geom:latitude":3.77104,
+    "geom:longitude":20.44174,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Boyakifite",
+    "gn:country_code":"CD",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217961,
+    "gn:latitude":3.77104,
+    "gn:longitude":20.44174,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Boyakifite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217961
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e41ad04793c05b0efb34e38ff6094d59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209670123
+        }
+    ],
+    "wof:id":1209670123,
+    "wof:lastmodified":1536279952,
+    "wof:name":"Boyakifite",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.44174,
+    3.77104,
+    20.44174,
+    3.77104
+],
+  "geometry": {"coordinates":[20.44174,3.77104],"type":"Point"}
+}

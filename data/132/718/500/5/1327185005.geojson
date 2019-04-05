@@ -1,0 +1,67 @@
+{
+  "id": 1327185005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.65,-7.41667,29.65,-7.41667",
+    "geom:latitude":-7.41667,
+    "geom:longitude":29.65,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Katomia",
+    "gn:country_code":"CD",
+    "gn:dem":1556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213742,
+    "gn:latitude":-7.41667,
+    "gn:longitude":29.65,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Katomia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213742
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"91e29698c9dee1ab0355aacbcf5d6f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1327185005,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327185005,
+    "wof:lastmodified":1537036578,
+    "wof:name":"Katomia",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.65,
+    -7.41667,
+    29.65,
+    -7.41667
+],
+  "geometry": {"coordinates":[29.65,-7.41667],"type":"Point"}
+}

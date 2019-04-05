@@ -1,0 +1,67 @@
+{
+  "id": 1260244247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75922,-6.35527,18.75922,-6.35527",
+    "geom:latitude":-6.35527,
+    "geom:longitude":18.75922,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kisonga",
+    "gn:country_code":"CD",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314148,
+    "gn:latitude":-6.35527,
+    "gn:longitude":18.75922,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kisonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314148
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1b5bc55c66db3640dfbd22fe102f16eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1260244247,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260244247,
+    "wof:lastmodified":1536765541,
+    "wof:name":"Kisonga",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75922000000001,
+    -6.35527,
+    18.75922000000001,
+    -6.35527
+],
+  "geometry": {"coordinates":[18.75922000000001,-6.35527],"type":"Point"}
+}

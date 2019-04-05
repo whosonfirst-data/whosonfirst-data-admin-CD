@@ -1,0 +1,61 @@
+{
+  "id": 1209280541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.24883,-4.69851,21.24883,-4.69851",
+    "geom:latitude":-4.69851,
+    "geom:longitude":21.24883,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ekumbi",
+    "gn:country_code":"CD",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216785,
+    "gn:latitude":-4.69851,
+    "gn:longitude":21.24883,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ekumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216785
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2cc37246fe1705e64fafebf6d017cf7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209280541
+        }
+    ],
+    "wof:id":1209280541,
+    "wof:lastmodified":1536292038,
+    "wof:name":"Ekumbi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.24883,
+    -4.69851,
+    21.24883,
+    -4.69851
+],
+  "geometry": {"coordinates":[21.24883,-4.69851],"type":"Point"}
+}

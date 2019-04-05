@@ -1,0 +1,67 @@
+{
+  "id": 1193112391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56157,-6.71229,17.56157,-6.71229",
+    "geom:latitude":-6.71229,
+    "geom:longitude":17.56157,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mayangi-Mbunzu",
+    "gn:country_code":"CD",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434720,
+    "gn:latitude":-6.71229,
+    "gn:longitude":17.56157,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mayangi-Mbunzu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434720
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"62cf5334704212e3933876c8881dbc4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1193112391,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1193112391,
+    "wof:lastmodified":1536371842,
+    "wof:name":"Mayangi-Mbunzu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56157,
+    -6.71229,
+    17.56157,
+    -6.71229
+],
+  "geometry": {"coordinates":[17.56157,-6.71229],"type":"Point"}
+}

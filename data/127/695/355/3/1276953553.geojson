@@ -1,0 +1,67 @@
+{
+  "id": 1276953553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.87407,-4.41313,16.87407,-4.41313",
+    "geom:latitude":-4.41313,
+    "geom:longitude":16.87407,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bitari",
+    "gn:country_code":"CD",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317063,
+    "gn:latitude":-4.41313,
+    "gn:longitude":16.87407,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bitari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317063
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6c2ba4c6ab7e48d280aeb880b6c89809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1276953553,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276953553,
+    "wof:lastmodified":1536943181,
+    "wof:name":"Bitari",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.87407,
+    -4.41313,
+    16.87407,
+    -4.41313
+],
+  "geometry": {"coordinates":[16.87407,-4.41313],"type":"Point"}
+}

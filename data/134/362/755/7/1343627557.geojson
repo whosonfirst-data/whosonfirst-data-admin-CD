@@ -1,0 +1,67 @@
+{
+  "id": 1343627557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.53942,-7.05649,21.53942,-7.05649",
+    "geom:latitude":-7.05649,
+    "geom:longitude":21.53942,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muzamba",
+    "gn:country_code":"CD",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440374,
+    "gn:latitude":-7.05649,
+    "gn:longitude":21.53942,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Muzamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440374
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7b43b02522ce660d6e2d1c2032b53abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1343627557,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343627557,
+    "wof:lastmodified":1537001833,
+    "wof:name":"Muzamba",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.53942,
+    -7.05649,
+    21.53942,
+    -7.05649
+],
+  "geometry": {"coordinates":[21.53942,-7.05649],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209462465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.91667,-3.71667,22.91667,-3.71667",
+    "geom:latitude":-3.71667,
+    "geom:longitude":22.91667,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Oswe",
+    "gn:country_code":"CD",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206499,
+    "gn:latitude":-3.71667,
+    "gn:longitude":22.91667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Oswe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206499
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c065bf93b6d24f04d213bd0a27189943",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209462465
+        }
+    ],
+    "wof:id":1209462465,
+    "wof:lastmodified":1536286335,
+    "wof:name":"Oswe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.91667,
+    -3.71667,
+    22.91667,
+    -3.71667
+],
+  "geometry": {"coordinates":[22.91667,-3.71667],"type":"Point"}
+}

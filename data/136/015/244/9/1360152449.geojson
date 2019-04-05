@@ -1,0 +1,67 @@
+{
+  "id": 1360152449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.27124,1.78392,20.27124,1.78392",
+    "geom:latitude":1.78392,
+    "geom:longitude":20.27124,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Busu-Melo",
+    "gn:country_code":"CD",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217581,
+    "gn:latitude":1.78392,
+    "gn:longitude":20.27124,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Busu-Melo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217581
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"da5e9be7406cf79b51fa11a52614028a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1360152449,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1360152449,
+    "wof:lastmodified":1536847525,
+    "wof:name":"Busu-Melo",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.27124,
+    1.78392,
+    20.27124,
+    1.78392
+],
+  "geometry": {"coordinates":[20.27124,1.78392],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326554069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.39391,-6.21198,23.39391,-6.21198",
+    "geom:latitude":-6.21198,
+    "geom:longitude":23.39391,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bena-Bale",
+    "gn:country_code":"CD",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946664,
+    "gn:latitude":-6.21198,
+    "gn:longitude":23.39391,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Bena-Bale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946664
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"535e1179998e2a03aee597cb758af5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1326554069,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1326554069,
+    "wof:lastmodified":1536952676,
+    "wof:name":"Bena-Bale",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.39391,
+    -6.21198,
+    23.39391,
+    -6.21198
+],
+  "geometry": {"coordinates":[23.39391,-6.21198],"type":"Point"}
+}

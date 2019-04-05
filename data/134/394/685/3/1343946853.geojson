@@ -1,0 +1,67 @@
+{
+  "id": 1343946853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.10226,-1.0056,27.10226,-1.0056",
+    "geom:latitude":-1.0056,
+    "geom:longitude":27.10226,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Utikamwanga",
+    "gn:country_code":"CD",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204425,
+    "gn:latitude":-1.0056,
+    "gn:longitude":27.10226,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Utikamwanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204425
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"04f968528b7f0c12342df5067f8375e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1343946853,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1343946853,
+    "wof:lastmodified":1537038026,
+    "wof:name":"Utikamwanga",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.10226,
+    -1.0056,
+    27.10226,
+    -1.0056
+],
+  "geometry": {"coordinates":[27.10226,-1.0056],"type":"Point"}
+}

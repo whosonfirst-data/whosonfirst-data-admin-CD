@@ -1,0 +1,67 @@
+{
+  "id": 1225799989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.60916,3.68758,20.60916,3.68758",
+    "geom:latitude":3.68758,
+    "geom:longitude":20.60916,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Boyawese-Bokarawa",
+    "gn:country_code":"CD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217906,
+    "gn:latitude":3.68758,
+    "gn:longitude":20.60916,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Boyawese-Bokarawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217906
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"17bb2bc096a1403b56d1bbe6d6b20f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1225799989,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1225799989,
+    "wof:lastmodified":1537076708,
+    "wof:name":"Boyawese-Bokarawa",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.60916,
+    3.68758,
+    20.60916,
+    3.68758
+],
+  "geometry": {"coordinates":[20.60916,3.68758],"type":"Point"}
+}

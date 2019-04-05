@@ -1,0 +1,67 @@
+{
+  "id": 1193247091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.14403,-4.98658,22.14403,-4.98658",
+    "geom:latitude":-4.98658,
+    "geom:longitude":22.14403,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kantanga",
+    "gn:country_code":"CD",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8249943,
+    "gn:latitude":-4.98658,
+    "gn:longitude":22.14403,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kantanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8249943
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"42c8df7eda3ede0292d9f2ce7ed34001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1193247091,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1193247091,
+    "wof:lastmodified":1536372174,
+    "wof:name":"Kantanga",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.14403,
+    -4.98658,
+    22.14403,
+    -4.98658
+],
+  "geometry": {"coordinates":[22.14403,-4.98658],"type":"Point"}
+}

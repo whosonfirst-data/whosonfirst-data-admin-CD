@@ -1,0 +1,67 @@
+{
+  "id": 1310269171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.9806,-6.72389,23.9806,-6.72389",
+    "geom:latitude":-6.72389,
+    "geom:longitude":23.9806,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kabutshi",
+    "gn:country_code":"CD",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946876,
+    "gn:latitude":-6.72389,
+    "gn:longitude":23.9806,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabutshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946876
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cf55774f2622d456c8e5c016350ecb46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1310269171,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1310269171,
+    "wof:lastmodified":1536760638,
+    "wof:name":"Kabutshi",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.9806,
+    -6.72389,
+    23.9806,
+    -6.72389
+],
+  "geometry": {"coordinates":[23.9806,-6.72389],"type":"Point"}
+}

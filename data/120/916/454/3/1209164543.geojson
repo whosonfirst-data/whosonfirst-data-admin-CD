@@ -1,0 +1,61 @@
+{
+  "id": 1209164543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.56667,-1.6,25.56667,-1.6",
+    "geom:latitude":-1.6,
+    "geom:longitude":25.56667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Mulimatshungu",
+    "gn:country_code":"CD",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208216,
+    "gn:latitude":-1.6,
+    "gn:longitude":25.56667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mulimatshungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208216
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"712bd245621c610285abef89cdf6fb43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209164543
+        }
+    ],
+    "wof:id":1209164543,
+    "wof:lastmodified":1536295791,
+    "wof:name":"Mulimatshungu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.56667,
+    -1.6,
+    25.56667,
+    -1.6
+],
+  "geometry": {"coordinates":[25.56667,-1.6],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209986699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.39677,-8.09202,26.39677,-8.09202",
+    "geom:latitude":-8.09202,
+    "geom:longitude":26.39677,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mutombo Kasa",
+    "gn:country_code":"CD",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207814,
+    "gn:latitude":-8.09202,
+    "gn:longitude":26.39677,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mutombo Kasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mutombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207814
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"82229de28af8aeeb43072e8094009273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1209986699,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1209986699,
+    "wof:lastmodified":1537590352,
+    "wof:name":"Mutombo Kasa",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39677,
+    -8.09202,
+    26.39677,
+    -8.09202
+],
+  "geometry": {"coordinates":[26.39677,-8.09202],"type":"Point"}
+}

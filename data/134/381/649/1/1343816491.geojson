@@ -1,0 +1,67 @@
+{
+  "id": 1343816491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51618,-10.43563,22.51618,-10.43563",
+    "geom:latitude":-10.43563,
+    "geom:longitude":22.51618,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mununga",
+    "gn:country_code":"CD",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922440,
+    "gn:latitude":-10.43563,
+    "gn:longitude":22.51618,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mununga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922440
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4365a4915823f2fba11aef06dcae562a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1343816491,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343816491,
+    "wof:lastmodified":1536730564,
+    "wof:name":"Mununga",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51618,
+    -10.43563,
+    22.51618,
+    -10.43563
+],
+  "geometry": {"coordinates":[22.51618,-10.43563],"type":"Point"}
+}

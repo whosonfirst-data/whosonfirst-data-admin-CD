@@ -1,0 +1,67 @@
+{
+  "id": 1292965187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9,-4.88333,24.9,-4.88333",
+    "geom:latitude":-4.88333,
+    "geom:longitude":24.9,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Dja",
+    "gn:country_code":"CD",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217210,
+    "gn:latitude":-4.88333,
+    "gn:longitude":24.9,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217210
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0abaca45d1d21fd79073086ba70ebdae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1292965187,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1292965187,
+    "wof:lastmodified":1537041354,
+    "wof:name":"Dja",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9,
+    -4.88333,
+    24.9,
+    -4.88333
+],
+  "geometry": {"coordinates":[24.9,-4.88333],"type":"Point"}
+}

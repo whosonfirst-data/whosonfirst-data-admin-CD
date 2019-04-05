@@ -1,0 +1,61 @@
+{
+  "id": 1209085117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4331,-4.38202,27.4331,-4.38202",
+    "geom:latitude":-4.38202,
+    "geom:longitude":27.4331,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tengetenge",
+    "gn:country_code":"CD",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205204,
+    "gn:latitude":-4.38202,
+    "gn:longitude":27.4331,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Tengetenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205204
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"686dd04bfbb067cd115ea6f4ef92a3fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209085117
+        }
+    ],
+    "wof:id":1209085117,
+    "wof:lastmodified":1536298212,
+    "wof:name":"Tengetenge",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4331,
+    -4.38202,
+    27.4331,
+    -4.38202
+],
+  "geometry": {"coordinates":[27.4331,-4.38202],"type":"Point"}
+}

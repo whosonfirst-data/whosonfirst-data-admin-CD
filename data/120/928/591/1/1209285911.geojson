@@ -1,0 +1,61 @@
+{
+  "id": 1209285911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.33725,1.52969,28.33725,1.52969",
+    "geom:latitude":1.52969,
+    "geom:longitude":28.33725,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tatutate",
+    "gn:country_code":"CD",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7031755,
+    "gn:latitude":1.52969,
+    "gn:longitude":28.33725,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tatutate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031755
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"70c18447f9f9702e295e70131fd5c247",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209285911
+        }
+    ],
+    "wof:id":1209285911,
+    "wof:lastmodified":1536291861,
+    "wof:name":"Tatutate",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.33725,
+    1.52969,
+    28.33725,
+    1.52969
+],
+  "geometry": {"coordinates":[28.33725,1.52969],"type":"Point"}
+}

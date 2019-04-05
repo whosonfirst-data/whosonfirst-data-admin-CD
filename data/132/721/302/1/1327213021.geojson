@@ -1,0 +1,67 @@
+{
+  "id": 1327213021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.09254,4.1645,23.09254,4.1645",
+    "geom:latitude":4.1645,
+    "geom:longitude":23.09254,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Duaru",
+    "gn:country_code":"CD",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8239256,
+    "gn:latitude":4.1645,
+    "gn:longitude":23.09254,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Duaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8239256
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cb0526205f3f155584448ed5b828ef89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1327213021,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1327213021,
+    "wof:lastmodified":1536996894,
+    "wof:name":"Duaru",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.09254,
+    4.1645,
+    23.09254,
+    4.1645
+],
+  "geometry": {"coordinates":[23.09254,4.1645],"type":"Point"}
+}

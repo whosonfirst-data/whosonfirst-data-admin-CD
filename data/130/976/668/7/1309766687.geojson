@@ -1,0 +1,67 @@
+{
+  "id": 1309766687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.95159,-0.54909,24.95159,-0.54909",
+    "geom:latitude":-0.54909,
+    "geom:longitude":24.95159,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Babote",
+    "gn:country_code":"CD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220088,
+    "gn:latitude":-0.54909,
+    "gn:longitude":24.95159,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Babote",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220088
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8dd2a56db22ab2c970e23d2e77b4a8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1309766687,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1309766687,
+    "wof:lastmodified":1536986823,
+    "wof:name":"Babote",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.95159,
+    -0.54909,
+    24.95159,
+    -0.54909
+],
+  "geometry": {"coordinates":[24.95159,-0.54909],"type":"Point"}
+}

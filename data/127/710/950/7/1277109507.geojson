@@ -1,0 +1,67 @@
+{
+  "id": 1277109507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07187,-6.31584,23.07187,-6.31584",
+    "geom:latitude":-6.31584,
+    "geom:longitude":23.07187,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kabea-Milemba",
+    "gn:country_code":"CD",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215585,
+    "gn:latitude":-6.31584,
+    "gn:longitude":23.07187,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kabea-Milemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215585
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0ef338850412a97eaa68f848112df8c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1277109507,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1277109507,
+    "wof:lastmodified":1536729478,
+    "wof:name":"Kabea-Milemba",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07187,
+    -6.31584,
+    23.07187,
+    -6.31584
+],
+  "geometry": {"coordinates":[23.07187,-6.31584],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209448253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4628,-0.86946,20.4628,-0.86946",
+    "geom:latitude":-0.86946,
+    "geom:longitude":20.4628,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Loango",
+    "gn:country_code":"CD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211674,
+    "gn:latitude":-0.86946,
+    "gn:longitude":20.4628,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Loango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211674
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c95e8c007f8bdae232bb3d440583841a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209448253
+        }
+    ],
+    "wof:id":1209448253,
+    "wof:lastmodified":1536286750,
+    "wof:name":"Loango",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4628,
+    -0.86946,
+    20.4628,
+    -0.86946
+],
+  "geometry": {"coordinates":[20.4628,-0.86946],"type":"Point"}
+}

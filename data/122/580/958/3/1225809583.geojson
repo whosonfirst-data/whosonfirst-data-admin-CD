@@ -1,0 +1,67 @@
+{
+  "id": 1225809583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.6,-6.99895,23.6,-6.99895",
+    "geom:latitude":-6.99895,
+    "geom:longitude":23.6,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bakwa Punge",
+    "gn:country_code":"CD",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946912,
+    "gn:latitude":-6.99895,
+    "gn:longitude":23.6,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bakwa Punge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946912
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"55d565eab241dda68560789bd0fd0589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1225809583,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1225809583,
+    "wof:lastmodified":1537063181,
+    "wof:name":"Bakwa Punge",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.6,
+    -6.99895,
+    23.6,
+    -6.99895
+],
+  "geometry": {"coordinates":[23.6,-6.99895],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225796063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00176,3.87961,19.00176,3.87961",
+    "geom:latitude":3.87961,
+    "geom:longitude":19.00176,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Boyakana",
+    "gn:country_code":"CD",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235278,
+    "gn:latitude":3.87961,
+    "gn:longitude":19.00176,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Boyakana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235278
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"21f4f808b13005b4caa501d3482b4002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1225796063,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1225796063,
+    "wof:lastmodified":1537082314,
+    "wof:name":"Boyakana",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00176,
+    3.87961,
+    19.00176,
+    3.87961
+],
+  "geometry": {"coordinates":[19.00176,3.87961],"type":"Point"}
+}

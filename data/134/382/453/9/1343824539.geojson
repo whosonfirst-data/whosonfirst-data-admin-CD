@@ -1,0 +1,67 @@
+{
+  "id": 1343824539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.7599,-3.50792,22.7599,-3.50792",
+    "geom:latitude":-3.50792,
+    "geom:longitude":22.7599,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Ishenga Owala",
+    "gn:country_code":"CD",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215778,
+    "gn:latitude":-3.50792,
+    "gn:longitude":22.7599,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ishenga Owala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215778
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e6020f849c9c3c94a7de68d23bbc984f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1343824539,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1343824539,
+    "wof:lastmodified":1536718932,
+    "wof:name":"Ishenga Owala",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.7599,
+    -3.50792,
+    22.7599,
+    -3.50792
+],
+  "geometry": {"coordinates":[22.7599,-3.50792],"type":"Point"}
+}

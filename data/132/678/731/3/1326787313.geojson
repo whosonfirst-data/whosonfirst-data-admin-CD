@@ -1,0 +1,67 @@
+{
+  "id": 1326787313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.32481,3.15903,22.32481,3.15903",
+    "geom:latitude":3.15903,
+    "geom:longitude":22.32481,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bogbo",
+    "gn:country_code":"CD",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218636,
+    "gn:latitude":3.15903,
+    "gn:longitude":22.32481,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bogbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218636
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7730403e5dfa121220f9d023d0b22cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1326787313,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1326787313,
+    "wof:lastmodified":1536614107,
+    "wof:name":"Bogbo",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.32481,
+    3.15903,
+    22.32481,
+    3.15903
+],
+  "geometry": {"coordinates":[22.32481,3.15903],"type":"Point"}
+}

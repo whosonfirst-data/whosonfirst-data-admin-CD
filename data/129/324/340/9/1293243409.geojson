@@ -1,0 +1,67 @@
+{
+  "id": 1293243409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.38695,3.39376,19.38695,3.39376",
+    "geom:latitude":3.39376,
+    "geom:longitude":19.38695,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bobiengele",
+    "gn:country_code":"CD",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317014,
+    "gn:latitude":3.39376,
+    "gn:longitude":19.38695,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bobiengele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317014
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8368a34edd4cc4409763c93c70533615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1293243409,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293243409,
+    "wof:lastmodified":1536641107,
+    "wof:name":"Bobiengele",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.38695,
+    3.39376,
+    19.38695,
+    3.39376
+],
+  "geometry": {"coordinates":[19.38695,3.39376],"type":"Point"}
+}

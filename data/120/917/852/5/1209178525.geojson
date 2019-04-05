@@ -1,0 +1,61 @@
+{
+  "id": 1209178525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.62234,-6.24781,24.62234,-6.24781",
+    "geom:latitude":-6.24781,
+    "geom:longitude":24.62234,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kajiba",
+    "gn:country_code":"CD",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9997676,
+    "gn:latitude":-6.24781,
+    "gn:longitude":24.62234,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kajiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9997676
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"184f783c89360558eaa787d4d9f32377",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209178525
+        }
+    ],
+    "wof:id":1209178525,
+    "wof:lastmodified":1536295338,
+    "wof:name":"Kajiba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.62234,
+    -6.2478099999999985,
+    24.62234,
+    -6.2478099999999985
+],
+  "geometry": {"coordinates":[24.62234,-6.24781],"type":"Point"}
+}

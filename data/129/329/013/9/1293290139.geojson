@@ -1,0 +1,67 @@
+{
+  "id": 1293290139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33018,-5.30315,14.33018,-5.30315",
+    "geom:latitude":-5.30315,
+    "geom:longitude":14.33018,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bamba",
+    "gn:country_code":"CD",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317440,
+    "gn:latitude":-5.30315,
+    "gn:longitude":14.33018,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Bamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317440
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ad49f621c22d8c7fc7f42043f292a558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1293290139,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1293290139,
+    "wof:lastmodified":1537068558,
+    "wof:name":"Bamba",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33018,
+    -5.30315,
+    14.33018,
+    -5.30315
+],
+  "geometry": {"coordinates":[14.33018,-5.30315],"type":"Point"}
+}

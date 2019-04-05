@@ -1,0 +1,61 @@
+{
+  "id": 1209393793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.75841,-4.3846,26.75841,-4.3846",
+    "geom:latitude":-4.3846,
+    "geom:longitude":26.75841,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lupaya",
+    "gn:country_code":"CD",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210421,
+    "gn:latitude":-4.3846,
+    "gn:longitude":26.75841,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Lupaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210421
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"68bfad694370ee9b97a5d14dc64faca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209393793
+        }
+    ],
+    "wof:id":1209393793,
+    "wof:lastmodified":1536288371,
+    "wof:name":"Lupaya",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.75841,
+    -4.3846,
+    26.75841,
+    -4.3846
+],
+  "geometry": {"coordinates":[26.75841,-4.3846],"type":"Point"}
+}

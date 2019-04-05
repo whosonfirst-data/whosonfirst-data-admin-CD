@@ -1,0 +1,67 @@
+{
+  "id": 1292963829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.52239,-6.31174,20.52239,-6.31174",
+    "geom:latitude":-6.31174,
+    "geom:longitude":20.52239,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Nzomba",
+    "gn:country_code":"CD",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206822,
+    "gn:latitude":-6.31174,
+    "gn:longitude":20.52239,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nzomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206822
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8c7acae974e051d814ca17e98e39daad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1292963829,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1292963829,
+    "wof:lastmodified":1537043255,
+    "wof:name":"Nzomba",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.52239,
+    -6.31174,
+    20.52239,
+    -6.31174
+],
+  "geometry": {"coordinates":[20.52239,-6.31174],"type":"Point"}
+}

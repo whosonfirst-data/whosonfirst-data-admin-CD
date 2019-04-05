@@ -1,0 +1,66 @@
+{
+  "id": 1209278777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.43613,-6.10685,24.43613,-6.10685",
+    "geom:latitude":-6.10685,
+    "geom:longitude":24.43613,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Muyumba",
+    "gn:country_code":"CD",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207743,
+    "gn:latitude":-6.10685,
+    "gn:longitude":24.43613,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Muyumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mugumba",
+        "Mayumba",
+        "Muyumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207743
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cddaf7af2472d849ffc93c56b621504f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209278777
+        }
+    ],
+    "wof:id":1209278777,
+    "wof:lastmodified":1537590351,
+    "wof:name":"Muyumba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.43613,
+    -6.10685,
+    24.43613,
+    -6.10685
+],
+  "geometry": {"coordinates":[24.43613,-6.10685],"type":"Point"}
+}

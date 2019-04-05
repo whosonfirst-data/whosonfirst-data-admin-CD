@@ -1,0 +1,61 @@
+{
+  "id": 1209471285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34302,-10.70641,22.34302,-10.70641",
+    "geom:latitude":-10.70641,
+    "geom:longitude":22.34302,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mususu",
+    "gn:country_code":"CD",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463654,
+    "gn:latitude":-10.70641,
+    "gn:longitude":22.34302,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mususu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463654
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4916128bb43217a9d8b115546a859b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209471285
+        }
+    ],
+    "wof:id":1209471285,
+    "wof:lastmodified":1536286073,
+    "wof:name":"Mususu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.343020000000006,
+    -10.70641,
+    22.343020000000006,
+    -10.70641
+],
+  "geometry": {"coordinates":[22.34302000000001,-10.70641],"type":"Point"}
+}

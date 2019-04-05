@@ -1,0 +1,61 @@
+{
+  "id": 1209072343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.25605,-6.58091,20.25605,-6.58091",
+    "geom:latitude":-6.58091,
+    "geom:longitude":20.25605,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muloji",
+    "gn:country_code":"CD",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283304,
+    "gn:latitude":-6.58091,
+    "gn:longitude":20.25605,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Muloji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283304
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e4d1dad0d3aa1452a0e96f1ae0ea39bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209072343
+        }
+    ],
+    "wof:id":1209072343,
+    "wof:lastmodified":1536298606,
+    "wof:name":"Muloji",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.25605,
+    -6.58091,
+    20.25605,
+    -6.58091
+],
+  "geometry": {"coordinates":[20.25605,-6.58091],"type":"Point"}
+}

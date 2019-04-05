@@ -1,0 +1,70 @@
+{
+  "id": 1226824313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.54973,-4.84827,16.54973,-4.84827",
+    "geom:latitude":-4.84827,
+    "geom:longitude":16.54973,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tanguli",
+    "gn:country_code":"CD",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311238,
+    "gn:latitude":-4.84827,
+    "gn:longitude":16.54973,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tanguli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanduli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311238
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3f8773256405c43102c82830dcd94da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226824313,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226824313,
+    "wof:lastmodified":1537590499,
+    "wof:name":"Tanguli",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.54973,
+    -4.84827,
+    16.54973,
+    -4.84827
+],
+  "geometry": {"coordinates":[16.54973,-4.84827],"type":"Point"}
+}

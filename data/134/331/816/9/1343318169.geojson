@@ -1,0 +1,67 @@
+{
+  "id": 1343318169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.75103,-7.00609,21.75103,-7.00609",
+    "geom:latitude":-7.00609,
+    "geom:longitude":21.75103,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Maila",
+    "gn:country_code":"CD",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210038,
+    "gn:latitude":-7.00609,
+    "gn:longitude":21.75103,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Maila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210038
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8d3f23931434f7cd8648667636fbee65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1343318169,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343318169,
+    "wof:lastmodified":1536951932,
+    "wof:name":"Maila",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.75103,
+    -7.00609,
+    21.75103,
+    -7.00609
+],
+  "geometry": {"coordinates":[21.75103,-7.00609],"type":"Point"}
+}

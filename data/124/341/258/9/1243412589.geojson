@@ -1,0 +1,67 @@
+{
+  "id": 1243412589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.60265,-10.42249,23.60265,-10.42249",
+    "geom:latitude":-10.42249,
+    "geom:longitude":23.60265,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Samafuka",
+    "gn:country_code":"CD",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466707,
+    "gn:latitude":-10.42249,
+    "gn:longitude":23.60265,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Samafuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466707
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c2ad266e7f7c420d0098395d3662e23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1243412589,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243412589,
+    "wof:lastmodified":1536853292,
+    "wof:name":"Samafuka",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.60265,
+    -10.42249,
+    23.60265,
+    -10.42249
+],
+  "geometry": {"coordinates":[23.60265,-10.42249],"type":"Point"}
+}

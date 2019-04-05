@@ -1,0 +1,67 @@
+{
+  "id": 1277024009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.50792,0.738,25.50792,0.738",
+    "geom:latitude":0.738,
+    "geom:longitude":25.50792,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bobeba",
+    "gn:country_code":"CD",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280719,
+    "gn:latitude":0.738,
+    "gn:longitude":25.50792,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bobeba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280719
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"68f21538bd05407a49ed8d0f37f0e98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1277024009,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1277024009,
+    "wof:lastmodified":1536846805,
+    "wof:name":"Bobeba",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.50792,
+    0.738,
+    25.50792,
+    0.738
+],
+  "geometry": {"coordinates":[25.50792,0.738],"type":"Point"}
+}

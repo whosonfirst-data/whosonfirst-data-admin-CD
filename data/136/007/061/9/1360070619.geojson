@@ -1,0 +1,67 @@
+{
+  "id": 1360070619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.79247,-4.87525,14.79247,-4.87525",
+    "geom:latitude":-4.87525,
+    "geom:longitude":14.79247,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kimpika",
+    "gn:country_code":"CD",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314518,
+    "gn:latitude":-4.87525,
+    "gn:longitude":14.79247,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kimpika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314518
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"02156850c41b12e00e7cf00592ca0ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1360070619,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1360070619,
+    "wof:lastmodified":1536966347,
+    "wof:name":"Kimpika",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.79247,
+    -4.87525,
+    14.79247,
+    -4.87525
+],
+  "geometry": {"coordinates":[14.79247,-4.87525],"type":"Point"}
+}

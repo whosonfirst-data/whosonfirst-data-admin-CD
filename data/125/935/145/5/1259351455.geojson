@@ -1,0 +1,67 @@
+{
+  "id": 1259351455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27159,-5.59966,22.27159,-5.59966",
+    "geom:latitude":-5.59966,
+    "geom:longitude":22.27159,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bulungu",
+    "gn:country_code":"CD",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217753,
+    "gn:latitude":-5.59966,
+    "gn:longitude":22.27159,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bulungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217753
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e6dea1dd699c44e5224eda234be8dee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1259351455,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1259351455,
+    "wof:lastmodified":1537046536,
+    "wof:name":"Bulungu",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27159,
+    -5.59966,
+    22.27159,
+    -5.59966
+],
+  "geometry": {"coordinates":[22.27159,-5.59966],"type":"Point"}
+}

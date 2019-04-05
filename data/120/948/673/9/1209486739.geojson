@@ -1,0 +1,61 @@
+{
+  "id": 1209486739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.44151,2.81138,27.44151,2.81138",
+    "geom:latitude":2.81138,
+    "geom:longitude":27.44151,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nakakpwa",
+    "gn:country_code":"CD",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207469,
+    "gn:latitude":2.81138,
+    "gn:longitude":27.44151,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nakakpwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207469
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"582d0265129564c84de72adc8b6b3d76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209486739
+        }
+    ],
+    "wof:id":1209486739,
+    "wof:lastmodified":1536285613,
+    "wof:name":"Nakakpwa",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.44151,
+    2.81138,
+    27.44151,
+    2.81138
+],
+  "geometry": {"coordinates":[27.44151,2.81138],"type":"Point"}
+}

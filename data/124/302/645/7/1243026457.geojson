@@ -1,0 +1,70 @@
+{
+  "id": 1243026457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.34436,-5.89484,22.34436,-5.89484",
+    "geom:latitude":-5.89484,
+    "geom:longitude":22.34436,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshingula-Kabue",
+    "gn:country_code":"CD",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8328856,
+    "gn:latitude":-5.89484,
+    "gn:longitude":22.34436,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshingula-Kabue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshingula-Kabwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8328856
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8578eac81486cb821024ff7b39c66ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680487,
+            "locality_id":1243026457,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243026457,
+    "wof:lastmodified":1537590573,
+    "wof:name":"Tshingula-Kabue",
+    "wof:parent_id":1091680487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.34436,
+    -5.89484,
+    22.34436,
+    -5.89484
+],
+  "geometry": {"coordinates":[22.34436,-5.89484],"type":"Point"}
+}

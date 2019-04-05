@@ -1,0 +1,61 @@
+{
+  "id": 1209373761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.58196,-7.11208,23.58196,-7.11208",
+    "geom:latitude":-7.11208,
+    "geom:longitude":23.58196,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bakwa Tinibwe",
+    "gn:country_code":"CD",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8520477,
+    "gn:latitude":-7.11208,
+    "gn:longitude":23.58196,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bakwa Tinibwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8520477
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"61a26b244505b1a60d955640073cdad5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209373761
+        }
+    ],
+    "wof:id":1209373761,
+    "wof:lastmodified":1536289020,
+    "wof:name":"Bakwa Tinibwe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.58196,
+    -7.1120800000000015,
+    23.58196,
+    -7.1120800000000015
+],
+  "geometry": {"coordinates":[23.58196,-7.11208],"type":"Point"}
+}

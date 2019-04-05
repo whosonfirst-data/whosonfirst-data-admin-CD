@@ -1,0 +1,71 @@
+{
+  "id": 1193118253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33333,0.23333,29.33333,0.23333",
+    "geom:latitude":0.23333,
+    "geom:longitude":29.33333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Moheta",
+    "gn:country_code":"CD",
+    "gn:dem":1933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208944,
+    "gn:latitude":0.23333,
+    "gn:longitude":29.33333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Moheta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moeto",
+        "Moheta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208944
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"47c4d79523bd37e285e083a70a698841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1193118253,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1193118253,
+    "wof:lastmodified":1537590366,
+    "wof:name":"Moheta",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33333,
+    0.23333,
+    29.33333,
+    0.23333
+],
+  "geometry": {"coordinates":[29.33333,0.23333],"type":"Point"}
+}

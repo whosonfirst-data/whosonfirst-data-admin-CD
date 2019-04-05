@@ -1,0 +1,67 @@
+{
+  "id": 1343744303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.14268,2.79047,30.14268,2.79047",
+    "geom:latitude":2.79047,
+    "geom:longitude":30.14268,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sondani",
+    "gn:country_code":"CD",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205461,
+    "gn:latitude":2.79047,
+    "gn:longitude":30.14268,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sondani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205461
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dfe1848d10327081000884f81ab97cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1343744303,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343744303,
+    "wof:lastmodified":1536833195,
+    "wof:name":"Sondani",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.14268,
+    2.79047,
+    30.14268,
+    2.79047
+],
+  "geometry": {"coordinates":[30.14268,2.79047],"type":"Point"}
+}

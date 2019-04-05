@@ -1,0 +1,67 @@
+{
+  "id": 1310076905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.97383,2.50926,25.97383,2.50926",
+    "geom:latitude":2.50926,
+    "geom:longitude":25.97383,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Limo",
+    "gn:country_code":"CD",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145214,
+    "gn:latitude":2.50926,
+    "gn:longitude":25.97383,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Limo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145214
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7e98e0fa28b423cc55d0c1f3ad26a022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1310076905,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1310076905,
+    "wof:lastmodified":1537036287,
+    "wof:name":"Limo",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.97383,
+    2.50926,
+    25.97383,
+    2.50926
+],
+  "geometry": {"coordinates":[25.97383,2.50926],"type":"Point"}
+}

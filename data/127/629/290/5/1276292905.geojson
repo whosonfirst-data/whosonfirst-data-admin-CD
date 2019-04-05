@@ -1,0 +1,67 @@
+{
+  "id": 1276292905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.68949,3.89187,18.68949,3.89187",
+    "geom:latitude":3.89187,
+    "geom:longitude":18.68949,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Duma",
+    "gn:country_code":"CD",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315984,
+    "gn:latitude":3.89187,
+    "gn:longitude":18.68949,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Duma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315984
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9cfa752277f19745fd01b54a9e94bdb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1276292905,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276292905,
+    "wof:lastmodified":1536831896,
+    "wof:name":"Duma",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.68949,
+    3.89187,
+    18.68949,
+    3.89187
+],
+  "geometry": {"coordinates":[18.68949,3.89187],"type":"Point"}
+}

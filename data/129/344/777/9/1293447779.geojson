@@ -1,0 +1,70 @@
+{
+  "id": 1293447779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.53525,-1.97727,16.53525,-1.97727",
+    "geom:latitude":-1.97727,
+    "geom:longitude":16.53525,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bombolimboka",
+    "gn:country_code":"CD",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316653,
+    "gn:latitude":-1.97727,
+    "gn:longitude":16.53525,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bombolimboka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bombolimboka Premi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316653
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2c3278ab7ce010d8af36b0aa3dc5e09a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1293447779,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293447779,
+    "wof:lastmodified":1537590555,
+    "wof:name":"Bombolimboka",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.53525,
+    -1.97727,
+    16.53525,
+    -1.97727
+],
+  "geometry": {"coordinates":[16.53525,-1.97727],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310362359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.34626,4.63025,20.34626,4.63025",
+    "geom:latitude":4.63025,
+    "geom:longitude":20.34626,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Dula Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216999,
+    "gn:latitude":4.63025,
+    "gn:longitude":20.34626,
+    "gn:modification_date":"2018-07-25",
+    "gn:name":"Dula Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dula Deuxi\u00e8me",
+        "Dula II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216999
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8339b8331ad63a0ec950b9abcb12e92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1310362359,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310362359,
+    "wof:lastmodified":1537590442,
+    "wof:name":"Dula Deuxieme",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.34626,
+    4.63025,
+    20.34626,
+    4.63025
+],
+  "geometry": {"coordinates":[20.34626,4.63025],"type":"Point"}
+}

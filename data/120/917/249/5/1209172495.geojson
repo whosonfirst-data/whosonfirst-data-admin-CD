@@ -1,0 +1,64 @@
+{
+  "id": 1209172495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.07142,-7.9933,23.07142,-7.9933",
+    "geom:latitude":-7.9933,
+    "geom:longitude":23.07142,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Samoj",
+    "gn:country_code":"CD",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8520376,
+    "gn:latitude":-7.9933,
+    "gn:longitude":23.07142,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Samoj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samoji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8520376
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bd7bb7bb9e9768378c9ee1b15075ffd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209172495
+        }
+    ],
+    "wof:id":1209172495,
+    "wof:lastmodified":1537590576,
+    "wof:name":"Samoj",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.07142,
+    -7.9933,
+    23.07142,
+    -7.9933
+],
+  "geometry": {"coordinates":[23.07142,-7.9933],"type":"Point"}
+}

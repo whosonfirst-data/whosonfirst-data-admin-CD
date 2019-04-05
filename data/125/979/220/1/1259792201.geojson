@@ -1,0 +1,67 @@
+{
+  "id": 1259792201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.23333,0.96667,20.23333,0.96667",
+    "geom:latitude":0.96667,
+    "geom:longitude":20.23333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Loolo",
+    "gn:country_code":"CD",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211330,
+    "gn:latitude":0.96667,
+    "gn:longitude":20.23333,
+    "gn:modification_date":"2011-12-07",
+    "gn:name":"Loolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211330
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ca3cc775f1580777540c0c721d38dcb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1259792201,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1259792201,
+    "wof:lastmodified":1536910871,
+    "wof:name":"Loolo",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.23333,
+    0.96667,
+    20.23333,
+    0.96667
+],
+  "geometry": {"coordinates":[20.23333,0.96667],"type":"Point"}
+}

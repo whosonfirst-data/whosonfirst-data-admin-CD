@@ -1,0 +1,61 @@
+{
+  "id": 1209028549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.71167,-4.84444,15.71167,-4.84444",
+    "geom:latitude":-4.84444,
+    "geom:longitude":15.71167,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kinzolo",
+    "gn:country_code":"CD",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593449,
+    "gn:latitude":-4.84444,
+    "gn:longitude":15.71167,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kinzolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593449
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e2a09dba457e8ae83ece0912b30440f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209028549
+        }
+    ],
+    "wof:id":1209028549,
+    "wof:lastmodified":1536299918,
+    "wof:name":"Kinzolo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.711670000000002,
+    -4.8444400000000005,
+    15.711670000000002,
+    -4.8444400000000005
+],
+  "geometry": {"coordinates":[15.71167,-4.84444],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276174189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.39929,1.89449,25.39929,1.89449",
+    "geom:latitude":1.89449,
+    "geom:longitude":25.39929,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bangwaze",
+    "gn:country_code":"CD",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219529,
+    "gn:latitude":1.89449,
+    "gn:longitude":25.39929,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bangwaze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219529
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cec50c899b5770ebd5599af22fcfb973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1276174189,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276174189,
+    "wof:lastmodified":1536991415,
+    "wof:name":"Bangwaze",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.39929,
+    1.89449,
+    25.39929,
+    1.89449
+],
+  "geometry": {"coordinates":[25.39929,1.89449],"type":"Point"}
+}

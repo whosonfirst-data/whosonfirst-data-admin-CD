@@ -1,0 +1,67 @@
+{
+  "id": 1276324495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.07092,-5.84613,13.07092,-5.84613",
+    "geom:latitude":-5.84613,
+    "geom:longitude":13.07092,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tshikuku",
+    "gn:country_code":"CD",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252713,
+    "gn:latitude":-5.84613,
+    "gn:longitude":13.07092,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Tshikuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252713
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ba992cee7112fa90c9430f2186b7cea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679279,
+            "locality_id":1276324495,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1276324495,
+    "wof:lastmodified":1536790941,
+    "wof:name":"Tshikuku",
+    "wof:parent_id":1091679279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.07092,
+    -5.84613,
+    13.07092,
+    -5.84613
+],
+  "geometry": {"coordinates":[13.07092,-5.84613],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1192986743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.9,-2.6,19.9,-2.6",
+    "geom:latitude":-2.6,
+    "geom:longitude":19.9,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ilombe",
+    "gn:country_code":"CD",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315474,
+    "gn:latitude":-2.6,
+    "gn:longitude":19.9,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ilombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315474
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"01c90854e58b08e714c65744f43caebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1192986743,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1192986743,
+    "wof:lastmodified":1536363781,
+    "wof:name":"Ilombe",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.9,
+    -2.6,
+    19.9,
+    -2.6
+],
+  "geometry": {"coordinates":[19.9,-2.6],"type":"Point"}
+}

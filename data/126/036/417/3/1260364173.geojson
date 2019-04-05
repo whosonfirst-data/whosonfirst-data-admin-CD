@@ -1,0 +1,67 @@
+{
+  "id": 1260364173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.05663,-5.71397,19.05663,-5.71397",
+    "geom:latitude":-5.71397,
+    "geom:longitude":19.05663,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kihambo-Kikwit",
+    "gn:country_code":"CD",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276472,
+    "gn:latitude":-5.71397,
+    "gn:longitude":19.05663,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kihambo-Kikwit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276472
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2ec12823af361467986b5ce9cd47b1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1260364173,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260364173,
+    "wof:lastmodified":1536600553,
+    "wof:name":"Kihambo-Kikwit",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.05663,
+    -5.71397,
+    19.05663,
+    -5.71397
+],
+  "geometry": {"coordinates":[19.05663,-5.71397],"type":"Point"}
+}

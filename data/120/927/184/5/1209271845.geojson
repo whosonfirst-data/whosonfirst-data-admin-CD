@@ -1,0 +1,61 @@
+{
+  "id": 1209271845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.65056,2.19297,22.65056,2.19297",
+    "geom:latitude":2.19297,
+    "geom:longitude":22.65056,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yamokula",
+    "gn:country_code":"CD",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279593,
+    "gn:latitude":2.19297,
+    "gn:longitude":22.65056,
+    "gn:modification_date":"2018-07-19",
+    "gn:name":"Yamokula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279593
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2d0f8df7db3377a7c01fad70fd682f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209271845
+        }
+    ],
+    "wof:id":1209271845,
+    "wof:lastmodified":1536292331,
+    "wof:name":"Yamokula",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65056,
+    2.19297,
+    22.65056,
+    2.19297
+],
+  "geometry": {"coordinates":[22.65056,2.19297],"type":"Point"}
+}

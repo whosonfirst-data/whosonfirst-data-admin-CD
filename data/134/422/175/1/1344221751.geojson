@@ -1,0 +1,71 @@
+{
+  "id": 1344221751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.77229,-5.31293,18.77229,-5.31293",
+    "geom:latitude":-5.31293,
+    "geom:longitude":18.77229,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Malela",
+    "gn:country_code":"CD",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313135,
+    "gn:latitude":-5.31293,
+    "gn:longitude":18.77229,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Malela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malele",
+        "Malela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313135
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fafd134222bec8ac9d99ec55e44258c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1344221751,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1344221751,
+    "wof:lastmodified":1537590519,
+    "wof:name":"Malela",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.77229,
+    -5.31293,
+    18.77229,
+    -5.31293
+],
+  "geometry": {"coordinates":[18.77229,-5.31293],"type":"Point"}
+}

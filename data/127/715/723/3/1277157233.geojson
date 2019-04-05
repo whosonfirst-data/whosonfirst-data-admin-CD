@@ -1,0 +1,67 @@
+{
+  "id": 1277157233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.81566,-2.45012,28.81566,-2.45012",
+    "geom:latitude":-2.45012,
+    "geom:longitude":28.81566,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hongo",
+    "gn:country_code":"CD",
+    "gn:dem":1675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216125,
+    "gn:latitude":-2.45012,
+    "gn:longitude":28.81566,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Hongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216125
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0fda338c589a4e70d58eea85693c8da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1277157233,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1277157233,
+    "wof:lastmodified":1536660384,
+    "wof:name":"Hongo",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.81566,
+    -2.45012,
+    28.81566,
+    -2.45012
+],
+  "geometry": {"coordinates":[28.81566,-2.45012],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310368493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.61337,-7.24596,21.61337,-7.24596",
+    "geom:latitude":-7.24596,
+    "geom:longitude":21.61337,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshilemo",
+    "gn:country_code":"CD",
+    "gn:dem":830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440256,
+    "gn:latitude":-7.24596,
+    "gn:longitude":21.61337,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshilemo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440256
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4820faece7d408a081a2e801799f25a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1310368493,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310368493,
+    "wof:lastmodified":1536614892,
+    "wof:name":"Tshilemo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.61337,
+    -7.24596,
+    21.61337,
+    -7.24596
+],
+  "geometry": {"coordinates":[21.61337,-7.24596],"type":"Point"}
+}

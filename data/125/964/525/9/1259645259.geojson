@@ -1,0 +1,67 @@
+{
+  "id": 1259645259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.63256,-6.28883,19.63256,-6.28883",
+    "geom:latitude":-6.28883,
+    "geom:longitude":19.63256,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tshibaba",
+    "gn:country_code":"CD",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9528890,
+    "gn:latitude":-6.28883,
+    "gn:longitude":19.63256,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshibaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9528890
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"72c0cc0bd36be4d0dd4da1fd7e8faac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1259645259,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259645259,
+    "wof:lastmodified":1536623834,
+    "wof:name":"Tshibaba",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.63256,
+    -6.28883,
+    19.63256,
+    -6.28883
+],
+  "geometry": {"coordinates":[19.63256,-6.28883],"type":"Point"}
+}

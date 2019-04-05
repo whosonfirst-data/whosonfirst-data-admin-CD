@@ -1,0 +1,71 @@
+{
+  "id": 1193254715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25179,2.73529,30.25179,2.73529",
+    "geom:latitude":2.73529,
+    "geom:longitude":30.25179,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Monoko-Mibale",
+    "gn:country_code":"CD",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208689,
+    "gn:latitude":2.73529,
+    "gn:longitude":30.25179,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Monoko-Mibale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monoko Kibali",
+        "Monoko-Mibale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208689
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7ceab697389d1eb7413fec6fc539de9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1193254715,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1193254715,
+    "wof:lastmodified":1537590362,
+    "wof:name":"Monoko-Mibale",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25179,
+    2.73529,
+    30.25179,
+    2.73529
+],
+  "geometry": {"coordinates":[30.25179,2.73529],"type":"Point"}
+}

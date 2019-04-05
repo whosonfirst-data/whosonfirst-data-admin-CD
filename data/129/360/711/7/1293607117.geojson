@@ -1,0 +1,65 @@
+{
+  "id": 1293607117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.41667,-6.45,29.41667,-6.45",
+    "geom:latitude":-6.45,
+    "geom:longitude":29.41667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kabwema",
+    "gn:country_code":"CD",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215357,
+    "gn:latitude":-6.45,
+    "gn:longitude":29.41667,
+    "gn:modification_date":"1994-01-05",
+    "gn:name":"Kabwema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215357
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"664d6a49711c19a5a825eca008db8928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":1293607117,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293607117,
+    "wof:lastmodified":1536612158,
+    "wof:name":"Kabwema",
+    "wof:parent_id":85670015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.41667,
+    -6.45,
+    29.41667,
+    -6.45
+],
+  "geometry": {"coordinates":[29.41667,-6.45],"type":"Point"}
+}

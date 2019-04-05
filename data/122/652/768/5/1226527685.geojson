@@ -1,0 +1,71 @@
+{
+  "id": 1226527685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11667,-5.23333,13.11667,-5.23333",
+    "geom:latitude":-5.23333,
+    "geom:longitude":13.11667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Vaku Luzi",
+    "gn:country_code":"CD",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311031,
+    "gn:latitude":-5.23333,
+    "gn:longitude":13.11667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Vaku Luzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaku Munzi",
+        "Vaku Luzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311031
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"127838d58ce730fedd13be62dd642223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1226527685,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1226527685,
+    "wof:lastmodified":1537590497,
+    "wof:name":"Vaku Luzi",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11667,
+    -5.23333,
+    13.11667,
+    -5.23333
+],
+  "geometry": {"coordinates":[13.11667,-5.23333],"type":"Point"}
+}

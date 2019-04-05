@@ -1,0 +1,61 @@
+{
+  "id": 1209177255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.84657,-6.33675,19.84657,-6.33675",
+    "geom:latitude":-6.33675,
+    "geom:longitude":19.84657,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shamukueji",
+    "gn:country_code":"CD",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9528910,
+    "gn:latitude":-6.33675,
+    "gn:longitude":19.84657,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shamukueji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9528910
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9ce994ba6d00c6cd45dd0e610ced6610",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209177255
+        }
+    ],
+    "wof:id":1209177255,
+    "wof:lastmodified":1536295380,
+    "wof:name":"Shamukueji",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.84657,
+    -6.33675,
+    19.84657,
+    -6.33675
+],
+  "geometry": {"coordinates":[19.84657,-6.33675],"type":"Point"}
+}

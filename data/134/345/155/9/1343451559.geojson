@@ -1,0 +1,67 @@
+{
+  "id": 1343451559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.93042,-5.70969,14.93042,-5.70969",
+    "geom:latitude":-5.70969,
+    "geom:longitude":14.93042,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kinsuki",
+    "gn:country_code":"CD",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325131,
+    "gn:latitude":-5.70969,
+    "gn:longitude":14.93042,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kinsuki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325131
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3479ecae25203c115bdf7663ae04a01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1343451559,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1343451559,
+    "wof:lastmodified":1536759257,
+    "wof:name":"Kinsuki",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.93042,
+    -5.70969,
+    14.93042,
+    -5.70969
+],
+  "geometry": {"coordinates":[14.93042,-5.70969],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242753827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.36551,-6.06156,20.36551,-6.06156",
+    "geom:latitude":-6.06156,
+    "geom:longitude":20.36551,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kindambi",
+    "gn:country_code":"CD",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8282945,
+    "gn:latitude":-6.06156,
+    "gn:longitude":20.36551,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kindambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kindamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8282945
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3e3740903199e332c0af89c3d981e47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1242753827,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1242753827,
+    "wof:lastmodified":1537590572,
+    "wof:name":"Kindambi",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.36551,
+    -6.06156,
+    20.36551,
+    -6.06156
+],
+  "geometry": {"coordinates":[20.36551,-6.06156],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360245593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.24196,-1.06787,24.24196,-1.06787",
+    "geom:latitude":-1.06787,
+    "geom:longitude":24.24196,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Okonolene",
+    "gn:country_code":"CD",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206697,
+    "gn:latitude":-1.06787,
+    "gn:longitude":24.24196,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Okonolene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206697
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"046992ecd13ea655b9594b8fbfb98b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1360245593,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360245593,
+    "wof:lastmodified":1536714558,
+    "wof:name":"Okonolene",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.24196,
+    -1.06787,
+    24.24196,
+    -1.06787
+],
+  "geometry": {"coordinates":[24.24196,-1.06787],"type":"Point"}
+}

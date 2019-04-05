@@ -1,0 +1,67 @@
+{
+  "id": 1293859007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.01918,-5.20888,17.01918,-5.20888",
+    "geom:latitude":-5.20888,
+    "geom:longitude":17.01918,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mubuoto",
+    "gn:country_code":"CD",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274486,
+    "gn:latitude":-5.20888,
+    "gn:longitude":17.01918,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mubuoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274486
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"be7a02e8e4f2b3a84089e9b19d69e0e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1293859007,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293859007,
+    "wof:lastmodified":1536748487,
+    "wof:name":"Mubuoto",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.01918,
+    -5.20888,
+    17.01918,
+    -5.20888
+],
+  "geometry": {"coordinates":[17.01918,-5.20888],"type":"Point"}
+}

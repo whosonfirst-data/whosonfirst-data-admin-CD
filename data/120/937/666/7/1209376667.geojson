@@ -1,0 +1,61 @@
+{
+  "id": 1209376667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96,-5.63865,18.96,-5.63865",
+    "geom:latitude":-5.63865,
+    "geom:longitude":18.96,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kinjiangu",
+    "gn:country_code":"CD",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276154,
+    "gn:latitude":-5.63865,
+    "gn:longitude":18.96,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kinjiangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276154
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"28ebbed97d4e0e0cc52e41c51f4750ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209376667
+        }
+    ],
+    "wof:id":1209376667,
+    "wof:lastmodified":1536288926,
+    "wof:name":"Kinjiangu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96,
+    -5.63865,
+    18.96,
+    -5.63865
+],
+  "geometry": {"coordinates":[18.96,-5.63865],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360082607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.59158,-5.70979,12.59158,-5.70979",
+    "geom:latitude":-5.70979,
+    "geom:longitude":12.59158,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Weka",
+    "gn:country_code":"CD",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310953,
+    "gn:latitude":-5.70979,
+    "gn:longitude":12.59158,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Weka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310953
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"daf1859d8dfa9ac92a3794bc788b5a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1360082607,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1360082607,
+    "wof:lastmodified":1536949565,
+    "wof:name":"Weka",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59158,
+    -5.70979,
+    12.59158,
+    -5.70979
+],
+  "geometry": {"coordinates":[12.59158,-5.70979],"type":"Point"}
+}

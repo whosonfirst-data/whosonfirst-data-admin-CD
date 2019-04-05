@@ -1,0 +1,67 @@
+{
+  "id": 1343724469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49931,-5.70608,17.49931,-5.70608",
+    "geom:latitude":-5.70608,
+    "geom:longitude":17.49931,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yamba Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274694,
+    "gn:latitude":-5.70608,
+    "gn:longitude":17.49931,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yamba Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274694
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d735a92d542c4e5642d63a7dd65aed5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343724469,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343724469,
+    "wof:lastmodified":1536861504,
+    "wof:name":"Yamba Premiere",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49931,
+    -5.70608,
+    17.49931,
+    -5.70608
+],
+  "geometry": {"coordinates":[17.49931,-5.70608],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309896461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40082,-4.89347,14.40082,-4.89347",
+    "geom:latitude":-4.89347,
+    "geom:longitude":14.40082,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Pioka",
+    "gn:country_code":"CD",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311708,
+    "gn:latitude":-4.89347,
+    "gn:longitude":14.40082,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Pioka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311708
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"584c08dc87f455847cbf171bf3b1fe3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1309896461,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1309896461,
+    "wof:lastmodified":1536800441,
+    "wof:name":"Pioka",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40082,
+    -4.89347,
+    14.40082,
+    -4.89347
+],
+  "geometry": {"coordinates":[14.40082,-4.89347],"type":"Point"}
+}

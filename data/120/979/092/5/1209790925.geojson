@@ -1,0 +1,67 @@
+{
+  "id": 1209790925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.52018,-7.00485,19.52018,-7.00485",
+    "geom:latitude":-7.00485,
+    "geom:longitude":19.52018,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mwaka",
+    "gn:country_code":"CD",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448258,
+    "gn:latitude":-7.00485,
+    "gn:longitude":19.52018,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448258
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d6f88a0bf8a0305722a853f75ea5b63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1209790925,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1209790925,
+    "wof:lastmodified":1536395046,
+    "wof:name":"Mwaka",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.52018,
+    -7.00485,
+    19.52018,
+    -7.00485
+],
+  "geometry": {"coordinates":[19.52018,-7.00485],"type":"Point"}
+}

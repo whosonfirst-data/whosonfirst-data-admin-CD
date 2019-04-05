@@ -1,0 +1,64 @@
+{
+  "id": 1209302537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.21273,-1.24451,29.21273,-1.24451",
+    "geom:latitude":-1.24451,
+    "geom:longitude":29.21273,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Katugonda",
+    "gn:country_code":"CD",
+    "gn:dem":2262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213670,
+    "gn:latitude":-1.24451,
+    "gn:longitude":29.21273,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Katugonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katungonda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213670
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0a192b3d00770e349c24804fe47f4845",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209302537
+        }
+    ],
+    "wof:id":1209302537,
+    "wof:lastmodified":1537590407,
+    "wof:name":"Katugonda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.21273,
+    -1.24451,
+    29.21273,
+    -1.24451
+],
+  "geometry": {"coordinates":[29.21273,-1.24451],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343855011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.08333,-5.33333,13.08333,-5.33333",
+    "geom:latitude":-5.33333,
+    "geom:longitude":13.08333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kai-Tulu",
+    "gn:country_code":"CD",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315233,
+    "gn:latitude":-5.33333,
+    "gn:longitude":13.08333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kai-Tulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315233
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"108c069ffc19651a48eacc4ad5b65c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1343855011,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1343855011,
+    "wof:lastmodified":1536674480,
+    "wof:name":"Kai-Tulu",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.08333,
+    -5.33333,
+    13.08333,
+    -5.33333
+],
+  "geometry": {"coordinates":[13.08333,-5.33333],"type":"Point"}
+}

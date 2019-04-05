@@ -1,0 +1,67 @@
+{
+  "id": 1293752541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.35054,-11.14321,22.35054,-11.14321",
+    "geom:latitude":-11.14321,
+    "geom:longitude":22.35054,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshendesa",
+    "gn:country_code":"CD",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10224614,
+    "gn:latitude":-11.14321,
+    "gn:longitude":22.35054,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tshendesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10224614
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cc35c8c63180bb13afb48a872c8d1bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1293752541,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293752541,
+    "wof:lastmodified":1536902281,
+    "wof:name":"Tshendesa",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.35054,
+    -11.14321,
+    22.35054,
+    -11.14321
+],
+  "geometry": {"coordinates":[22.35054,-11.14321],"type":"Point"}
+}

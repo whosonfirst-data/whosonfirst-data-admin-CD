@@ -1,0 +1,68 @@
+{
+  "id": 1326810397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.99361,-3.10611,28.99361,-3.10611",
+    "geom:latitude":-3.10611,
+    "geom:longitude":28.99361,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Mulenge",
+    "gn:country_code":"CD",
+    "gn:dem":1837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208226,
+    "gn:latitude":-3.10611,
+    "gn:longitude":28.99361,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Mulenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208226,
+        "wk:page":"Mulenge"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4ca5ac582f9b54ed1e71958723881a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1326810397,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1326810397,
+    "wof:lastmodified":1537489107,
+    "wof:name":"Mulenge",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.99361,
+    -3.10611,
+    28.99361,
+    -3.10611
+],
+  "geometry": {"coordinates":[28.99361,-3.10611],"type":"Point"}
+}

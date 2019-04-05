@@ -1,0 +1,67 @@
+{
+  "id": 1293758161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.07918,-3.68365,18.07918,-3.68365",
+    "geom:latitude":-3.68365,
+    "geom:longitude":18.07918,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bankene",
+    "gn:country_code":"CD",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317352,
+    "gn:latitude":-3.68365,
+    "gn:longitude":18.07918,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bankene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317352
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"af4589829c22c1d97c519ea0526251b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293758161,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293758161,
+    "wof:lastmodified":1536893744,
+    "wof:name":"Bankene",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.07918,
+    -3.68365,
+    18.07918,
+    -3.68365
+],
+  "geometry": {"coordinates":[18.07918,-3.68365],"type":"Point"}
+}

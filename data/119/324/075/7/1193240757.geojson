@@ -1,0 +1,67 @@
+{
+  "id": 1193240757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.81038,-6.33811,16.81038,-6.33811",
+    "geom:latitude":-6.33811,
+    "geom:longitude":16.81038,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mokinu",
+    "gn:country_code":"CD",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312661,
+    "gn:latitude":-6.33811,
+    "gn:longitude":16.81038,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mokinu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312661
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b04d6fd83d88196292af505d26505b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1193240757,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1193240757,
+    "wof:lastmodified":1536378686,
+    "wof:name":"Mokinu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.81038,
+    -6.33811,
+    16.81038,
+    -6.33811
+],
+  "geometry": {"coordinates":[16.81038,-6.33811],"type":"Point"}
+}

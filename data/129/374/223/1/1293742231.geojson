@@ -1,0 +1,70 @@
+{
+  "id": 1293742231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.13237,-9.82777,22.13237,-9.82777",
+    "geom:latitude":-9.82777,
+    "geom:longitude":22.13237,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Samakozo",
+    "gn:country_code":"CD",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461663,
+    "gn:latitude":-9.82777,
+    "gn:longitude":22.13237,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Samakozo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanakozo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461663
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"df2fdaab71c1f74f4a8ce002b669c676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1293742231,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293742231,
+    "wof:lastmodified":1537590575,
+    "wof:name":"Samakozo",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.13237,
+    -9.82777,
+    22.13237,
+    -9.82777
+],
+  "geometry": {"coordinates":[22.13237,-9.82777],"type":"Point"}
+}

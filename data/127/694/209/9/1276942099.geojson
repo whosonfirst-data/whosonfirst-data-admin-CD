@@ -1,0 +1,67 @@
+{
+  "id": 1276942099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15381,-5.50581,18.15381,-5.50581",
+    "geom:latitude":-5.50581,
+    "geom:longitude":18.15381,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kivuanda",
+    "gn:country_code":"CD",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276024,
+    "gn:latitude":-5.50581,
+    "gn:longitude":18.15381,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kivuanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276024
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5b85dcffaf27081708a2ae91f582ba6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1276942099,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276942099,
+    "wof:lastmodified":1536957988,
+    "wof:name":"Kivuanda",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15381,
+    -5.50581,
+    18.15381,
+    -5.50581
+],
+  "geometry": {"coordinates":[18.15381,-5.50581],"type":"Point"}
+}

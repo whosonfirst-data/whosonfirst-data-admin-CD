@@ -1,0 +1,67 @@
+{
+  "id": 1277024581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4898,-6.11928,27.4898,-6.11928",
+    "geom:latitude":-6.11928,
+    "geom:longitude":27.4898,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Lukodi",
+    "gn:country_code":"CD",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10007622,
+    "gn:latitude":-6.11928,
+    "gn:longitude":27.4898,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lukodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10007622
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7b674d0816c40cea0615df51232400e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1277024581,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1277024581,
+    "wof:lastmodified":1536846037,
+    "wof:name":"Lukodi",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4898,
+    -6.11928,
+    27.4898,
+    -6.11928
+],
+  "geometry": {"coordinates":[27.4898,-6.11928],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209471059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.77218,-6.60451,21.77218,-6.60451",
+    "geom:latitude":-6.60451,
+    "geom:longitude":21.77218,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kangombe",
+    "gn:country_code":"CD",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327390,
+    "gn:latitude":-6.60451,
+    "gn:longitude":21.77218,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kangombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327390
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4e03b70f2cb1a8ebb002012fd4a6f2af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209471059
+        }
+    ],
+    "wof:id":1209471059,
+    "wof:lastmodified":1536286079,
+    "wof:name":"Kangombe",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.77218,
+    -6.60451,
+    21.77218,
+    -6.60451
+],
+  "geometry": {"coordinates":[21.77218,-6.60451],"type":"Point"}
+}

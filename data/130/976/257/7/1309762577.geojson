@@ -1,0 +1,67 @@
+{
+  "id": 1309762577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98471,-8.79568,21.98471,-8.79568",
+    "geom:latitude":-8.79568,
+    "geom:longitude":21.98471,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kalau",
+    "gn:country_code":"CD",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8458593,
+    "gn:latitude":-8.79568,
+    "gn:longitude":21.98471,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458593
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3e2083ec4005d9f6eb80a5c7be11d6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1309762577,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1309762577,
+    "wof:lastmodified":1536992711,
+    "wof:name":"Kalau",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98471,
+    -8.79568,
+    21.98471,
+    -8.79568
+],
+  "geometry": {"coordinates":[21.98471,-8.79568],"type":"Point"}
+}

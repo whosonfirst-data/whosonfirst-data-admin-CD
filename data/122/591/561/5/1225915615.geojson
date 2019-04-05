@@ -1,0 +1,67 @@
+{
+  "id": 1225915615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63899,2.46183,30.63899,2.46183",
+    "geom:latitude":2.46183,
+    "geom:longitude":30.63899,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ama",
+    "gn:country_code":"CD",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220381,
+    "gn:latitude":2.46183,
+    "gn:longitude":30.63899,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220381
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3936e8a73b7cf1140d5aec8037cec5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1225915615,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1225915615,
+    "wof:lastmodified":1536913468,
+    "wof:name":"Ama",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63899,
+    2.46183,
+    30.63899,
+    2.46183
+],
+  "geometry": {"coordinates":[30.63899,2.46183],"type":"Point"}
+}

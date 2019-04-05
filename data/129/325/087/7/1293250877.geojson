@@ -1,0 +1,67 @@
+{
+  "id": 1293250877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.67125,-9.63894,25.67125,-9.63894",
+    "geom:latitude":-9.63894,
+    "geom:longitude":25.67125,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kalimashi",
+    "gn:country_code":"CD",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10052322,
+    "gn:latitude":-9.63894,
+    "gn:longitude":25.67125,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kalimashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10052322
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"be40353ee321ffa2ea6e9e9339342f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1293250877,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293250877,
+    "wof:lastmodified":1536629502,
+    "wof:name":"Kalimashi",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.67125,
+    -9.63894,
+    25.67125,
+    -9.63894
+],
+  "geometry": {"coordinates":[25.67125,-9.63894],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276748969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16658,-4.59459,14.16658,-4.59459",
+    "geom:latitude":-4.59459,
+    "geom:longitude":14.16658,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kintadi",
+    "gn:country_code":"CD",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443188,
+    "gn:latitude":-4.59459,
+    "gn:longitude":14.16658,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Kintadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443188
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"09237ba24c28232599d29232b2f0982a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1276748969,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1276748969,
+    "wof:lastmodified":1536719359,
+    "wof:name":"Kintadi",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16658,
+    -4.59459,
+    14.16658,
+    -4.59459
+],
+  "geometry": {"coordinates":[14.16658,-4.59459],"type":"Point"}
+}

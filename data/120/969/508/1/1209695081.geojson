@@ -1,0 +1,61 @@
+{
+  "id": 1209695081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.57931,3.2796,23.57931,3.2796",
+    "geom:latitude":3.2796,
+    "geom:longitude":23.57931,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dendu",
+    "gn:country_code":"CD",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217383,
+    "gn:latitude":3.2796,
+    "gn:longitude":23.57931,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dendu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217383
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3a94e7af4db5a61f7c871d03b2f725b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209695081
+        }
+    ],
+    "wof:id":1209695081,
+    "wof:lastmodified":1536279103,
+    "wof:name":"Dendu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.57931,
+    3.2796,
+    23.57931,
+    3.2796
+],
+  "geometry": {"coordinates":[23.57931,3.2796],"type":"Point"}
+}

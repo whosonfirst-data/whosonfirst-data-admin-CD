@@ -1,0 +1,67 @@
+{
+  "id": 1310669407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.02534,-6.5094,22.02534,-6.5094",
+    "geom:latitude":-6.5094,
+    "geom:longitude":22.02534,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ngandu-Njila",
+    "gn:country_code":"CD",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8284596,
+    "gn:latitude":-6.5094,
+    "gn:longitude":22.02534,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ngandu-Njila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8284596
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"85e3617541d39ac02537f2545b16b8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1310669407,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310669407,
+    "wof:lastmodified":1536680497,
+    "wof:name":"Ngandu-Njila",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.02534,
+    -6.5094,
+    22.02534,
+    -6.5094
+],
+  "geometry": {"coordinates":[22.02534,-6.5094],"type":"Point"}
+}

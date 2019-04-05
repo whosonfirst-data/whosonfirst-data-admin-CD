@@ -1,0 +1,61 @@
+{
+  "id": 1209684507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.44859,-9.82198,22.44859,-9.82198",
+    "geom:latitude":-9.82198,
+    "geom:longitude":22.44859,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwabanga",
+    "gn:country_code":"CD",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461720,
+    "gn:latitude":-9.82198,
+    "gn:longitude":22.44859,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwabanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461720
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"92279d7fddb75f569e2b49f1d7115494",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209684507
+        }
+    ],
+    "wof:id":1209684507,
+    "wof:lastmodified":1536279459,
+    "wof:name":"Mwabanga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.44859,
+    -9.82198,
+    22.44859,
+    -9.82198
+],
+  "geometry": {"coordinates":[22.44859,-9.82198],"type":"Point"}
+}

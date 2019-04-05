@@ -1,0 +1,65 @@
+{
+  "id": 1209075031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.59781,-10.75276,23.59781,-10.75276",
+    "geom:latitude":-10.75276,
+    "geom:longitude":23.59781,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mulesu",
+    "gn:country_code":"CD",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922490,
+    "gn:latitude":-10.75276,
+    "gn:longitude":23.59781,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mulesu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muleso",
+        "Mulesu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922490
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8a070c0b87afcd5f72bea9a222168a83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209075031
+        }
+    ],
+    "wof:id":1209075031,
+    "wof:lastmodified":1537590486,
+    "wof:name":"Mulesu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.59781,
+    -10.75276,
+    23.59781,
+    -10.75276
+],
+  "geometry": {"coordinates":[23.59781,-10.75276],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360148351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.70597,1.27364,29.70597,1.27364",
+    "geom:latitude":1.27364,
+    "geom:longitude":29.70597,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ngeleza",
+    "gn:country_code":"CD",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207215,
+    "gn:latitude":1.27364,
+    "gn:longitude":29.70597,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngeleza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngelesa"
+    ],
+    "name:fra_x_variant":[
+        "Ngeleza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207215
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9b3927099e6031ac98728d77f302d5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1360148351,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360148351,
+    "wof:lastmodified":1537590345,
+    "wof:name":"Ngeleza",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.70597,
+    1.27364,
+    29.70597,
+    1.27364
+],
+  "geometry": {"coordinates":[29.70597,1.27364],"type":"Point"}
+}

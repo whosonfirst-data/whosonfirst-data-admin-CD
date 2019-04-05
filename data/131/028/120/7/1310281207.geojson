@@ -1,0 +1,70 @@
+{
+  "id": 1310281207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.02129,1.48248,30.02129,1.48248",
+    "geom:latitude":1.48248,
+    "geom:longitude":30.02129,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Badiya",
+    "gn:country_code":"CD",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280420,
+    "gn:latitude":1.48248,
+    "gn:longitude":30.02129,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Badiya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280420
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"12457f851d9d47ce30e787ea9cbbb6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1310281207,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1310281207,
+    "wof:lastmodified":1537590572,
+    "wof:name":"Badiya",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.02129,
+    1.48248,
+    30.02129,
+    1.48248
+],
+  "geometry": {"coordinates":[30.02129,1.48248],"type":"Point"}
+}

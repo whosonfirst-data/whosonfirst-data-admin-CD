@@ -1,0 +1,61 @@
+{
+  "id": 1209576611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95187,-5.30506,27.95187,-5.30506",
+    "geom:latitude":-5.30506,
+    "geom:longitude":27.95187,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Sandwa",
+    "gn:country_code":"CD",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8330958,
+    "gn:latitude":-5.30506,
+    "gn:longitude":27.95187,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sandwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8330958
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"de9fc985e5285a1536f1df052912c453",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209576611
+        }
+    ],
+    "wof:id":1209576611,
+    "wof:lastmodified":1536282917,
+    "wof:name":"Sandwa",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95187,
+    -5.30506,
+    27.95187,
+    -5.30506
+],
+  "geometry": {"coordinates":[27.95187,-5.30506],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242740959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.67745,-4.97622,21.67745,-4.97622",
+    "geom:latitude":-4.97622,
+    "geom:longitude":21.67745,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tenemashobo",
+    "gn:country_code":"CD",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205208,
+    "gn:latitude":-4.97622,
+    "gn:longitude":21.67745,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tenemashobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tenemasho",
+        "Tenemashobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205208
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a892d84f71a296ae63e648a439403399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1242740959,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1242740959,
+    "wof:lastmodified":1537590321,
+    "wof:name":"Tenemashobo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.67745,
+    -4.97622,
+    21.67745,
+    -4.97622
+],
+  "geometry": {"coordinates":[21.67745,-4.97622],"type":"Point"}
+}

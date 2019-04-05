@@ -1,0 +1,70 @@
+{
+  "id": 1293059113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.32118,-3.48008,18.32118,-3.48008",
+    "geom:latitude":-3.48008,
+    "geom:longitude":18.32118,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Makaw",
+    "gn:country_code":"CD",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313173,
+    "gn:latitude":-3.48008,
+    "gn:longitude":18.32118,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Makaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313173
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f93b0dd4949aee89c7e026d75c12f816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1293059113,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293059113,
+    "wof:lastmodified":1537590519,
+    "wof:name":"Makaw",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.32118,
+    -3.48008,
+    18.32118,
+    -3.48008
+],
+  "geometry": {"coordinates":[18.32118,-3.48008],"type":"Point"}
+}

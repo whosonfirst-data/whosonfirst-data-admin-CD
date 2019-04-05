@@ -1,0 +1,67 @@
+{
+  "id": 1259670085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.07305,2.57883,26.07305,2.57883",
+    "geom:latitude":2.57883,
+    "geom:longitude":26.07305,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mobowabi",
+    "gn:country_code":"CD",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8062307,
+    "gn:latitude":2.57883,
+    "gn:longitude":26.07305,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mobowabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8062307
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ceb2c61a5a04203a99196f88fc685dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1259670085,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259670085,
+    "wof:lastmodified":1537083177,
+    "wof:name":"Mobowabi",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.07305,
+    2.57883,
+    26.07305,
+    2.57883
+],
+  "geometry": {"coordinates":[26.07305,2.57883],"type":"Point"}
+}

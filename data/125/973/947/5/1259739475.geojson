@@ -1,0 +1,72 @@
+{
+  "id": 1259739475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.6327,-6.53172,22.6327,-6.53172",
+    "geom:latitude":-6.53172,
+    "geom:longitude":22.6327,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Benkuna",
+    "gn:country_code":"CD",
+    "gn:dem":826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219054,
+    "gn:latitude":-6.53172,
+    "gn:longitude":22.6327,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Benkuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bea Kuna",
+        "Bea Nkune",
+        "Benkuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219054
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"41dc937a7420ae782efaf29ca62cb0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1259739475,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1259739475,
+    "wof:lastmodified":1537590462,
+    "wof:name":"Benkuna",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.6327,
+    -6.53172,
+    22.6327,
+    -6.53172
+],
+  "geometry": {"coordinates":[22.6327,-6.53172],"type":"Point"}
+}

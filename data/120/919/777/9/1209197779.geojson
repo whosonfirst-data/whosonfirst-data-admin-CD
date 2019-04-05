@@ -1,0 +1,64 @@
+{
+  "id": 1209197779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.755,-11.25476,26.755,-11.25476",
+    "geom:latitude":-11.25476,
+    "geom:longitude":26.755,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Lombania",
+    "gn:country_code":"CD",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10225739,
+    "gn:latitude":-11.25476,
+    "gn:longitude":26.755,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lombania",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10225739
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"37a8eab43b9f789ebabd91e9170c1796",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209197779
+        }
+    ],
+    "wof:id":1209197779,
+    "wof:lastmodified":1537590579,
+    "wof:name":"Lombania",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.755,
+    -11.25476,
+    26.755,
+    -11.25476
+],
+  "geometry": {"coordinates":[26.755,-11.25476],"type":"Point"}
+}

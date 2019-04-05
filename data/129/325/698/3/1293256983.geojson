@@ -1,0 +1,67 @@
+{
+  "id": 1293256983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.50357,-4.26543,18.50357,-4.26543",
+    "geom:latitude":-4.26543,
+    "geom:longitude":18.50357,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kimbanda",
+    "gn:country_code":"CD",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314624,
+    "gn:latitude":-4.26543,
+    "gn:longitude":18.50357,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kimbanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314624
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"01562c6e5b988bcfac643c1a0d0ed9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293256983,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293256983,
+    "wof:lastmodified":1536620319,
+    "wof:name":"Kimbanda",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.50357,
+    -4.26543,
+    18.50357,
+    -4.26543
+],
+  "geometry": {"coordinates":[18.50357,-4.26543],"type":"Point"}
+}

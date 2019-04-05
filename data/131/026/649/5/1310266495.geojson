@@ -1,0 +1,71 @@
+{
+  "id": 1310266495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.83971,-4.33284,18.83971,-4.33284",
+    "geom:latitude":-4.33284,
+    "geom:longitude":18.83971,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Due Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315998,
+    "gn:latitude":-4.33284,
+    "gn:longitude":18.83971,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Due Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Due Premi\u00e8re",
+        "Due I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315998
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"227a9ccee657ea6394c826177d50076c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1310266495,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310266495,
+    "wof:lastmodified":1537590546,
+    "wof:name":"Due Premiere",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.83971,
+    -4.33284,
+    18.83971,
+    -4.33284
+],
+  "geometry": {"coordinates":[18.83971,-4.33284],"type":"Point"}
+}

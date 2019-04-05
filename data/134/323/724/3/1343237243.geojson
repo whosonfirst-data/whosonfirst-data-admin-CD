@@ -1,0 +1,67 @@
+{
+  "id": 1343237243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.13169,-7.9296,18.13169,-7.9296",
+    "geom:latitude":-7.9296,
+    "geom:longitude":18.13169,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Lukunda",
+    "gn:country_code":"CD",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447893,
+    "gn:latitude":-7.9296,
+    "gn:longitude":18.13169,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lukunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447893
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5b28ebf53225ed75d92b0e6774441676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1343237243,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343237243,
+    "wof:lastmodified":1537065664,
+    "wof:name":"Lukunda",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.13169,
+    -7.9296,
+    18.13169,
+    -7.9296
+],
+  "geometry": {"coordinates":[18.13169,-7.9296],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276277015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33333,0.41667,25.33333,0.41667",
+    "geom:latitude":0.41667,
+    "geom:longitude":25.33333,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Batiakaba",
+    "gn:country_code":"CD",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219378,
+    "gn:latitude":0.41667,
+    "gn:longitude":25.33333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Batiakaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219378
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a2edbef87f96b04523a888d81295947d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679655,
+            "locality_id":1276277015,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276277015,
+    "wof:lastmodified":1536853079,
+    "wof:name":"Batiakaba",
+    "wof:parent_id":1091679655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33333,
+    0.41667,
+    25.33333,
+    0.41667
+],
+  "geometry": {"coordinates":[25.33333,0.41667],"type":"Point"}
+}

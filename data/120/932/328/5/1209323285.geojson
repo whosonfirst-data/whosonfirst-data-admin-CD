@@ -1,0 +1,61 @@
+{
+  "id": 1209323285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11667,0.98333,18.11667,0.98333",
+    "geom:latitude":0.98333,
+    "geom:longitude":18.11667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dzenge",
+    "gn:country_code":"CD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315949,
+    "gn:latitude":0.98333,
+    "gn:longitude":18.11667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dzenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315949
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5bb1fbbfc49cfe95b71e60dd1a72ddf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209323285
+        }
+    ],
+    "wof:id":1209323285,
+    "wof:lastmodified":1536290616,
+    "wof:name":"Dzenge",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.116670000000006,
+    0.98333,
+    18.116670000000006,
+    0.98333
+],
+  "geometry": {"coordinates":[18.11667000000001,0.98333],"type":"Point"}
+}

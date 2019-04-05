@@ -1,0 +1,70 @@
+{
+  "id": 1343771821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48333,-7.9,30.48333,-7.9",
+    "geom:latitude":-7.9,
+    "geom:longitude":30.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kalumbi",
+    "gn:cc2":"CD",
+    "gn:country_code":"CD",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214806,
+    "gn:latitude":-7.9,
+    "gn:longitude":30.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kalumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katumbi",
+        "Kalumbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214806
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cf19c23df2bbefb5e4673db601bf123a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":1343771821,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343771821,
+    "wof:lastmodified":1537590419,
+    "wof:name":"Kalumbi",
+    "wof:parent_id":85670015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48333,
+    -7.9,
+    30.48333,
+    -7.9
+],
+  "geometry": {"coordinates":[30.48333,-7.9],"type":"Point"}
+}

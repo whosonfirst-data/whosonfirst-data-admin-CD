@@ -1,0 +1,67 @@
+{
+  "id": 1226411191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.22281,-9.86216,22.22281,-9.86216",
+    "geom:latitude":-9.86216,
+    "geom:longitude":22.22281,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Samuvungu",
+    "gn:country_code":"CD",
+    "gn:dem":1065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461671,
+    "gn:latitude":-9.86216,
+    "gn:longitude":22.22281,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Samuvungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461671
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4429678d145f9f5fb5964d5c65801d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226411191,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226411191,
+    "wof:lastmodified":1536695622,
+    "wof:name":"Samuvungu",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.22281,
+    -9.86216,
+    22.22281,
+    -9.86216
+],
+  "geometry": {"coordinates":[22.22281,-9.86216],"type":"Point"}
+}

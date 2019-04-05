@@ -1,0 +1,67 @@
+{
+  "id": 1276848797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.77347,-1.61522,28.77347,-1.61522",
+    "geom:latitude":-1.61522,
+    "geom:longitude":28.77347,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Biso",
+    "gn:country_code":"CD",
+    "gn:dem":2012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218796,
+    "gn:latitude":-1.61522,
+    "gn:longitude":28.77347,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Biso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218796
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8a03059239ebbf6605bf2fad0d22f283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1276848797,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1276848797,
+    "wof:lastmodified":1537079621,
+    "wof:name":"Biso",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.77347,
+    -1.61522,
+    28.77347,
+    -1.61522
+],
+  "geometry": {"coordinates":[28.77347,-1.61522],"type":"Point"}
+}

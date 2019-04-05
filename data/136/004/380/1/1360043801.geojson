@@ -1,0 +1,67 @@
+{
+  "id": 1360043801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.92855,-8.95422,23.92855,-8.95422",
+    "geom:latitude":-8.95422,
+    "geom:longitude":23.92855,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwene-Kama",
+    "gn:country_code":"CD",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207561,
+    "gn:latitude":-8.95422,
+    "gn:longitude":23.92855,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mwene-Kama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207561
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c77f300a5cddb37dd6ac9374168a7379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1360043801,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1360043801,
+    "wof:lastmodified":1537004628,
+    "wof:name":"Mwene-Kama",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.92855,
+    -8.95422,
+    23.92855,
+    -8.95422
+],
+  "geometry": {"coordinates":[23.92855,-8.95422],"type":"Point"}
+}

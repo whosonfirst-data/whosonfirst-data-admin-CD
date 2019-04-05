@@ -1,0 +1,61 @@
+{
+  "id": 1209279909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.49664,-6.56693,17.49664,-6.56693",
+    "geom:latitude":-6.56693,
+    "geom:longitude":17.49664,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kizanga",
+    "gn:country_code":"CD",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314040,
+    "gn:latitude":-6.56693,
+    "gn:longitude":17.49664,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kizanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314040
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f5fedc36b7eee82c02c484107ed1fce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209279909
+        }
+    ],
+    "wof:id":1209279909,
+    "wof:lastmodified":1536292060,
+    "wof:name":"Kizanga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.49664,
+    -6.56693,
+    17.49664,
+    -6.56693
+],
+  "geometry": {"coordinates":[17.49664,-6.56693],"type":"Point"}
+}

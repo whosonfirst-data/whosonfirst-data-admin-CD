@@ -1,0 +1,67 @@
+{
+  "id": 1343328227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85224,2.21471,30.85224,2.21471",
+    "geom:latitude":2.21471,
+    "geom:longitude":30.85224,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Oyaro",
+    "gn:country_code":"CD",
+    "gn:dem":1936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143285,
+    "gn:latitude":2.21471,
+    "gn:longitude":30.85224,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Oyaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143285
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a9d38f1a4dfc8fd7742210fb00d684fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1343328227,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343328227,
+    "wof:lastmodified":1536937989,
+    "wof:name":"Oyaro",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85224,
+    2.21471,
+    30.85224,
+    2.21471
+],
+  "geometry": {"coordinates":[30.85224,2.21471],"type":"Point"}
+}

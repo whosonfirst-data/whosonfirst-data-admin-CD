@@ -1,0 +1,67 @@
+{
+  "id": 1309985403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.00879,4.19522,23.00879,4.19522",
+    "geom:latitude":4.19522,
+    "geom:longitude":23.00879,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Koi",
+    "gn:country_code":"CD",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8239257,
+    "gn:latitude":4.19522,
+    "gn:longitude":23.00879,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Koi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8239257
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f108e713127a9b1301a14bf6efcf9379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1309985403,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1309985403,
+    "wof:lastmodified":1536672286,
+    "wof:name":"Koi",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.00879,
+    4.19522,
+    23.00879,
+    4.19522
+],
+  "geometry": {"coordinates":[23.00879,4.19522],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209064647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.0173,-6.98228,22.0173,-6.98228",
+    "geom:latitude":-6.98228,
+    "geom:longitude":22.0173,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kambulu",
+    "gn:country_code":"CD",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8285050,
+    "gn:latitude":-6.98228,
+    "gn:longitude":22.0173,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kambulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8285050
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3793a64cc0efca5dc27d183942a4781a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209064647
+        }
+    ],
+    "wof:id":1209064647,
+    "wof:lastmodified":1536298843,
+    "wof:name":"Kambulu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.0173,
+    -6.98228,
+    22.0173,
+    -6.98228
+],
+  "geometry": {"coordinates":[22.0173,-6.98228],"type":"Point"}
+}

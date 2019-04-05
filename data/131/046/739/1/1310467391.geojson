@@ -1,0 +1,67 @@
+{
+  "id": 1310467391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.24114,-5.42601,17.24114,-5.42601",
+    "geom:latitude":-5.42601,
+    "geom:longitude":17.24114,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Matombi",
+    "gn:country_code":"CD",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274611,
+    "gn:latitude":-5.42601,
+    "gn:longitude":17.24114,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Matombi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274611
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"adb220bd2ed3b65d73e7a44f3901e2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1310467391,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310467391,
+    "wof:lastmodified":1536971608,
+    "wof:name":"Matombi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.24114,
+    -5.42601,
+    17.24114,
+    -5.42601
+],
+  "geometry": {"coordinates":[17.24114,-5.42601],"type":"Point"}
+}

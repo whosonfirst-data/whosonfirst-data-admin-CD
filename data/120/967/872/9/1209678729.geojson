@@ -1,0 +1,61 @@
+{
+  "id": 1209678729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.52519,-5.9861,21.52519,-5.9861",
+    "geom:latitude":-5.9861,
+    "geom:longitude":21.52519,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshishi",
+    "gn:country_code":"CD",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204781,
+    "gn:latitude":-5.9861,
+    "gn:longitude":21.52519,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshishi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204781
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"163295c5459b2ba46f0c4e25ebf99f21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209678729
+        }
+    ],
+    "wof:id":1209678729,
+    "wof:lastmodified":1536279654,
+    "wof:name":"Tshishi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.52519,
+    -5.9861,
+    21.52519,
+    -5.9861
+],
+  "geometry": {"coordinates":[21.52519,-5.9861],"type":"Point"}
+}

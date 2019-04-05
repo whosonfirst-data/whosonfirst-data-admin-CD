@@ -1,0 +1,61 @@
+{
+  "id": 1209673951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.15635,-10.3979,23.15635,-10.3979",
+    "geom:latitude":-10.3979,
+    "geom:longitude":23.15635,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mekese",
+    "gn:country_code":"CD",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466526,
+    "gn:latitude":-10.3979,
+    "gn:longitude":23.15635,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mekese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466526
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5565a139f18b438422207c1dc2db400e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209673951
+        }
+    ],
+    "wof:id":1209673951,
+    "wof:lastmodified":1536279821,
+    "wof:name":"Mekese",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.15635,
+    -10.3979,
+    23.15635,
+    -10.3979
+],
+  "geometry": {"coordinates":[23.15635,-10.3979],"type":"Point"}
+}

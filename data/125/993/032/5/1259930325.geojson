@@ -1,0 +1,67 @@
+{
+  "id": 1259930325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.79904,0.87742,26.79904,0.87742",
+    "geom:latitude":0.87742,
+    "geom:longitude":26.79904,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Belika",
+    "gn:country_code":"CD",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219219,
+    "gn:latitude":0.87742,
+    "gn:longitude":26.79904,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Belika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219219
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9cedeb3fc3bccd138ca03c7e6b316b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1259930325,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259930325,
+    "wof:lastmodified":1536712162,
+    "wof:name":"Belika",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.79904,
+    0.87742,
+    26.79904,
+    0.87742
+],
+  "geometry": {"coordinates":[26.79904,0.87742],"type":"Point"}
+}

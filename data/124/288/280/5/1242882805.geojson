@@ -1,0 +1,67 @@
+{
+  "id": 1242882805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.1,0.8,20.1,0.8",
+    "geom:latitude":0.8,
+    "geom:longitude":20.1,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nkonga",
+    "gn:country_code":"CD",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206979,
+    "gn:latitude":0.8,
+    "gn:longitude":20.1,
+    "gn:modification_date":"2011-12-07",
+    "gn:name":"Nkonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206979
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"15e33e17f3655fd2f7d99c2ce4c66d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1242882805,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1242882805,
+    "wof:lastmodified":1536621936,
+    "wof:name":"Nkonga",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.1,
+    0.8,
+    20.1,
+    0.8
+],
+  "geometry": {"coordinates":[20.1,0.8],"type":"Point"}
+}

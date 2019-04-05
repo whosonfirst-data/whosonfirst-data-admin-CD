@@ -1,0 +1,61 @@
+{
+  "id": 1209600701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51602,-5.40208,13.51602,-5.40208",
+    "geom:latitude":-5.40208,
+    "geom:longitude":13.51602,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ngulu-Mufu",
+    "gn:country_code":"CD",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252670,
+    "gn:latitude":-5.40208,
+    "gn:longitude":13.51602,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Ngulu-Mufu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252670
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3e3efa71453d86e66aef95484ee3eac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209600701
+        }
+    ],
+    "wof:id":1209600701,
+    "wof:lastmodified":1536282177,
+    "wof:name":"Ngulu-Mufu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51602,
+    -5.4020800000000015,
+    13.51602,
+    -5.4020800000000015
+],
+  "geometry": {"coordinates":[13.51602,-5.40208],"type":"Point"}
+}

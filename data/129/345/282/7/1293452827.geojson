@@ -1,0 +1,67 @@
+{
+  "id": 1293452827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.92051,-6.52698,19.92051,-6.52698",
+    "geom:latitude":-6.52698,
+    "geom:longitude":19.92051,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshitepa",
+    "gn:country_code":"CD",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9528973,
+    "gn:latitude":-6.52698,
+    "gn:longitude":19.92051,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshitepa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9528973
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"29c96dadf965f7c6db5e43702c8b3fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1293452827,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293452827,
+    "wof:lastmodified":1536836125,
+    "wof:name":"Tshitepa",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.92051,
+    -6.52698,
+    19.92051,
+    -6.52698
+],
+  "geometry": {"coordinates":[19.92051,-6.52698],"type":"Point"}
+}

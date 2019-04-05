@@ -1,0 +1,67 @@
+{
+  "id": 1209772505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.43334,4.94714,19.43334,4.94714",
+    "geom:latitude":4.94714,
+    "geom:longitude":19.43334,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Dengbwili",
+    "gn:country_code":"CD",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316097,
+    "gn:latitude":4.94714,
+    "gn:longitude":19.43334,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dengbwili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316097
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c13618d057d77d1f142655f61992d110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1209772505,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1209772505,
+    "wof:lastmodified":1536382360,
+    "wof:name":"Dengbwili",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.43334,
+    4.94714,
+    19.43334,
+    4.94714
+],
+  "geometry": {"coordinates":[19.43334,4.94714],"type":"Point"}
+}

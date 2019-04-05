@@ -1,0 +1,67 @@
+{
+  "id": 1243557509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18106,-0.04835,18.18106,-0.04835",
+    "geom:latitude":-0.04835,
+    "geom:longitude":18.18106,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bakaala",
+    "gn:country_code":"CD",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281549,
+    "gn:latitude":-0.04835,
+    "gn:longitude":18.18106,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bakaala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281549
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ff1b361f43255f2ec28408eec62efa2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679473,
+            "locality_id":1243557509,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1243557509,
+    "wof:lastmodified":1536644852,
+    "wof:name":"Bakaala",
+    "wof:parent_id":1091679473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18106,
+    -0.04835,
+    18.18106,
+    -0.04835
+],
+  "geometry": {"coordinates":[18.18106,-0.04835],"type":"Point"}
+}

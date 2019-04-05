@@ -1,0 +1,67 @@
+{
+  "id": 1327402257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.371,-3.20752,18.371,-3.20752",
+    "geom:latitude":-3.20752,
+    "geom:longitude":18.371,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Bokwi",
+    "gn:country_code":"CD",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8446828,
+    "gn:latitude":-3.20752,
+    "gn:longitude":18.371,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bokwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8446828
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"993fc288d2b0d2573a51bf9291f3531d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1327402257,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327402257,
+    "wof:lastmodified":1536724735,
+    "wof:name":"Bokwi",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.371,
+    -3.20752,
+    18.371,
+    -3.20752
+],
+  "geometry": {"coordinates":[18.371,-3.20752],"type":"Point"}
+}

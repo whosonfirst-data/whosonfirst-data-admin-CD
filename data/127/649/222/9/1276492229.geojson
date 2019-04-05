@@ -1,0 +1,67 @@
+{
+  "id": 1276492229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.04775,-0.07139,27.04775,-0.07139",
+    "geom:latitude":-0.07139,
+    "geom:longitude":27.04775,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Makalado",
+    "gn:country_code":"CD",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210013,
+    "gn:latitude":-0.07139,
+    "gn:longitude":27.04775,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Makalado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210013
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b12f6d68bfa3dfa6390f4a9a0c7d3014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1276492229,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276492229,
+    "wof:lastmodified":1537060465,
+    "wof:name":"Makalado",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.04775,
+    -0.07139,
+    27.04775,
+    -0.07139
+],
+  "geometry": {"coordinates":[27.04775,-0.07139],"type":"Point"}
+}

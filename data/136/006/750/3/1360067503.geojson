@@ -1,0 +1,67 @@
+{
+  "id": 1360067503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03644,2.18739,28.03644,2.18739",
+    "geom:latitude":2.18739,
+    "geom:longitude":28.03644,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Banumu",
+    "gn:country_code":"CD",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8076001,
+    "gn:latitude":2.18739,
+    "gn:longitude":28.03644,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Banumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8076001
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"da1ab6e49a0aa82421f2f47480caa037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1360067503,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1360067503,
+    "wof:lastmodified":1536970714,
+    "wof:name":"Banumu",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03644,
+    2.18739,
+    28.03644,
+    2.18739
+],
+  "geometry": {"coordinates":[28.03644,2.18739],"type":"Point"}
+}

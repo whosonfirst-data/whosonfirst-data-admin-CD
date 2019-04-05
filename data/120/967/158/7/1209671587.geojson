@@ -1,0 +1,65 @@
+{
+  "id": 1209671587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.87724,-6.94392,22.87724,-6.94392",
+    "geom:latitude":-6.94392,
+    "geom:longitude":22.87724,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Bena-Soma",
+    "gn:country_code":"CD",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219111,
+    "gn:latitude":-6.94392,
+    "gn:longitude":22.87724,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bena-Soma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bena-Sona",
+        "Bena-Soma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219111
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ccf1c009d8cff8570f084c090f19cd10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209671587
+        }
+    ],
+    "wof:id":1209671587,
+    "wof:lastmodified":1537590462,
+    "wof:name":"Bena-Soma",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.87724,
+    -6.94392,
+    22.87724,
+    -6.94392
+],
+  "geometry": {"coordinates":[22.87724,-6.94392],"type":"Point"}
+}

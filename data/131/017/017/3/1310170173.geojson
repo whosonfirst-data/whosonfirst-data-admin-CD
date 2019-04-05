@@ -1,0 +1,67 @@
+{
+  "id": 1310170173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.71368,-6.09976,19.71368,-6.09976",
+    "geom:latitude":-6.09976,
+    "geom:longitude":19.71368,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kakoi",
+    "gn:country_code":"CD",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315216,
+    "gn:latitude":-6.09976,
+    "gn:longitude":19.71368,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kakoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315216
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"94abdc0497b64bc75dcca2ab5a0d5c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1310170173,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310170173,
+    "wof:lastmodified":1536903600,
+    "wof:name":"Kakoi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.71368,
+    -6.09976,
+    19.71368,
+    -6.09976
+],
+  "geometry": {"coordinates":[19.71368,-6.09976],"type":"Point"}
+}

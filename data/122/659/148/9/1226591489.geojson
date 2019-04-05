@@ -1,0 +1,67 @@
+{
+  "id": 1226591489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26982,-4.77676,23.26982,-4.77676",
+    "geom:latitude":-4.77676,
+    "geom:longitude":23.26982,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Shanduka",
+    "gn:country_code":"CD",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8250008,
+    "gn:latitude":-4.77676,
+    "gn:longitude":23.26982,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shanduka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8250008
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3eafa1ffbc263bde278d4310be38091a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1226591489,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1226591489,
+    "wof:lastmodified":1536935560,
+    "wof:name":"Shanduka",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26982000000001,
+    -4.77676,
+    23.26982000000001,
+    -4.77676
+],
+  "geometry": {"coordinates":[23.26982000000001,-4.77676],"type":"Point"}
+}

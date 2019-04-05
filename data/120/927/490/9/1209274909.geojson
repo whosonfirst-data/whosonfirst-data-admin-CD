@@ -1,0 +1,61 @@
+{
+  "id": 1209274909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.65035,1.03554,24.65035,1.03554",
+    "geom:latitude":1.03554,
+    "geom:longitude":24.65035,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yalibutu",
+    "gn:country_code":"CD",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204002,
+    "gn:latitude":1.03554,
+    "gn:longitude":24.65035,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yalibutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204002
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c05752f0337982d333aae6605538fdde",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209274909
+        }
+    ],
+    "wof:id":1209274909,
+    "wof:lastmodified":1536292230,
+    "wof:name":"Yalibutu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.65035,
+    1.03554,
+    24.65035,
+    1.03554
+],
+  "geometry": {"coordinates":[24.65035,1.03554],"type":"Point"}
+}

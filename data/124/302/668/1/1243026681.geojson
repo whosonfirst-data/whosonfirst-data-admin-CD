@@ -1,0 +1,67 @@
+{
+  "id": 1243026681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.25174,-10.3746,23.25174,-10.3746",
+    "geom:latitude":-10.3746,
+    "geom:longitude":23.25174,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mondala",
+    "gn:country_code":"CD",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466573,
+    "gn:latitude":-10.3746,
+    "gn:longitude":23.25174,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mondala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466573
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b412fe95ec33458e4f203f546546d25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1243026681,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243026681,
+    "wof:lastmodified":1536914226,
+    "wof:name":"Mondala",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.25174,
+    -10.3746,
+    23.25174,
+    -10.3746
+],
+  "geometry": {"coordinates":[23.25174,-10.3746],"type":"Point"}
+}

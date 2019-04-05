@@ -1,0 +1,67 @@
+{
+  "id": 1293256973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.19448,-5.53125,19.19448,-5.53125",
+    "geom:latitude":-5.53125,
+    "geom:longitude":19.19448,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kahoku",
+    "gn:country_code":"CD",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276435,
+    "gn:latitude":-5.53125,
+    "gn:longitude":19.19448,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kahoku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276435
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dbc60fdcf76219a15c9e80c6e72bc909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293256973,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293256973,
+    "wof:lastmodified":1536620337,
+    "wof:name":"Kahoku",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.19448,
+    -5.53125,
+    19.19448,
+    -5.53125
+],
+  "geometry": {"coordinates":[19.19448,-5.53125],"type":"Point"}
+}

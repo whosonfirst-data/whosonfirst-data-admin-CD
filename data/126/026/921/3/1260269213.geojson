@@ -1,0 +1,67 @@
+{
+  "id": 1260269213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.89746,3.40721,23.89746,3.40721",
+    "geom:latitude":3.40721,
+    "geom:longitude":23.89746,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sobia",
+    "gn:country_code":"CD",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205496,
+    "gn:latitude":3.40721,
+    "gn:longitude":23.89746,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sobia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205496
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4ff2719ddc914a29085e875afc1fe55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1260269213,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1260269213,
+    "wof:lastmodified":1536731327,
+    "wof:name":"Sobia",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.89746,
+    3.40721,
+    23.89746,
+    3.40721
+],
+  "geometry": {"coordinates":[23.89746,3.40721],"type":"Point"}
+}

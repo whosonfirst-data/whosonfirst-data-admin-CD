@@ -1,0 +1,67 @@
+{
+  "id": 1343529965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27412,-6.11683,22.27412,-6.11683",
+    "geom:latitude":-6.11683,
+    "geom:longitude":22.27412,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kabulu",
+    "gn:country_code":"CD",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283618,
+    "gn:latitude":-6.11683,
+    "gn:longitude":22.27412,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283618
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f37999d56a7a660d4ee8ad5c01abf247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1343529965,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343529965,
+    "wof:lastmodified":1536645524,
+    "wof:name":"Kabulu",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27412,
+    -6.11683,
+    22.27412,
+    -6.11683
+],
+  "geometry": {"coordinates":[22.27412,-6.11683],"type":"Point"}
+}

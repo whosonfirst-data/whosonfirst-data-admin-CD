@@ -1,0 +1,67 @@
+{
+  "id": 1193239429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.00426,-7.34366,28.00426,-7.34366",
+    "geom:latitude":-7.34366,
+    "geom:longitude":28.00426,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kazeba",
+    "gn:country_code":"CD",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946387,
+    "gn:latitude":-7.34366,
+    "gn:longitude":28.00426,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kazeba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946387
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9bdc6015803776fbd9b85064a3033c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1193239429,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1193239429,
+    "wof:lastmodified":1536380052,
+    "wof:name":"Kazeba",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00426,
+    -7.34366,
+    28.00426,
+    -7.34366
+],
+  "geometry": {"coordinates":[28.00426,-7.34366],"type":"Point"}
+}

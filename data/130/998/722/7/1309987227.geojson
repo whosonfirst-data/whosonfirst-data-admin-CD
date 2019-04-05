@@ -1,0 +1,67 @@
+{
+  "id": 1309987227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5939,-1.32633,29.5939,-1.32633",
+    "geom:latitude":-1.32633,
+    "geom:longitude":29.5939,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kinyamahura",
+    "gn:country_code":"CD",
+    "gn:dem":2077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212843,
+    "gn:latitude":-1.32633,
+    "gn:longitude":29.5939,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Kinyamahura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212843
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3562a211aef10df72043a453a5a772a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1309987227,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1309987227,
+    "wof:lastmodified":1536669650,
+    "wof:name":"Kinyamahura",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5939,
+    -1.32633,
+    29.5939,
+    -1.32633
+],
+  "geometry": {"coordinates":[29.5939,-1.32633],"type":"Point"}
+}

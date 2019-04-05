@@ -1,0 +1,72 @@
+{
+  "id": 1242837417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.8,-5.05,20.8,-5.05",
+    "geom:latitude":-5.05,
+    "geom:longitude":20.8,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mukalenge-Muana",
+    "gn:country_code":"CD",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208447,
+    "gn:latitude":-5.05,
+    "gn:longitude":20.8,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mukalenge-Muana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukalenge Mwana",
+        "Mukalenge",
+        "Mukalenge-Muana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208447
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6a49ee4f476f6a1e8a9a65540ffaef0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1242837417,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1242837417,
+    "wof:lastmodified":1537590360,
+    "wof:name":"Mukalenge-Muana",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.8,
+    -5.05,
+    20.8,
+    -5.05
+],
+  "geometry": {"coordinates":[20.8,-5.05],"type":"Point"}
+}

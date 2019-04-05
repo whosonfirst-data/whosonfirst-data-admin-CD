@@ -1,0 +1,67 @@
+{
+  "id": 1310099359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.40776,-3.65164,26.40776,-3.65164",
+    "geom:latitude":-3.65164,
+    "geom:longitude":26.40776,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mpesa",
+    "gn:country_code":"CD",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8432755,
+    "gn:latitude":-3.65164,
+    "gn:longitude":26.40776,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Mpesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8432755
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"124943d585e8e679f54160094cf8bb26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1310099359,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1310099359,
+    "wof:lastmodified":1537004620,
+    "wof:name":"Mpesa",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.40776,
+    -3.65164,
+    26.40776,
+    -3.65164
+],
+  "geometry": {"coordinates":[26.40776,-3.65164],"type":"Point"}
+}

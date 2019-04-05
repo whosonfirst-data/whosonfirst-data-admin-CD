@@ -1,0 +1,61 @@
+{
+  "id": 1209587025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.42609,2.76971,27.42609,2.76971",
+    "geom:latitude":2.76971,
+    "geom:longitude":27.42609,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Andrekoladi",
+    "gn:country_code":"CD",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145499,
+    "gn:latitude":2.76971,
+    "gn:longitude":27.42609,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Andrekoladi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145499
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"abb969e313f96d67bbd2262089fa75e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209587025
+        }
+    ],
+    "wof:id":1209587025,
+    "wof:lastmodified":1536282602,
+    "wof:name":"Andrekoladi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.42609,
+    2.76971,
+    27.42609,
+    2.76971
+],
+  "geometry": {"coordinates":[27.42609,2.76971],"type":"Point"}
+}

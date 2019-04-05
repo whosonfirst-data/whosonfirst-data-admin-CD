@@ -1,0 +1,67 @@
+{
+  "id": 1343435353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.04172,-5.08284,20.04172,-5.08284",
+    "geom:latitude":-5.08284,
+    "geom:longitude":20.04172,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Musenge-Kimbimbi",
+    "gn:country_code":"CD",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276908,
+    "gn:latitude":-5.08284,
+    "gn:longitude":20.04172,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Musenge-Kimbimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276908
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"31824f0c1f3ac38c1e308dd6e42e7bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1343435353,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343435353,
+    "wof:lastmodified":1536783036,
+    "wof:name":"Musenge-Kimbimbi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.04172,
+    -5.08284,
+    20.04172,
+    -5.08284
+],
+  "geometry": {"coordinates":[20.04172,-5.08284],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243318359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.705,3.44072,20.705,3.44072",
+    "geom:latitude":3.44072,
+    "geom:longitude":20.705,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bongala",
+    "gn:country_code":"CD",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218234,
+    "gn:latitude":3.44072,
+    "gn:longitude":20.705,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bongala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218234
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"50e207b1acc22a0623e09a9672b9014a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1243318359,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1243318359,
+    "wof:lastmodified":1536989521,
+    "wof:name":"Bongala",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.705,
+    3.44072,
+    20.705,
+    3.44072
+],
+  "geometry": {"coordinates":[20.705,3.44072],"type":"Point"}
+}

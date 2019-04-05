@@ -1,0 +1,67 @@
+{
+  "id": 1260145093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.29853,-5.78895,18.29853,-5.78895",
+    "geom:latitude":-5.78895,
+    "geom:longitude":18.29853,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kimafu-Mundondo",
+    "gn:country_code":"CD",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276229,
+    "gn:latitude":-5.78895,
+    "gn:longitude":18.29853,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kimafu-Mundondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276229
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"16cc8f1971d01e5ca218485ce579c600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1260145093,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260145093,
+    "wof:lastmodified":1536900700,
+    "wof:name":"Kimafu-Mundondo",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.29853,
+    -5.78895,
+    18.29853,
+    -5.78895
+],
+  "geometry": {"coordinates":[18.29853,-5.78895],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326707465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.53039,-2.03688,28.53039,-2.03688",
+    "geom:latitude":-2.03688,
+    "geom:longitude":28.53039,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tshabunda",
+    "gn:country_code":"CD",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205094,
+    "gn:latitude":-2.03688,
+    "gn:longitude":28.53039,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Tshabunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205094
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3f195370108e4bf2af8cf243de3ec1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1326707465,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1326707465,
+    "wof:lastmodified":1536731762,
+    "wof:name":"Tshabunda",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.53039,
+    -2.03688,
+    28.53039,
+    -2.03688
+],
+  "geometry": {"coordinates":[28.53039,-2.03688],"type":"Point"}
+}

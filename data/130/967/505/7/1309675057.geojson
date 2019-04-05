@@ -1,0 +1,67 @@
+{
+  "id": 1309675057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.57728,-6.28772,20.57728,-6.28772",
+    "geom:latitude":-6.28772,
+    "geom:longitude":20.57728,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ngenzua",
+    "gn:country_code":"CD",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207207,
+    "gn:latitude":-6.28772,
+    "gn:longitude":20.57728,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngenzua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207207
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fce93477d1f6ce04f674a15fdf210882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1309675057,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1309675057,
+    "wof:lastmodified":1536620678,
+    "wof:name":"Ngenzua",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.57728,
+    -6.28772,
+    20.57728,
+    -6.28772
+],
+  "geometry": {"coordinates":[20.57728,-6.28772],"type":"Point"}
+}

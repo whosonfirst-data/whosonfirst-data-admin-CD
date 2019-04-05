@@ -1,0 +1,61 @@
+{
+  "id": 1209486737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.51797,3.24381,26.51797,3.24381",
+    "geom:latitude":3.24381,
+    "geom:longitude":26.51797,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mbade",
+    "gn:country_code":"CD",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8223776,
+    "gn:latitude":3.24381,
+    "gn:longitude":26.51797,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mbade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8223776
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"324cb3365a5c5ebe32baa871ef93e750",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209486737
+        }
+    ],
+    "wof:id":1209486737,
+    "wof:lastmodified":1536285613,
+    "wof:name":"Mbade",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.51797,
+    3.24381,
+    26.51797,
+    3.24381
+],
+  "geometry": {"coordinates":[26.51797,3.24381],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209388873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88265,-5.41931,24.88265,-5.41931",
+    "geom:latitude":-5.41931,
+    "geom:longitude":24.88265,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Pania-Pinga",
+    "gn:country_code":"CD",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206395,
+    "gn:latitude":-5.41931,
+    "gn:longitude":24.88265,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Pania-Pinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piana Pinga",
+        "Pania-Pinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206395
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"057180b54879e3ea764117db037651be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209388873
+        }
+    ],
+    "wof:id":1209388873,
+    "wof:lastmodified":1537590335,
+    "wof:name":"Pania-Pinga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88265,
+    -5.41931,
+    24.88265,
+    -5.41931
+],
+  "geometry": {"coordinates":[24.88265,-5.41931],"type":"Point"}
+}

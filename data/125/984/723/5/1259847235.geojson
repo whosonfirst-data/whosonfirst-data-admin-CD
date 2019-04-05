@@ -1,0 +1,67 @@
+{
+  "id": 1259847235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4,1.93333,20.4,1.93333",
+    "geom:latitude":1.93333,
+    "geom:longitude":20.4,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ukaturaka",
+    "gn:country_code":"CD",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204511,
+    "gn:latitude":1.93333,
+    "gn:longitude":20.4,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ukaturaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204511
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"38cb40eca2a0d83a4a9bd8afac85f70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1259847235,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1259847235,
+    "wof:lastmodified":1536830489,
+    "wof:name":"Ukaturaka",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4,
+    1.93333,
+    20.4,
+    1.93333
+],
+  "geometry": {"coordinates":[20.4,1.93333],"type":"Point"}
+}

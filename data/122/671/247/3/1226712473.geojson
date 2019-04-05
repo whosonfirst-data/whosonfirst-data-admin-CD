@@ -1,0 +1,67 @@
+{
+  "id": 1226712473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.39313,-5.56454,17.39313,-5.56454",
+    "geom:latitude":-5.56454,
+    "geom:longitude":17.39313,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Nzashi",
+    "gn:country_code":"CD",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311840,
+    "gn:latitude":-5.56454,
+    "gn:longitude":17.39313,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nzashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311840
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"94d9b5a30ff2b903f6f4e00b0a8f3c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226712473,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226712473,
+    "wof:lastmodified":1536764007,
+    "wof:name":"Nzashi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.39313,
+    -5.56454,
+    17.39313,
+    -5.56454
+],
+  "geometry": {"coordinates":[17.39313,-5.56454],"type":"Point"}
+}

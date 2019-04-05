@@ -1,0 +1,67 @@
+{
+  "id": 1360253261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78146,-3.31875,18.78146,-3.31875",
+    "geom:latitude":-3.31875,
+    "geom:longitude":18.78146,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mpoku",
+    "gn:country_code":"CD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8446859,
+    "gn:latitude":-3.31875,
+    "gn:longitude":18.78146,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mpoku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8446859
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"78892bb192c4e5f7ef676b7dbbaa82d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1360253261,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1360253261,
+    "wof:lastmodified":1536703427,
+    "wof:name":"Mpoku",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78146,
+    -3.31875,
+    18.78146,
+    -3.31875
+],
+  "geometry": {"coordinates":[18.78146,-3.31875],"type":"Point"}
+}

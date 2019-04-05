@@ -1,0 +1,67 @@
+{
+  "id": 1225804007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.44143,-7.01661,23.44143,-7.01661",
+    "geom:latitude":-7.01661,
+    "geom:longitude":23.44143,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ditu",
+    "gn:country_code":"CD",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8520448,
+    "gn:latitude":-7.01661,
+    "gn:longitude":23.44143,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ditu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8520448
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"41b08b8cc1077f92b0d39116dbce538d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680457,
+            "locality_id":1225804007,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1225804007,
+    "wof:lastmodified":1537070991,
+    "wof:name":"Ditu",
+    "wof:parent_id":1091680457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.44143,
+    -7.01661,
+    23.44143,
+    -7.01661
+],
+  "geometry": {"coordinates":[23.44143,-7.01661],"type":"Point"}
+}

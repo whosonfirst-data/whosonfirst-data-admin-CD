@@ -1,0 +1,71 @@
+{
+  "id": 1327389841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.6822,-3.44751,18.6822,-3.44751",
+    "geom:latitude":-3.44751,
+    "geom:longitude":18.6822,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Sebie",
+    "gn:country_code":"CD",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311559,
+    "gn:latitude":-3.44751,
+    "gn:longitude":18.6822,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sebie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sebbe",
+        "Sebie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311559
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7e673fd5851f40ace5cdb6099143175d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1327389841,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327389841,
+    "wof:lastmodified":1537590502,
+    "wof:name":"Sebie",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.6822,
+    -3.44751,
+    18.6822,
+    -3.44751
+],
+  "geometry": {"coordinates":[18.6822,-3.44751],"type":"Point"}
+}

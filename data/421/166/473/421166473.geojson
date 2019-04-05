@@ -1,0 +1,81 @@
+{
+  "id": 421166473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.6,-0.8,29.6,-0.8",
+    "geom:latitude":-0.8,
+    "geom:longitude":29.6,
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ces_x_preferred":[
+        "Kigezi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30b2\u30b8"
+    ],
+    "qs:gn_country":"CD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":213222,
+    "qs:gn_pop":0,
+    "qs:name":"Kigezi",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Kisoro",
+    "qs:photos":68,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":68,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":266873,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":1452551,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":404,
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213222,
+        "gp:id":1452551,
+        "qs:id":266873,
+        "wd:id":"Q3565504"
+    },
+    "wof:country":"CD",
+    "wof:created":1459008691,
+    "wof:geomhash":"d7326025beb31a761963297ea2aad24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":421166473,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":421166473,
+    "wof:lastmodified":1527716105,
+    "wof:name":"Kigezi",
+    "wof:parent_id":85670021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6,
+    -0.8,
+    29.6,
+    -0.8
+],
+  "geometry": {"coordinates":[29.6,-0.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327202285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.73333,-3.35,16.73333,-3.35",
+    "geom:latitude":-3.35,
+    "geom:longitude":16.73333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Dumu",
+    "gn:country_code":"CD",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315974,
+    "gn:latitude":-3.35,
+    "gn:longitude":16.73333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315974
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fe031baca80d3f14d855f30dcb39dd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1327202285,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327202285,
+    "wof:lastmodified":1537012480,
+    "wof:name":"Dumu",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.73333,
+    -3.35,
+    16.73333,
+    -3.35
+],
+  "geometry": {"coordinates":[16.73333,-3.35],"type":"Point"}
+}

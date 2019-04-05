@@ -1,0 +1,83 @@
+{
+  "id": 1293407989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.48333,-5.86667,13.48333,-5.86667",
+    "geom:latitude":-5.86667,
+    "geom:longitude":13.48333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Loadi",
+    "gn:cc2":"CD",
+    "gn:country_code":"CD",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313679,
+    "gn:latitude":-5.86667,
+    "gn:longitude":13.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Loadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luidi",
+        "Luadi",
+        "Loadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679277,
+        85632281,
+        85667677,
+        1108799679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313679
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4d5f6281659bd29ed893c00082924903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679277,
+            "locality_id":1293407989,
+            "region_id":85669993
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799679,
+            "locality_id":1293407989,
+            "region_id":85667677
+        }
+    ],
+    "wof:id":1293407989,
+    "wof:lastmodified":1537590524,
+    "wof:name":"Loadi",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.48333,
+    -5.86667,
+    13.48333,
+    -5.86667
+],
+  "geometry": {"coordinates":[13.48333,-5.86667],"type":"Point"}
+}

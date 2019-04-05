@@ -1,0 +1,67 @@
+{
+  "id": 1293378143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33333,-0.6,29.33333,-0.6",
+    "geom:latitude":-0.6,
+    "geom:longitude":29.33333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kataro",
+    "gn:country_code":"CD",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213821,
+    "gn:latitude":-0.6,
+    "gn:longitude":29.33333,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kataro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213821
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a49e9753201c09f499bed6d186a6c259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1293378143,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1293378143,
+    "wof:lastmodified":1536945118,
+    "wof:name":"Kataro",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33333,
+    -0.6,
+    29.33333,
+    -0.6
+],
+  "geometry": {"coordinates":[29.33333,-0.6],"type":"Point"}
+}

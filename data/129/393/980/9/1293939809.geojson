@@ -1,0 +1,67 @@
+{
+  "id": 1293939809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.0827,-10.62448,23.0827,-10.62448",
+    "geom:latitude":-10.62448,
+    "geom:longitude":23.0827,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshiseng-a-Tambu Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466392,
+    "gn:latitude":-10.62448,
+    "gn:longitude":23.0827,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshiseng-a-Tambu Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466392
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"26a70f525d15ec758bb8c2533c1f33ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1293939809,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293939809,
+    "wof:lastmodified":1536630725,
+    "wof:name":"Tshiseng-a-Tambu Premiere",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.0827,
+    -10.62448,
+    23.0827,
+    -10.62448
+],
+  "geometry": {"coordinates":[23.0827,-10.62448],"type":"Point"}
+}

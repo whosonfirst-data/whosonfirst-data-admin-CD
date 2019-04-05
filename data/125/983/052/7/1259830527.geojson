@@ -1,0 +1,71 @@
+{
+  "id": 1259830527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.00303,3.50394,20.00303,3.50394",
+    "geom:latitude":3.50394,
+    "geom:longitude":20.00303,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bongimi Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218201,
+    "gn:latitude":3.50394,
+    "gn:longitude":20.00303,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bongimi Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bongimi Deuxi\u00e8me",
+        "Bongimi II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218201
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b31fa8ed16bbf78de9714d406078e843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1259830527,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1259830527,
+    "wof:lastmodified":1537590453,
+    "wof:name":"Bongimi Deuxieme",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.00303,
+    3.50394,
+    20.00303,
+    3.50394
+],
+  "geometry": {"coordinates":[20.00303,3.50394],"type":"Point"}
+}

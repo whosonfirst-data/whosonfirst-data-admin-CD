@@ -1,0 +1,67 @@
+{
+  "id": 1326906259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18331,-5.46572,21.18331,-5.46572",
+    "geom:latitude":-5.46572,
+    "geom:longitude":21.18331,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Masele-Mufuka",
+    "gn:country_code":"CD",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277290,
+    "gn:latitude":-5.46572,
+    "gn:longitude":21.18331,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Masele-Mufuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277290
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6cdb94c676a1df965be8d336e39ba2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1326906259,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1326906259,
+    "wof:lastmodified":1536942807,
+    "wof:name":"Masele-Mufuka",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18331,
+    -5.46572,
+    21.18331,
+    -5.46572
+],
+  "geometry": {"coordinates":[21.18331,-5.46572],"type":"Point"}
+}

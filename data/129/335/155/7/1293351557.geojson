@@ -1,0 +1,71 @@
+{
+  "id": 1293351557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98333,-6.88333,27.98333,-6.88333",
+    "geom:latitude":-6.88333,
+    "geom:longitude":27.98333,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kabulo Tende",
+    "gn:country_code":"CD",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215430,
+    "gn:latitude":-6.88333,
+    "gn:longitude":27.98333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabulo Tende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabulo",
+        "Kabulo Tende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215430
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"205dba211ba82c1726a2f739d71ab14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1293351557,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293351557,
+    "wof:lastmodified":1537590425,
+    "wof:name":"Kabulo Tende",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98333,
+    -6.88333,
+    27.98333,
+    -6.88333
+],
+  "geometry": {"coordinates":[27.98333,-6.88333],"type":"Point"}
+}

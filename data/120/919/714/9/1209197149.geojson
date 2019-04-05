@@ -1,0 +1,61 @@
+{
+  "id": 1209197149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.26726,-7.32131,25.26726,-7.32131",
+    "geom:latitude":-7.32131,
+    "geom:longitude":25.26726,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Maloba",
+    "gn:country_code":"CD",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9077357,
+    "gn:latitude":-7.32131,
+    "gn:longitude":25.26726,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Maloba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9077357
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2c69e2be2ca7490f0b5b1a59b851ff00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209197149
+        }
+    ],
+    "wof:id":1209197149,
+    "wof:lastmodified":1536294732,
+    "wof:name":"Maloba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.26726,
+    -7.32131,
+    25.26726,
+    -7.32131
+],
+  "geometry": {"coordinates":[25.26726,-7.32131],"type":"Point"}
+}

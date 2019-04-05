@@ -1,0 +1,67 @@
+{
+  "id": 1226805627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.17478,-10.56237,23.17478,-10.56237",
+    "geom:latitude":-10.56237,
+    "geom:longitude":23.17478,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mayanda Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466386,
+    "gn:latitude":-10.56237,
+    "gn:longitude":23.17478,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mayanda Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466386
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4262025f2f07564352a7c7d5aa10183d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226805627,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226805627,
+    "wof:lastmodified":1536627716,
+    "wof:name":"Mayanda Premiere",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.17478,
+    -10.56237,
+    23.17478,
+    -10.56237
+],
+  "geometry": {"coordinates":[23.17478,-10.56237],"type":"Point"}
+}

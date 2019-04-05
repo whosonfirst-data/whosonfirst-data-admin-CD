@@ -1,0 +1,61 @@
+{
+  "id": 1209405445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90081,-5.22798,14.90081,-5.22798",
+    "geom:latitude":-5.22798,
+    "geom:longitude":14.90081,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Loma",
+    "gn:country_code":"CD",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325032,
+    "gn:latitude":-5.22798,
+    "gn:longitude":14.90081,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Loma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325032
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6241276001536c7b9dee36e5684258ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209405445
+        }
+    ],
+    "wof:id":1209405445,
+    "wof:lastmodified":1536288010,
+    "wof:name":"Loma",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90081,
+    -5.2279800000000005,
+    14.90081,
+    -5.2279800000000005
+],
+  "geometry": {"coordinates":[14.90081,-5.22798],"type":"Point"}
+}

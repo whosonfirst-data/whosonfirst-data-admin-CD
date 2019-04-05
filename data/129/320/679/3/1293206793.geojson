@@ -1,0 +1,67 @@
+{
+  "id": 1293206793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.96157,-6.31611,23.96157,-6.31611",
+    "geom:latitude":-6.31611,
+    "geom:longitude":23.96157,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gulungu",
+    "gn:country_code":"CD",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216204,
+    "gn:latitude":-6.31611,
+    "gn:longitude":23.96157,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Gulungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216204
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ec38641a3a14465aaa110c400bc853bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1293206793,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1293206793,
+    "wof:lastmodified":1536694893,
+    "wof:name":"Gulungu",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.96157,
+    -6.31611,
+    23.96157,
+    -6.31611
+],
+  "geometry": {"coordinates":[23.96157,-6.31611],"type":"Point"}
+}

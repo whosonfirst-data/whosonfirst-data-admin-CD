@@ -1,0 +1,67 @@
+{
+  "id": 1292966849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46599,-5.39036,21.46599,-5.39036",
+    "geom:latitude":-5.39036,
+    "geom:longitude":21.46599,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshibanda",
+    "gn:country_code":"CD",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277449,
+    "gn:latitude":-5.39036,
+    "gn:longitude":21.46599,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshibanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277449
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2e5cf79d47c8a6586c9be78416f30654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1292966849,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1292966849,
+    "wof:lastmodified":1537039012,
+    "wof:name":"Tshibanda",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46599,
+    -5.39036,
+    21.46599,
+    -5.39036
+],
+  "geometry": {"coordinates":[21.46599,-5.39036],"type":"Point"}
+}

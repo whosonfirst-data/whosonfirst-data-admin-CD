@@ -1,0 +1,67 @@
+{
+  "id": 1327290751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.58673,3.04425,21.58673,3.04425",
+    "geom:latitude":3.04425,
+    "geom:longitude":21.58673,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Momongo",
+    "gn:country_code":"CD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208803,
+    "gn:latitude":3.04425,
+    "gn:longitude":21.58673,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Momongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208803
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f9b0777eba37d7190d50c83bde2f0ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1327290751,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327290751,
+    "wof:lastmodified":1536884976,
+    "wof:name":"Momongo",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.58673,
+    3.04425,
+    21.58673,
+    3.04425
+],
+  "geometry": {"coordinates":[21.58673,3.04425],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193114269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.21685,-4.13424,29.21685,-4.13424",
+    "geom:latitude":-4.13424,
+    "geom:longitude":29.21685,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Unano",
+    "gn:country_code":"CD",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8251419,
+    "gn:latitude":-4.13424,
+    "gn:longitude":29.21685,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Unano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8251419
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"24c319e90a3f329f01671a232970d2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1193114269,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1193114269,
+    "wof:lastmodified":1536369868,
+    "wof:name":"Unano",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.21685,
+    -4.13424,
+    29.21685,
+    -4.13424
+],
+  "geometry": {"coordinates":[29.21685,-4.13424],"type":"Point"}
+}

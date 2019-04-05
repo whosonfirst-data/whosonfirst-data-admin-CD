@@ -1,0 +1,67 @@
+{
+  "id": 1343846173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.15853,-1.67968,28.15853,-1.67968",
+    "geom:latitude":-1.67968,
+    "geom:longitude":28.15853,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nakele",
+    "gn:country_code":"CD",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435573,
+    "gn:latitude":-1.67968,
+    "gn:longitude":28.15853,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Nakele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435573
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"10fd3eeeaa4cd5a15d5c1d08a7f651aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1343846173,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1343846173,
+    "wof:lastmodified":1536687255,
+    "wof:name":"Nakele",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.15853,
+    -1.67968,
+    28.15853,
+    -1.67968
+],
+  "geometry": {"coordinates":[28.15853,-1.67968],"type":"Point"}
+}

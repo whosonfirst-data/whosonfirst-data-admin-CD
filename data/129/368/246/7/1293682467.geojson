@@ -1,0 +1,67 @@
+{
+  "id": 1293682467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.11708,-4.67512,13.11708,-4.67512",
+    "geom:latitude":-4.67512,
+    "geom:longitude":13.11708,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kai-Mbaku",
+    "gn:country_code":"CD",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315241,
+    "gn:latitude":-4.67512,
+    "gn:longitude":13.11708,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kai-Mbaku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315241
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7e2cc61f779204793f6a73998215c87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1293682467,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1293682467,
+    "wof:lastmodified":1537002507,
+    "wof:name":"Kai-Mbaku",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.11708,
+    -4.67512,
+    13.11708,
+    -4.67512
+],
+  "geometry": {"coordinates":[13.11708,-4.67512],"type":"Point"}
+}

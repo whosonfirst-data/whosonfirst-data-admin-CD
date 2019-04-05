@@ -1,0 +1,67 @@
+{
+  "id": 1226293505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.02514,-5.7687,29.02514,-5.7687",
+    "geom:latitude":-5.7687,
+    "geom:longitude":29.02514,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Miketo",
+    "gn:country_code":"CD",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209130,
+    "gn:latitude":-5.7687,
+    "gn:longitude":29.02514,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Miketo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209130
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5ad3fcc36cd98f4f4cb02d7489bae0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1226293505,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226293505,
+    "wof:lastmodified":1536863617,
+    "wof:name":"Miketo",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.02514,
+    -5.7687,
+    29.02514,
+    -5.7687
+],
+  "geometry": {"coordinates":[29.02514,-5.7687],"type":"Point"}
+}

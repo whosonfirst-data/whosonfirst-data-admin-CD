@@ -1,0 +1,67 @@
+{
+  "id": 1276931427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.75763,4.32573,20.75763,4.32573",
+    "geom:latitude":4.32573,
+    "geom:longitude":20.75763,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Tima",
+    "gn:country_code":"CD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8246385,
+    "gn:latitude":4.32573,
+    "gn:longitude":20.75763,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8246385
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"11717d25a662f701289a9348728d434f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679653,
+            "locality_id":1276931427,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276931427,
+    "wof:lastmodified":1536971891,
+    "wof:name":"Tima",
+    "wof:parent_id":1091679653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.75763,
+    4.32573,
+    20.75763,
+    4.32573
+],
+  "geometry": {"coordinates":[20.75763,4.32573],"type":"Point"}
+}

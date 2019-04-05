@@ -1,0 +1,71 @@
+{
+  "id": 1343728707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63459,1.81179,30.63459,1.81179",
+    "geom:latitude":1.81179,
+    "geom:longitude":30.63459,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Landjo",
+    "gn:country_code":"CD",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212087,
+    "gn:latitude":1.81179,
+    "gn:longitude":30.63459,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Landjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laudjo",
+        "Landjo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212087
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"653942742d589b5ddf830125f22e05b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1343728707,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343728707,
+    "wof:lastmodified":1537590390,
+    "wof:name":"Landjo",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63459000000001,
+    1.81179,
+    30.63459000000001,
+    1.81179
+],
+  "geometry": {"coordinates":[30.63459000000001,1.81179],"type":"Point"}
+}

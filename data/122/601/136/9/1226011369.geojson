@@ -1,0 +1,67 @@
+{
+  "id": 1226011369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27296,2.2726,30.27296,2.2726",
+    "geom:latitude":2.2726,
+    "geom:longitude":30.27296,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dube",
+    "gn:country_code":"CD",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143188,
+    "gn:latitude":2.2726,
+    "gn:longitude":30.27296,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dube",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143188
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"233c54094ab255860a84043183a878e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1226011369,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1226011369,
+    "wof:lastmodified":1536775479,
+    "wof:name":"Dube",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27296,
+    2.2726,
+    30.27296,
+    2.2726
+],
+  "geometry": {"coordinates":[30.27296,2.2726],"type":"Point"}
+}

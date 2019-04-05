@@ -1,0 +1,64 @@
+{
+  "id": 1209686637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.94608,-11.73151,25.94608,-11.73151",
+    "geom:latitude":-11.73151,
+    "geom:longitude":25.94608,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kikuyu",
+    "gn:country_code":"CD",
+    "gn:dem":1433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922758,
+    "gn:latitude":-11.73151,
+    "gn:longitude":25.94608,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kikuyu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kukuyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922758
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fef0408056aa248faec1bbd67b6f88df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209686637
+        }
+    ],
+    "wof:id":1209686637,
+    "wof:lastmodified":1537590488,
+    "wof:name":"Kikuyu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.94608,
+    -11.73151,
+    25.94608,
+    -11.73151
+],
+  "geometry": {"coordinates":[25.94608,-11.73151],"type":"Point"}
+}

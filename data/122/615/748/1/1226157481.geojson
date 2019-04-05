@@ -1,0 +1,67 @@
+{
+  "id": 1226157481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25972,-4.39278,15.25972,-4.39278",
+    "geom:latitude":-4.39278,
+    "geom:longitude":15.25972,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Djelo Binza",
+    "gn:country_code":"CD",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2593322,
+    "gn:latitude":-4.39278,
+    "gn:longitude":15.25972,
+    "gn:modification_date":"1999-12-14",
+    "gn:name":"Djelo Binza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2593322
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"19f6aacb13bd35bbf84f3a3014853c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679225,
+            "locality_id":1226157481,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1226157481,
+    "wof:lastmodified":1537058171,
+    "wof:name":"Djelo Binza",
+    "wof:parent_id":1091679225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.25972,
+    -4.39278,
+    15.25972,
+    -4.39278
+],
+  "geometry": {"coordinates":[15.25972,-4.39278],"type":"Point"}
+}

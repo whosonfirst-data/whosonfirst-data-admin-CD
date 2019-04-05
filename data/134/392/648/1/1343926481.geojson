@@ -1,0 +1,67 @@
+{
+  "id": 1343926481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.3625,-5.84306,22.3625,-5.84306",
+    "geom:latitude":-5.84306,
+    "geom:longitude":22.3625,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kabalele",
+    "gn:country_code":"CD",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":413113,
+    "gn:latitude":-5.84306,
+    "gn:longitude":22.3625,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabalele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":413113
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9b1a1e2247d8baf44116e2f38a425d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680487,
+            "locality_id":1343926481,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343926481,
+    "wof:lastmodified":1537066225,
+    "wof:name":"Kabalele",
+    "wof:parent_id":1091680487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.3625,
+    -5.84306,
+    22.3625,
+    -5.84306
+],
+  "geometry": {"coordinates":[22.3625,-5.84306],"type":"Point"}
+}

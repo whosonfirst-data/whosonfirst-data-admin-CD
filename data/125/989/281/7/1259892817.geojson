@@ -1,0 +1,67 @@
+{
+  "id": 1259892817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.15314,-0.09493,18.15314,-0.09493",
+    "geom:latitude":-0.09493,
+    "geom:longitude":18.15314,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bandaka",
+    "gn:country_code":"CD",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281646,
+    "gn:latitude":-0.09493,
+    "gn:longitude":18.15314,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bandaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281646
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aec3fed5c6f078cb8acaf1464bb772e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1259892817,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1259892817,
+    "wof:lastmodified":1536766012,
+    "wof:name":"Bandaka",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.15314,
+    -0.09493,
+    18.15314,
+    -0.09493
+],
+  "geometry": {"coordinates":[18.15314,-0.09493],"type":"Point"}
+}

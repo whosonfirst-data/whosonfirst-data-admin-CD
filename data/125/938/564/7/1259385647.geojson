@@ -1,0 +1,67 @@
+{
+  "id": 1259385647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20983,1.00107,20.20983,1.00107",
+    "geom:latitude":1.00107,
+    "geom:longitude":20.20983,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Waka",
+    "gn:country_code":"CD",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204347,
+    "gn:latitude":1.00107,
+    "gn:longitude":20.20983,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Waka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204347
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c66b474cc1c7e2e0ccec68bd58ea6e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1259385647,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1259385647,
+    "wof:lastmodified":1536998359,
+    "wof:name":"Waka",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20983,
+    1.00107,
+    20.20983,
+    1.00107
+],
+  "geometry": {"coordinates":[20.20983,1.00107],"type":"Point"}
+}

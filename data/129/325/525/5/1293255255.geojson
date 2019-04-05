@@ -1,0 +1,67 @@
+{
+  "id": 1293255255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.98333,-4.03333,21.98333,-4.03333",
+    "geom:latitude":-4.03333,
+    "geom:longitude":21.98333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Isamba",
+    "gn:country_code":"CD",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215814,
+    "gn:latitude":-4.03333,
+    "gn:longitude":21.98333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Isamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215814
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"55534c5a092d216e1997b70379edaca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1293255255,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293255255,
+    "wof:lastmodified":1536622890,
+    "wof:name":"Isamba",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.98333,
+    -4.03333,
+    21.98333,
+    -4.03333
+],
+  "geometry": {"coordinates":[21.98333,-4.03333],"type":"Point"}
+}

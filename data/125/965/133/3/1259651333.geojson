@@ -1,0 +1,67 @@
+{
+  "id": 1259651333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.68141,2.24257,21.68141,2.24257",
+    "geom:latitude":2.24257,
+    "geom:longitude":21.68141,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Mapasa",
+    "gn:country_code":"CD",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209576,
+    "gn:latitude":2.24257,
+    "gn:longitude":21.68141,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mapasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209576
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d95e8535a54cf6f392134f48bcfca32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1259651333,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1259651333,
+    "wof:lastmodified":1536614705,
+    "wof:name":"Mapasa",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.68141,
+    2.24257,
+    21.68141,
+    2.24257
+],
+  "geometry": {"coordinates":[21.68141,2.24257],"type":"Point"}
+}

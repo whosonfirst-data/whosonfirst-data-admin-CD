@@ -1,0 +1,61 @@
+{
+  "id": 1209311929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85707,-4.09847,15.85707,-4.09847",
+    "geom:latitude":-4.09847,
+    "geom:longitude":15.85707,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kamanka",
+    "gn:country_code":"CD",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10048982,
+    "gn:latitude":-4.09847,
+    "gn:longitude":15.85707,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Kamanka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10048982
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"99e57a1b5704ec9f1c1e06d00cd81df5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209311929
+        }
+    ],
+    "wof:id":1209311929,
+    "wof:lastmodified":1536290997,
+    "wof:name":"Kamanka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.857070000000002,
+    -4.09847,
+    15.857070000000002,
+    -4.09847
+],
+  "geometry": {"coordinates":[15.85707,-4.09847],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226620655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.75311,-5.87556,19.75311,-5.87556",
+    "geom:latitude":-5.87556,
+    "geom:longitude":19.75311,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mohangi",
+    "gn:country_code":"CD",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276717,
+    "gn:latitude":-5.87556,
+    "gn:longitude":19.75311,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mohangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276717
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8dc53cb7805b787f39bd3ab270d47d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1226620655,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226620655,
+    "wof:lastmodified":1536895508,
+    "wof:name":"Mohangi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.75311,
+    -5.87556,
+    19.75311,
+    -5.87556
+],
+  "geometry": {"coordinates":[19.75311,-5.87556],"type":"Point"}
+}

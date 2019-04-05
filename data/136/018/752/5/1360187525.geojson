@@ -1,0 +1,67 @@
+{
+  "id": 1360187525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58213,-0.70511,17.58213,-0.70511",
+    "geom:latitude":-0.70511,
+    "geom:longitude":17.58213,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gombe",
+    "gn:country_code":"CD",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315708,
+    "gn:latitude":-0.70511,
+    "gn:longitude":17.58213,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Gombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315708
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e6404ac92d74f5e0b55c40ccb7fda88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1360187525,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1360187525,
+    "wof:lastmodified":1536797972,
+    "wof:name":"Gombe",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58213,
+    -0.70511,
+    17.58213,
+    -0.70511
+],
+  "geometry": {"coordinates":[17.58213,-0.70511],"type":"Point"}
+}

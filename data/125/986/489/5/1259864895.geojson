@@ -1,0 +1,70 @@
+{
+  "id": 1259864895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6005,-4.90561,13.6005,-4.90561",
+    "geom:latitude":-4.90561,
+    "geom:longitude":13.6005,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sundi-Mawawa",
+    "gn:country_code":"CD",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311307,
+    "gn:latitude":-4.90561,
+    "gn:longitude":13.6005,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Sundi-Mawawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sundi-Mahwahwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311307
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"160f6ca4e1cb75bf8ff84c35bde1d3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1259864895,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1259864895,
+    "wof:lastmodified":1537590500,
+    "wof:name":"Sundi-Mawawa",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6005,
+    -4.90561,
+    13.6005,
+    -4.90561
+],
+  "geometry": {"coordinates":[13.6005,-4.90561],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226591363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96953,2.48936,18.96953,2.48936",
+    "geom:latitude":2.48936,
+    "geom:longitude":18.96953,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Busu-Anzole",
+    "gn:country_code":"CD",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8244450,
+    "gn:latitude":2.48936,
+    "gn:longitude":18.96953,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Busu-Anzole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8244450
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"89cfd583c5f88bec0fe894ac7263d6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1226591363,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226591363,
+    "wof:lastmodified":1536935741,
+    "wof:name":"Busu-Anzole",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96953,
+    2.48936,
+    18.96953,
+    2.48936
+],
+  "geometry": {"coordinates":[18.96953,2.48936],"type":"Point"}
+}

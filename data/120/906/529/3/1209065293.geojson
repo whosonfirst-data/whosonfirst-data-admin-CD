@@ -1,0 +1,61 @@
+{
+  "id": 1209065293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.9,-4.86667,24.9,-4.86667",
+    "geom:latitude":-4.86667,
+    "geom:longitude":24.9,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ojeka",
+    "gn:country_code":"CD",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206757,
+    "gn:latitude":-4.86667,
+    "gn:longitude":24.9,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ojeka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206757
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fa2f138e7212e26fcd2e34d8aae628a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209065293
+        }
+    ],
+    "wof:id":1209065293,
+    "wof:lastmodified":1536298824,
+    "wof:name":"Ojeka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.9,
+    -4.86667,
+    24.9,
+    -4.86667
+],
+  "geometry": {"coordinates":[24.9,-4.86667],"type":"Point"}
+}

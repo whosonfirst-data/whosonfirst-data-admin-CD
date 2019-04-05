@@ -1,0 +1,70 @@
+{
+  "id": 1310011819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.5072,-6.56391,23.5072,-6.56391",
+    "geom:latitude":-6.56391,
+    "geom:longitude":23.5072,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mulunguyi",
+    "gn:country_code":"CD",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208147,
+    "gn:latitude":-6.56391,
+    "gn:longitude":23.5072,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Mulunguyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mulunguie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208147
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"64c5c6bc8fe01b74fa0ccb0dc6a92289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1310011819,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1310011819,
+    "wof:lastmodified":1537590356,
+    "wof:name":"Mulunguyi",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.5072,
+    -6.56391,
+    23.5072,
+    -6.56391
+],
+  "geometry": {"coordinates":[23.5072,-6.56391],"type":"Point"}
+}

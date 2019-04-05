@@ -1,0 +1,67 @@
+{
+  "id": 1260246239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.56151,-7.89617,23.56151,-7.89617",
+    "geom:latitude":-7.89617,
+    "geom:longitude":23.56151,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kombo",
+    "gn:country_code":"CD",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212398,
+    "gn:latitude":-7.89617,
+    "gn:longitude":23.56151,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212398
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ff8808a4ee4b273af53acd0e4da79c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1260246239,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1260246239,
+    "wof:lastmodified":1536762737,
+    "wof:name":"Kombo",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.56151,
+    -7.89617,
+    23.56151,
+    -7.89617
+],
+  "geometry": {"coordinates":[23.56151,-7.89617],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309992161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.85136,2.85689,23.85136,2.85689",
+    "geom:latitude":2.85689,
+    "geom:longitude":23.85136,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kabambare",
+    "gn:country_code":"CD",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215647,
+    "gn:latitude":2.85689,
+    "gn:longitude":23.85136,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabambare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamambare",
+        "Kabambare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215647
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8b82b4f73ad9b8db97dab28ae4788d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1309992161,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1309992161,
+    "wof:lastmodified":1537590428,
+    "wof:name":"Kabambare",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.85136,
+    2.85689,
+    23.85136,
+    2.85689
+],
+  "geometry": {"coordinates":[23.85136,2.85689],"type":"Point"}
+}

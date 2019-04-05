@@ -1,0 +1,67 @@
+{
+  "id": 1226724377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.50117,-3.30223,17.50117,-3.30223",
+    "geom:latitude":-3.30223,
+    "geom:longitude":17.50117,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Bunsumu",
+    "gn:country_code":"CD",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8433896,
+    "gn:latitude":-3.30223,
+    "gn:longitude":17.50117,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bunsumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8433896
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"975299a724913062cbf0897aafe71c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679353,
+            "locality_id":1226724377,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226724377,
+    "wof:lastmodified":1536746101,
+    "wof:name":"Bunsumu",
+    "wof:parent_id":1091679353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.50117,
+    -3.30223,
+    17.50117,
+    -3.30223
+],
+  "geometry": {"coordinates":[17.50117,-3.30223],"type":"Point"}
+}

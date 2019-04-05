@@ -1,0 +1,67 @@
+{
+  "id": 1293845677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.78623,-3.67059,18.78623,-3.67059",
+    "geom:latitude":-3.67059,
+    "geom:longitude":18.78623,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ikwangola",
+    "gn:country_code":"CD",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8446906,
+    "gn:latitude":-3.67059,
+    "gn:longitude":18.78623,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ikwangola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8446906
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f968eb4860a25c8471cc137c45614737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293845677,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293845677,
+    "wof:lastmodified":1536768421,
+    "wof:name":"Ikwangola",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.78623,
+    -3.67059,
+    18.78623,
+    -3.67059
+],
+  "geometry": {"coordinates":[18.78623,-3.67059],"type":"Point"}
+}

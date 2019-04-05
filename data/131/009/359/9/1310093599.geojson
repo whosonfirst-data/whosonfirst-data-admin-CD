@@ -1,0 +1,67 @@
+{
+  "id": 1310093599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.02028,-0.10361,29.02028,-0.10361",
+    "geom:latitude":-0.10361,
+    "geom:longitude":29.02028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mangada",
+    "gn:country_code":"CD",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209670,
+    "gn:latitude":-0.10361,
+    "gn:longitude":29.02028,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Mangada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209670
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a46ef7be9c9d6dca442ade57d847288f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1310093599,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1310093599,
+    "wof:lastmodified":1537012999,
+    "wof:name":"Mangada",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.02028,
+    -0.10361,
+    29.02028,
+    -0.10361
+],
+  "geometry": {"coordinates":[29.02028,-0.10361],"type":"Point"}
+}

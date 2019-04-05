@@ -1,0 +1,63 @@
+{
+  "id": 1292906327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7149,-0.49498,17.7149,-0.49498",
+    "geom:latitude":-0.49498,
+    "geom:longitude":17.7149,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Balise",
+    "gn:country_code":"CD",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8251199,
+    "gn:latitude":-0.49498,
+    "gn:longitude":17.7149,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Balise",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8251199
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"be6c19badb54efdd01cee1852126c4b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1292906327,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292906327,
+    "wof:lastmodified":1536629039,
+    "wof:name":"Balise",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7149,
+    -0.49498,
+    17.7149,
+    -0.49498
+],
+  "geometry": {"coordinates":[17.7149,-0.49498],"type":"Point"}
+}

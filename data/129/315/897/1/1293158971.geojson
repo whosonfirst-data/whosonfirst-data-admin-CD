@@ -1,0 +1,71 @@
+{
+  "id": 1293158971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03348,-6.42316,22.03348,-6.42316",
+    "geom:latitude":-6.42316,
+    "geom:longitude":22.03348,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Lusamba-Tukwanga",
+    "gn:country_code":"CD",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210382,
+    "gn:latitude":-6.42316,
+    "gn:longitude":22.03348,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lusamba-Tukwanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lusamba",
+        "Lusamba-Tukwanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210382
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6795e3e0d2dc5d9174506cf9c5cdbe8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1293158971,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293158971,
+    "wof:lastmodified":1537590379,
+    "wof:name":"Lusamba-Tukwanga",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03348,
+    -6.42316,
+    22.03348,
+    -6.42316
+],
+  "geometry": {"coordinates":[22.03348,-6.42316],"type":"Point"}
+}

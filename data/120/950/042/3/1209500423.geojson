@@ -1,0 +1,61 @@
+{
+  "id": 1209500423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.01553,-4.54166,14.01553,-4.54166",
+    "geom:latitude":-4.54166,
+    "geom:longitude":14.01553,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Masamli",
+    "gn:country_code":"CD",
+    "gn:dem":597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443167,
+    "gn:latitude":-4.54166,
+    "gn:longitude":14.01553,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Masamli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443167
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"26dda3db71840141b8cbd95955c28224",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209500423
+        }
+    ],
+    "wof:id":1209500423,
+    "wof:lastmodified":1536285201,
+    "wof:name":"Masamli",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.015529999999998,
+    -4.54166,
+    14.015529999999998,
+    -4.54166
+],
+  "geometry": {"coordinates":[14.01553,-4.54166],"type":"Point"}
+}

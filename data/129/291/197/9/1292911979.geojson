@@ -1,0 +1,67 @@
+{
+  "id": 1292911979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2,1.63333,18.2,1.63333",
+    "geom:latitude":1.63333,
+    "geom:longitude":18.2,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bolengana",
+    "gn:country_code":"CD",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316771,
+    "gn:latitude":1.63333,
+    "gn:longitude":18.2,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bolengana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316771
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e33f85079d4492e041958cf31dbd119f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1292911979,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1292911979,
+    "wof:lastmodified":1536620478,
+    "wof:name":"Bolengana",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2,
+    1.63333,
+    18.2,
+    1.63333
+],
+  "geometry": {"coordinates":[18.2,1.63333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310556207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.17359,3.39755,22.17359,3.39755",
+    "geom:latitude":3.39755,
+    "geom:longitude":22.17359,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bokonzi",
+    "gn:country_code":"CD",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218505,
+    "gn:latitude":3.39755,
+    "gn:longitude":22.17359,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bokonzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218505
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5708e8285a625ea52fe2d813323c7045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1310556207,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310556207,
+    "wof:lastmodified":1536842888,
+    "wof:name":"Bokonzi",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.17359,
+    3.39755,
+    22.17359,
+    3.39755
+],
+  "geometry": {"coordinates":[22.17359,3.39755],"type":"Point"}
+}

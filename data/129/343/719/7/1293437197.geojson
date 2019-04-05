@@ -1,0 +1,70 @@
+{
+  "id": 1293437197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.27385,4.09556,19.27385,4.09556",
+    "geom:latitude":4.09556,
+    "geom:longitude":19.27385,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Togbo-Ngosia",
+    "gn:country_code":"CD",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311188,
+    "gn:latitude":4.09556,
+    "gn:longitude":19.27385,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Togbo-Ngosia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Togbo-Ngonsia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311188
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4ef50afba03e30579986601e4bfb6508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1293437197,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293437197,
+    "wof:lastmodified":1537590498,
+    "wof:name":"Togbo-Ngosia",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.27385,
+    4.09556,
+    19.27385,
+    4.09556
+],
+  "geometry": {"coordinates":[19.27385,4.09556],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226400231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.78639,-2.88428,17.78639,-2.88428",
+    "geom:latitude":-2.88428,
+    "geom:longitude":17.78639,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Moshemokwa",
+    "gn:country_code":"CD",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431975,
+    "gn:latitude":-2.88428,
+    "gn:longitude":17.78639,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Moshemokwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431975
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0ba72082a3a7b1c68537576e08cb11de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1226400231,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226400231,
+    "wof:lastmodified":1536711490,
+    "wof:name":"Moshemokwa",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.78639,
+    -2.88428,
+    17.78639,
+    -2.88428
+],
+  "geometry": {"coordinates":[17.78639,-2.88428],"type":"Point"}
+}

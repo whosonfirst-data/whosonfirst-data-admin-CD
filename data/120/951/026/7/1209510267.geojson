@@ -1,0 +1,61 @@
+{
+  "id": 1209510267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.84619,-2.60179,25.84619,-2.60179",
+    "geom:latitude":-2.60179,
+    "geom:longitude":25.84619,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Lotemo",
+    "gn:country_code":"CD",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211282,
+    "gn:latitude":-2.60179,
+    "gn:longitude":25.84619,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Lotemo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211282
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b1b596ebdc0971a88e6d916f07b69304",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209510267
+        }
+    ],
+    "wof:id":1209510267,
+    "wof:lastmodified":1536284904,
+    "wof:name":"Lotemo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.84619,
+    -2.6017900000000003,
+    25.84619,
+    -2.6017900000000003
+],
+  "geometry": {"coordinates":[25.84619,-2.60179],"type":"Point"}
+}

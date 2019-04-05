@@ -1,0 +1,64 @@
+{
+  "id": 1209390761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.65429,-7.22076,21.65429,-7.22076",
+    "geom:latitude":-7.22076,
+    "geom:longitude":21.65429,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Munafuka",
+    "gn:country_code":"CD",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440397,
+    "gn:latitude":-7.22076,
+    "gn:longitude":21.65429,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Munafuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munafuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440397
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e035c192f0b682ac33b2d5239f0e9e0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209390761
+        }
+    ],
+    "wof:id":1209390761,
+    "wof:lastmodified":1537590574,
+    "wof:name":"Munafuka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.65429,
+    -7.22076,
+    21.65429,
+    -7.22076
+],
+  "geometry": {"coordinates":[21.65429,-7.22076],"type":"Point"}
+}

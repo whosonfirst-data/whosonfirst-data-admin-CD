@@ -1,0 +1,67 @@
+{
+  "id": 1309876003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.02315,-9.59972,25.02315,-9.59972",
+    "geom:latitude":-9.59972,
+    "geom:longitude":25.02315,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kakienge",
+    "gn:country_code":"CD",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215153,
+    "gn:latitude":-9.59972,
+    "gn:longitude":25.02315,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kakienge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215153
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"129e953d80fd46a10ac2deea8d6d0e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1309876003,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1309876003,
+    "wof:lastmodified":1536829064,
+    "wof:name":"Kakienge",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.02315,
+    -9.59972,
+    25.02315,
+    -9.59972
+],
+  "geometry": {"coordinates":[25.02315,-9.59972],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209394951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.075,-3.87889,29.075,-3.87889",
+    "geom:latitude":-3.87889,
+    "geom:longitude":29.075,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sango",
+    "gn:country_code":"CD",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387580,
+    "gn:latitude":-3.87889,
+    "gn:longitude":29.075,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387580
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b6364a96b46a2fa0a7cd7b0e0343e196",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209394951
+        }
+    ],
+    "wof:id":1209394951,
+    "wof:lastmodified":1536288334,
+    "wof:name":"Sango",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.075,
+    -3.87889,
+    29.075,
+    -3.87889
+],
+  "geometry": {"coordinates":[29.075,-3.87889],"type":"Point"}
+}

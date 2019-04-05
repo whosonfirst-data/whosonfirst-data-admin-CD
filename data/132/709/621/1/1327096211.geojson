@@ -1,0 +1,67 @@
+{
+  "id": 1327096211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.66319,-5.50397,18.66319,-5.50397",
+    "geom:latitude":-5.50397,
+    "geom:longitude":18.66319,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ngula",
+    "gn:country_code":"CD",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311999,
+    "gn:latitude":-5.50397,
+    "gn:longitude":18.66319,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311999
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"954068317b761674401f4451fc37282e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1327096211,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327096211,
+    "wof:lastmodified":1536668553,
+    "wof:name":"Ngula",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.66319,
+    -5.50397,
+    18.66319,
+    -5.50397
+],
+  "geometry": {"coordinates":[18.66319,-5.50397],"type":"Point"}
+}

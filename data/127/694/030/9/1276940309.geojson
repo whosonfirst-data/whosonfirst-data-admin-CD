@@ -1,0 +1,71 @@
+{
+  "id": 1276940309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46216,-4.61585,21.46216,-4.61585",
+    "geom:latitude":-4.61585,
+    "geom:longitude":21.46216,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bushole",
+    "gn:country_code":"CD",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217644,
+    "gn:latitude":-4.61585,
+    "gn:longitude":21.46216,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bushole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Busholo",
+        "Bushole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217644
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b4d661bfdae362e93cdd40d26069d4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276940309,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276940309,
+    "wof:lastmodified":1537590448,
+    "wof:name":"Bushole",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46216,
+    -4.61585,
+    21.46216,
+    -4.61585
+],
+  "geometry": {"coordinates":[21.46216,-4.61585],"type":"Point"}
+}

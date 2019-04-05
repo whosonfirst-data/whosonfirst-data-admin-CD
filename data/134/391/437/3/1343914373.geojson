@@ -1,0 +1,67 @@
+{
+  "id": 1343914373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.89683,-8.99002,21.89683,-8.99002",
+    "geom:latitude":-8.99002,
+    "geom:longitude":21.89683,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Namatamba",
+    "gn:country_code":"CD",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8458594,
+    "gn:latitude":-8.99002,
+    "gn:longitude":21.89683,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Namatamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8458594
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ad0f54c3f94c1f8e42fd0899443f0cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1343914373,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343914373,
+    "wof:lastmodified":1537083457,
+    "wof:name":"Namatamba",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.89683,
+    -8.99002,
+    21.89683,
+    -8.99002
+],
+  "geometry": {"coordinates":[21.89683,-8.99002],"type":"Point"}
+}

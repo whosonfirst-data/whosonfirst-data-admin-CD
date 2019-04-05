@@ -1,0 +1,67 @@
+{
+  "id": 1276141877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.88106,-5.25409,14.88106,-5.25409",
+    "geom:latitude":-5.25409,
+    "geom:longitude":14.88106,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hardy",
+    "gn:country_code":"CD",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325140,
+    "gn:latitude":-5.25409,
+    "gn:longitude":14.88106,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Hardy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325140
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7f3cea41120193b0d08a57ca0573c205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1276141877,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1276141877,
+    "wof:lastmodified":1537033812,
+    "wof:name":"Hardy",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.88106,
+    -5.25409,
+    14.88106,
+    -5.25409
+],
+  "geometry": {"coordinates":[14.88106,-5.25409],"type":"Point"}
+}

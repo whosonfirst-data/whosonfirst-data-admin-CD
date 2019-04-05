@@ -1,0 +1,71 @@
+{
+  "id": 1293163333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.11526,-7.15327,17.11526,-7.15327",
+    "geom:latitude":-7.15327,
+    "geom:longitude":17.11526,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Swa-Tenda",
+    "gn:country_code":"CD",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311278,
+    "gn:latitude":-7.15327,
+    "gn:longitude":17.11526,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Swa-Tenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Swa Tende",
+        "Swa-Tenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311278
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7b389af1fbe77755fe55be82a867c288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1293163333,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293163333,
+    "wof:lastmodified":1537590499,
+    "wof:name":"Swa-Tenda",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.11526,
+    -7.15327,
+    17.11526,
+    -7.15327
+],
+  "geometry": {"coordinates":[17.11526,-7.15327],"type":"Point"}
+}

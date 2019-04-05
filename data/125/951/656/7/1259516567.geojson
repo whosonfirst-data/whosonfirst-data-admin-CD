@@ -1,0 +1,67 @@
+{
+  "id": 1259516567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43198,1.26605,22.43198,1.26605",
+    "geom:latitude":1.26605,
+    "geom:longitude":22.43198,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Yaofe",
+    "gn:country_code":"CD",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8249926,
+    "gn:latitude":1.26605,
+    "gn:longitude":22.43198,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yaofe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8249926
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c6073e14c4c21aa4dbf58a6a836102b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1259516567,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1259516567,
+    "wof:lastmodified":1536810835,
+    "wof:name":"Yaofe",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43198,
+    1.26605,
+    22.43198,
+    1.26605
+],
+  "geometry": {"coordinates":[22.43198,1.26605],"type":"Point"}
+}

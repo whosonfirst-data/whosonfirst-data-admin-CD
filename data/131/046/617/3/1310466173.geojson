@@ -1,0 +1,67 @@
+{
+  "id": 1310466173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.91667,-5.5,24.91667,-5.5",
+    "geom:latitude":-5.5,
+    "geom:longitude":24.91667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kakele",
+    "gn:country_code":"CD",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215172,
+    "gn:latitude":-5.5,
+    "gn:longitude":24.91667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kakele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215172
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c5615e1723c9e51512e210acdbb0acfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1310466173,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1310466173,
+    "wof:lastmodified":1536973322,
+    "wof:name":"Kakele",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.91667,
+    -5.5,
+    24.91667,
+    -5.5
+],
+  "geometry": {"coordinates":[24.91667,-5.5],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209623789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5832,0.3267,19.5832,0.3267",
+    "geom:latitude":0.3267,
+    "geom:longitude":19.5832,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Euli",
+    "gn:country_code":"CD",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315840,
+    "gn:latitude":0.3267,
+    "gn:longitude":19.5832,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Euli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Euti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315840
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"34e87874c266caac6bf80c646b617c51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209623789
+        }
+    ],
+    "wof:id":1209623789,
+    "wof:lastmodified":1537590544,
+    "wof:name":"Euli",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5832,
+    0.3267,
+    19.5832,
+    0.3267
+],
+  "geometry": {"coordinates":[19.5832,0.3267],"type":"Point"}
+}

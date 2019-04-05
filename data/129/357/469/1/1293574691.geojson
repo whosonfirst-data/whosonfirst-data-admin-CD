@@ -1,0 +1,67 @@
+{
+  "id": 1293574691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55461,-5.51628,14.55461,-5.51628",
+    "geom:latitude":-5.51628,
+    "geom:longitude":14.55461,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kimiala",
+    "gn:country_code":"CD",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314542,
+    "gn:latitude":-5.51628,
+    "gn:longitude":14.55461,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kimiala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314542
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3e8e93a98e8f4383fab28cbd93183bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1293574691,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1293574691,
+    "wof:lastmodified":1536661461,
+    "wof:name":"Kimiala",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55461,
+    -5.51628,
+    14.55461,
+    -5.51628
+],
+  "geometry": {"coordinates":[14.55461,-5.51628],"type":"Point"}
+}

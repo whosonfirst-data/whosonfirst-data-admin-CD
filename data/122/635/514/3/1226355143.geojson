@@ -1,0 +1,63 @@
+{
+  "id": 1226355143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.75826,0.00125,17.75826,0.00125",
+    "geom:latitude":0.00125,
+    "geom:longitude":17.75826,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bongwande",
+    "gn:country_code":"CD",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8057991,
+    "gn:latitude":0.00125,
+    "gn:longitude":17.75826,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Bongwande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8057991
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5aaf12925285f5702ceb6f1f338fae2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226355143,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226355143,
+    "wof:lastmodified":1536776463,
+    "wof:name":"Bongwande",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.75826,
+    0.00125,
+    17.75826,
+    0.00125
+],
+  "geometry": {"coordinates":[17.75826,0.00125],"type":"Point"}
+}

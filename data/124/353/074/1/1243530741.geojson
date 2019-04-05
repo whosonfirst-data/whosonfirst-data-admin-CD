@@ -1,0 +1,70 @@
+{
+  "id": 1243530741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.33182,1.7427,30.33182,1.7427",
+    "geom:latitude":1.7427,
+    "geom:longitude":30.33182,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tsi",
+    "gn:country_code":"CD",
+    "gn:dem":1545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217185,
+    "gn:latitude":1.7427,
+    "gn:longitude":30.33182,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Djatsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217185
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"555f903292e9cb2aeecaf6fdd0bce933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1243530741,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243530741,
+    "wof:lastmodified":1537590444,
+    "wof:name":"Tsi",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.33182,
+    1.7427,
+    30.33182,
+    1.7427
+],
+  "geometry": {"coordinates":[30.33182,1.7427],"type":"Point"}
+}

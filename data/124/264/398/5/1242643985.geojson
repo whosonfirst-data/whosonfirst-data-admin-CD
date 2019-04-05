@@ -1,0 +1,67 @@
+{
+  "id": 1242643985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.53333,-4.06667,24.53333,-4.06667",
+    "geom:latitude":-4.06667,
+    "geom:longitude":24.53333,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Lumbweka",
+    "gn:country_code":"CD",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210538,
+    "gn:latitude":-4.06667,
+    "gn:longitude":24.53333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lumbweka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210538
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3325e3d56673ed6b81ddf3b88c8119e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1242643985,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1242643985,
+    "wof:lastmodified":1536968041,
+    "wof:name":"Lumbweka",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.53333,
+    -4.06667,
+    24.53333,
+    -4.06667
+],
+  "geometry": {"coordinates":[24.53333,-4.06667],"type":"Point"}
+}

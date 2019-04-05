@@ -1,0 +1,67 @@
+{
+  "id": 1260243409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.1141,-5.40621,19.1141,-5.40621",
+    "geom:latitude":-5.40621,
+    "geom:longitude":19.1141,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kasamba",
+    "gn:country_code":"CD",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276772,
+    "gn:latitude":-5.40621,
+    "gn:longitude":19.1141,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kasamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276772
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a3f710587f653d0406ee7f84209ef2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1260243409,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1260243409,
+    "wof:lastmodified":1536766728,
+    "wof:name":"Kasamba",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.1141,
+    -5.40621,
+    19.1141,
+    -5.40621
+],
+  "geometry": {"coordinates":[19.1141,-5.40621],"type":"Point"}
+}

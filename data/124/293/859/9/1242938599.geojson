@@ -1,0 +1,67 @@
+{
+  "id": 1242938599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.33246,-6.44574,17.33246,-6.44574",
+    "geom:latitude":-6.44574,
+    "geom:longitude":17.33246,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Koko Mombo",
+    "gn:country_code":"CD",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314023,
+    "gn:latitude":-6.44574,
+    "gn:longitude":17.33246,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Koko Mombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314023
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"045bc0d8c3bad6fbe51e0b651bd30375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1242938599,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1242938599,
+    "wof:lastmodified":1537039177,
+    "wof:name":"Koko Mombo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.33246,
+    -6.44574,
+    17.33246,
+    -6.44574
+],
+  "geometry": {"coordinates":[17.33246,-6.44574],"type":"Point"}
+}

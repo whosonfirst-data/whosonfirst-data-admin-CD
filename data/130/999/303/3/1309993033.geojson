@@ -1,0 +1,67 @@
+{
+  "id": 1309993033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.85284,-2.22298,28.85284,-2.22298",
+    "geom:latitude":-2.22298,
+    "geom:longitude":28.85284,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kakondo",
+    "gn:country_code":"CD",
+    "gn:dem":1527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215122,
+    "gn:latitude":-2.22298,
+    "gn:longitude":28.85284,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Kakondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215122
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fca2977beb29d11786d1740d4ebb04b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1309993033,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1309993033,
+    "wof:lastmodified":1536661344,
+    "wof:name":"Kakondo",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.85284,
+    -2.22298,
+    28.85284,
+    -2.22298
+],
+  "geometry": {"coordinates":[28.85284,-2.22298],"type":"Point"}
+}

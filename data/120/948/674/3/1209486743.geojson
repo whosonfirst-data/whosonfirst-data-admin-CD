@@ -1,0 +1,65 @@
+{
+  "id": 1209486743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20737,2.56311,23.20737,2.56311",
+    "geom:latitude":2.56311,
+    "geom:longitude":23.20737,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ekoko",
+    "gn:country_code":"CD",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216826,
+    "gn:latitude":2.56311,
+    "gn:longitude":23.20737,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ekoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zakani",
+        "Ekoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216826
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4d226072529ca61835b855c55c8dd6d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209486743
+        }
+    ],
+    "wof:id":1209486743,
+    "wof:lastmodified":1537590440,
+    "wof:name":"Ekoko",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20737,
+    2.56311,
+    23.20737,
+    2.56311
+],
+  "geometry": {"coordinates":[23.20737,2.56311],"type":"Point"}
+}

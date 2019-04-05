@@ -1,0 +1,61 @@
+{
+  "id": 1209578577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91169,-7.11408,20.91169,-7.11408",
+    "geom:latitude":-7.11408,
+    "geom:longitude":20.91169,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tshanika",
+    "gn:country_code":"CD",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205070,
+    "gn:latitude":-7.11408,
+    "gn:longitude":20.91169,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshanika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205070
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"298adc4679985f55c5feb59c170774d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209578577
+        }
+    ],
+    "wof:id":1209578577,
+    "wof:lastmodified":1536282859,
+    "wof:name":"Tshanika",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91169,
+    -7.11408,
+    20.91169,
+    -7.11408
+],
+  "geometry": {"coordinates":[20.91169,-7.11408],"type":"Point"}
+}

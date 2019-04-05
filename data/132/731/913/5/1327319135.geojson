@@ -1,0 +1,70 @@
+{
+  "id": 1327319135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74489,-4.56686,13.74489,-4.56686",
+    "geom:latitude":-4.56686,
+    "geom:longitude":13.74489,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mukaka",
+    "gn:country_code":"CD",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312267,
+    "gn:latitude":-4.56686,
+    "gn:longitude":13.74489,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Mukaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munkaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312267
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0de233e761724a5b1f21701e72b396f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1327319135,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1327319135,
+    "wof:lastmodified":1537590511,
+    "wof:name":"Mukaka",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74489,
+    -4.56686,
+    13.74489,
+    -4.56686
+],
+  "geometry": {"coordinates":[13.74489,-4.56686],"type":"Point"}
+}

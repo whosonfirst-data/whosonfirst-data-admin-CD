@@ -1,0 +1,61 @@
+{
+  "id": 1209305149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42145,-5.52457,14.42145,-5.52457",
+    "geom:latitude":-5.52457,
+    "geom:longitude":14.42145,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Makanda",
+    "gn:country_code":"CD",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325326,
+    "gn:latitude":-5.52457,
+    "gn:longitude":14.42145,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Makanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325326
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"138156c5e5d1cb81daa69ac61a20424e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209305149
+        }
+    ],
+    "wof:id":1209305149,
+    "wof:lastmodified":1536291221,
+    "wof:name":"Makanda",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42145,
+    -5.52457,
+    14.42145,
+    -5.52457
+],
+  "geometry": {"coordinates":[14.42145,-5.52457],"type":"Point"}
+}

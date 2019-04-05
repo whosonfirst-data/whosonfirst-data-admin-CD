@@ -1,0 +1,73 @@
+{
+  "id": 1310584161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.72044,-8.58242,23.72044,-8.58242",
+    "geom:latitude":-8.58242,
+    "geom:longitude":23.72044,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Maniamuna",
+    "gn:country_code":"CD",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209614,
+    "gn:latitude":-8.58242,
+    "gn:longitude":23.72044,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Maniamuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muniamuna",
+        "Maniamina",
+        "Maniamuna",
+        "Mania-Muna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209614
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dab330207e7ef0c8486849ec1662cd5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1310584161,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310584161,
+    "wof:lastmodified":1537590372,
+    "wof:name":"Maniamuna",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.72044,
+    -8.58242,
+    23.72044,
+    -8.58242
+],
+  "geometry": {"coordinates":[23.72044,-8.58242],"type":"Point"}
+}

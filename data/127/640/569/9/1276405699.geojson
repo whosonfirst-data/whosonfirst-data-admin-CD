@@ -1,0 +1,67 @@
+{
+  "id": 1276405699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.91658,-6.37626,20.91658,-6.37626",
+    "geom:latitude":-6.37626,
+    "geom:longitude":20.91658,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Niembo-Kashama",
+    "gn:country_code":"CD",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207037,
+    "gn:latitude":-6.37626,
+    "gn:longitude":20.91658,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Niembo-Kashama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207037
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"338c31667dcb01e0e156292be7b1d440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276405699,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276405699,
+    "wof:lastmodified":1536681703,
+    "wof:name":"Niembo-Kashama",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.91658,
+    -6.37626,
+    20.91658,
+    -6.37626
+],
+  "geometry": {"coordinates":[20.91658,-6.37626],"type":"Point"}
+}

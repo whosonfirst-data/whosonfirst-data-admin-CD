@@ -1,0 +1,65 @@
+{
+  "id": 1209362233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.20997,-3.66993,22.20997,-3.66993",
+    "geom:latitude":-3.66993,
+    "geom:longitude":22.20997,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Okela Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206741,
+    "gn:latitude":-3.66993,
+    "gn:longitude":22.20997,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Okela Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okela Deuxi\u00e8me",
+        "Okela II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206741
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1cb9c3de3c77ad3bbc6b498b2b74ef5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209362233
+        }
+    ],
+    "wof:id":1209362233,
+    "wof:lastmodified":1537590339,
+    "wof:name":"Okela Deuxieme",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.20997,
+    -3.66993,
+    22.20997,
+    -3.66993
+],
+  "geometry": {"coordinates":[22.20997,-3.66993],"type":"Point"}
+}

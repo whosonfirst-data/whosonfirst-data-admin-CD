@@ -1,0 +1,71 @@
+{
+  "id": 1310552063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9,-7.11667,26.9,-7.11667",
+    "geom:latitude":-7.11667,
+    "geom:longitude":26.9,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Pengele-Kikubi",
+    "gn:country_code":"CD",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206293,
+    "gn:latitude":-7.11667,
+    "gn:longitude":26.9,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Pengele-Kikubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pengele",
+        "Pengele-Kikubi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206293
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"639fbf4c6acc7f4038994906b1f43e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1310552063,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310552063,
+    "wof:lastmodified":1537590334,
+    "wof:name":"Pengele-Kikubi",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9,
+    -7.11667,
+    26.9,
+    -7.11667
+],
+  "geometry": {"coordinates":[26.9,-7.11667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260055821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44805,-7.26105,21.44805,-7.26105",
+    "geom:latitude":-7.26105,
+    "geom:longitude":21.44805,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muasueu",
+    "gn:country_code":"CD",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440240,
+    "gn:latitude":-7.26105,
+    "gn:longitude":21.44805,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Muasueu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440240
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c633e26e97b4af4d2c71fbf8ed5a17dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1260055821,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1260055821,
+    "wof:lastmodified":1537026754,
+    "wof:name":"Muasueu",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44805,
+    -7.26105,
+    21.44805,
+    -7.26105
+],
+  "geometry": {"coordinates":[21.44805,-7.26105],"type":"Point"}
+}

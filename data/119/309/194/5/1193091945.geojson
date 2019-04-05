@@ -1,0 +1,67 @@
+{
+  "id": 1193091945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.16387,3.49542,22.16387,3.49542",
+    "geom:latitude":3.49542,
+    "geom:longitude":22.16387,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Baga",
+    "gn:country_code":"CD",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238567,
+    "gn:latitude":3.49542,
+    "gn:longitude":22.16387,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Baga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238567
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3eda40ed78693bb7f38054300f8e4540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1193091945,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1193091945,
+    "wof:lastmodified":1536369629,
+    "wof:name":"Baga",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.16387000000001,
+    3.49542,
+    22.16387000000001,
+    3.49542
+],
+  "geometry": {"coordinates":[22.16387000000001,3.49542],"type":"Point"}
+}

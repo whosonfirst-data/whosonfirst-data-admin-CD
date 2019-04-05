@@ -1,0 +1,67 @@
+{
+  "id": 1309799305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.68971,-5.20198,12.68971,-5.20198",
+    "geom:latitude":-5.20198,
+    "geom:longitude":12.68971,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Siniati",
+    "gn:country_code":"CD",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252179,
+    "gn:latitude":-5.20198,
+    "gn:longitude":12.68971,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Siniati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252179
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ea5613769bfa587a83c05ac9e4129c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1309799305,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1309799305,
+    "wof:lastmodified":1536941075,
+    "wof:name":"Siniati",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.68971,
+    -5.20198,
+    12.68971,
+    -5.20198
+],
+  "geometry": {"coordinates":[12.68971,-5.20198],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209172493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.37054,-10.09586,23.37054,-10.09586",
+    "geom:latitude":-10.09586,
+    "geom:longitude":23.37054,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshuilu",
+    "gn:country_code":"CD",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8465753,
+    "gn:latitude":-10.09586,
+    "gn:longitude":23.37054,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshuilu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8465753
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2878d59bc2d39b3fa6250f59849a30ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209172493
+        }
+    ],
+    "wof:id":1209172493,
+    "wof:lastmodified":1536295533,
+    "wof:name":"Tshuilu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.37054,
+    -10.09586,
+    23.37054,
+    -10.09586
+],
+  "geometry": {"coordinates":[23.37054,-10.09586],"type":"Point"}
+}

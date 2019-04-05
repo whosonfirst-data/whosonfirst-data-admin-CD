@@ -1,0 +1,67 @@
+{
+  "id": 1327453673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13333,-5.1,16.13333,-5.1",
+    "geom:latitude":-5.1,
+    "geom:longitude":16.13333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mbakini-Mfumu",
+    "gn:country_code":"CD",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312911,
+    "gn:latitude":-5.1,
+    "gn:longitude":16.13333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mbakini-Mfumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312911
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"596e2fde4610d6e7160ece6495c69b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1327453673,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1327453673,
+    "wof:lastmodified":1536649884,
+    "wof:name":"Mbakini-Mfumu",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13332999999999,
+    -5.1,
+    16.13332999999999,
+    -5.1
+],
+  "geometry": {"coordinates":[16.13332999999999,-5.1],"type":"Point"}
+}

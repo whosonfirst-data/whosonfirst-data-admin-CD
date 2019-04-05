@@ -1,0 +1,71 @@
+{
+  "id": 1243126357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5,-2.31667,22.5,-2.31667",
+    "geom:latitude":-2.31667,
+    "geom:longitude":22.5,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Esifu",
+    "gn:country_code":"CD",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216630,
+    "gn:latitude":-2.31667,
+    "gn:longitude":22.5,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Esifu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsifu",
+        "Esifu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216630
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"397edb2c53a14f6921569f4ea967f486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1243126357,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1243126357,
+    "wof:lastmodified":1537590438,
+    "wof:name":"Esifu",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5,
+    -2.31667,
+    22.5,
+    -2.31667
+],
+  "geometry": {"coordinates":[22.5,-2.31667],"type":"Point"}
+}

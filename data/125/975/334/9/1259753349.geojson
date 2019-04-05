@@ -1,0 +1,67 @@
+{
+  "id": 1259753349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.24718,-8.23563,26.24718,-8.23563",
+    "geom:latitude":-8.23563,
+    "geom:longitude":26.24718,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kafutu",
+    "gn:country_code":"CD",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10041156,
+    "gn:latitude":-8.23563,
+    "gn:longitude":26.24718,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kafutu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10041156
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5e57100f173d21f6f1f8b1da6a9261b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1259753349,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1259753349,
+    "wof:lastmodified":1536966392,
+    "wof:name":"Kafutu",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.24718,
+    -8.23563,
+    26.24718,
+    -8.23563
+],
+  "geometry": {"coordinates":[26.24718,-8.23563],"type":"Point"}
+}

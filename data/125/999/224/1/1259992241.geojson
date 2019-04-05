@@ -1,0 +1,67 @@
+{
+  "id": 1259992241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.88333,-0.33333,19.88333,-0.33333",
+    "geom:latitude":-0.33333,
+    "geom:longitude":19.88333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bondamba-Ikengo",
+    "gn:country_code":"CD",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316621,
+    "gn:latitude":-0.33333,
+    "gn:longitude":19.88333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bondamba-Ikengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316621
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2165097aaff453df960b518e4c0f9834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1259992241,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1259992241,
+    "wof:lastmodified":1536620364,
+    "wof:name":"Bondamba-Ikengo",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.88333,
+    -0.33333,
+    19.88333,
+    -0.33333
+],
+  "geometry": {"coordinates":[19.88333,-0.33333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360160529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.00573,-6.4832,21.00573,-6.4832",
+    "geom:latitude":-6.4832,
+    "geom:longitude":21.00573,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Buyamba-Kalala",
+    "gn:country_code":"CD",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327329,
+    "gn:latitude":-6.4832,
+    "gn:longitude":21.00573,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Buyamba-Kalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327329
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"028bd4d66a5da161ad7a56547a7e4456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1360160529,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1360160529,
+    "wof:lastmodified":1536835876,
+    "wof:name":"Buyamba-Kalala",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.00573,
+    -6.4832,
+    21.00573,
+    -6.4832
+],
+  "geometry": {"coordinates":[21.00573,-6.4832],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209585929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.92881,-6.87532,25.92881,-6.87532",
+    "geom:latitude":-6.87532,
+    "geom:longitude":25.92881,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kabulo",
+    "gn:country_code":"CD",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215433,
+    "gn:latitude":-6.87532,
+    "gn:longitude":25.92881,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215433
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0c38083d45938ba0c951e4a031951c46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209585929
+        }
+    ],
+    "wof:id":1209585929,
+    "wof:lastmodified":1536282637,
+    "wof:name":"Kabulo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.92881,
+    -6.8753199999999985,
+    25.92881,
+    -6.8753199999999985
+],
+  "geometry": {"coordinates":[25.92881,-6.87532],"type":"Point"}
+}

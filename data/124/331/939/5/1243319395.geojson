@@ -1,0 +1,72 @@
+{
+  "id": 1243319395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.72544,-2.12308,17.72544,-2.12308",
+    "geom:latitude":-2.12308,
+    "geom:longitude":17.72544,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ngei-Djei",
+    "gn:country_code":"CD",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312055,
+    "gn:latitude":-2.12308,
+    "gn:longitude":17.72544,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngei-Djei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngai Djai",
+        "Ngei-Diei",
+        "Ngei-Djei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312055
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"690f5f931ab40cf84c8a3ae773c0566b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1243319395,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1243319395,
+    "wof:lastmodified":1537590508,
+    "wof:name":"Ngei-Djei",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.72544,
+    -2.12308,
+    17.72544,
+    -2.12308
+],
+  "geometry": {"coordinates":[17.72544,-2.12308],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309681793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.72459,3.31652,28.72459,3.31652",
+    "geom:latitude":3.31652,
+    "geom:longitude":28.72459,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bolangi",
+    "gn:country_code":"CD",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218443,
+    "gn:latitude":3.31652,
+    "gn:longitude":28.72459,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bolangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218443
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"526693c5a9dd226dac5458f41ab50ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1309681793,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1309681793,
+    "wof:lastmodified":1536610416,
+    "wof:name":"Bolangi",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.72459000000001,
+    3.31652,
+    28.72459000000001,
+    3.31652
+],
+  "geometry": {"coordinates":[28.72459000000001,3.31652],"type":"Point"}
+}

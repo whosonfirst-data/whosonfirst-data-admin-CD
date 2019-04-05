@@ -1,0 +1,72 @@
+{
+  "id": 1276993931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.04505,0.53252,19.04505,0.53252",
+    "geom:latitude":0.53252,
+    "geom:longitude":19.04505,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Boso-Djikina",
+    "gn:country_code":"CD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316464,
+    "gn:latitude":0.53252,
+    "gn:longitude":19.04505,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boso-Djikina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boso Djikimo",
+        "Boso-Djikima",
+        "Boso-Djikina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316464
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fe790e351c6df97f8482a0c50620ae7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1276993931,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1276993931,
+    "wof:lastmodified":1537590553,
+    "wof:name":"Boso-Djikina",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.04505,
+    0.53252,
+    19.04505,
+    0.53252
+],
+  "geometry": {"coordinates":[19.04505,0.53252],"type":"Point"}
+}

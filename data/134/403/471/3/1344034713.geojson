@@ -1,0 +1,67 @@
+{
+  "id": 1344034713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.56726,-3.37889,28.56726,-3.37889",
+    "geom:latitude":-3.37889,
+    "geom:longitude":28.56726,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Kibu",
+    "gn:country_code":"CD",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213265,
+    "gn:latitude":-3.37889,
+    "gn:longitude":28.56726,
+    "gn:modification_date":"2013-01-10",
+    "gn:name":"Kibu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213265
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d88f9ff01ced2a44c54e87bb23ad0225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1344034713,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1344034713,
+    "wof:lastmodified":1536913289,
+    "wof:name":"Kibu",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.56726,
+    -3.37889,
+    28.56726,
+    -3.37889
+],
+  "geometry": {"coordinates":[28.56726,-3.37889],"type":"Point"}
+}

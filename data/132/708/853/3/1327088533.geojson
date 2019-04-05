@@ -1,0 +1,67 @@
+{
+  "id": 1327088533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01603,-3.25903,24.01603,-3.25903",
+    "geom:latitude":-3.25903,
+    "geom:longitude":24.01603,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Djeka",
+    "gn:country_code":"CD",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217176,
+    "gn:latitude":-3.25903,
+    "gn:longitude":24.01603,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Djeka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217176
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b6f776b135b8dcaf3e6c6fa98e00eca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1327088533,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1327088533,
+    "wof:lastmodified":1536679590,
+    "wof:name":"Djeka",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01603,
+    -3.25903,
+    24.01603,
+    -3.25903
+],
+  "geometry": {"coordinates":[24.01603,-3.25903],"type":"Point"}
+}

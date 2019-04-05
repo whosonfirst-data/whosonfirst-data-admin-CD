@@ -1,0 +1,66 @@
+{
+  "id": 1209070631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.13333,-6.8,24.13333,-6.8",
+    "geom:latitude":-6.8,
+    "geom:longitude":24.13333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bena-Mpata",
+    "gn:country_code":"CD",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219139,
+    "gn:latitude":-6.8,
+    "gn:longitude":24.13333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bena-Mpata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pata",
+        "Bena Pata",
+        "Bena-Mpata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219139
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"042254992661fa6e55a1662b65a6052c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209070631
+        }
+    ],
+    "wof:id":1209070631,
+    "wof:lastmodified":1537590463,
+    "wof:name":"Bena-Mpata",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.13333,
+    -6.8,
+    24.13333,
+    -6.8
+],
+  "geometry": {"coordinates":[24.13333,-6.8],"type":"Point"}
+}

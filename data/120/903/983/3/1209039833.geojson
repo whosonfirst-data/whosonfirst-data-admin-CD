@@ -1,0 +1,61 @@
+{
+  "id": 1209039833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.88333,-1.51667,20.88333,-1.51667",
+    "geom:latitude":-1.51667,
+    "geom:longitude":20.88333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Londoko",
+    "gn:country_code":"CD",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":211395,
+    "gn:latitude":-1.51667,
+    "gn:longitude":20.88333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Londoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":211395
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9f1f96f75b562defc548de7a19d219fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209039833
+        }
+    ],
+    "wof:id":1209039833,
+    "wof:lastmodified":1536299580,
+    "wof:name":"Londoko",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.88333,
+    -1.51667,
+    20.88333,
+    -1.51667
+],
+  "geometry": {"coordinates":[20.88333,-1.51667],"type":"Point"}
+}

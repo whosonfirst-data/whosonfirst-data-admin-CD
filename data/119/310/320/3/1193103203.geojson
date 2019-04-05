@@ -1,0 +1,67 @@
+{
+  "id": 1193103203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.46119,-6.18719,21.46119,-6.18719",
+    "geom:latitude":-6.18719,
+    "geom:longitude":21.46119,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muamba-Ndonki",
+    "gn:country_code":"CD",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327244,
+    "gn:latitude":-6.18719,
+    "gn:longitude":21.46119,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Muamba-Ndonki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327244
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e0e2e1441e1baff2bedce0229da4914e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1193103203,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1193103203,
+    "wof:lastmodified":1536381266,
+    "wof:name":"Muamba-Ndonki",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.46119,
+    -6.18719,
+    21.46119,
+    -6.18719
+],
+  "geometry": {"coordinates":[21.46119,-6.18719],"type":"Point"}
+}

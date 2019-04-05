@@ -1,0 +1,67 @@
+{
+  "id": 1260237801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94418,-9.69899,22.94418,-9.69899",
+    "geom:latitude":-9.69899,
+    "geom:longitude":22.94418,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kalandjisa",
+    "gn:country_code":"CD",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215012,
+    "gn:latitude":-9.69899,
+    "gn:longitude":22.94418,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kalandjisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215012
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0543d8aede11b04869d124be820613ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1260237801,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260237801,
+    "wof:lastmodified":1536774621,
+    "wof:name":"Kalandjisa",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94418,
+    -9.69899,
+    22.94418,
+    -9.69899
+],
+  "geometry": {"coordinates":[22.94418,-9.69899],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1126090751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.26667,-4.3,15.26667,-4.3",
+    "geom:latitude":-4.3,
+    "geom:longitude":15.26667,
+    "gn:gn_country":"CD",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"CD",
+    "lbl:latitude":-4.3,
+    "lbl:longitude":15.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CD",
+    "qs_pg:gn_country":"CD",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":2315191,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kalina",
+    "qs_pg:name_adm0":"R\u00e9publique D\u00e9mocratique du Congo",
+    "qs_pg:name_adm1":"Kinshasa",
+    "qs_pg:photos":328,
+    "qs_pg:photos_1k":66,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":328,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1083553,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424780,
+    "qs_pg:woe_id":1287974,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424780,
+    "woe:name_adm0":"R\u00e9publique D\u00e9mocratique du Congo",
+    "woe:name_adm1":"Kinshasa",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670067,
+        102191573,
+        85632541,
+        1092012549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315191,
+        "gp:id":1287974,
+        "qs_pg:id":1083553
+    },
+    "wof:country":"CD",
+    "wof:created":1497313709,
+    "wof:geomhash":"304fcc869bb90d51bdc575c6516273cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012549,
+            "locality_id":-1,
+            "neighbourhood_id":1126090751,
+            "region_id":85670067
+        }
+    ],
+    "wof:id":1126090751,
+    "wof:lastmodified":1534379250,
+    "wof:name":"Kalina",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[
+        85771831
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.26667,
+    -4.3,
+    15.26667,
+    -4.3
+],
+  "geometry": {"coordinates":[15.26667,-4.3],"type":"Point"}
+}

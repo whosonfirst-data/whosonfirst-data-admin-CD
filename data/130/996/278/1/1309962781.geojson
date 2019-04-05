@@ -1,0 +1,67 @@
+{
+  "id": 1309962781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.78994,3.88464,20.78994,3.88464",
+    "geom:latitude":3.88464,
+    "geom:longitude":20.78994,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Kolongo",
+    "gn:country_code":"CD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235932,
+    "gn:latitude":3.88464,
+    "gn:longitude":20.78994,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kolongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235932
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cbceaf7ca2d6f04f4f95ba6262f75ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1309962781,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1309962781,
+    "wof:lastmodified":1536705274,
+    "wof:name":"Kolongo",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.78994,
+    3.88464,
+    20.78994,
+    3.88464
+],
+  "geometry": {"coordinates":[20.78994,3.88464],"type":"Point"}
+}

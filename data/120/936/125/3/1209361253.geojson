@@ -1,0 +1,61 @@
+{
+  "id": 1209361253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.26997,-0.86612,24.26997,-0.86612",
+    "geom:latitude":-0.86612,
+    "geom:longitude":24.26997,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Balabala",
+    "gn:country_code":"CD",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219758,
+    "gn:latitude":-0.86612,
+    "gn:longitude":24.26997,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Balabala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219758
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7db94479ae1d9d02059096f8f27706ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209361253
+        }
+    ],
+    "wof:id":1209361253,
+    "wof:lastmodified":1536289416,
+    "wof:name":"Balabala",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.26997,
+    -0.8661200000000001,
+    24.26997,
+    -0.8661200000000001
+],
+  "geometry": {"coordinates":[24.26997,-0.86612],"type":"Point"}
+}

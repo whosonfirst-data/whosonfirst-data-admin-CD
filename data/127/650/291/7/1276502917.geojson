@@ -1,0 +1,67 @@
+{
+  "id": 1276502917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.42847,-9.73012,23.42847,-9.73012",
+    "geom:latitude":-9.73012,
+    "geom:longitude":23.42847,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kakehele",
+    "gn:country_code":"CD",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462279,
+    "gn:latitude":-9.73012,
+    "gn:longitude":23.42847,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kakehele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462279
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9c3983015cd1c4e56d610fd2e1d5d9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1276502917,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276502917,
+    "wof:lastmodified":1537047014,
+    "wof:name":"Kakehele",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.42847,
+    -9.73012,
+    23.42847,
+    -9.73012
+],
+  "geometry": {"coordinates":[23.42847,-9.73012],"type":"Point"}
+}

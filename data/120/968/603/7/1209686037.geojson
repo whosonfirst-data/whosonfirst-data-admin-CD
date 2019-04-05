@@ -1,0 +1,64 @@
+{
+  "id": 1209686037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.37774,-7.36866,24.37774,-7.36866",
+    "geom:latitude":-7.36866,
+    "geom:longitude":24.37774,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tshimbalai",
+    "gn:country_code":"CD",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204882,
+    "gn:latitude":-7.36866,
+    "gn:longitude":24.37774,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshimbalai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kimbalai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204882
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9018945ae4a48de3b0b535cc83487f1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209686037
+        }
+    ],
+    "wof:id":1209686037,
+    "wof:lastmodified":1537590317,
+    "wof:name":"Tshimbalai",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.37774,
+    -7.36866,
+    24.37774,
+    -7.36866
+],
+  "geometry": {"coordinates":[24.37774,-7.36866],"type":"Point"}
+}

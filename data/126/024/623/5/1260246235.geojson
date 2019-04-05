@@ -1,0 +1,67 @@
+{
+  "id": 1260246235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.39091,-7.59562,23.39091,-7.59562",
+    "geom:latitude":-7.59562,
+    "geom:longitude":23.39091,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kapuekela",
+    "gn:country_code":"CD",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8520553,
+    "gn:latitude":-7.59562,
+    "gn:longitude":23.39091,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kapuekela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8520553
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"07788b4ef5b2305e339f44a41dde6209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1260246235,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1260246235,
+    "wof:lastmodified":1536762744,
+    "wof:name":"Kapuekela",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.39091,
+    -7.59562,
+    23.39091,
+    -7.59562
+],
+  "geometry": {"coordinates":[23.39091,-7.59562],"type":"Point"}
+}

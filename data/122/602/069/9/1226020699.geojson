@@ -1,0 +1,71 @@
+{
+  "id": 1226020699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.62852,-5.4671,21.62852,-5.4671",
+    "geom:latitude":-5.4671,
+    "geom:longitude":21.62852,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Tambue",
+    "gn:country_code":"CD",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":205293,
+    "gn:latitude":-5.4671,
+    "gn:longitude":21.62852,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tambue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tambua",
+        "Tambue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":205293
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e5bdc6cd8ba53640809f6654b722494e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1226020699,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226020699,
+    "wof:lastmodified":1537590322,
+    "wof:name":"Tambue",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.62852,
+    -5.4671,
+    21.62852,
+    -5.4671
+],
+  "geometry": {"coordinates":[21.62852,-5.4671],"type":"Point"}
+}

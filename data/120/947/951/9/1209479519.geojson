@@ -1,0 +1,61 @@
+{
+  "id": 1209479519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.52757,-5.85922,24.52757,-5.85922",
+    "geom:latitude":-5.85922,
+    "geom:longitude":24.52757,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bukula",
+    "gn:country_code":"CD",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217819,
+    "gn:latitude":-5.85922,
+    "gn:longitude":24.52757,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bukula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217819
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c3d8df6b71f3848c35fd1b669a5f2c51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209479519
+        }
+    ],
+    "wof:id":1209479519,
+    "wof:lastmodified":1536285829,
+    "wof:name":"Bukula",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.52757,
+    -5.85922,
+    24.52757,
+    -5.85922
+],
+  "geometry": {"coordinates":[24.52757,-5.85922],"type":"Point"}
+}

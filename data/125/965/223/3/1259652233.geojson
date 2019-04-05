@@ -1,0 +1,70 @@
+{
+  "id": 1259652233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.836,-6.88128,21.836,-6.88128",
+    "geom:latitude":-6.88128,
+    "geom:longitude":21.836,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kongolo-Kakese",
+    "gn:country_code":"CD",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327542,
+    "gn:latitude":-6.88128,
+    "gn:longitude":21.836,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kongolo-Kakese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kongolo-Kasese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327542
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f8b145589fe0d8eb22e55de1011a74e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1259652233,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1259652233,
+    "wof:lastmodified":1537590573,
+    "wof:name":"Kongolo-Kakese",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.836,
+    -6.88128,
+    21.836,
+    -6.88128
+],
+  "geometry": {"coordinates":[21.836,-6.88128],"type":"Point"}
+}

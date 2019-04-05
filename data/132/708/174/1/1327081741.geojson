@@ -1,0 +1,71 @@
+{
+  "id": 1327081741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.99221,-3.70462,23.99221,-3.70462",
+    "geom:latitude":-3.70462,
+    "geom:longitude":23.99221,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Lungania-Okako",
+    "gn:country_code":"CD",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210484,
+    "gn:latitude":-3.70462,
+    "gn:longitude":23.99221,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lungania-Okako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Longania",
+        "Lungania-Okako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210484
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"863a3cde2d777936dd805d24aa28215c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1327081741,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1327081741,
+    "wof:lastmodified":1537590380,
+    "wof:name":"Lungania-Okako",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.99221,
+    -3.70462,
+    23.99221,
+    -3.70462
+],
+  "geometry": {"coordinates":[23.99221,-3.70462],"type":"Point"}
+}

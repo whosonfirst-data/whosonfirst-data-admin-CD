@@ -1,0 +1,67 @@
+{
+  "id": 1242563039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.78897,-5.47649,13.78897,-5.47649",
+    "geom:latitude":-5.47649,
+    "geom:longitude":13.78897,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lutadululu",
+    "gn:country_code":"CD",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8252863,
+    "gn:latitude":-5.47649,
+    "gn:longitude":13.78897,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Lutadululu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8252863
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1bb170586d260c2be7db8d2253d019a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1242563039,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1242563039,
+    "wof:lastmodified":1537081511,
+    "wof:name":"Lutadululu",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.78897,
+    -5.47649,
+    13.78897,
+    -5.47649
+],
+  "geometry": {"coordinates":[13.78897,-5.47649],"type":"Point"}
+}

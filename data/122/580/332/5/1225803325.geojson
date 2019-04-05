@@ -1,0 +1,67 @@
+{
+  "id": 1225803325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.34405,-5.63136,23.34405,-5.63136",
+    "geom:latitude":-5.63136,
+    "geom:longitude":23.34405,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Ngandu-a-Lusamba",
+    "gn:country_code":"CD",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329091,
+    "gn:latitude":-5.63136,
+    "gn:longitude":23.34405,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ngandu-a-Lusamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329091
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2c172174386162735b2bc7df0ad5c2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1225803325,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1225803325,
+    "wof:lastmodified":1537071939,
+    "wof:name":"Ngandu-a-Lusamba",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.34405,
+    -5.63136,
+    23.34405,
+    -5.63136
+],
+  "geometry": {"coordinates":[23.34405,-5.63136],"type":"Point"}
+}

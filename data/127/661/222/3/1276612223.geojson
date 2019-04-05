@@ -1,0 +1,67 @@
+{
+  "id": 1276612223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.64148,-9.74099,22.64148,-9.74099",
+    "geom:latitude":-9.74099,
+    "geom:longitude":22.64148,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Janvier",
+    "gn:country_code":"CD",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461777,
+    "gn:latitude":-9.74099,
+    "gn:longitude":22.64148,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Janvier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461777
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"81e514bd3762ad966453234b1e9ddf25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1276612223,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276612223,
+    "wof:lastmodified":1536902675,
+    "wof:name":"Janvier",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.64148,
+    -9.74099,
+    22.64148,
+    -9.74099
+],
+  "geometry": {"coordinates":[22.64148,-9.74099],"type":"Point"}
+}

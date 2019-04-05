@@ -1,0 +1,67 @@
+{
+  "id": 1209908589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.26667,-4.35,16.26667,-4.35",
+    "geom:latitude":-4.35,
+    "geom:longitude":16.26667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nsuni-Kitoko",
+    "gn:country_code":"CD",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311875,
+    "gn:latitude":-4.35,
+    "gn:longitude":16.26667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nsuni-Kitoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311875
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e1a26c9bbd1ec23ed737b6e3e7e23a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1209908589,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1209908589,
+    "wof:lastmodified":1536381247,
+    "wof:name":"Nsuni-Kitoko",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.26667,
+    -4.35,
+    16.26667,
+    -4.35
+],
+  "geometry": {"coordinates":[16.26667,-4.35],"type":"Point"}
+}

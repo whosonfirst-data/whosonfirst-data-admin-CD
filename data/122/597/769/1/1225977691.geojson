@@ -1,0 +1,67 @@
+{
+  "id": 1225977691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28333,-1.05,20.28333,-1.05",
+    "geom:latitude":-1.05,
+    "geom:longitude":20.28333,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Yete II",
+    "gn:country_code":"CD",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203442,
+    "gn:latitude":-1.05,
+    "gn:longitude":20.28333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Yete II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203442
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"78c759e516a0d21837fb5c252a0b87ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1225977691,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1225977691,
+    "wof:lastmodified":1536822382,
+    "wof:name":"Yete II",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28333,
+    -1.05,
+    20.28333,
+    -1.05
+],
+  "geometry": {"coordinates":[20.28333,-1.05],"type":"Point"}
+}

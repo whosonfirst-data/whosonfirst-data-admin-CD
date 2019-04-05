@@ -1,0 +1,71 @@
+{
+  "id": 1343623247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.39628,-5.47287,18.39628,-5.47287",
+    "geom:latitude":-5.47287,
+    "geom:longitude":18.39628,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kikoshi",
+    "gn:country_code":"CD",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314733,
+    "gn:latitude":-5.47287,
+    "gn:longitude":18.39628,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kikoshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikotshi",
+        "Kikoshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314733
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"680ca22fc7e93d594c0647049ee2974c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1343623247,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343623247,
+    "wof:lastmodified":1537590534,
+    "wof:name":"Kikoshi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.39628,
+    -5.47287,
+    18.39628,
+    -5.47287
+],
+  "geometry": {"coordinates":[18.39628,-5.47287],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225998859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.33581,-5.15738,23.33581,-5.15738",
+    "geom:latitude":-5.15738,
+    "geom:longitude":23.33581,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Tshimbankundji",
+    "gn:country_code":"CD",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8329097,
+    "gn:latitude":-5.15738,
+    "gn:longitude":23.33581,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshimbankundji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshimbankudji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8329097
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"24da2bdf15684a09a7fa1fa9b3821171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1225998859,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1225998859,
+    "wof:lastmodified":1537590573,
+    "wof:name":"Tshimbankundji",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.33581,
+    -5.15738,
+    23.33581,
+    -5.15738
+],
+  "geometry": {"coordinates":[23.33581,-5.15738],"type":"Point"}
+}

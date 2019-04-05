@@ -1,0 +1,74 @@
+{
+  "id": 1260088807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.10224,1.60698,19.10224,1.60698",
+    "geom:latitude":1.60698,
+    "geom:longitude":19.10224,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mankanza",
+    "gn:country_code":"CD",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313174,
+    "gn:latitude":1.60698,
+    "gn:longitude":19.10224,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mankanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nieuw-Antwerpen",
+        "Nouvelle-Anvers",
+        "Makanza",
+        "Mankanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313174,
+        "wk:page":"Makanza"
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"400e6bb98df62cbf66bd28352116acf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1260088807,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1260088807,
+    "wof:lastmodified":1537590520,
+    "wof:name":"Mankanza",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.10224,
+    1.60698,
+    19.10224,
+    1.60698
+],
+  "geometry": {"coordinates":[19.10224,1.60698],"type":"Point"}
+}

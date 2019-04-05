@@ -1,0 +1,67 @@
+{
+  "id": 1293166373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91321,-4.84647,16.91321,-4.84647",
+    "geom:latitude":-4.84647,
+    "geom:longitude":16.91321,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tambo",
+    "gn:country_code":"CD",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9947352,
+    "gn:latitude":-4.84647,
+    "gn:longitude":16.91321,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9947352
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1aee33203459fe5a77ee3a8ca0ef7bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1293166373,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293166373,
+    "wof:lastmodified":1536753130,
+    "wof:name":"Tambo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91321,
+    -4.84647,
+    16.91321,
+    -4.84647
+],
+  "geometry": {"coordinates":[16.91321,-4.84647],"type":"Point"}
+}

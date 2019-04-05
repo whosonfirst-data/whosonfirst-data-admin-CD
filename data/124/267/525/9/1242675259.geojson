@@ -1,0 +1,72 @@
+{
+  "id": 1242675259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.32084,-4.47606,15.32084,-4.47606",
+    "geom:latitude":-4.47606,
+    "geom:longitude":15.32084,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kilembo Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314689,
+    "gn:latitude":-4.47606,
+    "gn:longitude":15.32084,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kilembo Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilembo",
+        "Kilembo I",
+        "Kilembo Premi\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314689
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"966700e21020487da116bd72c29cdaa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679225,
+            "locality_id":1242675259,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1242675259,
+    "wof:lastmodified":1537590534,
+    "wof:name":"Kilembo Premiere",
+    "wof:parent_id":1091679225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.32084,
+    -4.47606,
+    15.32084,
+    -4.47606
+],
+  "geometry": {"coordinates":[15.32084,-4.47606],"type":"Point"}
+}

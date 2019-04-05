@@ -1,0 +1,61 @@
+{
+  "id": 1209285841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.10592,4.21092,24.10592,4.21092",
+    "geom:latitude":4.21092,
+    "geom:longitude":24.10592,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Balanga",
+    "gn:country_code":"CD",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8221231,
+    "gn:latitude":4.21092,
+    "gn:longitude":24.10592,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Balanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8221231
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"deb6bf23a372b0f88020a285dbf1f31b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209285841
+        }
+    ],
+    "wof:id":1209285841,
+    "wof:lastmodified":1536291864,
+    "wof:name":"Balanga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.10592,
+    4.21092,
+    24.10592,
+    4.21092
+],
+  "geometry": {"coordinates":[24.10592,4.21092],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327401235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.33678,4.7127,20.33678,4.7127",
+    "geom:latitude":4.7127,
+    "geom:longitude":20.33678,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Bakuludu",
+    "gn:country_code":"CD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219809,
+    "gn:latitude":4.7127,
+    "gn:longitude":20.33678,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bakuludu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219809
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8ea7edf01f1495b7f668ce7d9b4d5d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679605,
+            "locality_id":1327401235,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1327401235,
+    "wof:lastmodified":1536726253,
+    "wof:name":"Bakuludu",
+    "wof:parent_id":1091679605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.33678,
+    4.7127,
+    20.33678,
+    4.7127
+],
+  "geometry": {"coordinates":[20.33678,4.7127],"type":"Point"}
+}

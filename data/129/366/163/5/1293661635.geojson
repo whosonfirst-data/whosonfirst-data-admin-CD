@@ -1,0 +1,67 @@
+{
+  "id": 1293661635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35856,3.70046,30.35856,3.70046",
+    "geom:latitude":3.70046,
+    "geom:longitude":30.35856,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Adau",
+    "gn:country_code":"CD",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220503,
+    "gn:latitude":3.70046,
+    "gn:longitude":30.35856,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Adau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220503
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f7a6c6e1217fe2a009d619b4a9bdba70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1293661635,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1293661635,
+    "wof:lastmodified":1537031907,
+    "wof:name":"Adau",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35856,
+    3.70046,
+    30.35856,
+    3.70046
+],
+  "geometry": {"coordinates":[30.35856,3.70046],"type":"Point"}
+}

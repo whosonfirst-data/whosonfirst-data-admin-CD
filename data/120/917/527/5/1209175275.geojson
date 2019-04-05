@@ -1,0 +1,61 @@
+{
+  "id": 1209175275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.39523,-6.52453,26.39523,-6.52453",
+    "geom:latitude":-6.52453,
+    "geom:longitude":26.39523,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kidimu",
+    "gn:country_code":"CD",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213231,
+    "gn:latitude":-6.52453,
+    "gn:longitude":26.39523,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kidimu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213231
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1efda3d45679ee5e6e3443c72866ee9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209175275
+        }
+    ],
+    "wof:id":1209175275,
+    "wof:lastmodified":1536295444,
+    "wof:name":"Kidimu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.39523,
+    -6.52453,
+    26.39523,
+    -6.52453
+],
+  "geometry": {"coordinates":[26.39523,-6.52453],"type":"Point"}
+}

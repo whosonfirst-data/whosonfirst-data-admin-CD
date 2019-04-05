@@ -1,0 +1,67 @@
+{
+  "id": 1193234495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.74315,-6.41638,22.74315,-6.41638",
+    "geom:latitude":-6.41638,
+    "geom:longitude":22.74315,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mufulu",
+    "gn:country_code":"CD",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8284445,
+    "gn:latitude":-6.41638,
+    "gn:longitude":22.74315,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mufulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8284445
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"92e22fad7985c67d77fd42492bd80e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1193234495,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1193234495,
+    "wof:lastmodified":1536384782,
+    "wof:name":"Mufulu",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.74315,
+    -6.41638,
+    22.74315,
+    -6.41638
+],
+  "geometry": {"coordinates":[22.74315,-6.41638],"type":"Point"}
+}

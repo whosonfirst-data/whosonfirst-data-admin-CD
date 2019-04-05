@@ -1,0 +1,67 @@
+{
+  "id": 1343742269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.10266,-1.653,29.10266,-1.653",
+    "geom:latitude":-1.653,
+    "geom:longitude":29.10266,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tshubi",
+    "gn:country_code":"CD",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204696,
+    "gn:latitude":-1.653,
+    "gn:longitude":29.10266,
+    "gn:modification_date":"2012-12-05",
+    "gn:name":"Tshubi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204696
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c9f58170aaffa1fe61151487f353eaae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1343742269,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1343742269,
+    "wof:lastmodified":1536836094,
+    "wof:name":"Tshubi",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.10266,
+    -1.653,
+    29.10266,
+    -1.653
+],
+  "geometry": {"coordinates":[29.10266,-1.653],"type":"Point"}
+}

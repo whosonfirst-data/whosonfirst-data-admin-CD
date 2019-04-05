@@ -1,0 +1,65 @@
+{
+  "id": 1209483903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.90586,-5.3858,22.90586,-5.3858",
+    "geom:latitude":-5.3858,
+    "geom:longitude":22.90586,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Lusamba-Bumba",
+    "gn:country_code":"CD",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210383,
+    "gn:latitude":-5.3858,
+    "gn:longitude":22.90586,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lusamba-Bumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lusanda Bumba",
+        "Lusamba-Bumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210383
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"52e4efd3421bfda740eee99ec052da21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209483903
+        }
+    ],
+    "wof:id":1209483903,
+    "wof:lastmodified":1537590379,
+    "wof:name":"Lusamba-Bumba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.90586,
+    -5.3858,
+    22.90586,
+    -5.3858
+],
+  "geometry": {"coordinates":[22.90586,-5.3858],"type":"Point"}
+}

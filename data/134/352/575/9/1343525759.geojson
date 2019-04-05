@@ -1,0 +1,67 @@
+{
+  "id": 1343525759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.37639,-6.86976,23.37639,-6.86976",
+    "geom:latitude":-6.86976,
+    "geom:longitude":23.37639,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Mushia",
+    "gn:country_code":"CD",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946893,
+    "gn:latitude":-6.86976,
+    "gn:longitude":23.37639,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mushia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946893
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"70699199a5ce9ee3c9fe84f43d446f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1343525759,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1343525759,
+    "wof:lastmodified":1536651991,
+    "wof:name":"Mushia",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.37639,
+    -6.86976,
+    23.37639,
+    -6.86976
+],
+  "geometry": {"coordinates":[23.37639,-6.86976],"type":"Point"}
+}

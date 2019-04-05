@@ -1,0 +1,67 @@
+{
+  "id": 1243236089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.71083,2.75377,29.71083,2.75377",
+    "geom:latitude":2.75377,
+    "geom:longitude":29.71083,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tondeba",
+    "gn:country_code":"CD",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143111,
+    "gn:latitude":2.75377,
+    "gn:longitude":29.71083,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tondeba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143111
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b5a052b1866d2114caef33a3a7f08a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1243236089,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243236089,
+    "wof:lastmodified":1536609183,
+    "wof:name":"Tondeba",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.71083,
+    2.75377,
+    29.71083,
+    2.75377
+],
+  "geometry": {"coordinates":[29.71083,2.75377],"type":"Point"}
+}

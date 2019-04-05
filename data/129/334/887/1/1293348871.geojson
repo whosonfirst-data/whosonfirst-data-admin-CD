@@ -1,0 +1,67 @@
+{
+  "id": 1293348871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.65205,-9.78099,22.65205,-9.78099",
+    "geom:latitude":-9.78099,
+    "geom:longitude":22.65205,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Katshise",
+    "gn:country_code":"CD",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461835,
+    "gn:latitude":-9.78099,
+    "gn:longitude":22.65205,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Katshise",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461835
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9acac6f2a72d4d0550ee636656237ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1293348871,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293348871,
+    "wof:lastmodified":1536986197,
+    "wof:name":"Katshise",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.65205,
+    -9.78099,
+    22.65205,
+    -9.78099
+],
+  "geometry": {"coordinates":[22.65205,-9.78099],"type":"Point"}
+}

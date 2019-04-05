@@ -1,0 +1,61 @@
+{
+  "id": 1209405443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.64014,-4.93914,14.64014,-4.93914",
+    "geom:latitude":-4.93914,
+    "geom:longitude":14.64014,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kungu",
+    "gn:country_code":"CD",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443359,
+    "gn:latitude":-4.93914,
+    "gn:longitude":14.64014,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Kungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443359
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dc7c695908384295c6c57c8c3e0e7112",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209405443
+        }
+    ],
+    "wof:id":1209405443,
+    "wof:lastmodified":1536288011,
+    "wof:name":"Kungu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.64014,
+    -4.93914,
+    14.64014,
+    -4.93914
+],
+  "geometry": {"coordinates":[14.64014,-4.93914],"type":"Point"}
+}

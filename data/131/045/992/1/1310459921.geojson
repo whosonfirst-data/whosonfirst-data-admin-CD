@@ -1,0 +1,67 @@
+{
+  "id": 1310459921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.03333,-2.03333,20.03333,-2.03333",
+    "geom:latitude":-2.03333,
+    "geom:longitude":20.03333,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Nkopo",
+    "gn:country_code":"CD",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206977,
+    "gn:latitude":-2.03333,
+    "gn:longitude":20.03333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nkopo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206977
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6a7514064706d085d6532043538bcbde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1310459921,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310459921,
+    "wof:lastmodified":1536982105,
+    "wof:name":"Nkopo",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.03333,
+    -2.03333,
+    20.03333,
+    -2.03333
+],
+  "geometry": {"coordinates":[20.03333,-2.03333],"type":"Point"}
+}

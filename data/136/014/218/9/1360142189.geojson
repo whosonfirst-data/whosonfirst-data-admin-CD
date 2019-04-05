@@ -1,0 +1,67 @@
+{
+  "id": 1360142189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.75538,2.96205,22.75538,2.96205",
+    "geom:latitude":2.96205,
+    "geom:longitude":22.75538,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Tshimbi",
+    "gn:country_code":"CD",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204869,
+    "gn:latitude":2.96205,
+    "gn:longitude":22.75538,
+    "gn:modification_date":"2018-07-11",
+    "gn:name":"Tshimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204869
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"81363893589afeb969b12a6b41ec3f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1360142189,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1360142189,
+    "wof:lastmodified":1536861992,
+    "wof:name":"Tshimbi",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.75538,
+    2.96205,
+    22.75538,
+    2.96205
+],
+  "geometry": {"coordinates":[22.75538,2.96205],"type":"Point"}
+}

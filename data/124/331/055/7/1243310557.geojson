@@ -1,0 +1,67 @@
+{
+  "id": 1243310557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.31277,-5.56588,28.31277,-5.56588",
+    "geom:latitude":-5.56588,
+    "geom:longitude":28.31277,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kigengo",
+    "gn:country_code":"CD",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331044,
+    "gn:latitude":-5.56588,
+    "gn:longitude":28.31277,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kigengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331044
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7c7877bd1da53512cc6caa1537817ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1243310557,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1243310557,
+    "wof:lastmodified":1537000767,
+    "wof:name":"Kigengo",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.31277,
+    -5.56588,
+    28.31277,
+    -5.56588
+],
+  "geometry": {"coordinates":[28.31277,-5.56588],"type":"Point"}
+}

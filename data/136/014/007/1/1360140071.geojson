@@ -1,0 +1,67 @@
+{
+  "id": 1360140071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92867,2.21389,22.92867,2.21389",
+    "geom:latitude":2.21389,
+    "geom:longitude":22.92867,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yamoane",
+    "gn:country_code":"CD",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279614,
+    "gn:latitude":2.21389,
+    "gn:longitude":22.92867,
+    "gn:modification_date":"2018-07-20",
+    "gn:name":"Yamoane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279614
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6762edba7358173118d29439c987207d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1360140071,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1360140071,
+    "wof:lastmodified":1536865136,
+    "wof:name":"Yamoane",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92867,
+    2.21389,
+    22.92867,
+    2.21389
+],
+  "geometry": {"coordinates":[22.92867,2.21389],"type":"Point"}
+}

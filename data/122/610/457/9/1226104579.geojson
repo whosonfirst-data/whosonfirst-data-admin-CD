@@ -1,0 +1,67 @@
+{
+  "id": 1226104579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.33219,-7.96386,19.33219,-7.96386",
+    "geom:latitude":-7.96386,
+    "geom:longitude":19.33219,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kamwamba",
+    "gn:country_code":"CD",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448179,
+    "gn:latitude":-7.96386,
+    "gn:longitude":19.33219,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kamwamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448179
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9cf911414b9a5a699a0f5f54e5ed77ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226104579,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226104579,
+    "wof:lastmodified":1536639332,
+    "wof:name":"Kamwamba",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.33219,
+    -7.96386,
+    19.33219,
+    -7.96386
+],
+  "geometry": {"coordinates":[19.33219,-7.96386],"type":"Point"}
+}

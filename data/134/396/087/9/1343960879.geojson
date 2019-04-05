@@ -1,0 +1,67 @@
+{
+  "id": 1343960879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.26519,1.11071,18.26519,1.11071",
+    "geom:latitude":1.11071,
+    "geom:longitude":18.26519,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Boboke",
+    "gn:country_code":"CD",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317006,
+    "gn:latitude":1.11071,
+    "gn:longitude":18.26519,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Boboke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317006
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f233c85ddf2b4f95161a821020b735bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1343960879,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1343960879,
+    "wof:lastmodified":1537018551,
+    "wof:name":"Boboke",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.26519,
+    1.11071,
+    18.26519,
+    1.11071
+],
+  "geometry": {"coordinates":[18.26519,1.11071],"type":"Point"}
+}

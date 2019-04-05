@@ -1,0 +1,70 @@
+{
+  "id": 1226603257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.41572,-8.2436,22.41572,-8.2436",
+    "geom:latitude":-8.2436,
+    "geom:longitude":22.41572,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Rupang",
+    "gn:country_code":"CD",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10013953,
+    "gn:latitude":-8.2436,
+    "gn:longitude":22.41572,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Rupang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lupangu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10013953
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"edfbb93a00c575e6595abc50081a347d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226603257,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226603257,
+    "wof:lastmodified":1537590578,
+    "wof:name":"Rupang",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.41572,
+    -8.2436,
+    22.41572,
+    -8.2436
+],
+  "geometry": {"coordinates":[22.41572,-8.2436],"type":"Point"}
+}

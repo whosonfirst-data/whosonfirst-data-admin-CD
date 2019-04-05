@@ -1,0 +1,67 @@
+{
+  "id": 1327311961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.14611,-0.10722,29.14611,-0.10722",
+    "geom:latitude":-0.10722,
+    "geom:longitude":29.14611,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tungutwasa",
+    "gn:country_code":"CD",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204577,
+    "gn:latitude":-0.10722,
+    "gn:longitude":29.14611,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Tungutwasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204577
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4084cc204fc9b9c2d982a72e8b746758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1327311961,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1327311961,
+    "wof:lastmodified":1536853684,
+    "wof:name":"Tungutwasa",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.14611,
+    -0.10722,
+    29.14611,
+    -0.10722
+],
+  "geometry": {"coordinates":[29.14611,-0.10722],"type":"Point"}
+}

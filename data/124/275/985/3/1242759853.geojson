@@ -1,0 +1,67 @@
+{
+  "id": 1242759853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5185,3.75122,29.5185,3.75122",
+    "geom:latitude":3.75122,
+    "geom:longitude":29.5185,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nagero",
+    "gn:country_code":"CD",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207479,
+    "gn:latitude":3.75122,
+    "gn:longitude":29.5185,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nagero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207479
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5139c5861fd9a453242a2624e90edacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1242759853,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1242759853,
+    "wof:lastmodified":1536801211,
+    "wof:name":"Nagero",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5185,
+    3.75122,
+    29.5185,
+    3.75122
+],
+  "geometry": {"coordinates":[29.5185,3.75122],"type":"Point"}
+}

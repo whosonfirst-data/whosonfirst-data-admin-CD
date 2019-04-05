@@ -1,0 +1,67 @@
+{
+  "id": 1259838399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.45287,-5.83351,24.45287,-5.83351",
+    "geom:latitude":-5.83351,
+    "geom:longitude":24.45287,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kasebwe",
+    "gn:country_code":"CD",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214065,
+    "gn:latitude":-5.83351,
+    "gn:longitude":24.45287,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kasebwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214065
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4470919eb831490cfa42af34ddd281b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1259838399,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1259838399,
+    "wof:lastmodified":1536843185,
+    "wof:name":"Kasebwe",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.45287,
+    -5.83351,
+    24.45287,
+    -5.83351
+],
+  "geometry": {"coordinates":[24.45287,-5.83351],"type":"Point"}
+}

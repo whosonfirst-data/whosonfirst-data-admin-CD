@@ -1,0 +1,67 @@
+{
+  "id": 1242939191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.18129,-7.03544,21.18129,-7.03544",
+    "geom:latitude":-7.03544,
+    "geom:longitude":21.18129,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muamba-Mputu",
+    "gn:country_code":"CD",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440342,
+    "gn:latitude":-7.03544,
+    "gn:longitude":21.18129,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Muamba-Mputu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440342
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"751761516db4be9a84f0a927686e9061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1242939191,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1242939191,
+    "wof:lastmodified":1537038349,
+    "wof:name":"Muamba-Mputu",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.18129,
+    -7.03544,
+    21.18129,
+    -7.03544
+],
+  "geometry": {"coordinates":[21.18129,-7.03544],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343944119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.80451,3.55042,24.80451,3.55042",
+    "geom:latitude":3.55042,
+    "geom:longitude":24.80451,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Wase",
+    "gn:country_code":"CD",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198061,
+    "gn:latitude":3.55042,
+    "gn:longitude":24.80451,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Wase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198061
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"edf329b94532ececd3960a936d10a061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1343944119,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343944119,
+    "wof:lastmodified":1537041892,
+    "wof:name":"Wase",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.80451,
+    3.55042,
+    24.80451,
+    3.55042
+],
+  "geometry": {"coordinates":[24.80451,3.55042],"type":"Point"}
+}

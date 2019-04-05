@@ -1,0 +1,67 @@
+{
+  "id": 1259562583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.88868,2.85808,26.88868,2.85808",
+    "geom:latitude":2.85808,
+    "geom:longitude":26.88868,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Lengozi",
+    "gn:country_code":"CD",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212002,
+    "gn:latitude":2.85808,
+    "gn:longitude":26.88868,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lengozi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212002
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6ada31b75facca23305b551b117b24dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1259562583,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259562583,
+    "wof:lastmodified":1536744688,
+    "wof:name":"Lengozi",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.88868,
+    2.85808,
+    26.88868,
+    2.85808
+],
+  "geometry": {"coordinates":[26.88868,2.85808],"type":"Point"}
+}

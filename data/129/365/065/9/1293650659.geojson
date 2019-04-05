@@ -1,0 +1,70 @@
+{
+  "id": 1293650659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93258,2.67039,19.93258,2.67039",
+    "geom:latitude":2.67039,
+    "geom:longitude":19.93258,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bwambele",
+    "gn:country_code":"CD",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504871,
+    "gn:latitude":2.67039,
+    "gn:longitude":19.93258,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bwambele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bwambele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504871
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d1386a1eb0ed0762ca7dc1e331d502bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1293650659,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293650659,
+    "wof:lastmodified":1537590569,
+    "wof:name":"Bwambele",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93258,
+    2.67039,
+    19.93258,
+    2.67039
+],
+  "geometry": {"coordinates":[19.93258,2.67039],"type":"Point"}
+}

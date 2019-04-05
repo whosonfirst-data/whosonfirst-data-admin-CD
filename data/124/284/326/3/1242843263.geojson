@@ -1,0 +1,67 @@
+{
+  "id": 1242843263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18948,-9.66707,23.18948,-9.66707",
+    "geom:latitude":-9.66707,
+    "geom:longitude":23.18948,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwashitu",
+    "gn:country_code":"CD",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8462293,
+    "gn:latitude":-9.66707,
+    "gn:longitude":23.18948,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwashitu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462293
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"99afd75f3b6a92547e453c3a13eac948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1242843263,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242843263,
+    "wof:lastmodified":1536681072,
+    "wof:name":"Mwashitu",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18948,
+    -9.66707,
+    23.18948,
+    -9.66707
+],
+  "geometry": {"coordinates":[23.18948,-9.66707],"type":"Point"}
+}

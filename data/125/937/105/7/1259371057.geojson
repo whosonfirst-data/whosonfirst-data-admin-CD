@@ -1,0 +1,67 @@
+{
+  "id": 1259371057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.24861,-1.19806,29.24861,-1.19806",
+    "geom:latitude":-1.19806,
+    "geom:longitude":29.24861,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bishongera",
+    "gn:country_code":"CD",
+    "gn:dem":1929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218800,
+    "gn:latitude":-1.19806,
+    "gn:longitude":29.24861,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Bishongera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218800
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cf84243677651689ba62485824c4963e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1259371057,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1259371057,
+    "wof:lastmodified":1537019327,
+    "wof:name":"Bishongera",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.24861,
+    -1.19806,
+    29.24861,
+    -1.19806
+],
+  "geometry": {"coordinates":[29.24861,-1.19806],"type":"Point"}
+}

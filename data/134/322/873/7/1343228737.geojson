@@ -1,0 +1,67 @@
+{
+  "id": 1343228737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.63333,-3.51667,23.63333,-3.51667",
+    "geom:latitude":-3.51667,
+    "geom:longitude":23.63333,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Asuku",
+    "gn:country_code":"CD",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220185,
+    "gn:latitude":-3.51667,
+    "gn:longitude":23.63333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Asuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220185
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"566325d3a8d5d7fd485c9f7a1096e62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1343228737,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1343228737,
+    "wof:lastmodified":1537077742,
+    "wof:name":"Asuku",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.63333,
+    -3.51667,
+    23.63333,
+    -3.51667
+],
+  "geometry": {"coordinates":[23.63333,-3.51667],"type":"Point"}
+}

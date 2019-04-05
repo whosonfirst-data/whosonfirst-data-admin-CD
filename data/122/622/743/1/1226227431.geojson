@@ -1,0 +1,67 @@
+{
+  "id": 1226227431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81067,-4.47388,13.81067,-4.47388",
+    "geom:latitude":-4.47388,
+    "geom:longitude":13.81067,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kodila-Nzanza",
+    "gn:country_code":"CD",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442673,
+    "gn:latitude":-4.47388,
+    "gn:longitude":13.81067,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Kodila-Nzanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442673
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"21f366830813c8e16c681f3b888c2946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1226227431,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1226227431,
+    "wof:lastmodified":1536960034,
+    "wof:name":"Kodila-Nzanza",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81067,
+    -4.47388,
+    13.81067,
+    -4.47388
+],
+  "geometry": {"coordinates":[13.81067,-4.47388],"type":"Point"}
+}

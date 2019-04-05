@@ -1,0 +1,71 @@
+{
+  "id": 890424249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.37139,1.07951,29.37139,1.07951",
+    "geom:latitude":1.07951,
+    "geom:longitude":29.37139,
+    "gn:country":"CD",
+    "gn:fcode":"STMI",
+    "gn:pop":111,
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:fra_x_preferred":[
+        "Makambo"
+    ],
+    "qs:name":"Makambo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":529,
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504778,
+        "gp:id":1282733,
+        "qs:id":689319,
+        "wd:id":"Q1886214",
+        "wk:page":"SS Makambo"
+    },
+    "wof:country":"CD",
+    "wof:created":1469051536,
+    "wof:geomhash":"fb211d724836b9eced72e216abc68724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":890424249,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":890424249,
+    "wof:lastmodified":1527727267,
+    "wof:name":"Makambo",
+    "wof:parent_id":85669979,
+    "wof:placetype":"locality",
+    "wof:population":111,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.37139,
+    1.07951,
+    29.37139,
+    1.07951
+],
+  "geometry": {"coordinates":[29.37139,1.07951],"type":"Point"}
+}

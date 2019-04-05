@@ -1,0 +1,67 @@
+{
+  "id": 1260251143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.01885,-9.54976,24.01885,-9.54976",
+    "geom:latitude":-9.54976,
+    "geom:longitude":24.01885,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kanienga",
+    "gn:country_code":"CD",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463470,
+    "gn:latitude":-9.54976,
+    "gn:longitude":24.01885,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kanienga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463470
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"21cbf2c6576a37ab5eb63106a909356b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1260251143,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260251143,
+    "wof:lastmodified":1536755835,
+    "wof:name":"Kanienga",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.01885,
+    -9.54976,
+    24.01885,
+    -9.54976
+],
+  "geometry": {"coordinates":[24.01885,-9.54976],"type":"Point"}
+}

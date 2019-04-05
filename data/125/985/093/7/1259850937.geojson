@@ -1,0 +1,67 @@
+{
+  "id": 1259850937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.26043,2.91379,26.26043,2.91379",
+    "geom:latitude":2.91379,
+    "geom:longitude":26.26043,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nemanzi",
+    "gn:country_code":"CD",
+    "gn:dem":639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207309,
+    "gn:latitude":2.91379,
+    "gn:longitude":26.26043,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nemanzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207309
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0dd33a668c780c3393d3f1a8a99ab788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1259850937,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1259850937,
+    "wof:lastmodified":1536825213,
+    "wof:name":"Nemanzi",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.26043,
+    2.91379,
+    26.26043,
+    2.91379
+],
+  "geometry": {"coordinates":[26.26043,2.91379],"type":"Point"}
+}

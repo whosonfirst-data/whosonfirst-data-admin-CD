@@ -1,0 +1,67 @@
+{
+  "id": 1259835997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.00898,-10.64432,23.00898,-10.64432",
+    "geom:latitude":-10.64432,
+    "geom:longitude":23.00898,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Samulila",
+    "gn:country_code":"CD",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466673,
+    "gn:latitude":-10.64432,
+    "gn:longitude":23.00898,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Samulila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466673
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"058a1f0bae0612ac1412d48b5c3f4c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1259835997,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1259835997,
+    "wof:lastmodified":1536846626,
+    "wof:name":"Samulila",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.00898,
+    -10.64432,
+    23.00898,
+    -10.64432
+],
+  "geometry": {"coordinates":[23.00898,-10.64432],"type":"Point"}
+}

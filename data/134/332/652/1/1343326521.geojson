@@ -1,0 +1,67 @@
+{
+  "id": 1343326521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.00545,-5.69787,19.00545,-5.69787",
+    "geom:latitude":-5.69787,
+    "geom:longitude":19.00545,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Ganza",
+    "gn:country_code":"CD",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276445,
+    "gn:latitude":-5.69787,
+    "gn:longitude":19.00545,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ganza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276445
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"86cd56f8f9a464c1d38a7fa5d75c215c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1343326521,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343326521,
+    "wof:lastmodified":1536940382,
+    "wof:name":"Ganza",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.00545,
+    -5.69787,
+    19.00545,
+    -5.69787
+],
+  "geometry": {"coordinates":[19.00545,-5.69787],"type":"Point"}
+}

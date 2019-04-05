@@ -1,0 +1,61 @@
+{
+  "id": 1209170139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.69213,-2.63934,16.69213,-2.63934",
+    "geom:latitude":-2.63934,
+    "geom:longitude":16.69213,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Dompaka",
+    "gn:country_code":"CD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8431747,
+    "gn:latitude":-2.63934,
+    "gn:longitude":16.69213,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dompaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8431747
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9a5feb84e2ce255476333658059be257",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209170139
+        }
+    ],
+    "wof:id":1209170139,
+    "wof:lastmodified":1536295609,
+    "wof:name":"Dompaka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.69213,
+    -2.63934,
+    16.69213,
+    -2.63934
+],
+  "geometry": {"coordinates":[16.69213,-2.63934],"type":"Point"}
+}

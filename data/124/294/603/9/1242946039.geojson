@@ -1,0 +1,67 @@
+{
+  "id": 1242946039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.11743,-9.2562,25.11743,-9.2562",
+    "geom:latitude":-9.2562,
+    "geom:longitude":25.11743,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tshiona",
+    "gn:country_code":"CD",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10052126,
+    "gn:latitude":-9.2562,
+    "gn:longitude":25.11743,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Tshiona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10052126
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6345203f31f50507fa8548aca5c4cf62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1242946039,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242946039,
+    "wof:lastmodified":1537028884,
+    "wof:name":"Tshiona",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.11743,
+    -9.2562,
+    25.11743,
+    -9.2562
+],
+  "geometry": {"coordinates":[25.11743,-9.2562],"type":"Point"}
+}

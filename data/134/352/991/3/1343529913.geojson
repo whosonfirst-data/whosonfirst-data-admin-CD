@@ -1,0 +1,67 @@
+{
+  "id": 1343529913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.56806,-7.37314,22.56806,-7.37314",
+    "geom:latitude":-7.37314,
+    "geom:longitude":22.56806,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mudiama",
+    "gn:country_code":"CD",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438826,
+    "gn:latitude":-7.37314,
+    "gn:longitude":22.56806,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mudiama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438826
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"040039fd5aa7830594f6b5a9aadc2a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1343529913,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343529913,
+    "wof:lastmodified":1536645610,
+    "wof:name":"Mudiama",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.56806,
+    -7.37314,
+    22.56806,
+    -7.37314
+],
+  "geometry": {"coordinates":[22.56806,-7.37314],"type":"Point"}
+}

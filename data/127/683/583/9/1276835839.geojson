@@ -1,0 +1,67 @@
+{
+  "id": 1276835839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.1814,-7.225,21.1814,-7.225",
+    "geom:latitude":-7.225,
+    "geom:longitude":21.1814,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Muadiala",
+    "gn:country_code":"CD",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208584,
+    "gn:latitude":-7.225,
+    "gn:longitude":21.1814,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Muadiala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208584
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e8dd22de447deb3ddc808ff345cdc053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276835839,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276835839,
+    "wof:lastmodified":1537096835,
+    "wof:name":"Muadiala",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.1814,
+    -7.225,
+    21.1814,
+    -7.225
+],
+  "geometry": {"coordinates":[21.1814,-7.225],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209184961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.21667,-11.5,26.21667,-11.5",
+    "geom:latitude":-11.5,
+    "geom:longitude":26.21667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kitatshi",
+    "gn:country_code":"CD",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922782,
+    "gn:latitude":-11.5,
+    "gn:longitude":26.21667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kitatshi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922782
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5549a7a4b65c0592d7de43c76cc74dab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209184961
+        }
+    ],
+    "wof:id":1209184961,
+    "wof:lastmodified":1536295131,
+    "wof:name":"Kitatshi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.21667,
+    -11.5,
+    26.21667,
+    -11.5
+],
+  "geometry": {"coordinates":[26.21667,-11.5],"type":"Point"}
+}

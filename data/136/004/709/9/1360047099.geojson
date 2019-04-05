@@ -1,0 +1,67 @@
+{
+  "id": 1360047099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.74416,-3.60731,17.74416,-3.60731",
+    "geom:latitude":-3.60731,
+    "geom:longitude":17.74416,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Nsai",
+    "gn:country_code":"CD",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8433956,
+    "gn:latitude":-3.60731,
+    "gn:longitude":17.74416,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nsai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8433956
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"acdf3b1b8bc31d5d1a9527cf589440d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1360047099,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1360047099,
+    "wof:lastmodified":1536999882,
+    "wof:name":"Nsai",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.74416,
+    -3.60731,
+    17.74416,
+    -3.60731
+],
+  "geometry": {"coordinates":[17.74416,-3.60731],"type":"Point"}
+}

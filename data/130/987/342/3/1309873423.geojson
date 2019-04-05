@@ -1,0 +1,67 @@
+{
+  "id": 1309873423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20115,2.30459,20.20115,2.30459",
+    "geom:latitude":2.30459,
+    "geom:longitude":20.20115,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Papemwani",
+    "gn:country_code":"CD",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198628,
+    "gn:latitude":2.30459,
+    "gn:longitude":20.20115,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Papemwani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198628
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c2becce9890a821e3cbe374bb8698419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1309873423,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1309873423,
+    "wof:lastmodified":1536832742,
+    "wof:name":"Papemwani",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20115,
+    2.30459,
+    20.20115,
+    2.30459
+],
+  "geometry": {"coordinates":[20.20115,2.30459],"type":"Point"}
+}

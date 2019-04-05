@@ -1,0 +1,67 @@
+{
+  "id": 1242842173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.89397,2.38617,21.89397,2.38617",
+    "geom:latitude":2.38617,
+    "geom:longitude":21.89397,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yamangimbu",
+    "gn:country_code":"CD",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277783,
+    "gn:latitude":2.38617,
+    "gn:longitude":21.89397,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yamangimbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277783
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d9a8903ffb1fda77fec1f1d8228e83bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1242842173,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1242842173,
+    "wof:lastmodified":1536682604,
+    "wof:name":"Yamangimbu",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.89397,
+    2.38617,
+    21.89397,
+    2.38617
+],
+  "geometry": {"coordinates":[21.89397,2.38617],"type":"Point"}
+}

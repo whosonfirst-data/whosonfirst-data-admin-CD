@@ -1,0 +1,67 @@
+{
+  "id": 1327096957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.11346,-5.266,17.11346,-5.266",
+    "geom:latitude":-5.266,
+    "geom:longitude":17.11346,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mambiri",
+    "gn:country_code":"CD",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313109,
+    "gn:latitude":-5.266,
+    "gn:longitude":17.11346,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mambiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313109
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"720070d615b461a1a6dcf01538c97e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1327096957,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327096957,
+    "wof:lastmodified":1536667478,
+    "wof:name":"Mambiri",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.11346,
+    -5.266,
+    17.11346,
+    -5.266
+],
+  "geometry": {"coordinates":[17.11346,-5.266],"type":"Point"}
+}

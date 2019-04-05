@@ -1,0 +1,67 @@
+{
+  "id": 1209987293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.92241,-9.4905,27.92241,-9.4905",
+    "geom:latitude":-9.4905,
+    "geom:longitude":27.92241,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kiula",
+    "gn:country_code":"CD",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212522,
+    "gn:latitude":-9.4905,
+    "gn:longitude":27.92241,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kiula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212522
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ac5d90ecd91a4816a8d9c4d178c06fc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1209987293,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1209987293,
+    "wof:lastmodified":1536388021,
+    "wof:name":"Kiula",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.92241,
+    -9.4905,
+    27.92241,
+    -9.4905
+],
+  "geometry": {"coordinates":[27.92241,-9.4905],"type":"Point"}
+}

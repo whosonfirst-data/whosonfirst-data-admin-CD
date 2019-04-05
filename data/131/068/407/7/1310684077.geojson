@@ -1,0 +1,67 @@
+{
+  "id": 1310684077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.07082,-9.0671,25.07082,-9.0671",
+    "geom:latitude":-9.0671,
+    "geom:longitude":25.07082,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Lusalela",
+    "gn:country_code":"CD",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10052009,
+    "gn:latitude":-9.0671,
+    "gn:longitude":25.07082,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lusalela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10052009
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9c16d2af57bf22f9e1c5af4c75125a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1310684077,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310684077,
+    "wof:lastmodified":1536659387,
+    "wof:name":"Lusalela",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.07082,
+    -9.0671,
+    25.07082,
+    -9.0671
+],
+  "geometry": {"coordinates":[25.07082,-9.0671],"type":"Point"}
+}

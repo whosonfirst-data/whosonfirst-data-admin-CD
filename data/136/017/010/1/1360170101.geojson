@@ -1,0 +1,67 @@
+{
+  "id": 1360170101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.91175,-5.15198,13.91175,-5.15198",
+    "geom:latitude":-5.15198,
+    "geom:longitude":13.91175,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kingoyo",
+    "gn:country_code":"CD",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314388,
+    "gn:latitude":-5.15198,
+    "gn:longitude":13.91175,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Kingoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314388
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"28c90bbb151631795ba9fcd873fe1b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1360170101,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1360170101,
+    "wof:lastmodified":1536822176,
+    "wof:name":"Kingoyo",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.91175,
+    -5.15198,
+    13.91175,
+    -5.15198
+],
+  "geometry": {"coordinates":[13.91175,-5.15198],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293366151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.94421,-5.4094,20.94421,-5.4094",
+    "geom:latitude":-5.4094,
+    "geom:longitude":20.94421,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Domaie-Lubwele",
+    "gn:country_code":"CD",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8277081,
+    "gn:latitude":-5.4094,
+    "gn:longitude":20.94421,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Domaie-Lubwele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8277081
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"31b16ac8e0232049f12f4e4c42faf6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1293366151,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293366151,
+    "wof:lastmodified":1536961912,
+    "wof:name":"Domaie-Lubwele",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.94421,
+    -5.4094,
+    20.94421,
+    -5.4094
+],
+  "geometry": {"coordinates":[20.94421,-5.4094],"type":"Point"}
+}

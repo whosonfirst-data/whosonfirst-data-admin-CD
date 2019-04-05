@@ -1,0 +1,64 @@
+{
+  "id": 1209177697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.06705,1.69578,29.06705,1.69578",
+    "geom:latitude":1.69578,
+    "geom:longitude":29.06705,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kotso",
+    "gn:country_code":"CD",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504669,
+    "gn:latitude":1.69578,
+    "gn:longitude":29.06705,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kotso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kotso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504669
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"00d7cf5a7f1a9c25372876d132e0f4cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209177697
+        }
+    ],
+    "wof:id":1209177697,
+    "wof:lastmodified":1537590566,
+    "wof:name":"Kotso",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.06705,
+    1.69578,
+    29.06705,
+    1.69578
+],
+  "geometry": {"coordinates":[29.06705,1.69578],"type":"Point"}
+}

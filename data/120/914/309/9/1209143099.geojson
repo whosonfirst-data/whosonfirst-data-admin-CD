@@ -1,0 +1,61 @@
+{
+  "id": 1209143099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.91714,-0.58755,21.91714,-0.58755",
+    "geom:latitude":-0.58755,
+    "geom:longitude":21.91714,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Vieux Wema",
+    "gn:country_code":"CD",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204389,
+    "gn:latitude":-0.58755,
+    "gn:longitude":21.91714,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Vieux Wema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204389
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7022b688d9bd5f0d4b15a55f129079e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209143099
+        }
+    ],
+    "wof:id":1209143099,
+    "wof:lastmodified":1536296441,
+    "wof:name":"Vieux Wema",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.91714,
+    -0.58755,
+    21.91714,
+    -0.58755
+],
+  "geometry": {"coordinates":[21.91714,-0.58755],"type":"Point"}
+}

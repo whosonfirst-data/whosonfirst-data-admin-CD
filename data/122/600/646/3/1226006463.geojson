@@ -1,0 +1,71 @@
+{
+  "id": 1226006463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.44387,-4.51437,19.44387,-4.51437",
+    "geom:latitude":-4.51437,
+    "geom:longitude":19.44387,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Intshume-Ebaya",
+    "gn:country_code":"CD",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315410,
+    "gn:latitude":-4.51437,
+    "gn:longitude":19.44387,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Intshume-Ebaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ebaya",
+        "Intshume-Ebaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315410
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"993001b8fe15239a2f9b41fd26fa58f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1226006463,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226006463,
+    "wof:lastmodified":1537590540,
+    "wof:name":"Intshume-Ebaya",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.44387,
+    -4.51437,
+    19.44387,
+    -4.51437
+],
+  "geometry": {"coordinates":[19.44387,-4.51437],"type":"Point"}
+}

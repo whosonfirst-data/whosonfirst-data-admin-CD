@@ -1,0 +1,61 @@
+{
+  "id": 1209578585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.2679,-6.37336,21.2679,-6.37336",
+    "geom:latitude":-6.37336,
+    "geom:longitude":21.2679,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ngulube",
+    "gn:country_code":"CD",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327279,
+    "gn:latitude":-6.37336,
+    "gn:longitude":21.2679,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ngulube",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327279
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d0ca7bf06850234b162c32013da90aae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209578585
+        }
+    ],
+    "wof:id":1209578585,
+    "wof:lastmodified":1536282859,
+    "wof:name":"Ngulube",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.2679,
+    -6.37336,
+    21.2679,
+    -6.37336
+],
+  "geometry": {"coordinates":[21.2679,-6.37336],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360164773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.60889,-2.8875,28.60889,-2.8875",
+    "geom:latitude":-2.8875,
+    "geom:longitude":28.60889,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Buhogo",
+    "gn:country_code":"CD",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382829,
+    "gn:latitude":-2.8875,
+    "gn:longitude":28.60889,
+    "gn:modification_date":"2009-04-07",
+    "gn:name":"Buhogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382829
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a7f4f2651fef62f1d498bc2a02e0f156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1360164773,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1360164773,
+    "wof:lastmodified":1536829776,
+    "wof:name":"Buhogo",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.60889,
+    -2.8875,
+    28.60889,
+    -2.8875
+],
+  "geometry": {"coordinates":[28.60889,-2.8875],"type":"Point"}
+}

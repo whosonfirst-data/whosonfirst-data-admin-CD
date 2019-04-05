@@ -1,0 +1,67 @@
+{
+  "id": 1226010293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.68333,-4.71667,16.68333,-4.71667",
+    "geom:latitude":-4.71667,
+    "geom:longitude":16.68333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bitari-Lonzo",
+    "gn:country_code":"CD",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317062,
+    "gn:latitude":-4.71667,
+    "gn:longitude":16.68333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bitari-Lonzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317062
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e0260425581e2f99c1d21b9280da7050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226010293,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226010293,
+    "wof:lastmodified":1536776970,
+    "wof:name":"Bitari-Lonzo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.68333,
+    -4.71667,
+    16.68333,
+    -4.71667
+],
+  "geometry": {"coordinates":[16.68333,-4.71667],"type":"Point"}
+}

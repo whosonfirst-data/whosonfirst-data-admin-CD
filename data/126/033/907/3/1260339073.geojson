@@ -1,0 +1,67 @@
+{
+  "id": 1260339073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.58795,-6.40101,28.58795,-6.40101",
+    "geom:latitude":-6.40101,
+    "geom:longitude":28.58795,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Mugumba",
+    "gn:country_code":"CD",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10010970,
+    "gn:latitude":-6.40101,
+    "gn:longitude":28.58795,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mugumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10010970
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5c7307acf847d1cf3b648636c1387a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1260339073,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260339073,
+    "wof:lastmodified":1536636465,
+    "wof:name":"Mugumba",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.58795,
+    -6.40101,
+    28.58795,
+    -6.40101
+],
+  "geometry": {"coordinates":[28.58795,-6.40101],"type":"Point"}
+}

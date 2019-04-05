@@ -1,0 +1,67 @@
+{
+  "id": 1343393827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.2893,-6.34091,23.2893,-6.34091",
+    "geom:latitude":-6.34091,
+    "geom:longitude":23.2893,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bashingala",
+    "gn:country_code":"CD",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946728,
+    "gn:latitude":-6.34091,
+    "gn:longitude":23.2893,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Bashingala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946728
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a362cadab6bd7416979609a27d7219bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1343393827,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1343393827,
+    "wof:lastmodified":1536841397,
+    "wof:name":"Bashingala",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.2893,
+    -6.34091,
+    23.2893,
+    -6.34091
+],
+  "geometry": {"coordinates":[23.2893,-6.34091],"type":"Point"}
+}

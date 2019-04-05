@@ -1,0 +1,67 @@
+{
+  "id": 1276534793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.12315,3.05875,24.12315,3.05875",
+    "geom:latitude":3.05875,
+    "geom:longitude":24.12315,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Masipiri",
+    "gn:country_code":"CD",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198072,
+    "gn:latitude":3.05875,
+    "gn:longitude":24.12315,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Masipiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198072
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6a6599988ca1636b83f704ac2a6bb5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1276534793,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276534793,
+    "wof:lastmodified":1537005306,
+    "wof:name":"Masipiri",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.12315,
+    3.05875,
+    24.12315,
+    3.05875
+],
+  "geometry": {"coordinates":[24.12315,3.05875],"type":"Point"}
+}

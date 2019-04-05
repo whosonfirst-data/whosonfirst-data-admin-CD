@@ -1,0 +1,71 @@
+{
+  "id": 1226719599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.67794,2.95702,27.67794,2.95702",
+    "geom:latitude":2.95702,
+    "geom:longitude":27.67794,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Naligonza",
+    "gn:country_code":"CD",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207454,
+    "gn:latitude":2.95702,
+    "gn:longitude":27.67794,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Naligonza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nalingonza",
+        "Naligonza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207454
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7166ac45b5a42f287522b7d8a26b9e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1226719599,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1226719599,
+    "wof:lastmodified":1537590347,
+    "wof:name":"Naligonza",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.67794,
+    2.95702,
+    27.67794,
+    2.95702
+],
+  "geometry": {"coordinates":[27.67794,2.95702],"type":"Point"}
+}

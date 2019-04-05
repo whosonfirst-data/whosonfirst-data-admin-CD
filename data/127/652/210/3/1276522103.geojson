@@ -1,0 +1,67 @@
+{
+  "id": 1276522103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.70005,-5.85405,19.70005,-5.85405",
+    "geom:latitude":-5.85405,
+    "geom:longitude":19.70005,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Dongo",
+    "gn:country_code":"CD",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316008,
+    "gn:latitude":-5.85405,
+    "gn:longitude":19.70005,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316008
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"947d84e3421cb7b44bd90d50bdd80aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1276522103,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276522103,
+    "wof:lastmodified":1537022138,
+    "wof:name":"Dongo",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.70005,
+    -5.85405,
+    19.70005,
+    -5.85405
+],
+  "geometry": {"coordinates":[19.70005,-5.85405],"type":"Point"}
+}

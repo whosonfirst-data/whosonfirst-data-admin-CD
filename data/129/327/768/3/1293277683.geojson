@@ -1,0 +1,71 @@
+{
+  "id": 1293277683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.58333,-5.55,12.58333,-5.55",
+    "geom:latitude":-5.55,
+    "geom:longitude":12.58333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lele-Sikila",
+    "gn:country_code":"CD",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313791,
+    "gn:latitude":-5.55,
+    "gn:longitude":12.58333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lele-Sikila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lele-Makenongo",
+        "Lele-Sikila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313791
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d21758e51eafb77531ec8e4d62ad82c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679303,
+            "locality_id":1293277683,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1293277683,
+    "wof:lastmodified":1537590525,
+    "wof:name":"Lele-Sikila",
+    "wof:parent_id":1091679303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.58333,
+    -5.55,
+    12.58333,
+    -5.55
+],
+  "geometry": {"coordinates":[12.58333,-5.55],"type":"Point"}
+}

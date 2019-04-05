@@ -1,0 +1,67 @@
+{
+  "id": 1242563019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87637,-4.55763,13.87637,-4.55763",
+    "geom:latitude":-4.55763,
+    "geom:longitude":13.87637,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kindamba-Yulu",
+    "gn:country_code":"CD",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442728,
+    "gn:latitude":-4.55763,
+    "gn:longitude":13.87637,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Kindamba-Yulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442728
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4ca4b084b4792816e96a2390c07990b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1242563019,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1242563019,
+    "wof:lastmodified":1537081538,
+    "wof:name":"Kindamba-Yulu",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87637,
+    -4.55763,
+    13.87637,
+    -4.55763
+],
+  "geometry": {"coordinates":[13.87637,-4.55763],"type":"Point"}
+}

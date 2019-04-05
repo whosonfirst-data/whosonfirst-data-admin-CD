@@ -1,0 +1,67 @@
+{
+  "id": 1343818507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.38162,1.49293,25.38162,1.49293",
+    "geom:latitude":1.49293,
+    "geom:longitude":25.38162,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Ngode",
+    "gn:country_code":"CD",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207187,
+    "gn:latitude":1.49293,
+    "gn:longitude":25.38162,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ngode",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207187
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b9ba0e084b3ff2c120e0aeab9b441550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1343818507,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343818507,
+    "wof:lastmodified":1536727698,
+    "wof:name":"Ngode",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.38162,
+    1.49293,
+    25.38162,
+    1.49293
+],
+  "geometry": {"coordinates":[25.38162,1.49293],"type":"Point"}
+}

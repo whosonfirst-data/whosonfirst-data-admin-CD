@@ -1,0 +1,72 @@
+{
+  "id": 1310379405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71223,-5.93519,24.71223,-5.93519",
+    "geom:latitude":-5.93519,
+    "geom:longitude":24.71223,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kabango-Totue",
+    "gn:country_code":"CD",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215618,
+    "gn:latitude":-5.93519,
+    "gn:longitude":24.71223,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabango-Totue",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabongo",
+        "Kabango Kabue",
+        "Kabango-Totue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215618
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"70ab25e96e1ecb6ac54252a04b008b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1310379405,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1310379405,
+    "wof:lastmodified":1537590427,
+    "wof:name":"Kabango-Totue",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71223,
+    -5.93519,
+    24.71223,
+    -5.93519
+],
+  "geometry": {"coordinates":[24.71223,-5.93519],"type":"Point"}
+}

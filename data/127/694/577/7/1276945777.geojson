@@ -1,0 +1,67 @@
+{
+  "id": 1276945777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.77174,-2.39353,17.77174,-2.39353",
+    "geom:latitude":-2.39353,
+    "geom:longitude":17.77174,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Lokoto",
+    "gn:country_code":"CD",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8432007,
+    "gn:latitude":-2.39353,
+    "gn:longitude":17.77174,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Lokoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8432007
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1bed1f3e2a820426187e2ad87d530296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1276945777,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276945777,
+    "wof:lastmodified":1536953178,
+    "wof:name":"Lokoto",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.77173999999999,
+    -2.39353,
+    17.77173999999999,
+    -2.39353
+],
+  "geometry": {"coordinates":[17.77173999999999,-2.39353],"type":"Point"}
+}

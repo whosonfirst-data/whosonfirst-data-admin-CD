@@ -1,0 +1,67 @@
+{
+  "id": 1242931853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51885,-9.71874,25.51885,-9.71874",
+    "geom:latitude":-9.71874,
+    "geom:longitude":25.51885,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kaniama",
+    "gn:country_code":"CD",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10052302,
+    "gn:latitude":-9.71874,
+    "gn:longitude":25.51885,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kaniama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10052302
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"811f0082dfb366b5771df941ca08234c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1242931853,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1242931853,
+    "wof:lastmodified":1537048546,
+    "wof:name":"Kaniama",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51885,
+    -9.71874,
+    25.51885,
+    -9.71874
+],
+  "geometry": {"coordinates":[25.51885,-9.71874],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276945779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.6398,-2.35822,16.6398,-2.35822",
+    "geom:latitude":-2.35822,
+    "geom:longitude":16.6398,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Djakamoba",
+    "gn:country_code":"CD",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316073,
+    "gn:latitude":-2.35822,
+    "gn:longitude":16.6398,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Djakamoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316073
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d76655570d20949697b59182ea69e093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1276945779,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276945779,
+    "wof:lastmodified":1536953175,
+    "wof:name":"Djakamoba",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.6398,
+    -2.35822,
+    16.6398,
+    -2.35822
+],
+  "geometry": {"coordinates":[16.6398,-2.35822],"type":"Point"}
+}

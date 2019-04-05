@@ -1,0 +1,67 @@
+{
+  "id": 1326895303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.96107,-5.60305,18.96107,-5.60305",
+    "geom:latitude":-5.60305,
+    "geom:longitude":18.96107,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kabobi",
+    "gn:country_code":"CD",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276153,
+    "gn:latitude":-5.60305,
+    "gn:longitude":18.96107,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kabobi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276153
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4aca55b25cda9d7229b161d65a92b78a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1326895303,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1326895303,
+    "wof:lastmodified":1536958039,
+    "wof:name":"Kabobi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.96107,
+    -5.60305,
+    18.96107,
+    -5.60305
+],
+  "geometry": {"coordinates":[18.96107,-5.60305],"type":"Point"}
+}

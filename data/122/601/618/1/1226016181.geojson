@@ -1,0 +1,67 @@
+{
+  "id": 1226016181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.66507,3.95309,24.66507,3.95309",
+    "geom:latitude":3.95309,
+    "geom:longitude":24.66507,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dengwa",
+    "gn:country_code":"CD",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8198046,
+    "gn:latitude":3.95309,
+    "gn:longitude":24.66507,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dengwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8198046
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"adb38b23156b1eddfa0d3dd103fd8e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1226016181,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1226016181,
+    "wof:lastmodified":1536768372,
+    "wof:name":"Dengwa",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.66507,
+    3.95309,
+    24.66507,
+    3.95309
+],
+  "geometry": {"coordinates":[24.66507,3.95309],"type":"Point"}
+}

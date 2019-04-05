@@ -1,0 +1,67 @@
+{
+  "id": 1260273755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5525,-5.22979,14.5525,-5.22979",
+    "geom:latitude":-5.22979,
+    "geom:longitude":14.5525,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Manilonde",
+    "gn:country_code":"CD",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325013,
+    "gn:latitude":-5.22979,
+    "gn:longitude":14.5525,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Manilonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325013
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"726a822930510a0622512abe21f2a48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1260273755,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1260273755,
+    "wof:lastmodified":1536725379,
+    "wof:name":"Manilonde",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5525,
+    -5.22979,
+    14.5525,
+    -5.22979
+],
+  "geometry": {"coordinates":[14.5525,-5.22979],"type":"Point"}
+}

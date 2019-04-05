@@ -1,0 +1,67 @@
+{
+  "id": 1326506061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.90394,-6.41938,19.90394,-6.41938",
+    "geom:latitude":-6.41938,
+    "geom:longitude":19.90394,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Wambayingi",
+    "gn:country_code":"CD",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9528965,
+    "gn:latitude":-6.41938,
+    "gn:longitude":19.90394,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Wambayingi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9528965
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e6b8fe5db812ca87cf0ebdfdca503159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1326506061,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1326506061,
+    "wof:lastmodified":1537020888,
+    "wof:name":"Wambayingi",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.90394,
+    -6.41938,
+    19.90394,
+    -6.41938
+],
+  "geometry": {"coordinates":[19.90394,-6.41938],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259777023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.2,-4.16667,26.2,-4.16667",
+    "geom:latitude":-4.16667,
+    "geom:longitude":26.2,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Yamba-Yamba",
+    "gn:country_code":"CD",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203856,
+    "gn:latitude":-4.16667,
+    "gn:longitude":26.2,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Yamba-Yamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203856
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"55fa845e1f05fa42f812cd9be0aa9d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1259777023,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1259777023,
+    "wof:lastmodified":1536933247,
+    "wof:name":"Yamba-Yamba",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.2,
+    -4.16667,
+    26.2,
+    -4.16667
+],
+  "geometry": {"coordinates":[26.2,-4.16667],"type":"Point"}
+}

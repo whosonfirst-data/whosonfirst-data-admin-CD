@@ -1,0 +1,67 @@
+{
+  "id": 1293579985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.51679,-4.80282,15.51679,-4.80282",
+    "geom:latitude":-4.80282,
+    "geom:longitude":15.51679,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kilombo",
+    "gn:country_code":"CD",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314677,
+    "gn:latitude":-4.80282,
+    "gn:longitude":15.51679,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Kilombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314677
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fe3d9b39d3c66bbb5fb5ca3a948c6e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1293579985,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1293579985,
+    "wof:lastmodified":1536653748,
+    "wof:name":"Kilombo",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.51679,
+    -4.80282,
+    15.51679,
+    -4.80282
+],
+  "geometry": {"coordinates":[15.51679,-4.80282],"type":"Point"}
+}

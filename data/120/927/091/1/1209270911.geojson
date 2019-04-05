@@ -1,0 +1,61 @@
+{
+  "id": 1209270911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.59937,-10.40943,24.59937,-10.40943",
+    "geom:latitude":-10.40943,
+    "geom:longitude":24.59937,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Dishala",
+    "gn:country_code":"CD",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10207174,
+    "gn:latitude":-10.40943,
+    "gn:longitude":24.59937,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dishala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10207174
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"38e93b76c32f945acdda785bd50b4932",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209270911
+        }
+    ],
+    "wof:id":1209270911,
+    "wof:lastmodified":1536292362,
+    "wof:name":"Dishala",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.59937,
+    -10.40943,
+    24.59937,
+    -10.40943
+],
+  "geometry": {"coordinates":[24.59937,-10.40943],"type":"Point"}
+}

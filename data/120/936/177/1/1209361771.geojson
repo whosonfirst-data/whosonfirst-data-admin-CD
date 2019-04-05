@@ -1,0 +1,61 @@
+{
+  "id": 1209361771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.71667,-8.25,29.71667,-8.25",
+    "geom:latitude":-8.25,
+    "geom:longitude":29.71667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kikongo",
+    "gn:country_code":"CD",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213135,
+    "gn:latitude":-8.25,
+    "gn:longitude":29.71667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kikongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213135
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"995f98746b6ffd8a805403bb6e777e37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209361771
+        }
+    ],
+    "wof:id":1209361771,
+    "wof:lastmodified":1536289398,
+    "wof:name":"Kikongo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.71667,
+    -8.25,
+    29.71667,
+    -8.25
+],
+  "geometry": {"coordinates":[29.71667,-8.25],"type":"Point"}
+}

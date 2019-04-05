@@ -1,0 +1,67 @@
+{
+  "id": 1360143195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.43751,-10.46462,22.43751,-10.46462",
+    "geom:latitude":-10.46462,
+    "geom:longitude":22.43751,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Laurent",
+    "gn:country_code":"CD",
+    "gn:dem":1065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8463706,
+    "gn:latitude":-10.46462,
+    "gn:longitude":22.43751,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Laurent",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463706
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f816dfbcd65338f444f2dcedcf82f59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1360143195,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1360143195,
+    "wof:lastmodified":1536860551,
+    "wof:name":"Laurent",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.43751,
+    -10.46462,
+    22.43751,
+    -10.46462
+],
+  "geometry": {"coordinates":[22.43751,-10.46462],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209184967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43333,-9.21667,27.43333,-9.21667",
+    "geom:latitude":-9.21667,
+    "geom:longitude":27.43333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kifinga",
+    "gn:country_code":"CD",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213215,
+    "gn:latitude":-9.21667,
+    "gn:longitude":27.43333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kifinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213215
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7c63a314102dd0beaa0d85f04f759c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209184967
+        }
+    ],
+    "wof:id":1209184967,
+    "wof:lastmodified":1536295131,
+    "wof:name":"Kifinga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43333,
+    -9.21667,
+    27.43333,
+    -9.21667
+],
+  "geometry": {"coordinates":[27.43333,-9.21667],"type":"Point"}
+}

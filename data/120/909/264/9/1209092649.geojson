@@ -1,0 +1,61 @@
+{
+  "id": 1209092649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.68365,2.52886,26.68365,2.52886",
+    "geom:latitude":2.52886,
+    "geom:longitude":26.68365,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mwata",
+    "gn:country_code":"CD",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8062324,
+    "gn:latitude":2.52886,
+    "gn:longitude":26.68365,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8062324
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e60c39e9e1bb3c2256d7a140fe478129",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209092649
+        }
+    ],
+    "wof:id":1209092649,
+    "wof:lastmodified":1536297988,
+    "wof:name":"Mwata",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.68365,
+    2.52886,
+    26.68365,
+    2.52886
+],
+  "geometry": {"coordinates":[26.68365,2.52886],"type":"Point"}
+}

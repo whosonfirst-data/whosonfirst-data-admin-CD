@@ -1,0 +1,67 @@
+{
+  "id": 1293689659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.5,0.23333,19.5,0.23333",
+    "geom:latitude":0.23333,
+    "geom:longitude":19.5,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ilanga",
+    "gn:country_code":"CD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315498,
+    "gn:latitude":0.23333,
+    "gn:longitude":19.5,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ilanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315498
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c776dfd6a933d3090bc7b968239a66a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1293689659,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293689659,
+    "wof:lastmodified":1536992046,
+    "wof:name":"Ilanga",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.5,
+    0.23333,
+    19.5,
+    0.23333
+],
+  "geometry": {"coordinates":[19.5,0.23333],"type":"Point"}
+}

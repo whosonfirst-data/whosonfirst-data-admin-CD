@@ -1,0 +1,67 @@
+{
+  "id": 1310173637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.77544,-3.62656,18.77544,-3.62656",
+    "geom:latitude":-3.62656,
+    "geom:longitude":18.77544,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mbien",
+    "gn:country_code":"CD",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312858,
+    "gn:latitude":-3.62656,
+    "gn:longitude":18.77544,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mbien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312858
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"cb09d10b72c9095a111afdfc48088c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1310173637,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310173637,
+    "wof:lastmodified":1536898361,
+    "wof:name":"Mbien",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.77544,
+    -3.62656,
+    18.77544,
+    -3.62656
+],
+  "geometry": {"coordinates":[18.77544,-3.62656],"type":"Point"}
+}

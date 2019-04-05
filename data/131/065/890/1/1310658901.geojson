@@ -1,0 +1,67 @@
+{
+  "id": 1310658901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.8467,-6.90401,21.8467,-6.90401",
+    "geom:latitude":-6.90401,
+    "geom:longitude":21.8467,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Kongolo-Munene",
+    "gn:country_code":"CD",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212350,
+    "gn:latitude":-6.90401,
+    "gn:longitude":21.8467,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kongolo-Munene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212350
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8144dbdbfbf40e52fe706249e18cf7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1310658901,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1310658901,
+    "wof:lastmodified":1536695942,
+    "wof:name":"Kongolo-Munene",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.8467,
+    -6.90401,
+    21.8467,
+    -6.90401
+],
+  "geometry": {"coordinates":[21.8467,-6.90401],"type":"Point"}
+}

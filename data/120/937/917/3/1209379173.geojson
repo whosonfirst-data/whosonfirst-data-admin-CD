@@ -1,0 +1,64 @@
+{
+  "id": 1209379173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.56117,-7.50722,23.56117,-7.50722",
+    "geom:latitude":-7.50722,
+    "geom:longitude":23.56117,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Muaba",
+    "gn:country_code":"CD",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208586,
+    "gn:latitude":-7.50722,
+    "gn:longitude":23.56117,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Muaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muaba Kasaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208586
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"54d3077dd270a93a79164640d02182f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209379173
+        }
+    ],
+    "wof:id":1209379173,
+    "wof:lastmodified":1537590361,
+    "wof:name":"Muaba",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.56117,
+    -7.50722,
+    23.56117,
+    -7.50722
+],
+  "geometry": {"coordinates":[23.56117,-7.50722],"type":"Point"}
+}

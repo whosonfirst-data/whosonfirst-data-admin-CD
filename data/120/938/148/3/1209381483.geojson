@@ -1,0 +1,67 @@
+{
+  "id": 1209381483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.66351,-3.32045,23.66351,-3.32045",
+    "geom:latitude":-3.32045,
+    "geom:longitude":23.66351,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Kunstshankoie",
+    "gn:country_code":"CD",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212173,
+    "gn:latitude":-3.32045,
+    "gn:longitude":23.66351,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kunstshankoie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kutsharikoie",
+        "Kutshankoie",
+        "Kuntshankoie",
+        "Kunstshankoie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212173
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9567e63a44797d7fe8a559fd55780b5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209381483
+        }
+    ],
+    "wof:id":1209381483,
+    "wof:lastmodified":1537590392,
+    "wof:name":"Kunstshankoie",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.66351,
+    -3.32045,
+    23.66351,
+    -3.32045
+],
+  "geometry": {"coordinates":[23.66351,-3.32045],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293224431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.57624,-6.69346,23.57624,-6.69346",
+    "geom:latitude":-6.69346,
+    "geom:longitude":23.57624,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bena Tchitala",
+    "gn:country_code":"CD",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219092,
+    "gn:latitude":-6.69346,
+    "gn:longitude":23.57624,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Bena Tchitala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bena Tshitala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219092
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8cbe25c348607c5a606fca39b1dc1fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1293224431,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1293224431,
+    "wof:lastmodified":1537590462,
+    "wof:name":"Bena Tchitala",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.57624,
+    -6.69346,
+    23.57624,
+    -6.69346
+],
+  "geometry": {"coordinates":[23.57624,-6.69346],"type":"Point"}
+}

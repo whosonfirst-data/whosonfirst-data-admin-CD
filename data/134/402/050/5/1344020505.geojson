@@ -1,0 +1,67 @@
+{
+  "id": 1344020505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.43852,-5.28095,16.43852,-5.28095",
+    "geom:latitude":-5.28095,
+    "geom:longitude":16.43852,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Makimbi",
+    "gn:country_code":"CD",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8255809,
+    "gn:latitude":-5.28095,
+    "gn:longitude":16.43852,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Makimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8255809
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aa6b6dee227c4160c37c90e6ec5a0c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1344020505,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1344020505,
+    "wof:lastmodified":1536934197,
+    "wof:name":"Makimbi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.43852,
+    -5.28095,
+    16.43852,
+    -5.28095
+],
+  "geometry": {"coordinates":[16.43852,-5.28095],"type":"Point"}
+}

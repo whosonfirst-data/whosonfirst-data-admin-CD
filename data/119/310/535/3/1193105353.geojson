@@ -1,0 +1,67 @@
+{
+  "id": 1193105353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.76667,-1.81667,19.76667,-1.81667",
+    "geom:latitude":-1.81667,
+    "geom:longitude":19.76667,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Besomba",
+    "gn:country_code":"CD",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317142,
+    "gn:latitude":-1.81667,
+    "gn:longitude":19.76667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Besomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317142
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"71686175a6bbab52c197041f53dfca29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1193105353,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1193105353,
+    "wof:lastmodified":1536379074,
+    "wof:name":"Besomba",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.76667,
+    -1.81667,
+    19.76667,
+    -1.81667
+],
+  "geometry": {"coordinates":[19.76667,-1.81667],"type":"Point"}
+}

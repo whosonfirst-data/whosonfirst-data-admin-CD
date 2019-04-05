@@ -1,0 +1,67 @@
+{
+  "id": 1343237885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.30313,-6.54143,20.30313,-6.54143",
+    "geom:latitude":-6.54143,
+    "geom:longitude":20.30313,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Katua",
+    "gn:country_code":"CD",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213696,
+    "gn:latitude":-6.54143,
+    "gn:longitude":20.30313,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Katua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213696
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3f8b49143efcb1cb77a2bfed0c91cd07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1343237885,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343237885,
+    "wof:lastmodified":1537064746,
+    "wof:name":"Katua",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.30313,
+    -6.54143,
+    20.30313,
+    -6.54143
+],
+  "geometry": {"coordinates":[20.30313,-6.54143],"type":"Point"}
+}

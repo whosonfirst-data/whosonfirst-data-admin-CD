@@ -1,0 +1,71 @@
+{
+  "id": 1293644013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.81986,4.12105,20.81986,4.12105",
+    "geom:latitude":4.12105,
+    "geom:longitude":20.81986,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Banga",
+    "gn:country_code":"CD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219599,
+    "gn:latitude":4.12105,
+    "gn:longitude":20.81986,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Banga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bangawa",
+        "Banga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219599
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d914896fdd450ae838a4c525121438c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679653,
+            "locality_id":1293644013,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1293644013,
+    "wof:lastmodified":1537590470,
+    "wof:name":"Banga",
+    "wof:parent_id":1091679653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.81986,
+    4.12105,
+    20.81986,
+    4.12105
+],
+  "geometry": {"coordinates":[20.81986,4.12105],"type":"Point"}
+}

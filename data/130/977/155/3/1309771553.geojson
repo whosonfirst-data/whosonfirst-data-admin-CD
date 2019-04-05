@@ -1,0 +1,67 @@
+{
+  "id": 1309771553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.8874,-6.14796,16.8874,-6.14796",
+    "geom:latitude":-6.14796,
+    "geom:longitude":16.8874,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tsutsu",
+    "gn:country_code":"CD",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2311074,
+    "gn:latitude":-6.14796,
+    "gn:longitude":16.8874,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tsutsu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2311074
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1c0e75390ba5815a11cbf1744c200f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1309771553,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1309771553,
+    "wof:lastmodified":1536979945,
+    "wof:name":"Tsutsu",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.8874,
+    -6.14796,
+    16.8874,
+    -6.14796
+],
+  "geometry": {"coordinates":[16.8874,-6.14796],"type":"Point"}
+}

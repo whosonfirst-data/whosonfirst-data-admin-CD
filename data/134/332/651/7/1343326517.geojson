@@ -1,0 +1,67 @@
+{
+  "id": 1343326517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.84886,-3.96104,18.84886,-3.96104",
+    "geom:latitude":-3.96104,
+    "geom:longitude":18.84886,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Matari",
+    "gn:country_code":"CD",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8446976,
+    "gn:latitude":-3.96104,
+    "gn:longitude":18.84886,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Matari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8446976
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7fc54d4029f8d23e054ca62ce6b7ec7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1343326517,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343326517,
+    "wof:lastmodified":1536940388,
+    "wof:name":"Matari",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.84886,
+    -3.96104,
+    18.84886,
+    -3.96104
+],
+  "geometry": {"coordinates":[18.84886,-3.96104],"type":"Point"}
+}

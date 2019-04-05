@@ -1,0 +1,64 @@
+{
+  "id": 1209062717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.36398,-8.04476,23.36398,-8.04476",
+    "geom:latitude":-8.04476,
+    "geom:longitude":23.36398,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mwatshipungu",
+    "gn:country_code":"CD",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10016623,
+    "gn:latitude":-8.04476,
+    "gn:longitude":23.36398,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwatshipungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukatshipungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10016623
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"68cc84290c030812a30c7f678fe4af27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209062717
+        }
+    ],
+    "wof:id":1209062717,
+    "wof:lastmodified":1537590578,
+    "wof:name":"Mwatshipungu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.36398,
+    -8.04476,
+    23.36398,
+    -8.04476
+],
+  "geometry": {"coordinates":[23.36398,-8.04476],"type":"Point"}
+}

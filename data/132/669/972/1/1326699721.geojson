@@ -1,0 +1,67 @@
+{
+  "id": 1326699721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95677,3.27948,27.95677,3.27948",
+    "geom:latitude":3.27948,
+    "geom:longitude":27.95677,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kandi",
+    "gn:country_code":"CD",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069485,
+    "gn:latitude":3.27948,
+    "gn:longitude":27.95677,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069485
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f921b778f083f8d2c93347c9bd11c998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1326699721,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1326699721,
+    "wof:lastmodified":1536742446,
+    "wof:name":"Kandi",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95677,
+    3.27948,
+    27.95677,
+    3.27948
+],
+  "geometry": {"coordinates":[27.95677,3.27948],"type":"Point"}
+}

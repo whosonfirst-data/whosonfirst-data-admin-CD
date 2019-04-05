@@ -1,0 +1,67 @@
+{
+  "id": 1259553679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.93119,-8.43335,23.93119,-8.43335",
+    "geom:latitude":-8.43335,
+    "geom:longitude":23.93119,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Zuzi",
+    "gn:country_code":"CD",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203204,
+    "gn:latitude":-8.43335,
+    "gn:longitude":23.93119,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Zuzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203204
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b5315f005ca6853d2d260b324f2cb39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1259553679,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1259553679,
+    "wof:lastmodified":1536758052,
+    "wof:name":"Zuzi",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.93119,
+    -8.43335,
+    23.93119,
+    -8.43335
+],
+  "geometry": {"coordinates":[23.93119,-8.43335],"type":"Point"}
+}

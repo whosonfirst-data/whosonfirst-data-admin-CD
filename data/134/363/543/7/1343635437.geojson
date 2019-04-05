@@ -1,0 +1,72 @@
+{
+  "id": 1343635437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.78264,-6.57938,23.78264,-6.57938",
+    "geom:latitude":-6.57938,
+    "geom:longitude":23.78264,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Mokoka",
+    "gn:country_code":"CD",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208908,
+    "gn:latitude":-6.57938,
+    "gn:longitude":23.78264,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mokoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mokoko",
+        "Mukoka",
+        "Mokoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208908
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f5ddedc816e598bf3014cd5524530b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1343635437,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1343635437,
+    "wof:lastmodified":1537590365,
+    "wof:name":"Mokoka",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.78264,
+    -6.57938,
+    23.78264,
+    -6.57938
+],
+  "geometry": {"coordinates":[23.78264,-6.57938],"type":"Point"}
+}

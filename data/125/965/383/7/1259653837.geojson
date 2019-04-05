@@ -1,0 +1,67 @@
+{
+  "id": 1259653837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.16519,-7.65878,24.16519,-7.65878",
+    "geom:latitude":-7.65878,
+    "geom:longitude":24.16519,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mulamba",
+    "gn:country_code":"CD",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9010408,
+    "gn:latitude":-7.65878,
+    "gn:longitude":24.16519,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mulamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9010408
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1c75b50d02a9dfa98e4f84837127ec3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1259653837,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1259653837,
+    "wof:lastmodified":1536610883,
+    "wof:name":"Mulamba",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.16519,
+    -7.65878,
+    24.16519,
+    -7.65878
+],
+  "geometry": {"coordinates":[24.16519,-7.65878],"type":"Point"}
+}

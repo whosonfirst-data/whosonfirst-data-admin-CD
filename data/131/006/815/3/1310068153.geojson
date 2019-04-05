@@ -1,0 +1,67 @@
+{
+  "id": 1310068153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.24361,-7.56792,17.24361,-7.56792",
+    "geom:latitude":-7.56792,
+    "geom:longitude":17.24361,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kibulumuna",
+    "gn:country_code":"CD",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447535,
+    "gn:latitude":-7.56792,
+    "gn:longitude":17.24361,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kibulumuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447535
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"669a26441ff8f00c708b599ca4e173c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1310068153,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310068153,
+    "wof:lastmodified":1537048464,
+    "wof:name":"Kibulumuna",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.24361,
+    -7.56792,
+    17.24361,
+    -7.56792
+],
+  "geometry": {"coordinates":[17.24361,-7.56792],"type":"Point"}
+}

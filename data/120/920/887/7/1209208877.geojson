@@ -1,0 +1,66 @@
+{
+  "id": 1209208877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.17106,-4.26316,28.17106,-4.26316",
+    "geom:latitude":-4.26316,
+    "geom:longitude":28.17106,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Pena-Lunanga",
+    "gn:country_code":"CD",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":206341,
+    "gn:latitude":-4.26316,
+    "gn:longitude":28.17106,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Pena-Lunanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pene Lumanga",
+        "Pene Lunanga",
+        "Pena-Lunanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":206341
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"59a0e7c24b0098ac366576cf4c82d037",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209208877
+        }
+    ],
+    "wof:id":1209208877,
+    "wof:lastmodified":1537590335,
+    "wof:name":"Pena-Lunanga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.17106,
+    -4.26316,
+    28.17106,
+    -4.26316
+],
+  "geometry": {"coordinates":[28.17106,-4.26316],"type":"Point"}
+}

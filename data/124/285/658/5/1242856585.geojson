@@ -1,0 +1,67 @@
+{
+  "id": 1242856585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.93246,4.37353,27.93246,4.37353",
+    "geom:latitude":4.37353,
+    "geom:longitude":27.93246,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Bakpetini",
+    "gn:country_code":"CD",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8074900,
+    "gn:latitude":4.37353,
+    "gn:longitude":27.93246,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bakpetini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8074900
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"875ef394fa83265c9dddf8fd43b2d65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679755,
+            "locality_id":1242856585,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1242856585,
+    "wof:lastmodified":1536661849,
+    "wof:name":"Bakpetini",
+    "wof:parent_id":1091679755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.93246,
+    4.37353,
+    27.93246,
+    4.37353
+],
+  "geometry": {"coordinates":[27.93246,4.37353],"type":"Point"}
+}

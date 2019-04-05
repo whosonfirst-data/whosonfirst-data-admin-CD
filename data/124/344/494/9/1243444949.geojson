@@ -1,0 +1,67 @@
+{
+  "id": 1243444949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24214,-5.42319,15.24214,-5.42319",
+    "geom:latitude":-5.42319,
+    "geom:longitude":15.24214,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kinkinsi",
+    "gn:country_code":"CD",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8254435,
+    "gn:latitude":-5.42319,
+    "gn:longitude":15.24214,
+    "gn:modification_date":"2012-04-07",
+    "gn:name":"Kinkinsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8254435
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ae3dc6f3d2b23bb8880fa9f780155582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1243444949,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1243444949,
+    "wof:lastmodified":1536807415,
+    "wof:name":"Kinkinsi",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24214,
+    -5.42319,
+    15.24214,
+    -5.42319
+],
+  "geometry": {"coordinates":[15.24214,-5.42319],"type":"Point"}
+}

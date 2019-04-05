@@ -1,0 +1,67 @@
+{
+  "id": 1242642117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.18096,-5.44053,18.18096,-5.44053",
+    "geom:latitude":-5.44053,
+    "geom:longitude":18.18096,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Manenga",
+    "gn:country_code":"CD",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276018,
+    "gn:latitude":-5.44053,
+    "gn:longitude":18.18096,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Manenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276018
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ac22127693dfc704e4cb7400e5d2a445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1242642117,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1242642117,
+    "wof:lastmodified":1536970678,
+    "wof:name":"Manenga",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.18096,
+    -5.44053,
+    18.18096,
+    -5.44053
+],
+  "geometry": {"coordinates":[18.18096,-5.44053],"type":"Point"}
+}

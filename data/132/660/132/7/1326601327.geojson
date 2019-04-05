@@ -1,0 +1,67 @@
+{
+  "id": 1326601327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.72689,2.60008,26.72689,2.60008",
+    "geom:latitude":2.60008,
+    "geom:longitude":26.72689,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Gia",
+    "gn:country_code":"CD",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8062298,
+    "gn:latitude":2.60008,
+    "gn:longitude":26.72689,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Gia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8062298
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"94ebec1a5a26001afb76321544413fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1326601327,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1326601327,
+    "wof:lastmodified":1536883944,
+    "wof:name":"Gia",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.72689,
+    2.60008,
+    26.72689,
+    2.60008
+],
+  "geometry": {"coordinates":[26.72689,2.60008],"type":"Point"}
+}

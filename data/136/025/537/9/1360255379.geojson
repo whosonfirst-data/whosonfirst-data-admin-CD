@@ -1,0 +1,67 @@
+{
+  "id": 1360255379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.22404,-7.87255,24.22404,-7.87255",
+    "geom:latitude":-7.87255,
+    "geom:longitude":24.22404,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Katanda",
+    "gn:country_code":"CD",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213846,
+    "gn:latitude":-7.87255,
+    "gn:longitude":24.22404,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Katanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213846
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7cf709a65dfb5dac9e804e788d562a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1360255379,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1360255379,
+    "wof:lastmodified":1536700334,
+    "wof:name":"Katanda",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.22404,
+    -7.87255,
+    24.22404,
+    -7.87255
+],
+  "geometry": {"coordinates":[24.22404,-7.87255],"type":"Point"}
+}

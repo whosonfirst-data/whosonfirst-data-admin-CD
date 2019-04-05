@@ -1,0 +1,61 @@
+{
+  "id": 1209081355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.14859,-5.42606,17.14859,-5.42606",
+    "geom:latitude":-5.42606,
+    "geom:longitude":17.14859,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kakwambi",
+    "gn:country_code":"CD",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274615,
+    "gn:latitude":-5.42606,
+    "gn:longitude":17.14859,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kakwambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274615
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5184ca5f57a45b75ff0ab33d18406067",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209081355
+        }
+    ],
+    "wof:id":1209081355,
+    "wof:lastmodified":1536298326,
+    "wof:name":"Kakwambi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.14859,
+    -5.42606,
+    17.14859,
+    -5.42606
+],
+  "geometry": {"coordinates":[17.14859,-5.42606],"type":"Point"}
+}

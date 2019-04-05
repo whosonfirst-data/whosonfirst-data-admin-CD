@@ -1,0 +1,61 @@
+{
+  "id": 1209277407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.20943,-6.25668,20.20943,-6.25668",
+    "geom:latitude":-6.25668,
+    "geom:longitude":20.20943,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shamvula",
+    "gn:country_code":"CD",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283087,
+    "gn:latitude":-6.25668,
+    "gn:longitude":20.20943,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shamvula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283087
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"acc9361e8c48ac1a953efdb531b93723",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209277407
+        }
+    ],
+    "wof:id":1209277407,
+    "wof:lastmodified":1536292144,
+    "wof:name":"Shamvula",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.20943,
+    -6.25668,
+    20.20943,
+    -6.25668
+],
+  "geometry": {"coordinates":[20.20943,-6.25668],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293742021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.27986,-7.32904,22.27986,-7.32904",
+    "geom:latitude":-7.32904,
+    "geom:longitude":22.27986,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Denda",
+    "gn:country_code":"CD",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8438857,
+    "gn:latitude":-7.32904,
+    "gn:longitude":22.27986,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Denda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8438857
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"82ad6d9f4b6ec3b1592d936b698cabd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1293742021,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293742021,
+    "wof:lastmodified":1536917962,
+    "wof:name":"Denda",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.27986,
+    -7.32904,
+    22.27986,
+    -7.32904
+],
+  "geometry": {"coordinates":[22.27986,-7.32904],"type":"Point"}
+}

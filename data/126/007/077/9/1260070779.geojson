@@ -1,0 +1,67 @@
+{
+  "id": 1260070779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91181,-5.4378,14.91181,-5.4378",
+    "geom:latitude":-5.4378,
+    "geom:longitude":14.91181,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Senga",
+    "gn:country_code":"CD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325092,
+    "gn:latitude":-5.4378,
+    "gn:longitude":14.91181,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Senga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325092
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8f39baa9ad2f3aae2c60f666a17533ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1260070779,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1260070779,
+    "wof:lastmodified":1537005636,
+    "wof:name":"Senga",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91181,
+    -5.4378,
+    14.91181,
+    -5.4378
+],
+  "geometry": {"coordinates":[14.91181,-5.4378],"type":"Point"}
+}

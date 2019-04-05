@@ -1,0 +1,67 @@
+{
+  "id": 1276553729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.83082,-6.154,23.83082,-6.154",
+    "geom:latitude":-6.154,
+    "geom:longitude":23.83082,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Libanji Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9947294,
+    "gn:latitude":-6.154,
+    "gn:longitude":23.83082,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Libanji Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9947294
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c21c4168725ffcdd6ad39e09e1f639e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1276553729,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1276553729,
+    "wof:lastmodified":1536980008,
+    "wof:name":"Libanji Deuxieme",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.83082000000001,
+    -6.154,
+    23.83082000000001,
+    -6.154
+],
+  "geometry": {"coordinates":[23.83082000000001,-6.154],"type":"Point"}
+}

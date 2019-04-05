@@ -1,0 +1,67 @@
+{
+  "id": 1310167283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.75869,-5.04823,18.75869,-5.04823",
+    "geom:latitude":-5.04823,
+    "geom:longitude":18.75869,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Lumbi Nzinda",
+    "gn:country_code":"CD",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313326,
+    "gn:latitude":-5.04823,
+    "gn:longitude":18.75869,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Lumbi Nzinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313326
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a79996a58615d2ad407543ac3e3686cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679403,
+            "locality_id":1310167283,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310167283,
+    "wof:lastmodified":1536907861,
+    "wof:name":"Lumbi Nzinda",
+    "wof:parent_id":1091679403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.75869,
+    -5.04823,
+    18.75869,
+    -5.04823
+],
+  "geometry": {"coordinates":[18.75869,-5.04823],"type":"Point"}
+}

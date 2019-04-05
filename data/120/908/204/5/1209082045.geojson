@@ -1,0 +1,61 @@
+{
+  "id": 1209082045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.32162,-6.30011,20.32162,-6.30011",
+    "geom:latitude":-6.30011,
+    "geom:longitude":20.32162,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kashikashika-Kitangua",
+    "gn:country_code":"CD",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8540401,
+    "gn:latitude":-6.30011,
+    "gn:longitude":20.32162,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kashikashika-Kitangua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8540401
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"853db2e40c8f5ef969767f8ac5d815df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209082045
+        }
+    ],
+    "wof:id":1209082045,
+    "wof:lastmodified":1536298305,
+    "wof:name":"Kashikashika-Kitangua",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.321620000000006,
+    -6.30011,
+    20.321620000000006,
+    -6.30011
+],
+  "geometry": {"coordinates":[20.32162000000001,-6.30011],"type":"Point"}
+}

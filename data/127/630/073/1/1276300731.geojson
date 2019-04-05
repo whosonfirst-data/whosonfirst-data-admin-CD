@@ -1,0 +1,67 @@
+{
+  "id": 1276300731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.4517,-6.57211,22.4517,-6.57211",
+    "geom:latitude":-6.57211,
+    "geom:longitude":22.4517,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mukandianga",
+    "gn:country_code":"CD",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8284786,
+    "gn:latitude":-6.57211,
+    "gn:longitude":22.4517,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mukandianga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8284786
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"63cc1b23920f7dabbc8003b9d2120d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1276300731,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276300731,
+    "wof:lastmodified":1536821690,
+    "wof:name":"Mukandianga",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.4517,
+    -6.57211,
+    22.4517,
+    -6.57211
+],
+  "geometry": {"coordinates":[22.4517,-6.57211],"type":"Point"}
+}

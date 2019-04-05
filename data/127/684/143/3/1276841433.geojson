@@ -1,0 +1,67 @@
+{
+  "id": 1276841433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.422,3.16569,27.422,3.16569",
+    "geom:latitude":3.16569,
+    "geom:longitude":27.422,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Nangbama",
+    "gn:country_code":"CD",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8069419,
+    "gn:latitude":3.16569,
+    "gn:longitude":27.422,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nangbama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069419
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"63fce69e7cfa64edaf4a823aa34dde62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1276841433,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276841433,
+    "wof:lastmodified":1537089475,
+    "wof:name":"Nangbama",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.422,
+    3.16569,
+    27.422,
+    3.16569
+],
+  "geometry": {"coordinates":[27.422,3.16569],"type":"Point"}
+}

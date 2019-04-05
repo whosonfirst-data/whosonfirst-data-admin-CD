@@ -1,0 +1,67 @@
+{
+  "id": 1193105911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73701,-9.51383,22.73701,-9.51383",
+    "geom:latitude":-9.51383,
+    "geom:longitude":22.73701,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kalunga",
+    "gn:country_code":"CD",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8461494,
+    "gn:latitude":-9.51383,
+    "gn:longitude":22.73701,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kalunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8461494
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"74d88410c18fc5d50091d7a831c67fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1193105911,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1193105911,
+    "wof:lastmodified":1536378518,
+    "wof:name":"Kalunga",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73701,
+    -9.51383,
+    22.73701,
+    -9.51383
+],
+  "geometry": {"coordinates":[22.73701,-9.51383],"type":"Point"}
+}

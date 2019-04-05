@@ -1,0 +1,61 @@
+{
+  "id": 1209591631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.82972,-6.36312,20.82972,-6.36312",
+    "geom:latitude":-6.36312,
+    "geom:longitude":20.82972,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Munjimbo",
+    "gn:country_code":"CD",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8283176,
+    "gn:latitude":-6.36312,
+    "gn:longitude":20.82972,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Munjimbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8283176
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0c2fcb0d59084b2cca3d252f0c0b4c23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209591631
+        }
+    ],
+    "wof:id":1209591631,
+    "wof:lastmodified":1536282459,
+    "wof:name":"Munjimbo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.82972,
+    -6.3631199999999986,
+    20.82972,
+    -6.3631199999999986
+],
+  "geometry": {"coordinates":[20.82972,-6.36312],"type":"Point"}
+}

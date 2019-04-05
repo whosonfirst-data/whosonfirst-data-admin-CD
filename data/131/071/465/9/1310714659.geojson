@@ -1,0 +1,67 @@
+{
+  "id": 1310714659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.65574,1.17542,19.65574,1.17542",
+    "geom:latitude":1.17542,
+    "geom:longitude":19.65574,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bomate",
+    "gn:country_code":"CD",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316689,
+    "gn:latitude":1.17542,
+    "gn:longitude":19.65574,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bomate",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316689
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d0b77d82b0d5ae5c5e7d33f26cc8e540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1310714659,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310714659,
+    "wof:lastmodified":1536612654,
+    "wof:name":"Bomate",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.65574,
+    1.17542,
+    19.65574,
+    1.17542
+],
+  "geometry": {"coordinates":[19.65574,1.17542],"type":"Point"}
+}

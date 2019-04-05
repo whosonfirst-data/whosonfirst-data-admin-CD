@@ -1,0 +1,67 @@
+{
+  "id": 1243119729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.87483,-4.39506,24.87483,-4.39506",
+    "geom:latitude":-4.39506,
+    "geom:longitude":24.87483,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Budja",
+    "gn:country_code":"CD",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217864,
+    "gn:latitude":-4.39506,
+    "gn:longitude":24.87483,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Budja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217864
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f4b8dddf6c4b6f58cdd1364b83f917dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680399,
+            "locality_id":1243119729,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1243119729,
+    "wof:lastmodified":1536780147,
+    "wof:name":"Budja",
+    "wof:parent_id":1091680399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.87483,
+    -4.39506,
+    24.87483,
+    -4.39506
+],
+  "geometry": {"coordinates":[24.87483,-4.39506],"type":"Point"}
+}

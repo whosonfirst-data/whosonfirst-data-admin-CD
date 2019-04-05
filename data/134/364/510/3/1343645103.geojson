@@ -1,0 +1,67 @@
+{
+  "id": 1343645103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1452,-8.31818,29.1452,-8.31818",
+    "geom:latitude":-8.31818,
+    "geom:longitude":29.1452,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mwabo",
+    "gn:country_code":"CD",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207724,
+    "gn:latitude":-8.31818,
+    "gn:longitude":29.1452,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mwabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207724
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"df6d14a9945b258b4e48a56e526700a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1343645103,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1343645103,
+    "wof:lastmodified":1536976667,
+    "wof:name":"Mwabo",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1452,
+    -8.31818,
+    29.1452,
+    -8.31818
+],
+  "geometry": {"coordinates":[29.1452,-8.31818],"type":"Point"}
+}

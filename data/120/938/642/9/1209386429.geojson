@@ -1,0 +1,61 @@
+{
+  "id": 1209386429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.08017,2.94749,27.08017,2.94749",
+    "geom:latitude":2.94749,
+    "geom:longitude":27.08017,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Mopanza",
+    "gn:country_code":"CD",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8145429,
+    "gn:latitude":2.94749,
+    "gn:longitude":27.08017,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mopanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8145429
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ca980df4672979612c28076ce28f480d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209386429
+        }
+    ],
+    "wof:id":1209386429,
+    "wof:lastmodified":1536288609,
+    "wof:name":"Mopanza",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.080170000000006,
+    2.94749,
+    27.080170000000006,
+    2.94749
+],
+  "geometry": {"coordinates":[27.08017000000001,2.94749],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226198813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20021,-10.32265,23.20021,-10.32265",
+    "geom:latitude":-10.32265,
+    "geom:longitude":23.20021,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sakambundji",
+    "gn:country_code":"CD",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466749,
+    "gn:latitude":-10.32265,
+    "gn:longitude":23.20021,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sakambundji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466749
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1a2c4bfe8c58a022cb967a29aa7e8769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1226198813,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1226198813,
+    "wof:lastmodified":1537000626,
+    "wof:name":"Sakambundji",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20021,
+    -10.32265,
+    23.20021,
+    -10.32265
+],
+  "geometry": {"coordinates":[23.20021,-10.32265],"type":"Point"}
+}

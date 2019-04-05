@@ -1,0 +1,71 @@
+{
+  "id": 1259654513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.94078,-12.74954,28.94078,-12.74954",
+    "geom:latitude":-12.74954,
+    "geom:longitude":28.94078,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kitubulushi",
+    "gn:country_code":"CD",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922779,
+    "gn:latitude":-12.74954,
+    "gn:longitude":28.94078,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kitubulushi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilubulushi",
+        "Kitubulushi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922779
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2193e9dff48936c794f7d3919a72075a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1259654513,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1259654513,
+    "wof:lastmodified":1537590488,
+    "wof:name":"Kitubulushi",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.94078,
+    -12.74954,
+    28.94078,
+    -12.74954
+],
+  "geometry": {"coordinates":[28.94078,-12.74954],"type":"Point"}
+}

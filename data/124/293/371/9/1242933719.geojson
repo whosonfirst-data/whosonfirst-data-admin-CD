@@ -1,0 +1,71 @@
+{
+  "id": 1242933719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55032,1.82095,26.55032,1.82095",
+    "geom:latitude":1.82095,
+    "geom:longitude":26.55032,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Bafwazio",
+    "gn:country_code":"CD",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219923,
+    "gn:latitude":1.82095,
+    "gn:longitude":26.55032,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bafwazio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bafwasio",
+        "Bafwazio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219923
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aed9d033ebf0da8ac7a13ec49b35e747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1242933719,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1242933719,
+    "wof:lastmodified":1537590474,
+    "wof:name":"Bafwazio",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55032000000001,
+    1.82095,
+    26.55032000000001,
+    1.82095
+],
+  "geometry": {"coordinates":[26.55032000000001,1.82095],"type":"Point"}
+}

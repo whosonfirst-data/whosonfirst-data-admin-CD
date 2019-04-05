@@ -1,0 +1,71 @@
+{
+  "id": 1309900955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.81483,-4.8455,27.81483,-4.8455",
+    "geom:latitude":-4.8455,
+    "geom:longitude":27.81483,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mukoloka",
+    "gn:country_code":"CD",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":208372,
+    "gn:latitude":-4.8455,
+    "gn:longitude":27.81483,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mukoloka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukolaka",
+        "Mukoloka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":208372
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"990c5280a749bb1af6366e25111d41d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1309900955,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1309900955,
+    "wof:lastmodified":1537590358,
+    "wof:name":"Mukoloka",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.81483,
+    -4.8455,
+    27.81483,
+    -4.8455
+],
+  "geometry": {"coordinates":[27.81483,-4.8455],"type":"Point"}
+}

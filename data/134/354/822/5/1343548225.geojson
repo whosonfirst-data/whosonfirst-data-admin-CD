@@ -1,0 +1,67 @@
+{
+  "id": 1343548225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.86083,-3.99722,28.86083,-3.99722",
+    "geom:latitude":-3.99722,
+    "geom:longitude":28.86083,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Malungu",
+    "gn:country_code":"CD",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":387578,
+    "gn:latitude":-3.99722,
+    "gn:longitude":28.86083,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Malungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":387578
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bd4448be6c60d21c441d32f2acc021b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1343548225,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1343548225,
+    "wof:lastmodified":1536617384,
+    "wof:name":"Malungu",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.86083,
+    -3.99722,
+    28.86083,
+    -3.99722
+],
+  "geometry": {"coordinates":[28.86083,-3.99722],"type":"Point"}
+}

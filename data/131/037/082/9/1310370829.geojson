@@ -1,0 +1,67 @@
+{
+  "id": 1310370829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15433,-6.3792,17.15433,-6.3792",
+    "geom:latitude":-6.3792,
+    "geom:longitude":17.15433,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mupangi",
+    "gn:country_code":"CD",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434640,
+    "gn:latitude":-6.3792,
+    "gn:longitude":17.15433,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mupangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434640
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d892a6d63a6905ad5d9336fe9286932e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1310370829,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1310370829,
+    "wof:lastmodified":1536611335,
+    "wof:name":"Mupangi",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15433,
+    -6.3792,
+    17.15433,
+    -6.3792
+],
+  "geometry": {"coordinates":[17.15433,-6.3792],"type":"Point"}
+}

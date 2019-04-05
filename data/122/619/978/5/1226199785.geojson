@@ -1,0 +1,67 @@
+{
+  "id": 1226199785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.35979,1.7998,20.35979,1.7998",
+    "geom:latitude":1.7998,
+    "geom:longitude":20.35979,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Busu-Kwanga",
+    "gn:country_code":"CD",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217599,
+    "gn:latitude":1.7998,
+    "gn:longitude":20.35979,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Busu-Kwanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217599
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6ef05714269992ae1928662fd89117ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1226199785,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226199785,
+    "wof:lastmodified":1536999227,
+    "wof:name":"Busu-Kwanga",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.35979,
+    1.7998,
+    20.35979,
+    1.7998
+],
+  "geometry": {"coordinates":[20.35979,1.7998],"type":"Point"}
+}

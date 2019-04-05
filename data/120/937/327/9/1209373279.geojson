@@ -1,0 +1,61 @@
+{
+  "id": 1209373279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.88726,-8.00697,22.88726,-8.00697",
+    "geom:latitude":-8.00697,
+    "geom:longitude":22.88726,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshisans",
+    "gn:country_code":"CD",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10014173,
+    "gn:latitude":-8.00697,
+    "gn:longitude":22.88726,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshisans",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10014173
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8ade478e125583de2092903028755a51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209373279
+        }
+    ],
+    "wof:id":1209373279,
+    "wof:lastmodified":1536289035,
+    "wof:name":"Tshisans",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.88726,
+    -8.006969999999999,
+    22.88726,
+    -8.006969999999999
+],
+  "geometry": {"coordinates":[22.88726,-8.00697],"type":"Point"}
+}

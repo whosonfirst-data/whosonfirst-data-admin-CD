@@ -1,0 +1,67 @@
+{
+  "id": 1259848295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.20481,-10.32661,23.20481,-10.32661",
+    "geom:latitude":-10.32661,
+    "geom:longitude":23.20481,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mulonda",
+    "gn:country_code":"CD",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8466368,
+    "gn:latitude":-10.32661,
+    "gn:longitude":23.20481,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mulonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8466368
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a7384be48807cfeeb1d9e1d223e02f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1259848295,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1259848295,
+    "wof:lastmodified":1536828981,
+    "wof:name":"Mulonda",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.20481,
+    -10.32661,
+    23.20481,
+    -10.32661
+],
+  "geometry": {"coordinates":[23.20481,-10.32661],"type":"Point"}
+}

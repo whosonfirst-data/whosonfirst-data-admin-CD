@@ -1,0 +1,71 @@
+{
+  "id": 1360253631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.36162,-6.8606,22.36162,-6.8606",
+    "geom:latitude":-6.8606,
+    "geom:longitude":22.36162,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Nguema",
+    "gn:country_code":"CD",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207136,
+    "gn:latitude":-6.8606,
+    "gn:longitude":22.36162,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nguema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mgwema",
+        "Nguema"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207136
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3060bb7374607eed9e4fcfd1c681378b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1360253631,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1360253631,
+    "wof:lastmodified":1537590344,
+    "wof:name":"Nguema",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.36162,
+    -6.8606,
+    22.36162,
+    -6.8606
+],
+  "geometry": {"coordinates":[22.36162,-6.8606],"type":"Point"}
+}

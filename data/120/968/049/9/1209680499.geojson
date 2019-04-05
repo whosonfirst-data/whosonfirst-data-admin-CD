@@ -1,0 +1,61 @@
+{
+  "id": 1209680499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.21164,-5.4396,18.21164,-5.4396",
+    "geom:latitude":-5.4396,
+    "geom:longitude":18.21164,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mutema",
+    "gn:country_code":"CD",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8276019,
+    "gn:latitude":-5.4396,
+    "gn:longitude":18.21164,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mutema",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8276019
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ef15511d22342db8e8f9d0da66d78de5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209680499
+        }
+    ],
+    "wof:id":1209680499,
+    "wof:lastmodified":1536279594,
+    "wof:name":"Mutema",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.21164,
+    -5.4396,
+    18.21164,
+    -5.4396
+],
+  "geometry": {"coordinates":[18.21164,-5.4396],"type":"Point"}
+}

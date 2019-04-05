@@ -1,0 +1,71 @@
+{
+  "id": 1360253845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.91667,-10.0,26.91667,-10.0",
+    "geom:latitude":-10.0,
+    "geom:longitude":26.91667,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kapungwe",
+    "gn:country_code":"CD",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922986,
+    "gn:latitude":-10.0,
+    "gn:longitude":26.91667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kapungwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapungwa",
+        "Kapungwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922986
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"62e143805a0dc57ccfa7d911f971d872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1360253845,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1360253845,
+    "wof:lastmodified":1537590491,
+    "wof:name":"Kapungwe",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.91667,
+    -10.0,
+    26.91667,
+    -10.0
+],
+  "geometry": {"coordinates":[26.91667,-10.0],"type":"Point"}
+}

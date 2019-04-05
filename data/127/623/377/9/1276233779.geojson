@@ -1,0 +1,67 @@
+{
+  "id": 1276233779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.27803,-6.35004,23.27803,-6.35004",
+    "geom:latitude":-6.35004,
+    "geom:longitude":23.27803,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bakwa Nkwadi",
+    "gn:country_code":"CD",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946729,
+    "gn:latitude":-6.35004,
+    "gn:longitude":23.27803,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Bakwa Nkwadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946729
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"35e9f23e6cdce7b80f49e6d305a03ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1276233779,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1276233779,
+    "wof:lastmodified":1536912449,
+    "wof:name":"Bakwa Nkwadi",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.27803,
+    -6.35004,
+    23.27803,
+    -6.35004
+],
+  "geometry": {"coordinates":[23.27803,-6.35004],"type":"Point"}
+}

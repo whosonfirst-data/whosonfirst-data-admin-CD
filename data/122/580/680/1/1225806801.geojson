@@ -1,0 +1,67 @@
+{
+  "id": 1225806801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.25427,-5.08333,18.25427,-5.08333",
+    "geom:latitude":-5.08333,
+    "geom:longitude":18.25427,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Koshi-Mushingatalu",
+    "gn:country_code":"CD",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313945,
+    "gn:latitude":-5.08333,
+    "gn:longitude":18.25427,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Koshi-Mushingatalu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313945
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"98c1e7602dc3748110787f939f4ce7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1225806801,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1225806801,
+    "wof:lastmodified":1537067104,
+    "wof:name":"Koshi-Mushingatalu",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.25427,
+    -5.08333,
+    18.25427,
+    -5.08333
+],
+  "geometry": {"coordinates":[18.25427,-5.08333],"type":"Point"}
+}

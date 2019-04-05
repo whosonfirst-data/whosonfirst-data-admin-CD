@@ -1,0 +1,71 @@
+{
+  "id": 1193100125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.44246,-3.28573,21.44246,-3.28573",
+    "geom:latitude":-3.28573,
+    "geom:longitude":21.44246,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Boshe-Kungu",
+    "gn:country_code":"CD",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218080,
+    "gn:latitude":-3.28573,
+    "gn:longitude":21.44246,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Boshe-Kungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boshwe-Kongo",
+        "Boshe-Kungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218080
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"4072eb0544a3f7973d13e1264efe65aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1193100125,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1193100125,
+    "wof:lastmodified":1537590452,
+    "wof:name":"Boshe-Kungu",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.44246,
+    -3.28573,
+    21.44246,
+    -3.28573
+],
+  "geometry": {"coordinates":[21.44246,-3.28573],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327209099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65495,-7.6988,18.65495,-7.6988",
+    "geom:latitude":-7.6988,
+    "geom:longitude":18.65495,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tshikapa",
+    "gn:country_code":"CD",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8447795,
+    "gn:latitude":-7.6988,
+    "gn:longitude":18.65495,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshikapa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8447795
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"529363db5ee82703f0f64b6a18764dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1327209099,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327209099,
+    "wof:lastmodified":1537002565,
+    "wof:name":"Tshikapa",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65495,
+    -7.6988,
+    18.65495,
+    -7.6988
+],
+  "geometry": {"coordinates":[18.65495,-7.6988],"type":"Point"}
+}

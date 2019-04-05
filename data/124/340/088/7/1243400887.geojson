@@ -1,0 +1,67 @@
+{
+  "id": 1243400887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.11667,-0.7,25.11667,-0.7",
+    "geom:latitude":-0.7,
+    "geom:longitude":25.11667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Aliposo",
+    "gn:country_code":"CD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":220401,
+    "gn:latitude":-0.7,
+    "gn:longitude":25.11667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Aliposo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":220401
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"5face5a79444d9231dc4c8510ac0d809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1243400887,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1243400887,
+    "wof:lastmodified":1536870102,
+    "wof:name":"Aliposo",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.11667000000001,
+    -0.7,
+    25.11667000000001,
+    -0.7
+],
+  "geometry": {"coordinates":[25.11667000000001,-0.7],"type":"Point"}
+}

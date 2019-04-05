@@ -1,0 +1,61 @@
+{
+  "id": 1209573373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.52786,-3.17433,18.52786,-3.17433",
+    "geom:latitude":-3.17433,
+    "geom:longitude":18.52786,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Mpagne",
+    "gn:country_code":"CD",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8446839,
+    "gn:latitude":-3.17433,
+    "gn:longitude":18.52786,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mpagne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8446839
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0a633e31e3c5dfe20464d69e6da5b875",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209573373
+        }
+    ],
+    "wof:id":1209573373,
+    "wof:lastmodified":1536283014,
+    "wof:name":"Mpagne",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.52786,
+    -3.17433,
+    18.52786,
+    -3.17433
+],
+  "geometry": {"coordinates":[18.52786,-3.17433],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209205263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96777,-4.59167,13.96777,-4.59167",
+    "geom:latitude":-4.59167,
+    "geom:longitude":13.96777,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kivunda-Kwangama",
+    "gn:country_code":"CD",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442722,
+    "gn:latitude":-4.59167,
+    "gn:longitude":13.96777,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Kivunda-Kwangama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442722
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ef7795515b8ef4c78c3b5a8c84d53b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209205263
+        }
+    ],
+    "wof:id":1209205263,
+    "wof:lastmodified":1536294477,
+    "wof:name":"Kivunda-Kwangama",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.967770000000002,
+    -4.59167,
+    13.967770000000002,
+    -4.59167
+],
+  "geometry": {"coordinates":[13.96777,-4.59167],"type":"Point"}
+}

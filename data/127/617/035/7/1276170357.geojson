@@ -1,0 +1,67 @@
+{
+  "id": 1276170357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.45167,2.00152,22.45167,2.00152",
+    "geom:latitude":2.00152,
+    "geom:longitude":22.45167,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yamondombe",
+    "gn:country_code":"CD",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279655,
+    "gn:latitude":2.00152,
+    "gn:longitude":22.45167,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yamondombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279655
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d11ba2f52225650544c23aa126240d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1276170357,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1276170357,
+    "wof:lastmodified":1536996432,
+    "wof:name":"Yamondombe",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.45167,
+    2.00152,
+    22.45167,
+    2.00152
+],
+  "geometry": {"coordinates":[22.45167,2.00152],"type":"Point"}
+}

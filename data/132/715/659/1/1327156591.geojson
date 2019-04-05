@@ -1,0 +1,67 @@
+{
+  "id": 1327156591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.62446,-5.77494,14.62446,-5.77494",
+    "geom:latitude":-5.77494,
+    "geom:longitude":14.62446,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Puta",
+    "gn:country_code":"CD",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8325721,
+    "gn:latitude":-5.77494,
+    "gn:longitude":14.62446,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Puta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8325721
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f76a4c1257bc26f171d93a8a4a22331f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1327156591,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1327156591,
+    "wof:lastmodified":1537075993,
+    "wof:name":"Puta",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.62446,
+    -5.77494,
+    14.62446,
+    -5.77494
+],
+  "geometry": {"coordinates":[14.62446,-5.77494],"type":"Point"}
+}

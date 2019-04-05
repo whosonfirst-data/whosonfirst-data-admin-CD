@@ -1,0 +1,67 @@
+{
+  "id": 1226725753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.91521,-6.56437,19.91521,-6.56437",
+    "geom:latitude":-6.56437,
+    "geom:longitude":19.91521,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bumba-Tshidiangu",
+    "gn:country_code":"CD",
+    "gn:dem":727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9529016,
+    "gn:latitude":-6.56437,
+    "gn:longitude":19.91521,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bumba-Tshidiangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9529016
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ec59b9320cc450fbd71d3fa0e3e57126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1226725753,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1226725753,
+    "wof:lastmodified":1536744105,
+    "wof:name":"Bumba-Tshidiangu",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.91521,
+    -6.56437,
+    19.91521,
+    -6.56437
+],
+  "geometry": {"coordinates":[19.91521,-6.56437],"type":"Point"}
+}

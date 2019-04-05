@@ -1,0 +1,67 @@
+{
+  "id": 1327299371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.70311,-6.01612,16.70311,-6.01612",
+    "geom:latitude":-6.01612,
+    "geom:longitude":16.70311,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kavula",
+    "gn:country_code":"CD",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8331555,
+    "gn:latitude":-6.01612,
+    "gn:longitude":16.70311,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kavula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8331555
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0c1835fc7524484bcbe0854faafc9ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1327299371,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1327299371,
+    "wof:lastmodified":1536871978,
+    "wof:name":"Kavula",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.70311,
+    -6.01612,
+    16.70311,
+    -6.01612
+],
+  "geometry": {"coordinates":[16.70311,-6.01612],"type":"Point"}
+}

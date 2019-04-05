@@ -1,0 +1,67 @@
+{
+  "id": 1259551709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.7459,-3.2662,17.7459,-3.2662",
+    "geom:latitude":-3.2662,
+    "geom:longitude":17.7459,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Zankwi",
+    "gn:country_code":"CD",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2310787,
+    "gn:latitude":-3.2662,
+    "gn:longitude":17.7459,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Zankwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2310787
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ffd5d7867e95cf0d3ff3b42f6859639e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1259551709,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259551709,
+    "wof:lastmodified":1536760961,
+    "wof:name":"Zankwi",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.7459,
+    -3.2662,
+    17.7459,
+    -3.2662
+],
+  "geometry": {"coordinates":[17.7459,-3.2662],"type":"Point"}
+}

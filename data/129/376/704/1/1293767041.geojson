@@ -1,0 +1,67 @@
+{
+  "id": 1293767041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.25546,-9.09417,27.25546,-9.09417",
+    "geom:latitude":-9.09417,
+    "geom:longitude":27.25546,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kapalamuka",
+    "gn:country_code":"CD",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10134098,
+    "gn:latitude":-9.09417,
+    "gn:longitude":27.25546,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kapalamuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10134098
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fa5d0372c8ce71c2a1a44dcef8b730da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1293767041,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293767041,
+    "wof:lastmodified":1536880411,
+    "wof:name":"Kapalamuka",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.25546,
+    -9.09417,
+    27.25546,
+    -9.09417
+],
+  "geometry": {"coordinates":[27.25546,-9.09417],"type":"Point"}
+}

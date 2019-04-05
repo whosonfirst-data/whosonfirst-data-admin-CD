@@ -1,0 +1,67 @@
+{
+  "id": 1343741515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83215,2.85639,24.83215,2.85639",
+    "geom:latitude":2.85639,
+    "geom:longitude":24.83215,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Baruti",
+    "gn:country_code":"CD",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":219467,
+    "gn:latitude":2.85639,
+    "gn:longitude":24.83215,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Baruti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":219467
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"526a7051d0eecff0c98d81b5fd9851d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1343741515,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1343741515,
+    "wof:lastmodified":1536837198,
+    "wof:name":"Baruti",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83215,
+    2.85639,
+    24.83215,
+    2.85639
+],
+  "geometry": {"coordinates":[24.83215,2.85639],"type":"Point"}
+}

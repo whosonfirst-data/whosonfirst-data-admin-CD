@@ -1,0 +1,67 @@
+{
+  "id": 1293239391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.23871,-6.11289,29.23871,-6.11289",
+    "geom:latitude":-6.11289,
+    "geom:longitude":29.23871,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kiymbi",
+    "gn:country_code":"CD",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10012416,
+    "gn:latitude":-6.11289,
+    "gn:longitude":29.23871,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kiymbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10012416
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0652a2c29b719c0ed70ea45ab14a1899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1293239391,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1293239391,
+    "wof:lastmodified":1536647277,
+    "wof:name":"Kiymbi",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.23871,
+    -6.11289,
+    29.23871,
+    -6.11289
+],
+  "geometry": {"coordinates":[29.23871,-6.11289],"type":"Point"}
+}

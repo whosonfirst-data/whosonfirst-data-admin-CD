@@ -1,0 +1,67 @@
+{
+  "id": 1193098483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.84837,3.23935,19.84837,3.23935",
+    "geom:latitude":3.23935,
+    "geom:longitude":19.84837,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bombawuli-Moke",
+    "gn:country_code":"CD",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316679,
+    "gn:latitude":3.23935,
+    "gn:longitude":19.84837,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bombawuli-Moke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316679
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"088d1433d6c140b3c4c8963350ed7e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1193098483,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1193098483,
+    "wof:lastmodified":1536364309,
+    "wof:name":"Bombawuli-Moke",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.84837000000001,
+    3.23935,
+    19.84837000000001,
+    3.23935
+],
+  "geometry": {"coordinates":[19.84837000000001,3.23935],"type":"Point"}
+}

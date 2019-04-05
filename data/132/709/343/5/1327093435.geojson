@@ -1,0 +1,67 @@
+{
+  "id": 1327093435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.29483,-6.3669,24.29483,-6.3669",
+    "geom:latitude":-6.3669,
+    "geom:longitude":24.29483,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bunda",
+    "gn:country_code":"CD",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9997816,
+    "gn:latitude":-6.3669,
+    "gn:longitude":24.29483,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Bunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9997816
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"60a1ae8dfa6c1111f44d1967217fc3a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1327093435,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1327093435,
+    "wof:lastmodified":1536672499,
+    "wof:name":"Bunda",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.29483,
+    -6.3669,
+    24.29483,
+    -6.3669
+],
+  "geometry": {"coordinates":[24.29483,-6.3669],"type":"Point"}
+}

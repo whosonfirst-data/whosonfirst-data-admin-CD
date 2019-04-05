@@ -1,0 +1,71 @@
+{
+  "id": 1276934753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.28041,-4.35842,20.28041,-4.35842",
+    "geom:latitude":-4.35842,
+    "geom:longitude":20.28041,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Malembe Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209850,
+    "gn:latitude":-4.35842,
+    "gn:longitude":20.28041,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Malembe Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malembe Deuxi\u00e8me",
+        "Malembe II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209850
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b6231e969e4bae0d4699f1a359e18016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679355,
+            "locality_id":1276934753,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276934753,
+    "wof:lastmodified":1537590374,
+    "wof:name":"Malembe Deuxieme",
+    "wof:parent_id":1091679355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.28041,
+    -4.35842,
+    20.28041,
+    -4.35842
+],
+  "geometry": {"coordinates":[20.28041,-4.35842],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276530931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.99539,-7.41195,23.99539,-7.41195",
+    "geom:latitude":-7.41195,
+    "geom:longitude":23.99539,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Kabanze",
+    "gn:country_code":"CD",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215613,
+    "gn:latitude":-7.41195,
+    "gn:longitude":23.99539,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabanze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabenze",
+        "Kabanze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215613
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"996188f091fe9f024dcd014ac5bd36a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1276530931,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276530931,
+    "wof:lastmodified":1537590427,
+    "wof:name":"Kabanze",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.99539,
+    -7.41195,
+    23.99539,
+    -7.41195
+],
+  "geometry": {"coordinates":[23.99539,-7.41195],"type":"Point"}
+}

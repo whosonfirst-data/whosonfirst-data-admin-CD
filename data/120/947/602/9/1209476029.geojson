@@ -1,0 +1,61 @@
+{
+  "id": 1209476029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.36795,-5.49761,27.36795,-5.49761",
+    "geom:latitude":-5.49761,
+    "geom:longitude":27.36795,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kibele",
+    "gn:country_code":"CD",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213313,
+    "gn:latitude":-5.49761,
+    "gn:longitude":27.36795,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kibele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213313
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8903f1c4a7bab151962494b700ee478d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209476029
+        }
+    ],
+    "wof:id":1209476029,
+    "wof:lastmodified":1536285934,
+    "wof:name":"Kibele",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.36795,
+    -5.49761,
+    27.36795,
+    -5.49761
+],
+  "geometry": {"coordinates":[27.36795,-5.49761],"type":"Point"}
+}

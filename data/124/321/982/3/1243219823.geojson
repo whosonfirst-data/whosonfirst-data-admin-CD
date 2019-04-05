@@ -1,0 +1,67 @@
+{
+  "id": 1243219823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.99819,-7.42225,22.99819,-7.42225",
+    "geom:latitude":-7.42225,
+    "geom:longitude":22.99819,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Mwene Muzanza",
+    "gn:country_code":"CD",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8439036,
+    "gn:latitude":-7.42225,
+    "gn:longitude":22.99819,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwene Muzanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8439036
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"bdec44145e0e63a0ad3b6b4edf4f8346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1243219823,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1243219823,
+    "wof:lastmodified":1536634010,
+    "wof:name":"Mwene Muzanza",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.99819,
+    -7.42225,
+    22.99819,
+    -7.42225
+],
+  "geometry": {"coordinates":[22.99819,-7.42225],"type":"Point"}
+}

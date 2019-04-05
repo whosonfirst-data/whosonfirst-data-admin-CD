@@ -1,0 +1,61 @@
+{
+  "id": 1209583985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.81543,-2.66224,18.81543,-2.66224",
+    "geom:latitude":-2.66224,
+    "geom:longitude":18.81543,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Isaka",
+    "gn:country_code":"CD",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315385,
+    "gn:latitude":-2.66224,
+    "gn:longitude":18.81543,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Isaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315385
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"9490e0b637a2cffde94f71bfd6b07f81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209583985
+        }
+    ],
+    "wof:id":1209583985,
+    "wof:lastmodified":1536282696,
+    "wof:name":"Isaka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.81543,
+    -2.66224,
+    18.81543,
+    -2.66224
+],
+  "geometry": {"coordinates":[18.81543,-2.66224],"type":"Point"}
+}

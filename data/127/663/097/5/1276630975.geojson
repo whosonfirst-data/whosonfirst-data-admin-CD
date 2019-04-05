@@ -1,0 +1,70 @@
+{
+  "id": 1276630975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.55033,-7.22363,21.55033,-7.22363",
+    "geom:latitude":-7.22363,
+    "geom:longitude":21.55033,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kasonbo",
+    "gn:country_code":"CD",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8440249,
+    "gn:latitude":-7.22363,
+    "gn:longitude":21.55033,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kasonbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8440249
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d0ae2bc29cba994734f4b79cbad8d235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276630975,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276630975,
+    "wof:lastmodified":1537590574,
+    "wof:name":"Kasonbo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.55033,
+    -7.22363,
+    21.55033,
+    -7.22363
+],
+  "geometry": {"coordinates":[21.55033,-7.22363],"type":"Point"}
+}

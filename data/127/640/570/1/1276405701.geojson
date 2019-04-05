@@ -1,0 +1,71 @@
+{
+  "id": 1276405701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.3446,-5.74343,20.3446,-5.74343",
+    "geom:latitude":-5.74343,
+    "geom:longitude":20.3446,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kambinga",
+    "gn:country_code":"CD",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":214665,
+    "gn:latitude":-5.74343,
+    "gn:longitude":20.3446,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kambinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kambimbi",
+        "Kambinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":214665
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0092ae25c2ae650356bd9f75ea43cca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1276405701,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1276405701,
+    "wof:lastmodified":1537590417,
+    "wof:name":"Kambinga",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.3446,
+    -5.74343,
+    20.3446,
+    -5.74343
+],
+  "geometry": {"coordinates":[20.3446,-5.74343],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260113461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.93568,-0.24633,19.93568,-0.24633",
+    "geom:latitude":-0.24633,
+    "geom:longitude":19.93568,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kuse",
+    "gn:country_code":"CD",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313882,
+    "gn:latitude":-0.24633,
+    "gn:longitude":19.93568,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kuse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313882
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a2e57332e617bfeaa2f411e0d8f3262b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1260113461,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1260113461,
+    "wof:lastmodified":1536945364,
+    "wof:name":"Kuse",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.93568,
+    -0.24633,
+    19.93568,
+    -0.24633
+],
+  "geometry": {"coordinates":[19.93568,-0.24633],"type":"Point"}
+}

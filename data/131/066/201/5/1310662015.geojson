@@ -1,0 +1,67 @@
+{
+  "id": 1310662015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.65611,4.07139,18.65611,4.07139",
+    "geom:latitude":4.07139,
+    "geom:longitude":18.65611,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bobongo",
+    "gn:country_code":"CD",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2317002,
+    "gn:latitude":4.07139,
+    "gn:longitude":18.65611,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bobongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2317002
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f088f1d15e6ac8fcb1bf0271cb32a844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679589,
+            "locality_id":1310662015,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310662015,
+    "wof:lastmodified":1536691384,
+    "wof:name":"Bobongo",
+    "wof:parent_id":1091679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.65611,
+    4.07139,
+    18.65611,
+    4.07139
+],
+  "geometry": {"coordinates":[18.65611,4.07139],"type":"Point"}
+}

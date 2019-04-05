@@ -1,0 +1,67 @@
+{
+  "id": 1276522829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06282,-6.02256,17.06282,-6.02256",
+    "geom:latitude":-6.02256,
+    "geom:longitude":17.06282,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dengo",
+    "gn:country_code":"CD",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316096,
+    "gn:latitude":-6.02256,
+    "gn:longitude":17.06282,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316096
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6e7cbd6d980ff105a3961cee376b10c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1276522829,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1276522829,
+    "wof:lastmodified":1537021203,
+    "wof:name":"Dengo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06282,
+    -6.02256,
+    17.06282,
+    -6.02256
+],
+  "geometry": {"coordinates":[17.06282,-6.02256],"type":"Point"}
+}

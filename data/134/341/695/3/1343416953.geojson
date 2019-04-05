@@ -1,0 +1,67 @@
+{
+  "id": 1343416953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10374,-2.7067,17.10374,-2.7067",
+    "geom:latitude":-2.7067,
+    "geom:longitude":17.10374,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Ilebu",
+    "gn:country_code":"CD",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2315487,
+    "gn:latitude":-2.7067,
+    "gn:longitude":17.10374,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Ilebu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2315487
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"39b1e22ee2385ce4ac703572e49213c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1343416953,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1343416953,
+    "wof:lastmodified":1536808808,
+    "wof:name":"Ilebu",
+    "wof:parent_id":1091679455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10374,
+    -2.7067,
+    17.10374,
+    -2.7067
+],
+  "geometry": {"coordinates":[17.10374,-2.7067],"type":"Point"}
+}

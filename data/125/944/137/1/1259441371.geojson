@@ -1,0 +1,70 @@
+{
+  "id": 1259441371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.5478,-7.96561,22.5478,-7.96561",
+    "geom:latitude":-7.96561,
+    "geom:longitude":22.5478,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Tshiwana",
+    "gn:country_code":"CD",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204678,
+    "gn:latitude":-7.96561,
+    "gn:longitude":22.5478,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshiwana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshuwana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204678
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"eac22669de768b337872ce56f4290244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1259441371,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1259441371,
+    "wof:lastmodified":1537590314,
+    "wof:name":"Tshiwana",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.5478,
+    -7.96561,
+    22.5478,
+    -7.96561
+],
+  "geometry": {"coordinates":[22.5478,-7.96561],"type":"Point"}
+}

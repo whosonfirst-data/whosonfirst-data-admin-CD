@@ -1,0 +1,72 @@
+{
+  "id": 1277067325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53294,-5.3402,15.53294,-5.3402",
+    "geom:latitude":-5.3402,
+    "geom:longitude":15.53294,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lula-Nsele",
+    "gn:country_code":"CD",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313343,
+    "gn:latitude":-5.3402,
+    "gn:longitude":15.53294,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Lula-Nsele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lula",
+        "Lulu",
+        "Lula-Nsele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313343
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"234ecb26e055675c82a63ab8a1d9bade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679351,
+            "locality_id":1277067325,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1277067325,
+    "wof:lastmodified":1537590521,
+    "wof:name":"Lula-Nsele",
+    "wof:parent_id":1091679351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53294,
+    -5.3402,
+    15.53294,
+    -5.3402
+],
+  "geometry": {"coordinates":[15.53294,-5.3402],"type":"Point"}
+}

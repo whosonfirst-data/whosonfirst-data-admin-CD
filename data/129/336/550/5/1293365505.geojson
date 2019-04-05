@@ -1,0 +1,71 @@
+{
+  "id": 1293365505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62331,-7.33795,18.62331,-7.33795",
+    "geom:latitude":-7.33795,
+    "geom:longitude":18.62331,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Bwana-Mutombo",
+    "gn:country_code":"CD",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316144,
+    "gn:latitude":-7.33795,
+    "gn:longitude":18.62331,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bwana-Mutombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwana Mutombo",
+        "Bwana-Mutombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316144
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"11fa0a1cf91af5d4089feb5bb86f3faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1293365505,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293365505,
+    "wof:lastmodified":1537590548,
+    "wof:name":"Bwana-Mutombo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62331,
+    -7.33795,
+    18.62331,
+    -7.33795
+],
+  "geometry": {"coordinates":[18.62331,-7.33795],"type":"Point"}
+}

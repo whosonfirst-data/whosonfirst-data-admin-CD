@@ -1,0 +1,61 @@
+{
+  "id": 1209676981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.15723,3.04497,20.15723,3.04497",
+    "geom:latitude":3.04497,
+    "geom:longitude":20.15723,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Nduka",
+    "gn:country_code":"CD",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235973,
+    "gn:latitude":3.04497,
+    "gn:longitude":20.15723,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nduka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235973
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"3ea085e28da66dedc008ed09e55682f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209676981
+        }
+    ],
+    "wof:id":1209676981,
+    "wof:lastmodified":1536279716,
+    "wof:name":"Nduka",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.15723,
+    3.04497,
+    20.15723,
+    3.04497
+],
+  "geometry": {"coordinates":[20.15723,3.04497],"type":"Point"}
+}

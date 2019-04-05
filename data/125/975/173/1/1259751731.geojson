@@ -1,0 +1,67 @@
+{
+  "id": 1259751731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.79796,-6.51917,22.79796,-6.51917",
+    "geom:latitude":-6.51917,
+    "geom:longitude":22.79796,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshimakaka Kamwanga",
+    "gn:country_code":"CD",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8285017,
+    "gn:latitude":-6.51917,
+    "gn:longitude":22.79796,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tshimakaka Kamwanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8285017
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"df30d872df78ab5697267580eb2148fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1259751731,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1259751731,
+    "wof:lastmodified":1536968706,
+    "wof:name":"Tshimakaka Kamwanga",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.79796,
+    -6.51917,
+    22.79796,
+    -6.51917
+],
+  "geometry": {"coordinates":[22.79796,-6.51917],"type":"Point"}
+}

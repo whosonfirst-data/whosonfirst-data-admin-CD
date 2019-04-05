@@ -1,0 +1,67 @@
+{
+  "id": 1225919443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.03125,-7.26163,19.03125,-7.26163",
+    "geom:latitude":-7.26163,
+    "geom:longitude":19.03125,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Shatshiluba",
+    "gn:country_code":"CD",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8448330,
+    "gn:latitude":-7.26163,
+    "gn:longitude":19.03125,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Shatshiluba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8448330
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"f1ae12170ccdad67f9f6dc844ba8b8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1225919443,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1225919443,
+    "wof:lastmodified":1536907758,
+    "wof:name":"Shatshiluba",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.03125,
+    -7.26163,
+    19.03125,
+    -7.26163
+],
+  "geometry": {"coordinates":[19.03125,-7.26163],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209515545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70285,-6.20596,23.70285,-6.20596",
+    "geom:latitude":-6.20596,
+    "geom:longitude":23.70285,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bakwa-Mwala",
+    "gn:country_code":"CD",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946673,
+    "gn:latitude":-6.20596,
+    "gn:longitude":23.70285,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Bakwa-Mwala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946673
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"84bfa93ac004e7c9c969c5fe48571369",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209515545
+        }
+    ],
+    "wof:id":1209515545,
+    "wof:lastmodified":1536284744,
+    "wof:name":"Bakwa-Mwala",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70285,
+    -6.20596,
+    23.70285,
+    -6.20596
+],
+  "geometry": {"coordinates":[23.70285,-6.20596],"type":"Point"}
+}

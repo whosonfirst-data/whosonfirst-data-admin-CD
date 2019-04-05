@@ -1,0 +1,67 @@
+{
+  "id": 1226002075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.76214,2.95425,22.76214,2.95425",
+    "geom:latitude":2.95425,
+    "geom:longitude":22.76214,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Amawa",
+    "gn:country_code":"CD",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8279653,
+    "gn:latitude":2.95425,
+    "gn:longitude":22.76214,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Amawa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8279653
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"61120d4c1d7ca7f0c84ce2b5302fee4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679647,
+            "locality_id":1226002075,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226002075,
+    "wof:lastmodified":1536788703,
+    "wof:name":"Amawa",
+    "wof:parent_id":1091679647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.76214,
+    2.95425,
+    22.76214,
+    2.95425
+],
+  "geometry": {"coordinates":[22.76214,2.95425],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310363879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.50882,-10.13606,23.50882,-10.13606",
+    "geom:latitude":-10.13606,
+    "geom:longitude":23.50882,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Sakalenda",
+    "gn:country_code":"CD",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8465782,
+    "gn:latitude":-10.13606,
+    "gn:longitude":23.50882,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sakalenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8465782
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d2031bde20166039a91c2cd191e8ba22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680239,
+            "locality_id":1310363879,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1310363879,
+    "wof:lastmodified":1536621880,
+    "wof:name":"Sakalenda",
+    "wof:parent_id":1091680239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.50882,
+    -10.13606,
+    23.50882,
+    -10.13606
+],
+  "geometry": {"coordinates":[23.50882,-10.13606],"type":"Point"}
+}

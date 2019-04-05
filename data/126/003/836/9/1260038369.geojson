@@ -1,0 +1,70 @@
+{
+  "id": 1260038369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.42526,-10.65657,26.42526,-10.65657",
+    "geom:latitude":-10.65657,
+    "geom:longitude":26.42526,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Nguba",
+    "gn:country_code":"CD",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":923176,
+    "gn:latitude":-10.65657,
+    "gn:longitude":26.42526,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nguba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":923176
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"72b3009169dc6228090f4341d2fabd56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1260038369,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260038369,
+    "wof:lastmodified":1537590493,
+    "wof:name":"Nguba",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.42526,
+    -10.65657,
+    26.42526,
+    -10.65657
+],
+  "geometry": {"coordinates":[26.42526,-10.65657],"type":"Point"}
+}

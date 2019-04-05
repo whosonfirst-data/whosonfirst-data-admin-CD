@@ -1,0 +1,67 @@
+{
+  "id": 1226063137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.86667,-1.55,25.86667,-1.55",
+    "geom:latitude":-1.55,
+    "geom:longitude":25.86667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kitoko",
+    "gn:country_code":"CD",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212572,
+    "gn:latitude":-1.55,
+    "gn:longitude":25.86667,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kitoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670007,
+        1091680093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212572
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6b6d69cc2305643300cccaf2654fd069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680093,
+            "locality_id":1226063137,
+            "region_id":85670007
+        }
+    ],
+    "wof:id":1226063137,
+    "wof:lastmodified":1536700422,
+    "wof:name":"Kitoko",
+    "wof:parent_id":1091680093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.86667000000001,
+    -1.55,
+    25.86667000000001,
+    -1.55
+],
+  "geometry": {"coordinates":[25.86667000000001,-1.55],"type":"Point"}
+}

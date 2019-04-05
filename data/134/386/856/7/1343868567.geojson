@@ -1,0 +1,67 @@
+{
+  "id": 1343868567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.50804,-6.16274,20.50804,-6.16274",
+    "geom:latitude":-6.16274,
+    "geom:longitude":20.50804,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Maleka",
+    "gn:country_code":"CD",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209870,
+    "gn:latitude":-6.16274,
+    "gn:longitude":20.50804,
+    "gn:modification_date":"2012-06-11",
+    "gn:name":"Maleka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209870
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"41878d8204a4536d90c6adbca2f4413b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1343868567,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1343868567,
+    "wof:lastmodified":1536654827,
+    "wof:name":"Maleka",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.50804,
+    -6.16274,
+    20.50804,
+    -6.16274
+],
+  "geometry": {"coordinates":[20.50804,-6.16274],"type":"Point"}
+}

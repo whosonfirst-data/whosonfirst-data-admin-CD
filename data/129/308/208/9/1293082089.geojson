@@ -1,0 +1,67 @@
+{
+  "id": 1293082089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.74542,0.3224,29.74542,0.3224",
+    "geom:latitude":0.3224,
+    "geom:longitude":29.74542,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mutsora",
+    "gn:country_code":"CD",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":207792,
+    "gn:latitude":0.3224,
+    "gn:longitude":29.74542,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Mutsora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":207792
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"0ba829f8aa133e716069a19e3f5824e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1293082089,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1293082089,
+    "wof:lastmodified":1536873625,
+    "wof:name":"Mutsora",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.74542000000001,
+    0.3224,
+    29.74542000000001,
+    0.3224
+],
+  "geometry": {"coordinates":[29.74542000000001,0.3224],"type":"Point"}
+}

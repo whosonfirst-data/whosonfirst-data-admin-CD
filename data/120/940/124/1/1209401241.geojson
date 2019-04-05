@@ -1,0 +1,61 @@
+{
+  "id": 1209401241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.26932,3.43641,23.26932,3.43641",
+    "geom:latitude":3.43641,
+    "geom:longitude":23.26932,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Zumbale",
+    "gn:country_code":"CD",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8197709,
+    "gn:latitude":3.43641,
+    "gn:longitude":23.26932,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zumbale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8197709
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"67f2b0332e38ab2bc666f56d4bad90a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209401241
+        }
+    ],
+    "wof:id":1209401241,
+    "wof:lastmodified":1536288140,
+    "wof:name":"Zumbale",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.26932,
+    3.43641,
+    23.26932,
+    3.43641
+],
+  "geometry": {"coordinates":[23.26932,3.43641],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259348365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.02831,-6.48293,17.02831,-6.48293",
+    "geom:latitude":-6.48293,
+    "geom:longitude":17.02831,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mwana-Muyombo",
+    "gn:country_code":"CD",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312162,
+    "gn:latitude":-6.48293,
+    "gn:longitude":17.02831,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mwana-Muyombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mwana Muyambo",
+        "Mwana-Muyombo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312162
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"8c9026a8ec10ed59bfe1a270680fc918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1259348365,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259348365,
+    "wof:lastmodified":1537590510,
+    "wof:name":"Mwana-Muyombo",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.02831,
+    -6.48293,
+    17.02831,
+    -6.48293
+],
+  "geometry": {"coordinates":[17.02831,-6.48293],"type":"Point"}
+}

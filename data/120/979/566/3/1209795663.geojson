@@ -1,0 +1,67 @@
+{
+  "id": 1209795663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.81712,-2.41594,28.81712,-2.41594",
+    "geom:latitude":-2.41594,
+    "geom:longitude":28.81712,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Buhole",
+    "gn:country_code":"CD",
+    "gn:dem":1589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8435305,
+    "gn:latitude":-2.41594,
+    "gn:longitude":28.81712,
+    "gn:modification_date":"2012-12-07",
+    "gn:name":"Buhole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435305
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"28950a93aea972d5ea4cbbc57b5ce15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1209795663,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1209795663,
+    "wof:lastmodified":1536393008,
+    "wof:name":"Buhole",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.81712000000001,
+    -2.41594,
+    28.81712000000001,
+    -2.41594
+],
+  "geometry": {"coordinates":[28.81712000000001,-2.41594],"type":"Point"}
+}

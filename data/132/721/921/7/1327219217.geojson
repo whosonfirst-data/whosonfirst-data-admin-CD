@@ -1,0 +1,65 @@
+{
+  "id": 1327219217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.90097,-4.69769,14.90097,-4.69769",
+    "geom:latitude":-4.69769,
+    "geom:longitude":14.90097,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nsanga Premiere",
+    "gn:country_code":"CD",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8443516,
+    "gn:latitude":-4.69769,
+    "gn:longitude":14.90097,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Nsanga Premi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8443516
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1d5c427c9b228e2bf4ed0db535028ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "locality_id":1327219217,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1327219217,
+    "wof:lastmodified":1536987885,
+    "wof:name":"Nsanga Premiere",
+    "wof:parent_id":85669993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.90097,
+    -4.69769,
+    14.90097,
+    -4.69769
+],
+  "geometry": {"coordinates":[14.90097,-4.69769],"type":"Point"}
+}

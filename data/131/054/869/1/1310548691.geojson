@@ -1,0 +1,67 @@
+{
+  "id": 1310548691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.08067,3.7434,19.08067,3.7434",
+    "geom:latitude":3.7434,
+    "geom:longitude":19.08067,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Botela",
+    "gn:country_code":"CD",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316401,
+    "gn:latitude":3.7434,
+    "gn:longitude":19.08067,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Botela",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316401
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"179936afe62a1120bdcb39dd9416c144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1310548691,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310548691,
+    "wof:lastmodified":1536853592,
+    "wof:name":"Botela",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.08067,
+    3.7434,
+    19.08067,
+    3.7434
+],
+  "geometry": {"coordinates":[19.08067,3.7434],"type":"Point"}
+}

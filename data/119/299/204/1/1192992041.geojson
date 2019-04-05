@@ -1,0 +1,67 @@
+{
+  "id": 1192992041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.67852,-9.76973,26.67852,-9.76973",
+    "geom:latitude":-9.76973,
+    "geom:longitude":26.67852,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kitobo",
+    "gn:country_code":"CD",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212575,
+    "gn:latitude":-9.76973,
+    "gn:longitude":26.67852,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kitobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212575
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"adce1c2706486a4fe93b8c36aa291bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1192992041,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1192992041,
+    "wof:lastmodified":1536379828,
+    "wof:name":"Kitobo",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.67852,
+    -9.76973,
+    26.67852,
+    -9.76973
+],
+  "geometry": {"coordinates":[26.67852,-9.76973],"type":"Point"}
+}

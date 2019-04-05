@@ -1,0 +1,67 @@
+{
+  "id": 1259844213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.27126,-4.17166,17.27126,-4.17166",
+    "geom:latitude":-4.17166,
+    "geom:longitude":17.27126,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kimbu-Minkwo",
+    "gn:country_code":"CD",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8445898,
+    "gn:latitude":-4.17166,
+    "gn:longitude":17.27126,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kimbu-Minkwo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8445898
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d1d9e91179e13199add0dcbbf648a4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1259844213,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1259844213,
+    "wof:lastmodified":1536834807,
+    "wof:name":"Kimbu-Minkwo",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.27126,
+    -4.17166,
+    17.27126,
+    -4.17166
+],
+  "geometry": {"coordinates":[17.27126,-4.17166],"type":"Point"}
+}

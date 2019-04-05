@@ -1,0 +1,71 @@
+{
+  "id": 1226442781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.18721,-5.76814,23.18721,-5.76814",
+    "geom:latitude":-5.76814,
+    "geom:longitude":23.18721,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kaboto",
+    "gn:country_code":"CD",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215465,
+    "gn:latitude":-5.76814,
+    "gn:longitude":23.18721,
+    "gn:modification_date":"2012-06-05",
+    "gn:name":"Kaboto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabote",
+        "Kaboto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215465
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"fc26857ee94d421d060434d190ed63dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680373,
+            "locality_id":1226442781,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1226442781,
+    "wof:lastmodified":1537590426,
+    "wof:name":"Kaboto",
+    "wof:parent_id":1091680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.18721,
+    -5.76814,
+    23.18721,
+    -5.76814
+],
+  "geometry": {"coordinates":[23.18721,-5.76814],"type":"Point"}
+}

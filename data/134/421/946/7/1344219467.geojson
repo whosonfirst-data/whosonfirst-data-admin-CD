@@ -1,0 +1,67 @@
+{
+  "id": 1344219467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.44041,-6.95835,17.44041,-6.95835",
+    "geom:latitude":-6.95835,
+    "geom:longitude":17.44041,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Mwana-Uta-Manzengele",
+    "gn:country_code":"CD",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8434749,
+    "gn:latitude":-6.95835,
+    "gn:longitude":17.44041,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mwana-Uta-Manzengele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8434749
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"1c215cb8b62efe5c110e2931b424122e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1344219467,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1344219467,
+    "wof:lastmodified":1536645793,
+    "wof:name":"Mwana-Uta-Manzengele",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.44041,
+    -6.95835,
+    17.44041,
+    -6.95835
+],
+  "geometry": {"coordinates":[17.44041,-6.95835],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209471289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.66938,-8.27155,22.66938,-8.27155",
+    "geom:latitude":-8.27155,
+    "geom:longitude":22.66938,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kabaj",
+    "gn:country_code":"CD",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":215682,
+    "gn:latitude":-8.27155,
+    "gn:longitude":22.66938,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kabaj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaba",
+        "Kabaii",
+        "Kabaj",
+        "Kabaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":215682
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"261cf7a547a6b57dedfbc8d6a1db0040",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209471289
+        }
+    ],
+    "wof:id":1209471289,
+    "wof:lastmodified":1537590428,
+    "wof:name":"Kabaj",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.66938,
+    -8.27155,
+    22.66938,
+    -8.27155
+],
+  "geometry": {"coordinates":[22.66938,-8.27155],"type":"Point"}
+}

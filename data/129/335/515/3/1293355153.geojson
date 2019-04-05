@@ -1,0 +1,67 @@
+{
+  "id": 1293355153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.33333,-4.25,18.33333,-4.25",
+    "geom:latitude":-4.25,
+    "geom:longitude":18.33333,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Mikwi",
+    "gn:country_code":"CD",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2312778,
+    "gn:latitude":-4.25,
+    "gn:longitude":18.33333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mikwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2312778
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"97f6b5b9fd3932a4f8822cc54fa5c546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1293355153,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1293355153,
+    "wof:lastmodified":1536977380,
+    "wof:name":"Mikwi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.33333,
+    -4.25,
+    18.33333,
+    -4.25
+],
+  "geometry": {"coordinates":[18.33333,-4.25],"type":"Point"}
+}

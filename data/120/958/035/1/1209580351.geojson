@@ -1,0 +1,61 @@
+{
+  "id": 1209580351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.63111,-5.0743,17.63111,-5.0743",
+    "geom:latitude":-5.0743,
+    "geom:longitude":17.63111,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Kikongo-Mulashi",
+    "gn:country_code":"CD",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8274453,
+    "gn:latitude":-5.0743,
+    "gn:longitude":17.63111,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Kikongo-Mulashi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8274453
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"da0a0a650569e58ffe8e267357418a2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209580351
+        }
+    ],
+    "wof:id":1209580351,
+    "wof:lastmodified":1536282808,
+    "wof:name":"Kikongo-Mulashi",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.63111,
+    -5.0743,
+    17.63111,
+    -5.0743
+],
+  "geometry": {"coordinates":[17.63111,-5.0743],"type":"Point"}
+}

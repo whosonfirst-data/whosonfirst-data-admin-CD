@@ -1,0 +1,61 @@
+{
+  "id": 1209489423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.13917,-6.19745,26.13917,-6.19745",
+    "geom:latitude":-6.19745,
+    "geom:longitude":26.13917,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Milondo",
+    "gn:country_code":"CD",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":209097,
+    "gn:latitude":-6.19745,
+    "gn:longitude":26.13917,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Milondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":209097
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"14a8c811e05796ff3fe6efb6bcca575c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209489423
+        }
+    ],
+    "wof:id":1209489423,
+    "wof:lastmodified":1536285533,
+    "wof:name":"Milondo",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.13917,
+    -6.19745,
+    26.13917,
+    -6.19745
+],
+  "geometry": {"coordinates":[26.13917,-6.19745],"type":"Point"}
+}

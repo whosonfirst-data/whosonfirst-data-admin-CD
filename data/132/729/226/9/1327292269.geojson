@@ -1,0 +1,70 @@
+{
+  "id": 1327292269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.40824,-10.75457,24.40824,-10.75457",
+    "geom:latitude":-10.75457,
+    "geom:longitude":24.40824,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Mukolowenu",
+    "gn:country_code":"CD",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":922515,
+    "gn:latitude":-10.75457,
+    "gn:longitude":24.40824,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Mukolowenu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mukol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":922515
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7d62a63992a175999c862676c253893a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680197,
+            "locality_id":1327292269,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1327292269,
+    "wof:lastmodified":1537590486,
+    "wof:name":"Mukolowenu",
+    "wof:parent_id":1091680197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.40824,
+    -10.75457,
+    24.40824,
+    -10.75457
+],
+  "geometry": {"coordinates":[24.40824,-10.75457],"type":"Point"}
+}

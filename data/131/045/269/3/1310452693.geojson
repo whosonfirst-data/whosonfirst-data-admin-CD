@@ -1,0 +1,70 @@
+{
+  "id": 1310452693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.39476,2.77138,19.39476,2.77138",
+    "geom:latitude":2.77138,
+    "geom:longitude":19.39476,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Wuzika",
+    "gn:country_code":"CD",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504863,
+    "gn:latitude":2.77138,
+    "gn:longitude":19.39476,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Wuzika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Wuzika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504863
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"dcbdafa37099015e118f49cd0b50f8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1310452693,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1310452693,
+    "wof:lastmodified":1537590568,
+    "wof:name":"Wuzika",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.39476,
+    2.77138,
+    19.39476,
+    2.77138
+],
+  "geometry": {"coordinates":[19.39476,2.77138],"type":"Point"}
+}

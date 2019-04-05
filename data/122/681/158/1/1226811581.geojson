@@ -1,0 +1,70 @@
+{
+  "id": 1226811581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.91374,-5.84438,16.91374,-5.84438",
+    "geom:latitude":-5.84438,
+    "geom:longitude":16.91374,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kanzembe",
+    "gn:country_code":"CD",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314972,
+    "gn:latitude":-5.84438,
+    "gn:longitude":16.91374,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kanzembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kazembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314972
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a39cb8cdb074c4771a4746e9ae4e008d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679429,
+            "locality_id":1226811581,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1226811581,
+    "wof:lastmodified":1537590536,
+    "wof:name":"Kanzembe",
+    "wof:parent_id":1091679429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.91374,
+    -5.84438,
+    16.91374,
+    -5.84438
+],
+  "geometry": {"coordinates":[16.91374,-5.84438],"type":"Point"}
+}

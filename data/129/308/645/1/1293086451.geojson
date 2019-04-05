@@ -1,0 +1,67 @@
+{
+  "id": 1293086451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74009,-4.49386,13.74009,-4.49386",
+    "geom:latitude":-4.49386,
+    "geom:longitude":13.74009,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Zabi",
+    "gn:country_code":"CD",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8442694,
+    "gn:latitude":-4.49386,
+    "gn:longitude":13.74009,
+    "gn:modification_date":"2013-01-12",
+    "gn:name":"Zabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8442694
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"673be3cb97a5d5fcdec20283a3ddd997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1293086451,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1293086451,
+    "wof:lastmodified":1536867026,
+    "wof:name":"Zabi",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74009,
+    -4.49386,
+    13.74009,
+    -4.49386
+],
+  "geometry": {"coordinates":[13.74009,-4.49386],"type":"Point"}
+}

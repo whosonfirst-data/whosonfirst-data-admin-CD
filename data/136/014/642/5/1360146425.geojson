@@ -1,0 +1,67 @@
+{
+  "id": 1360146425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.422,-4.2895,18.422,-4.2895",
+    "geom:latitude":-4.2895,
+    "geom:longitude":18.422,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Madibi",
+    "gn:country_code":"CD",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2313223,
+    "gn:latitude":-4.2895,
+    "gn:longitude":18.422,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Madibi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2313223
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"944b994f7aa1ba45ff9cc24170cc1026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679385,
+            "locality_id":1360146425,
+            "region_id":85669985
+        }
+    ],
+    "wof:id":1360146425,
+    "wof:lastmodified":1536856095,
+    "wof:name":"Madibi",
+    "wof:parent_id":1091679385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.422,
+    -4.2895,
+    18.422,
+    -4.2895
+],
+  "geometry": {"coordinates":[18.422,-4.2895],"type":"Point"}
+}

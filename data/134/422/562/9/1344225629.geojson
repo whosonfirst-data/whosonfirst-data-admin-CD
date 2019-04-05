@@ -1,0 +1,71 @@
+{
+  "id": 1344225629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.83264,-5.98726,22.83264,-5.98726",
+    "geom:latitude":-5.98726,
+    "geom:longitude":22.83264,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Tshimbao",
+    "gn:country_code":"CD",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":204874,
+    "gn:latitude":-5.98726,
+    "gn:longitude":22.83264,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tshimbao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tshimba",
+        "Tshimbao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":204874
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"11da5010e2be8ebf94b5013be8d43c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1344225629,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1344225629,
+    "wof:lastmodified":1537590317,
+    "wof:name":"Tshimbao",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.83264,
+    -5.98726,
+    22.83264,
+    -5.98726
+],
+  "geometry": {"coordinates":[22.83264,-5.98726],"type":"Point"}
+}

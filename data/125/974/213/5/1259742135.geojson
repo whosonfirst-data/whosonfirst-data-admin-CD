@@ -1,0 +1,67 @@
+{
+  "id": 1259742135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.70692,-6.83008,23.70692,-6.83008",
+    "geom:latitude":-6.83008,
+    "geom:longitude":23.70692,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Katembwe",
+    "gn:country_code":"CD",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9946867,
+    "gn:latitude":-6.83008,
+    "gn:longitude":23.70692,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Katembwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670011,
+        1091680435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9946867
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c17b67aee2186f3ccf85bd822def1328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680435,
+            "locality_id":1259742135,
+            "region_id":85670011
+        }
+    ],
+    "wof:id":1259742135,
+    "wof:lastmodified":1536982095,
+    "wof:name":"Katembwe",
+    "wof:parent_id":1091680435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.70692,
+    -6.83008,
+    23.70692,
+    -6.83008
+],
+  "geometry": {"coordinates":[23.70692,-6.83008],"type":"Point"}
+}

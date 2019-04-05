@@ -1,0 +1,67 @@
+{
+  "id": 1260027169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.13954,3.19706,20.13954,3.19706",
+    "geom:latitude":3.19706,
+    "geom:longitude":20.13954,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Bondio",
+    "gn:country_code":"CD",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":218259,
+    "gn:latitude":3.19706,
+    "gn:longitude":20.13954,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Bondio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":218259
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"6c674873ce5d97172baf993302a6523a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1260027169,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1260027169,
+    "wof:lastmodified":1537066245,
+    "wof:name":"Bondio",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.13954,
+    3.19706,
+    20.13954,
+    3.19706
+],
+  "geometry": {"coordinates":[20.13954,3.19706],"type":"Point"}
+}

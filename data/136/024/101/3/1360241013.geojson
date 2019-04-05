@@ -1,0 +1,71 @@
+{
+  "id": 1360241013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.04302,-5.49887,22.04302,-5.49887",
+    "geom:latitude":-5.49887,
+    "geom:longitude":22.04302,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Dumba-Munene",
+    "gn:country_code":"CD",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":216982,
+    "gn:latitude":-5.49887,
+    "gn:longitude":22.04302,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dumba-Munene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumba",
+        "Dumba-Munene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":216982
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b718d5f9eadda556b3c4729ab6cc6dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680517,
+            "locality_id":1360241013,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1360241013,
+    "wof:lastmodified":1537590442,
+    "wof:name":"Dumba-Munene",
+    "wof:parent_id":1091680517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.04302,
+    -5.49887,
+    22.04302,
+    -5.49887
+],
+  "geometry": {"coordinates":[22.04302,-5.49887],"type":"Point"}
+}

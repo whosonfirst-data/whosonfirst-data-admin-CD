@@ -1,0 +1,67 @@
+{
+  "id": 1260349485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.35694,0.21472,24.35694,0.21472",
+    "geom:latitude":0.21472,
+    "geom:longitude":24.35694,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Yaleko",
+    "gn:country_code":"CD",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280665,
+    "gn:latitude":0.21472,
+    "gn:longitude":24.35694,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Yaleko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280665
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"2888bc881ec568cf3fdff6b07a252fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679679,
+            "locality_id":1260349485,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1260349485,
+    "wof:lastmodified":1536621652,
+    "wof:name":"Yaleko",
+    "wof:parent_id":1091679679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.35694,
+    0.21472,
+    24.35694,
+    0.21472
+],
+  "geometry": {"coordinates":[24.35694,0.21472],"type":"Point"}
+}

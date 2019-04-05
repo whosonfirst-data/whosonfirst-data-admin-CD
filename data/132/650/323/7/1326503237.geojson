@@ -1,0 +1,67 @@
+{
+  "id": 1326503237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.91177,-9.61859,25.91177,-9.61859",
+    "geom:latitude":-9.61859,
+    "geom:longitude":25.91177,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Makanda",
+    "gn:country_code":"CD",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":210006,
+    "gn:latitude":-9.61859,
+    "gn:longitude":25.91177,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Makanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":210006
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"29ff727838ec88d81895b42ce5f6306c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680277,
+            "locality_id":1326503237,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1326503237,
+    "wof:lastmodified":1537024801,
+    "wof:name":"Makanda",
+    "wof:parent_id":1091680277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.91177,
+    -9.61859,
+    25.91177,
+    -9.61859
+],
+  "geometry": {"coordinates":[25.91177,-9.61859],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209188375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"23.82747,-6.93912,23.82747,-6.93912",
+    "geom:latitude":-6.93912,
+    "geom:longitude":23.82747,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Dinganga",
+    "gn:country_code":"CD",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":217248,
+    "gn:latitude":-6.93912,
+    "gn:longitude":23.82747,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dinganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":217248
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a0e013675f11aa6f3b733ae826c0c667",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209188375
+        }
+    ],
+    "wof:id":1209188375,
+    "wof:lastmodified":1536295020,
+    "wof:name":"Dinganga",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    23.82747,
+    -6.93912,
+    23.82747,
+    -6.93912
+],
+  "geometry": {"coordinates":[23.82747,-6.93912],"type":"Point"}
+}

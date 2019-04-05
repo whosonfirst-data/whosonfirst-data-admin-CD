@@ -1,0 +1,67 @@
+{
+  "id": 1260350027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.37438,-5.83749,28.37438,-5.83749",
+    "geom:latitude":-5.83749,
+    "geom:longitude":28.37438,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"Kioko Niumba",
+    "gn:country_code":"CD",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":212826,
+    "gn:latitude":-5.83749,
+    "gn:longitude":28.37438,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kioko Niumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":212826
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"e1accaa359f0b01384dba4d10f517d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680307,
+            "locality_id":1260350027,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1260350027,
+    "wof:lastmodified":1536620906,
+    "wof:name":"Kioko Niumba",
+    "wof:parent_id":1091680307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.37438,
+    -5.83749,
+    28.37438,
+    -5.83749
+],
+  "geometry": {"coordinates":[28.37438,-5.83749],"type":"Point"}
+}

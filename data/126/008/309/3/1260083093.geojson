@@ -1,0 +1,71 @@
+{
+  "id": 1260083093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.2519,-0.33862,18.2519,-0.33862",
+    "geom:latitude":-0.33862,
+    "geom:longitude":18.2519,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Buya-Ekole Deuxieme",
+    "gn:country_code":"CD",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2316166,
+    "gn:latitude":-0.33862,
+    "gn:longitude":18.2519,
+    "gn:modification_date":"2012-05-05",
+    "gn:name":"Buya-Ekole Deuxi\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buya-Ekole Deuxi\u00e8me",
+        "Buya-Ekole II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2316166
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"51433fe79a608ca77c967baa5f7552e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679539,
+            "locality_id":1260083093,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1260083093,
+    "wof:lastmodified":1537590548,
+    "wof:name":"Buya-Ekole Deuxieme",
+    "wof:parent_id":1091679539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.2519,
+    -0.33862,
+    18.2519,
+    -0.33862
+],
+  "geometry": {"coordinates":[18.2519,-0.33862],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260275615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08918,-4.04772,16.08918,-4.04772",
+    "geom:latitude":-4.04772,
+    "geom:longitude":16.08918,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Swe",
+    "gn:country_code":"CD",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9947315,
+    "gn:latitude":-4.04772,
+    "gn:longitude":16.08918,
+    "gn:modification_date":"2015-01-09",
+    "gn:name":"Swe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669997,
+        1091679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9947315
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"d48ce6d1ba70c2622641ecede0a4e8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679267,
+            "locality_id":1260275615,
+            "region_id":85669997
+        }
+    ],
+    "wof:id":1260275615,
+    "wof:lastmodified":1536722858,
+    "wof:name":"Swe",
+    "wof:parent_id":1091679267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08918,
+    -4.04772,
+    16.08918,
+    -4.04772
+],
+  "geometry": {"coordinates":[16.08918,-4.04772],"type":"Point"}
+}

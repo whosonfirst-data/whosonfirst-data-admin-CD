@@ -1,0 +1,61 @@
+{
+  "id": 1209676065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.8424,0.37589,25.8424,0.37589",
+    "geom:latitude":0.37589,
+    "geom:longitude":25.8424,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Babongie",
+    "gn:country_code":"CD",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8280723,
+    "gn:latitude":0.37589,
+    "gn:longitude":25.8424,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Babongie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8280723
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"c58a7d5cbd889f81d2aac60451185aee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209676065
+        }
+    ],
+    "wof:id":1209676065,
+    "wof:lastmodified":1536279749,
+    "wof:name":"Babongie",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.8424,
+    0.37589,
+    25.8424,
+    0.37589
+],
+  "geometry": {"coordinates":[25.8424,0.37589],"type":"Point"}
+}

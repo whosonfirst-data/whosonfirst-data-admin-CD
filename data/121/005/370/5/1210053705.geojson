@@ -1,0 +1,67 @@
+{
+  "id": 1210053705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.09866,1.02962,22.09866,1.02962",
+    "geom:latitude":1.02962,
+    "geom:longitude":22.09866,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Yangolu",
+    "gn:country_code":"CD",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203702,
+    "gn:latitude":1.02962,
+    "gn:longitude":22.09866,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Yangolu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203702
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7545b0ce49392cbb8b8975c96c3b7d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679649,
+            "locality_id":1210053705,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1210053705,
+    "wof:lastmodified":1536370767,
+    "wof:name":"Yangolu",
+    "wof:parent_id":1091679649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.09866,
+    1.02962,
+    22.09866,
+    1.02962
+],
+  "geometry": {"coordinates":[22.09866,1.02962],"type":"Point"}
+}

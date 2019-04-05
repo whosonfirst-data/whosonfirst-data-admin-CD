@@ -1,0 +1,67 @@
+{
+  "id": 1193249841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.46618,4.13607,22.46618,4.13607",
+    "geom:latitude":4.13607,
+    "geom:longitude":22.46618,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kenge",
+    "gn:country_code":"CD",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":213473,
+    "gn:latitude":4.13607,
+    "gn:longitude":22.46618,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":213473
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"a3803661472e73ca1ad0117af97937da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679721,
+            "locality_id":1193249841,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1193249841,
+    "wof:lastmodified":1536369238,
+    "wof:name":"Kenge",
+    "wof:parent_id":1091679721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.46618,
+    4.13607,
+    22.46618,
+    4.13607
+],
+  "geometry": {"coordinates":[22.46618,4.13607],"type":"Point"}
+}

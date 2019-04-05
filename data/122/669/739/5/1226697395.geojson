@@ -1,0 +1,67 @@
+{
+  "id": 1226697395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.11046,2.47531,20.11046,2.47531",
+    "geom:latitude":2.47531,
+    "geom:longitude":20.11046,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Yanga-Leka",
+    "gn:country_code":"CD",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203719,
+    "gn:latitude":2.47531,
+    "gn:longitude":20.11046,
+    "gn:modification_date":"2018-07-06",
+    "gn:name":"Yanga-Leka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669975,
+        1091679559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203719
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"ec11fd167351e36cd4383310c1c6fab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679559,
+            "locality_id":1226697395,
+            "region_id":85669975
+        }
+    ],
+    "wof:id":1226697395,
+    "wof:lastmodified":1536785777,
+    "wof:name":"Yanga-Leka",
+    "wof:parent_id":1091679559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.11046,
+    2.47531,
+    20.11046,
+    2.47531
+],
+  "geometry": {"coordinates":[20.11046,2.47531],"type":"Point"}
+}

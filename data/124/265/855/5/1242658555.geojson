@@ -1,0 +1,67 @@
+{
+  "id": 1242658555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.20233,-0.90848,29.20233,-0.90848",
+    "geom:latitude":-0.90848,
+    "geom:longitude":29.20233,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kibiziki",
+    "gn:country_code":"CD",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327997,
+    "gn:latitude":-0.90848,
+    "gn:longitude":29.20233,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Kibiziki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327997
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"b19b7781aaeb7aeccf71242a9fa1f466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1242658555,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1242658555,
+    "wof:lastmodified":1536947605,
+    "wof:name":"Kibiziki",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20233,
+    -0.90848,
+    29.20233,
+    -0.90848
+],
+  "geometry": {"coordinates":[29.20233,-0.90848],"type":"Point"}
+}

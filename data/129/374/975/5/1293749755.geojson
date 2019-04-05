@@ -1,0 +1,67 @@
+{
+  "id": 1293749755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.17433,-6.15554,21.17433,-6.15554",
+    "geom:latitude":-6.15554,
+    "geom:longitude":21.17433,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Miabo-Kandolo",
+    "gn:country_code":"CD",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8327224,
+    "gn:latitude":-6.15554,
+    "gn:longitude":21.17433,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Miabo-Kandolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669989,
+        1091680543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8327224
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"aec945edce12caf322ad92863353f963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680543,
+            "locality_id":1293749755,
+            "region_id":85669989
+        }
+    ],
+    "wof:id":1293749755,
+    "wof:lastmodified":1536906445,
+    "wof:name":"Miabo-Kandolo",
+    "wof:parent_id":1091680543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.17433,
+    -6.15554,
+    21.17433,
+    -6.15554
+],
+  "geometry": {"coordinates":[21.17433,-6.15554],"type":"Point"}
+}

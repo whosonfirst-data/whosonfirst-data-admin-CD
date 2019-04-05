@@ -1,0 +1,67 @@
+{
+  "id": 1276628659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.56951,-8.26709,28.56951,-8.26709",
+    "geom:latitude":-8.26709,
+    "geom:longitude":28.56951,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Pongo A.V.",
+    "gn:country_code":"CD",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10048302,
+    "gn:latitude":-8.26709,
+    "gn:longitude":28.56951,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Pongo A.V.",
+    "gn:population":0,
+    "gn:timezone":"Africa/Lubumbashi",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670015,
+        1091680333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10048302
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"884b0c13dc1aa1501cfccdc1b3392323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680333,
+            "locality_id":1276628659,
+            "region_id":85670015
+        }
+    ],
+    "wof:id":1276628659,
+    "wof:lastmodified":1536879647,
+    "wof:name":"Pongo A.V.",
+    "wof:parent_id":1091680333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.56951,
+    -8.26709,
+    28.56951,
+    -8.26709
+],
+  "geometry": {"coordinates":[28.56951,-8.26709],"type":"Point"}
+}

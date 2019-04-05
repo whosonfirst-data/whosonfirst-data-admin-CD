@@ -1,0 +1,65 @@
+{
+  "id": 1209305143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.31667,-5.45,13.31667,-5.45",
+    "geom:latitude":-5.45,
+    "geom:longitude":13.31667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kitsiengo-Vungu",
+    "gn:country_code":"CD",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2314087,
+    "gn:latitude":-5.45,
+    "gn:longitude":13.31667,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Kitsiengo-Vungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kinshasa",
+    "iso:country":"CD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vungu",
+        "Kitsiengo-Vungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2314087
+    },
+    "wof:country":"CD",
+    "wof:geomhash":"7917dc388caa15455e5c5f70082e7a4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632643,
+            "locality_id":1209305143
+        }
+    ],
+    "wof:id":1209305143,
+    "wof:lastmodified":1537590528,
+    "wof:name":"Kitsiengo-Vungu",
+    "wof:parent_id":85632643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.31667,
+    -5.45,
+    13.31667,
+    -5.45
+],
+  "geometry": {"coordinates":[13.31667,-5.45],"type":"Point"}
+}
