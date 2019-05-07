@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102041,
-    "geom:area_square_m":1258226253.354449,
+    "geom:area_square_m":1258226253.354456,
     "geom:bbox":"20.6240000402,4.06241660307,21.0870000004,4.44599991705",
     "geom:latitude":4.282872,
     "geom:longitude":20.876549,
@@ -37,10 +37,11 @@
         "Noord-Ubangi"
     ],
     "name:eng_x_preferred":[
-        "Nord-Ubangi District"
+        "Nord-Ubangi"
     ],
     "name:eng_x_variant":[
         "Gbadolite",
+        "Nord-Ubangi",
         "Nord-Ubangi"
     ],
     "name:epo_x_preferred":[
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1091679653,
-    "wof:lastmodified":1513926452,
+    "wof:lastmodified":1555220354,
     "wof:name":"Gbadolite",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

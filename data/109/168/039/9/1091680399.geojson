@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.810696,
-    "geom:area_square_m":108728895400.120941,
+    "geom:area_square_m":108728895400.119858,
     "geom:bbox":"21.8309555576,-5.84951693841,25.1123986624,-1.69747502018",
     "geom:latitude":-3.482299,
     "geom:longitude":23.60499,
@@ -37,9 +37,10 @@
         "Sankuru"
     ],
     "name:eng_x_preferred":[
-        "Sankuru District"
+        "Sankuru"
     ],
     "name:eng_x_variant":[
+        "Sankuru",
         "Sankuru"
     ],
     "name:epo_x_preferred":[
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1091680399,
-    "wof:lastmodified":1513926526,
+    "wof:lastmodified":1555220355,
     "wof:name":"Sankuru",
     "wof:parent_id":85670011,
     "wof:placetype":"county",

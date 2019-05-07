@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.874458,
-    "geom:area_square_m":97260752764.191193,
+    "geom:area_square_m":97260752764.190826,
     "geom:bbox":"16.6370241599,-4.39898003313,21.0232720804,-0.736009001121",
     "geom:latitude":-2.592907,
     "geom:longitude":19.086408,
@@ -25,10 +25,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Mai-Ndombe District"
+        "Mai-Ndombe"
     ],
     "name:eng_x_variant":[
         "Ma\u00ef-Ndombe",
+        "Mai-Ndombe",
         "Mai-Ndombe"
     ],
     "name:fre_x_preferred":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1091679355,
-    "wof:lastmodified":1513926503,
+    "wof:lastmodified":1555220353,
     "wof:name":"Mai-Ndombe",
     "wof:parent_id":85669985,
     "wof:placetype":"county",

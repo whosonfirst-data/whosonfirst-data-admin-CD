@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.56661,
-    "geom:area_square_m":56426584334.520172,
+    "geom:area_square_m":56426584334.519722,
     "geom:bbox":"19.2085309568,0.725617568185,23.579769221,3.33332979159",
     "geom:latitude":2.096609,
     "geom:longitude":21.51346,
@@ -37,9 +37,10 @@
         "Mongala"
     ],
     "name:eng_x_preferred":[
-        "Mongala District"
+        "Mongala"
     ],
     "name:eng_x_variant":[
+        "Mongala",
         "Mongala"
     ],
     "name:epo_x_preferred":[
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1091679647,
-    "wof:lastmodified":1513926512,
+    "wof:lastmodified":1555220354,
     "wof:name":"Mongala",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.311061,
-    "geom:area_square_m":53184104473.820755,
+    "geom:area_square_m":53184104473.820503,
     "geom:bbox":"19.01400012,2.81682807398,23.5330714732,5.14600001884",
     "geom:latitude":3.857842,
     "geom:longitude":21.07204,
@@ -37,9 +37,10 @@
         "Noord-Ubangi"
     ],
     "name:eng_x_preferred":[
-        "Nord-Ubangi District"
+        "Nord-Ubangi"
     ],
     "name:eng_x_variant":[
+        "Nord-Ubangi",
         "Nord-Ubangi"
     ],
     "name:epo_x_preferred":[
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1091679605,
-    "wof:lastmodified":1513926518,
+    "wof:lastmodified":1555220354,
     "wof:name":"Nord-Ubangi",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

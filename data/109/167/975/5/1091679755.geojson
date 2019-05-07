@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.433345,
-    "geom:area_square_m":91749283400.467758,
+    "geom:area_square_m":91749283400.467209,
     "geom:bbox":"26.8932360305,1.44324818347,30.5798652001,5.20670700896",
     "geom:latitude":3.34608,
     "geom:longitude":28.591658,
@@ -40,9 +40,10 @@
         "Haut-Uele"
     ],
     "name:eng_x_preferred":[
-        "Haut-Uele District"
+        "Haut-Uele"
     ],
     "name:eng_x_variant":[
+        "Haut-Uele",
         "Haut-Uele"
     ],
     "name:epo_x_preferred":[
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1091679755,
-    "wof:lastmodified":1513926469,
+    "wof:lastmodified":1555220355,
     "wof:name":"Haut-Uele",
     "wof:parent_id":85669979,
     "wof:placetype":"county",

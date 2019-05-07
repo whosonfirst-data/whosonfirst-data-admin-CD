@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.419233,
-    "geom:area_square_m":79091741951.055466,
+    "geom:area_square_m":79091741951.055557,
     "geom:bbox":"16.4777405424,-6.39137470859,20.203800001,-3.29364005735",
     "geom:latitude":-4.788963,
     "geom:longitude":18.660341,
@@ -40,9 +40,10 @@
         "Kwilu"
     ],
     "name:eng_x_preferred":[
-        "Kwilu District"
+        "Kwilu"
     ],
     "name:eng_x_variant":[
+        "Kwilu",
         "Kwilu"
     ],
     "name:epo_x_preferred":[
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1091679385,
-    "wof:lastmodified":1513926499,
+    "wof:lastmodified":1555220354,
     "wof:name":"Kwilu",
     "wof:parent_id":85669985,
     "wof:placetype":"county",

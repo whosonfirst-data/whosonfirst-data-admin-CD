@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.011601,
-    "geom:area_square_m":121694326035.416,
+    "geom:area_square_m":121694326035.413818,
     "geom:bbox":"25.4840000397,-13.4559992617,29.8109883898,-7.62268462832",
     "geom:latitude":-10.471073,
     "geom:longitude":27.825966,
@@ -43,11 +43,12 @@
         "Haut-Katanga"
     ],
     "name:eng_x_preferred":[
-        "Haut-Katanga Province"
+        "Haut-Katanga"
     ],
     "name:eng_x_variant":[
         "Haut-Katanga",
-        "Haut-Shaba"
+        "Haut-Shaba",
+        "Haut-Katanga"
     ],
     "name:epo_x_preferred":[
         "Provinco Supra Katango"
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1091680333,
-    "wof:lastmodified":1513926462,
+    "wof:lastmodified":1555220355,
     "wof:name":"Haut-Katanga",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

@@ -37,9 +37,10 @@
         "Tshopo"
     ],
     "name:eng_x_preferred":[
-        "Tshopo District"
+        "Tshopo"
     ],
     "name:eng_x_variant":[
+        "Tshopo",
         "Tshopo"
     ],
     "name:epo_x_preferred":[
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1091679679,
-    "wof:lastmodified":1536614916,
+    "wof:lastmodified":1555220354,
     "wof:name":"Tshopo",
     "wof:parent_id":85669979,
     "wof:placetype":"county",

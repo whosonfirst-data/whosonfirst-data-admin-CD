@@ -37,9 +37,10 @@
         "Kwango"
     ],
     "name:eng_x_preferred":[
-        "Kwango District"
+        "Kwango"
     ],
     "name:eng_x_variant":[
+        "Kwango",
         "Kwango"
     ],
     "name:fre_x_preferred":[
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1091679429,
-    "wof:lastmodified":1513926495,
+    "wof:lastmodified":1555220354,
     "wof:name":"Kwango",
     "wof:parent_id":85669985,
     "wof:placetype":"county",

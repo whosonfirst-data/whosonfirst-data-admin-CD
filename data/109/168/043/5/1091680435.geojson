@@ -37,10 +37,11 @@
         "Lomami"
     ],
     "name:eng_x_preferred":[
-        "Lomami Province"
+        "Lomami"
     ],
     "name:eng_x_variant":[
-        "Kabinda"
+        "Kabinda",
+        "Lomami"
     ],
     "name:epo_x_preferred":[
         "Provinco Lomamo"
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1091680435,
-    "wof:lastmodified":1536614917,
+    "wof:lastmodified":1555220356,
     "wof:name":"Kabinda",
     "wof:parent_id":85670011,
     "wof:placetype":"county",

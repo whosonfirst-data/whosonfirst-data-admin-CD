@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.887934,
-    "geom:area_square_m":121450123451.897324,
+    "geom:area_square_m":121450123451.900665,
     "geom:bbox":"25.9303199739,-8.41234187646,30.5937478408,-4.99952056816",
     "geom:latitude":-6.56504,
     "geom:longitude":28.045299,
@@ -37,11 +37,12 @@
         "Tanganyika"
     ],
     "name:eng_x_preferred":[
-        "Tanganyika District"
+        "Tanganyika"
     ],
     "name:eng_x_variant":[
         "Tanganyka",
-        "Tanganika"
+        "Tanganika",
+        "Tanganyika"
     ],
     "name:epo_x_preferred":[
         "Provinco Tanganjiko"
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1091680307,
-    "wof:lastmodified":1513926536,
+    "wof:lastmodified":1555220355,
     "wof:name":"Tanganyka",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

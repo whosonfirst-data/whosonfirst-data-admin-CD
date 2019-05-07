@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.952554,
-    "geom:area_square_m":109545626858.849457,
+    "geom:area_square_m":109545626858.846649,
     "geom:bbox":"23.6400912001,-10.1299149629,27.8542004082,-6.14404096343",
     "geom:latitude":-8.236583,
     "geom:longitude":25.429034,
@@ -40,9 +40,10 @@
         "Haut-Lomami"
     ],
     "name:eng_x_preferred":[
-        "Haut-Lomami District"
+        "Haut-Lomami"
     ],
     "name:eng_x_variant":[
+        "Haut-Lomami",
         "Haut-Lomami"
     ],
     "name:epo_x_preferred":[
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1091680277,
-    "wof:lastmodified":1513926466,
+    "wof:lastmodified":1555220355,
     "wof:name":"Haut-Lomami",
     "wof:parent_id":85670015,
     "wof:placetype":"county",
