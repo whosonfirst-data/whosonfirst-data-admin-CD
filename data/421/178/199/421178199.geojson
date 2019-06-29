@@ -17,19 +17,10 @@
     "name:ceb_x_preferred":[
         "Bosobolo"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u7d22\u535a\u6d1b"
-    ],
-    "name:dut_x_preferred":[
-        "Bosobolo"
-    ],
     "name:eng_x_preferred":[
         "Bosobolo"
     ],
     "name:fra_x_preferred":[
-        "Bosobolo"
-    ],
-    "name:fre_x_preferred":[
         "Bosobolo"
     ],
     "name:ita_x_preferred":[
@@ -38,14 +29,17 @@
     "name:jpn_x_preferred":[
         "\u30dc\u30bd\u30dc\u30ed"
     ],
-    "name:ron_x_preferred":[
+    "name:nld_x_preferred":[
         "Bosobolo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bosobolo"
     ],
     "name:swe_x_preferred":[
         "Bosobolo"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u7d22\u535a\u6d1b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -185,7 +179,7 @@
         }
     ],
     "wof:id":421178199,
-    "wof:lastmodified":1527717724,
+    "wof:lastmodified":1561844943,
     "wof:name":"Bosobolo",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

@@ -37,14 +37,14 @@
     "name:bul_x_preferred":[
         "\u0421\u044e\u0434 \u041a\u0438\u0432\u0443"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u57fa\u4f0d\u7701"
-    ],
     "name:dan_x_preferred":[
         "South Kivu"
     ],
-    "name:dut_x_preferred":[
-        "Zuid-Kivu"
+    "name:deu_x_preferred":[
+        "Sud-Kivu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03c4\u03b9\u03bf \u039a\u03af\u03b2\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "South Kivu"
@@ -63,18 +63,6 @@
     ],
     "name:fra_x_preferred":[
         "Sud-Kivu"
-    ],
-    "name:fre_x_preferred":[
-        "Sud-Kivu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7\u10d8 \u10d9\u10d8\u10d5\u10e3\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Sud-Kivu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03cc\u03c4\u03b9\u03bf \u039a\u03af\u03b2\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a89\u0aa5 \u0a95\u0abf\u0ab5\u0ac1"
@@ -97,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ccc\u0ca4\u0ccd \u0c95\u0cbf\u0cb5\u0cc1"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7\u10d8 \u10d9\u10d8\u10d5\u10e3\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kin_x_preferred":[
         "Intara ya Kivu y\u2019Amajyepfo"
     ],
@@ -115,14 +106,17 @@
     "name:lit_x_preferred":[
         "Piet\u0173 Kivu"
     ],
-    "name:mac_x_preferred":[
-        "\u0408\u0443\u0436\u043d\u043e \u041a\u0438\u0432\u0443"
-    ],
     "name:mar_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923 \u0915\u093f\u0935\u0941"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u0408\u0443\u0436\u043d\u043e \u041a\u0438\u0432\u0443"
+    ],
+    "name:msa_x_preferred":[
         "Sud-Kivu"
+    ],
+    "name:nld_x_preferred":[
+        "Zuid-Kivu"
     ],
     "name:nob_x_preferred":[
         "Sud-Kivu"
@@ -133,7 +127,7 @@
     "name:por_x_preferred":[
         "Sud-Kivu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Sud-Kivu"
     ],
     "name:rus_x_preferred":[
@@ -142,7 +136,7 @@
     "name:sin_x_preferred":[
         "\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0dd2\u0dc0\u0dd6"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sud-Kivu"
     ],
     "name:spa_x_preferred":[
@@ -186,6 +180,9 @@
     ],
     "name:wln_x_preferred":[
         "Province do Kivou Nonnrece"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u57fa\u4f0d\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COD",
@@ -299,7 +296,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1553550327,
+    "wof:lastmodified":1561844866,
     "wof:name":"Sud-Kivu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

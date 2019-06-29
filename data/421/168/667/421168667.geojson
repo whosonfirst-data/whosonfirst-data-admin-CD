@@ -29,38 +29,29 @@
     "name:ceb_x_preferred":[
         "Buta"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u5854"
-    ],
     "name:dan_x_preferred":[
         "Buta"
     ],
     "name:deu_x_preferred":[
         "Buta"
     ],
-    "name:dut_x_preferred":[
-        "Buta"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Buta"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062a\u0627"
+    ],
     "name:fin_x_preferred":[
         "Buta"
     ],
-    "name:fre_x_preferred":[
-        "Buta"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Buta"
     ],
     "name:glg_x_preferred":[
         "Buta"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03cd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a9f\u0abe"
@@ -86,6 +77,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cc2\u0c9f\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e2\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubd80\ud0c0"
     ],
@@ -101,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0941\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Buta"
     ],
     "name:nld_x_preferred":[
@@ -110,9 +104,6 @@
     "name:nob_x_preferred":[
         "Buta"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u062a\u0627"
-    ],
     "name:pol_x_preferred":[
         "Buta"
     ],
@@ -120,9 +111,6 @@
         "Buta"
     ],
     "name:ron_x_preferred":[
-        "Buta"
-    ],
-    "name:rum_x_preferred":[
         "Buta"
     ],
     "name:rus_x_preferred":[
@@ -313,7 +301,7 @@
         }
     ],
     "wof:id":421168667,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561844941,
     "wof:name":"Buta",
     "wof:parent_id":85669979,
     "wof:placetype":"locality",

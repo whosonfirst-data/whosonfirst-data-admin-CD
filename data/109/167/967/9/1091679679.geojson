@@ -30,10 +30,7 @@
     "name:bul_x_preferred":[
         "\u0427\u043e\u043f\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u4e54\u6ce2\u7701"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tshopo"
     ],
     "name:eng_x_preferred":[
@@ -49,13 +46,7 @@
     "name:fin_x_preferred":[
         "Tshopo"
     ],
-    "name:fre_x_preferred":[
-        "Tshopo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10dd\u10de\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tshopo"
     ],
     "name:hun_x_preferred":[
@@ -67,11 +58,17 @@
     "name:jpn_x_preferred":[
         "\u30c4\u30a9\u30dd\u5dde"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10dd\u10de\u10dd\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kon_x_preferred":[
         "Tshopo"
     ],
     "name:kor_x_preferred":[
         "\ucd08\ud3ec \uc8fc"
+    ],
+    "name:nld_x_preferred":[
+        "Tshopo"
     ],
     "name:nob_x_preferred":[
         "Tshopo"
@@ -82,7 +79,7 @@
     "name:por_x_preferred":[
         "Tshopo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Tshopo"
     ],
     "name:rus_x_preferred":[
@@ -105,6 +102,9 @@
     ],
     "name:wln_x_preferred":[
         "Province del Tshopo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e54\u6ce2\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1091679679,
-    "wof:lastmodified":1555220354,
+    "wof:lastmodified":1561844931,
     "wof:name":"Tshopo",
     "wof:parent_id":85669979,
     "wof:placetype":"county",

@@ -49,20 +49,14 @@
     "name:ces_x_preferred":[
         "Severn\u00ed Kivu"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u57fa\u4f0d\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Severn\u00ed Kivu"
-    ],
     "name:dan_x_preferred":[
         "North Kivu"
     ],
     "name:deu_x_preferred":[
         "Nord-Kivu"
     ],
-    "name:dut_x_preferred":[
-        "Noord-Kivu"
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u039a\u03af\u03b2\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "North Kivu"
@@ -81,18 +75,6 @@
     ],
     "name:fra_x_preferred":[
         "Nord-Kivu"
-    ],
-    "name:fre_x_preferred":[
-        "Nord-Kivu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10d9\u10d8\u10d5\u10e3\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Nord-Kivu"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u039a\u03af\u03b2\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa5 \u0a95\u0abf\u0ab5\u0ac1"
@@ -115,6 +97,9 @@
     "name:kan_x_preferred":[
         "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0c95\u0cbf\u0cb5\u0cc1"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8 \u10d9\u10d8\u10d5\u10e3\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kin_x_preferred":[
         "Intara ya Kivu y\u2019Amajyaruguru"
     ],
@@ -135,9 +120,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0915\u093f\u0935\u094d\u0935\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Nord-Kivu"
     ],
     "name:msa_x_preferred":[
         "Nord-Kivu"
@@ -160,9 +142,6 @@
     "name:ron_x_preferred":[
         "Provincia Nord-Kivu"
     ],
-    "name:rum_x_preferred":[
-        "Provincia Nord-Kivu"
-    ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u041a\u0438\u0432\u0443"
     ],
@@ -170,9 +149,6 @@
         "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0d9a\u0dd2\u0dc0\u0dd6"
     ],
     "name:slk_x_preferred":[
-        "Nord-Kivu"
-    ],
-    "name:slo_x_preferred":[
         "Nord-Kivu"
     ],
     "name:spa_x_preferred":[
@@ -329,7 +305,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1553550327,
+    "wof:lastmodified":1561844867,
     "wof:name":"Nord-Kivu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

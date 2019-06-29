@@ -24,9 +24,6 @@
     "mps:longitude":27.854345,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054e\u0565\u0580\u056b\u0576 \u053f\u0561\u057f\u0561\u0576\u0563\u0561"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0412\u0435\u0440\u0445\u043d\u044f\u044f \u041a\u0430\u0442\u0430\u043d\u0433\u0430"
     ],
@@ -36,10 +33,7 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Alt Katanga"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0a\u52a0\u4e39\u52a0\u7701"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Haut-Katanga"
     ],
     "name:eng_x_preferred":[
@@ -56,17 +50,14 @@
     "name:fin_x_preferred":[
         "Yl\u00e4-Katanga"
     ],
-    "name:fre_x_preferred":[
-        "Haut-Katanga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d4\u10db\u10dd \u10d9\u10d0\u10e2\u10d0\u10dc\u10d2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Haut-Katanga"
     ],
     "name:hun_x_preferred":[
         "Fels\u0151-Katanga tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0565\u0580\u056b\u0576 \u053f\u0561\u057f\u0561\u0576\u0563\u0561"
     ],
     "name:ita_x_preferred":[
         "Provincia dell'Alto Katanga"
@@ -74,11 +65,17 @@
     "name:jpn_x_preferred":[
         "\u4e0a\u30ab\u30bf\u30f3\u30ac\u5dde"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d4\u10db\u10dd \u10d9\u10d0\u10e2\u10d0\u10dc\u10d2\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kon_x_preferred":[
         "Kizunga Katanga"
     ],
     "name:kor_x_preferred":[
         "\uc624\ud2b8\uce74\ud0d5\uac00 \uc8fc"
+    ],
+    "name:nld_x_preferred":[
+        "Haut-Katanga"
     ],
     "name:nob_x_preferred":[
         "Haut-Katanga"
@@ -89,7 +86,7 @@
     "name:por_x_preferred":[
         "Haut-Katanga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Haut-Katanga"
     ],
     "name:rus_x_preferred":[
@@ -112,6 +109,9 @@
     ],
     "name:wln_x_preferred":[
         "Province do H\u00f4t-Katanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u52a0\u4e39\u52a0\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1091680333,
-    "wof:lastmodified":1555220355,
+    "wof:lastmodified":1561844930,
     "wof:name":"Haut-Katanga",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

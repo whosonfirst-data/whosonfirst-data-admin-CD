@@ -23,14 +23,11 @@
     "name:ceb_x_preferred":[
         "Basoko"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u7d22\u79d1"
-    ],
     "name:dan_x_preferred":[
         "Basoko"
     ],
-    "name:dut_x_preferred":[
-        "Basoko"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c3\u03cc\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Basoko"
@@ -40,12 +37,6 @@
     ],
     "name:fra_x_preferred":[
         "Basoko"
-    ],
-    "name:fre_x_preferred":[
-        "Basoko"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c3\u03cc\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0ab8\u0acb\u0a95\u0acb"
@@ -77,7 +68,10 @@
     "name:mar_x_preferred":[
         "\u092c\u0938\u094b\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Basoko"
+    ],
+    "name:nld_x_preferred":[
         "Basoko"
     ],
     "name:nob_x_preferred":[
@@ -90,9 +84,6 @@
         "Basoko"
     ],
     "name:ron_x_preferred":[
-        "Basoko"
-    ],
-    "name:rum_x_preferred":[
         "Basoko"
     ],
     "name:rus_x_preferred":[
@@ -271,7 +262,7 @@
         }
     ],
     "wof:id":421180365,
-    "wof:lastmodified":1527716233,
+    "wof:lastmodified":1561844942,
     "wof:name":"Basoko",
     "wof:parent_id":85669979,
     "wof:placetype":"locality",

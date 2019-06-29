@@ -26,17 +26,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09a8\u09cd\u09a6\u09c1\u09a8\u09cd\u09a6\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u73ed\u987f\u675c"
-    ],
     "name:dan_x_preferred":[
         "Bandundu"
     ],
     "name:deu_x_preferred":[
         "Bandundu"
     ],
-    "name:dut_x_preferred":[
-        "Bandundu"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03bd\u03c4\u03bf\u03cd\u03bd\u03c4\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Bandundu Province"
@@ -52,18 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Bandundu"
-    ],
-    "name:fre_x_preferred":[
-        "Bandundu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10dc\u10d3\u10e3\u10dc\u10d3\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Bandundu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03bd\u03c4\u03bf\u03cd\u03bd\u03c4\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0a82\u0aa1\u0ac1\u0aa8\u0acd\u0aa1\u0ac1"
@@ -92,6 +77,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0c82\u0ca1\u0c82\u0ca1\u0cc1"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10dc\u10d3\u10e3\u10dc\u10d3\u10e3"
+    ],
     "name:kon_x_preferred":[
         "Bandundu"
     ],
@@ -110,7 +98,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0945\u0928\u094d\u0921\u0902\u0921\u0941"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bandundu"
     ],
     "name:nld_x_preferred":[
@@ -125,7 +113,7 @@
     "name:por_x_preferred":[
         "Bandundu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bandundu"
     ],
     "name:rus_x_preferred":[
@@ -135,9 +123,6 @@
         "\u0db6\u0db1\u0dca\u0daf\u0dd4\u0db1\u0dd4"
     ],
     "name:slk_x_preferred":[
-        "Bandundu"
-    ],
-    "name:slo_x_preferred":[
         "Bandundu"
     ],
     "name:sna_x_preferred":[
@@ -178,6 +163,9 @@
     ],
     "name:zho_x_preferred":[
         "\u73ed\u987f\u675c\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u73ed\u987f\u675c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -316,7 +304,7 @@
         }
     ],
     "wof:id":421178201,
-    "wof:lastmodified":1527717727,
+    "wof:lastmodified":1561844943,
     "wof:name":"Bandundu",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

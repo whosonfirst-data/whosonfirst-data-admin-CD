@@ -26,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Bunia"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u5c3c\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "Bunia"
     ],
     "name:deu_x_preferred":[
         "Bunia"
     ],
-    "name:dut_x_preferred":[
-        "Bunia"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03bd\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bunia"
@@ -49,18 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Bunia"
-    ],
-    "name:fre_x_preferred":[
-        "Bunia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10dc\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bunia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03cd\u03bd\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac2\u0aa8\u0abf\u0aaf\u0abe"
@@ -86,6 +71,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cc1\u0ca8\u0cbf\u0caf\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10dc\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubd80\ub2c8\uc544"
     ],
@@ -101,7 +89,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0942\u0928\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bunia"
     ],
     "name:nld_x_preferred":[
@@ -117,9 +105,6 @@
         "Bunia"
     ],
     "name:ron_x_preferred":[
-        "Bunia"
-    ],
-    "name:rum_x_preferred":[
         "Bunia"
     ],
     "name:rus_x_preferred":[
@@ -305,7 +290,7 @@
         }
     ],
     "wof:id":421181437,
-    "wof:lastmodified":1527716323,
+    "wof:lastmodified":1561844942,
     "wof:name":"Bunia",
     "wof:parent_id":85669979,
     "wof:placetype":"locality",

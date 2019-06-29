@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":40.701839,
-    "geom:area_square_m":502734587165.396606,
+    "geom:area_square_m":502734587165.396729,
     "geom:bbox":"22.2899369654,-2.11087859447,31.2804468183,5.37528025318",
     "geom:latitude":2.091414,
     "geom:longitude":26.355681,
@@ -34,14 +34,14 @@
     "name:bre_x_preferred":[
         "Provi\u00f1s ar Reter"
     ],
-    "name:chi_x_preferred":[
-        "\u5f00\u8d5b\u7701"
-    ],
     "name:dan_x_preferred":[
         "Orientale Province"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Orientale"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03b9\u03b5\u03bd\u03c4\u03ac\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Eastern Province"
@@ -52,6 +52,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco Orienta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0631\u06cc\u0646\u062a\u0627\u0644"
     ],
     "name:fin_x_preferred":[
         "Orientalen l\u00e4\u00e4ni"
@@ -67,16 +70,8 @@
         "R\u00e9gion du Haut-Za\u00efre",
         "Province de Stanleyville",
         "Province Orientale",
-        "Haut-Congo"
-    ],
-    "name:fre_x_preferred":[
+        "Haut-Congo",
         "Province orientale"
-    ],
-    "name:ger_x_preferred":[
-        "Orientale"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c1\u03b9\u03b5\u03bd\u03c4\u03ac\u03bb\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0abf\u0a8f\u0aa8\u0acd\u0a9f\u0abe\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -114,17 +109,17 @@
     "name:mar_x_preferred":[
         "\u0913\u0930\u093f\u090f\u0902\u091f\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Orientale Province"
     ],
     "name:nld_x_preferred":[
         "Oost Provincie"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_variant":[
         "Orientale"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0631\u06cc\u0646\u062a\u0627\u0644"
+    "name:nob_x_preferred":[
+        "Orientale"
     ],
     "name:pol_x_preferred":[
         "Prowincja Wschodnia"
@@ -138,7 +133,7 @@
     "name:sin_x_preferred":[
         "\u0d94\u0dbb\u0dd2\u0dba\u0dd9\u0db1\u0dca\u0da7\u0dbd\u0dda \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Province orientale"
     ],
     "name:spa_x_preferred":[
@@ -180,6 +175,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e1c\u65b9"
+    ],
+    "name:zho_x_variant":[
+        "\u5f00\u8d5b\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COD",
@@ -292,7 +290,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1553814716,
+    "wof:lastmodified":1561844867,
     "wof:name":"Orientale",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

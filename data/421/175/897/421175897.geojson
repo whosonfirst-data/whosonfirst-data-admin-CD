@@ -20,31 +20,22 @@
     "name:ceb_x_preferred":[
         "Mushie"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u5e0c"
-    ],
-    "name:dut_x_preferred":[
-        "Mushie"
-    ],
     "name:eng_x_preferred":[
         "Mushie"
     ],
     "name:fra_x_preferred":[
         "Mushie"
     ],
-    "name:fre_x_preferred":[
-        "Mushie"
-    ],
     "name:jpn_x_preferred":[
         "\u30df\u30e5\u30b7\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Mushie"
     ],
     "name:por_x_preferred":[
         "Mushie"
     ],
     "name:ron_x_preferred":[
-        "Mushie"
-    ],
-    "name:rum_x_preferred":[
         "Mushie"
     ],
     "name:zho_x_preferred":[
@@ -187,7 +178,7 @@
         }
     ],
     "wof:id":421175897,
-    "wof:lastmodified":1527716345,
+    "wof:lastmodified":1561844943,
     "wof:name":"Mushie",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

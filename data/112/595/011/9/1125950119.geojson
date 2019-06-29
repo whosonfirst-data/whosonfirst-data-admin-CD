@@ -25,14 +25,11 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u0995\u09be\u09ae\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u5361\u99ac"
-    ],
     "name:dan_x_preferred":[
         "Bukama"
     ],
-    "name:dut_x_preferred":[
-        "Bukama"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03ba\u03ac\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bukama"
@@ -40,11 +37,8 @@
     "name:fin_x_preferred":[
         "Bukama"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bukama"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03ba\u03ac\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a95\u0abe\u0aae\u0abe"
@@ -79,7 +73,10 @@
     "name:mar_x_preferred":[
         "\u092c\u0941\u0915\u093e\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Bukama"
+    ],
+    "name:nld_x_preferred":[
         "Bukama"
     ],
     "name:nob_x_preferred":[
@@ -91,7 +88,7 @@
     "name:por_x_preferred":[
         "Bukama"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bukama"
     ],
     "name:rus_x_preferred":[
@@ -126,6 +123,9 @@
     ],
     "name:vie_x_preferred":[
         "Bukama"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5361\u99ac"
     ],
     "qs_pg:aaroncc":"CD",
     "qs_pg:gn_country":"CD",
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1125950119,
-    "wof:lastmodified":1553816652,
+    "wof:lastmodified":1561844944,
     "wof:name":"Bukama",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

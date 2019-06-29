@@ -29,17 +29,14 @@
     "name:ceb_x_preferred":[
         "Kikwit"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u594e\u7279"
-    ],
     "name:dan_x_preferred":[
         "Kikwit"
     ],
     "name:deu_x_preferred":[
         "Kikwit"
     ],
-    "name:dut_x_preferred":[
-        "Kikwit"
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03ba\u03b3\u03bf\u03c5\u03af\u03c4"
     ],
     "name:eng_x_preferred":[
         "Kikwit"
@@ -55,18 +52,6 @@
     ],
     "name:fra_x_preferred":[
         "Kikwit"
-    ],
-    "name:fre_x_preferred":[
-        "Kikwit"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10d9\u10d5\u10d8\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Kikwit"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03ba\u03b3\u03bf\u03c5\u03af\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0a95\u0ab5\u0abf\u0a9f"
@@ -95,6 +80,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cbf\u0c95\u0ccd\u0cb5\u0cbf\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10d9\u10d5\u10d8\u10e2\u10d8"
+    ],
     "name:kon_x_preferred":[
         "Kikwit"
     ],
@@ -113,7 +101,7 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u0915\u0935\u093f\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kikwit"
     ],
     "name:nld_x_preferred":[
@@ -129,9 +117,6 @@
         "Kikwit"
     ],
     "name:ron_x_preferred":[
-        "Kikwit"
-    ],
-    "name:rum_x_preferred":[
         "Kikwit"
     ],
     "name:rus_x_preferred":[
@@ -328,7 +313,7 @@
         }
     ],
     "wof:id":421195155,
-    "wof:lastmodified":1527716122,
+    "wof:lastmodified":1561844942,
     "wof:name":"Kikwit",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

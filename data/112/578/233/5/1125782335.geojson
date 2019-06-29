@@ -22,20 +22,11 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0627\u0644\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5df4\u6d1b"
-    ],
-    "name:dut_x_preferred":[
-        "Kabalo"
-    ],
     "name:eng_x_preferred":[
         "Kabalo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kabalo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10d1\u10d0\u10da\u10dd"
     ],
     "name:ita_x_preferred":[
         "Kabalo"
@@ -43,10 +34,16 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30d0\u30ed"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10d1\u10d0\u10da\u10dd"
+    ],
+    "name:nld_x_preferred":[
+        "Kabalo"
+    ],
     "name:por_x_preferred":[
         "Kabalo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kabalo"
     ],
     "name:rus_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d0\u10d1\u10d0\u10da\u10dd"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5df4\u6d1b"
     ],
     "qs_pg:aaroncc":"CD",
     "qs_pg:gn_country":"CD",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1125782335,
-    "wof:lastmodified":1534379249,
+    "wof:lastmodified":1561844945,
     "wof:name":"Kabalo",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

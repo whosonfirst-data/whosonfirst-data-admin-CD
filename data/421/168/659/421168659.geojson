@@ -17,7 +17,7 @@
     "name:ceb_x_preferred":[
         "Lusambo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lusambo"
     ],
     "name:eng_x_preferred":[
@@ -26,25 +26,19 @@
     "name:fra_x_preferred":[
         "Lusambo"
     ],
-    "name:fre_x_preferred":[
-        "Lusambo"
-    ],
-    "name:ger_x_preferred":[
-        "Lusambo"
-    ],
     "name:ita_x_preferred":[
         "Lusambo"
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30b5\u30f3\u30dc"
     ],
+    "name:nld_x_preferred":[
+        "Lusambo"
+    ],
     "name:por_x_preferred":[
         "Lusambo"
     ],
     "name:ron_x_preferred":[
-        "Lusambo"
-    ],
-    "name:rum_x_preferred":[
         "Lusambo"
     ],
     "name:rus_x_preferred":[
@@ -197,7 +191,7 @@
         }
     ],
     "wof:id":421168659,
-    "wof:lastmodified":1527716093,
+    "wof:lastmodified":1561844941,
     "wof:name":"Lusambo",
     "wof:parent_id":85670011,
     "wof:placetype":"locality",

@@ -22,19 +22,16 @@
     "name:cat_x_preferred":[
         "Sake"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u51f1"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sake"
     ],
     "name:eng_x_preferred":[
         "Sake"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sake"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Sake"
     ],
     "name:oci_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Sake"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u51f1"
     ],
     "qs_pg:aaroncc":"CD",
     "qs_pg:gn_country":"CD",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1125897681,
-    "wof:lastmodified":1553816610,
+    "wof:lastmodified":1561844944,
     "wof:name":"Sake",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

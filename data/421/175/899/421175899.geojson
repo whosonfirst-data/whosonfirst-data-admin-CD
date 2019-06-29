@@ -26,8 +26,8 @@
     "name:dan_x_preferred":[
         "Libenge"
     ],
-    "name:dut_x_preferred":[
-        "Libenge"
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bc\u03c0\u03ad\u03bd\u03c4\u03b6\u03b5"
     ],
     "name:eng_x_preferred":[
         "Libenge"
@@ -37,12 +37,6 @@
     ],
     "name:fra_x_preferred":[
         "Libenge"
-    ],
-    "name:fre_x_preferred":[
-        "Libenge"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03bc\u03c0\u03ad\u03bd\u03c4\u03b6\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0a9d\u0ac7\u0a82\u0a9c"
@@ -77,7 +71,10 @@
     "name:mar_x_preferred":[
         "\u0932\u0940\u092c\u0947\u0902\u0917\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Libenge"
+    ],
+    "name:nld_x_preferred":[
         "Libenge"
     ],
     "name:nob_x_preferred":[
@@ -90,9 +87,6 @@
         "Libenge"
     ],
     "name:ron_x_preferred":[
-        "Libenge"
-    ],
-    "name:rum_x_preferred":[
         "Libenge"
     ],
     "name:rus_x_preferred":[
@@ -265,7 +259,7 @@
         }
     ],
     "wof:id":421175899,
-    "wof:lastmodified":1527716345,
+    "wof:lastmodified":1561844943,
     "wof:name":"Libenge",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",
