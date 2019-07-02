@@ -16,19 +16,13 @@
     "lbl:longitude":18.615029,
     "mz:hierarchy_label":1,
     "mz:is_current":0,
-    "name:chi_x_preferred":[
-        "\u677e\u6208"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zongo"
     ],
     "name:eng_x_preferred":[
         "Zongo"
     ],
-    "name:fre_x_preferred":[
-        "Zongo"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zongo"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +30,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30be\u30f3\u30b4"
+    ],
+    "name:nld_x_preferred":[
+        "Zongo"
     ],
     "name:nob_x_preferred":[
         "Zongo"
@@ -46,7 +43,7 @@
     "name:por_x_preferred":[
         "Zongo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zongo"
     ],
     "name:sco_x_preferred":[
@@ -57,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Zongo"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u6208"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -177,7 +177,7 @@
         }
     ],
     "wof:id":1141907603,
-    "wof:lastmodified":1534379250,
+    "wof:lastmodified":1561844988,
     "wof:name":"Zongo",
     "wof:parent_id":1091679589,
     "wof:placetype":"locality",

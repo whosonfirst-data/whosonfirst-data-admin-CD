@@ -32,17 +32,14 @@
     "name:ceb_x_preferred":[
         "Likasi"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u5361\u897f"
-    ],
     "name:dan_x_preferred":[
         "Likasi"
     ],
     "name:deu_x_preferred":[
         "Likasi"
     ],
-    "name:dut_x_preferred":[
-        "Likasi"
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03ba\u03ac\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Likasi"
@@ -64,18 +61,6 @@
     ],
     "name:fra_x_variant":[
         "Jadotsville"
-    ],
-    "name:fre_x_preferred":[
-        "Likasi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10d9\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Likasi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03ba\u03ac\u03c3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0a95\u0abe\u0ab8\u0ac0"
@@ -104,6 +89,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cc8\u0c95\u0cbe\u0cb8\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10d9\u10d0\u10e1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9ac\uce74\uc2dc"
     ],
@@ -119,7 +107,7 @@
     "name:mar_x_preferred":[
         "\u0932\u093f\u0915\u093e\u0938\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Likasi"
     ],
     "name:nld_x_preferred":[
@@ -144,9 +132,6 @@
         "Likasi"
     ],
     "name:ron_x_preferred":[
-        "Likasi"
-    ],
-    "name:rum_x_preferred":[
         "Likasi"
     ],
     "name:rus_x_preferred":[
@@ -340,7 +325,7 @@
         }
     ],
     "wof:id":421179973,
-    "wof:lastmodified":1527717716,
+    "wof:lastmodified":1561844943,
     "wof:name":"Likasi",
     "wof:parent_id":85670015,
     "wof:placetype":"locality",

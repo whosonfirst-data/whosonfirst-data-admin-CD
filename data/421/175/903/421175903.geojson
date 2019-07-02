@@ -23,13 +23,7 @@
     "name:ceb_x_preferred":[
         "Inongo"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u8fb2\u6208"
-    ],
     "name:deu_x_preferred":[
-        "Inongo"
-    ],
-    "name:dut_x_preferred":[
         "Inongo"
     ],
     "name:eng_x_preferred":[
@@ -39,15 +33,6 @@
         "Inongo"
     ],
     "name:fra_x_preferred":[
-        "Inongo"
-    ],
-    "name:fre_x_preferred":[
-        "Inongo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10dc\u10dd\u10dc\u10d2\u10dd"
-    ],
-    "name:ger_x_preferred":[
         "Inongo"
     ],
     "name:hrv_x_preferred":[
@@ -62,6 +47,9 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30ce\u30f3\u30b4"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10dc\u10dd\u10dc\u10d2\u10dd"
+    ],
     "name:nld_x_preferred":[
         "Inongo"
     ],
@@ -72,9 +60,6 @@
         "Inongo"
     ],
     "name:ron_x_preferred":[
-        "Inongo"
-    ],
-    "name:rum_x_preferred":[
         "Inongo"
     ],
     "name:rus_x_preferred":[
@@ -229,7 +214,7 @@
         }
     ],
     "wof:id":421175903,
-    "wof:lastmodified":1527716341,
+    "wof:lastmodified":1561844943,
     "wof:name":"Inongo",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

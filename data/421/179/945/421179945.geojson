@@ -23,17 +23,14 @@
     "name:ceb_x_preferred":[
         "Uvira"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u7dad\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Uvira"
     ],
     "name:deu_x_preferred":[
         "Uvira"
     ],
-    "name:dut_x_preferred":[
-        "Uvira"
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b2\u03af\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Uvira"
@@ -41,23 +38,14 @@
     "name:epo_x_preferred":[
         "Uvira"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0627\u06cc\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Uvira"
     ],
     "name:fra_x_preferred":[
         "Uvira"
-    ],
-    "name:fre_x_preferred":[
-        "Uvira"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10d5\u10d8\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Uvira"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03b2\u03af\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0ab5\u0abf\u0ab0\u0abe"
@@ -80,6 +68,9 @@
     "name:kan_x_preferred":[
         "\u0c89\u0cb5\u0cc8\u0cb0\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d5\u10d8\u10e0\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\uc6b0\ube44\ub77c"
     ],
@@ -92,7 +83,7 @@
     "name:mar_x_preferred":[
         "\u0909\u0935\u0940\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Uvira"
     ],
     "name:nld_x_preferred":[
@@ -104,9 +95,6 @@
     "name:nor_x_preferred":[
         "Uvira"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0627\u06cc\u0631\u0627"
-    ],
     "name:pol_x_preferred":[
         "Uvira"
     ],
@@ -114,9 +102,6 @@
         "Uvira"
     ],
     "name:ron_x_preferred":[
-        "Uvira"
-    ],
-    "name:rum_x_preferred":[
         "Uvira"
     ],
     "name:rus_x_preferred":[
@@ -301,7 +286,7 @@
         }
     ],
     "wof:id":421179945,
-    "wof:lastmodified":1527717716,
+    "wof:lastmodified":1561844943,
     "wof:name":"Uvira",
     "wof:parent_id":85670003,
     "wof:placetype":"locality",

@@ -20,14 +20,11 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b8\u09cb\u09be\u0999\u09cd\u0995\u09c1\u09b8\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u6851\u5eab\u8607"
-    ],
     "name:dan_x_preferred":[
         "Basankusu"
     ],
-    "name:dut_x_preferred":[
-        "Basankusu"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c3\u03b1\u03bd\u03ba\u03bf\u03cd\u03c3\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Basankusu"
@@ -35,11 +32,8 @@
     "name:fin_x_preferred":[
         "Basankusu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Basankusu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c3\u03b1\u03bd\u03ba\u03bf\u03cd\u03c3\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0ab8\u0a82\u0a95\u0ac2\u0ab8\u0ac1"
@@ -71,7 +65,10 @@
     "name:mar_x_preferred":[
         "\u092c\u0947\u0938\u0902\u0915\u0941\u0938\u0941"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Basankusu"
+    ],
+    "name:nld_x_preferred":[
         "Basankusu"
     ],
     "name:nob_x_preferred":[
@@ -83,7 +80,7 @@
     "name:por_x_preferred":[
         "Basankusu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Basankusu"
     ],
     "name:rus_x_preferred":[
@@ -118,6 +115,9 @@
     ],
     "name:vie_x_preferred":[
         "Basankusu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u6851\u5eab\u8607"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -238,7 +238,7 @@
         }
     ],
     "wof:id":1141907611,
-    "wof:lastmodified":1513926437,
+    "wof:lastmodified":1561844988,
     "wof:name":"Basankusu",
     "wof:parent_id":1091679539,
     "wof:placetype":"locality",

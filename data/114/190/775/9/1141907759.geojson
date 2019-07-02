@@ -23,13 +23,13 @@
     "name:eng_x_preferred":[
         "Nyunzu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nyunzu"
     ],
     "name:por_x_preferred":[
         "Nyunzu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Nyunzu"
     ],
     "name:swe_x_preferred":[
@@ -154,7 +154,7 @@
         }
     ],
     "wof:id":1141907759,
-    "wof:lastmodified":1513926518,
+    "wof:lastmodified":1561844988,
     "wof:name":"Nyunzu",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

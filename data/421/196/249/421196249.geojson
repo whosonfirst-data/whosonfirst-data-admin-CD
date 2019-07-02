@@ -17,13 +17,7 @@
     "name:ceb_x_preferred":[
         "Zongo"
     ],
-    "name:chi_x_preferred":[
-        "\u677e\u6208"
-    ],
     "name:deu_x_preferred":[
-        "Zongo"
-    ],
-    "name:dut_x_preferred":[
         "Zongo"
     ],
     "name:eng_x_preferred":[
@@ -32,17 +26,14 @@
     "name:fra_x_preferred":[
         "Zongo"
     ],
-    "name:fre_x_preferred":[
-        "Zongo"
-    ],
-    "name:ger_x_preferred":[
-        "Zongo"
-    ],
     "name:ita_x_preferred":[
         "Zongo"
     ],
     "name:jpn_x_preferred":[
         "\u30be\u30f3\u30b4"
+    ],
+    "name:nld_x_preferred":[
+        "Zongo"
     ],
     "name:nob_x_preferred":[
         "Zongo"
@@ -57,9 +48,6 @@
         "Zongo"
     ],
     "name:ron_x_preferred":[
-        "Zongo"
-    ],
-    "name:rum_x_preferred":[
         "Zongo"
     ],
     "name:sco_x_preferred":[
@@ -214,7 +202,7 @@
         }
     ],
     "wof:id":421196249,
-    "wof:lastmodified":1534379249,
+    "wof:lastmodified":1561844943,
     "wof:name":"Zongo",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

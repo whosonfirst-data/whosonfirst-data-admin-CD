@@ -17,7 +17,7 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u063a\u0627"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Binga"
     ],
     "name:eng_x_preferred":[
@@ -26,17 +26,17 @@
     "name:epo_x_preferred":[
         "Binga"
     ],
-    "name:fre_x_preferred":[
-        "Binga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10dc\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Binga"
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30f3\u30ac"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10dc\u10d2\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Binga"
     ],
     "name:nob_x_preferred":[
         "Binga"
@@ -44,7 +44,7 @@
     "name:por_x_preferred":[
         "Binga"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Binga"
     ],
     "name:rus_x_preferred":[
@@ -172,7 +172,7 @@
         }
     ],
     "wof:id":1141907609,
-    "wof:lastmodified":1553816736,
+    "wof:lastmodified":1561844988,
     "wof:name":"Binga",
     "wof:parent_id":1091679647,
     "wof:placetype":"locality",

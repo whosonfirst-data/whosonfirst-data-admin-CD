@@ -23,13 +23,7 @@
     "name:ceb_x_preferred":[
         "Luebo"
     ],
-    "name:chi_x_preferred":[
-        "\u9b6f\u8036\u6ce2"
-    ],
     "name:deu_x_preferred":[
-        "Luebo"
-    ],
-    "name:dut_x_preferred":[
         "Luebo"
     ],
     "name:eng_x_preferred":[
@@ -37,15 +31,6 @@
     ],
     "name:fra_x_preferred":[
         "Lwebo"
-    ],
-    "name:fre_x_preferred":[
-        "Lwebo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10e3\u10d4\u10d1\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Luebo"
     ],
     "name:hrv_x_preferred":[
         "Luebo"
@@ -58,6 +43,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30a8\u30dc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10e3\u10d4\u10d1\u10dd"
     ],
     "name:kor_x_preferred":[
         "\ub8e8\uc5d0\ubcf4"
@@ -72,9 +60,6 @@
         "Luebo"
     ],
     "name:ron_x_preferred":[
-        "Luebo"
-    ],
-    "name:rum_x_preferred":[
         "Luebo"
     ],
     "name:rus_x_preferred":[
@@ -232,7 +217,7 @@
         }
     ],
     "wof:id":421205143,
-    "wof:lastmodified":1527716218,
+    "wof:lastmodified":1561844942,
     "wof:name":"Luebo",
     "wof:parent_id":85669989,
     "wof:placetype":"locality",

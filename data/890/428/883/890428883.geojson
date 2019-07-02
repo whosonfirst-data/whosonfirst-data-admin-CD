@@ -22,14 +22,11 @@
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09be\u099c\u0995\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u7518\u9054\u5409\u5361"
-    ],
     "name:dan_x_preferred":[
         "Gandajika"
     ],
-    "name:dut_x_preferred":[
-        "Gandajika"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03bd\u03c4\u03b1\u03c4\u03b6\u03af\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Gandajika"
@@ -40,11 +37,8 @@
     "name:fin_x_preferred":[
         "Gandajika"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ngandajika"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b1\u03bd\u03c4\u03b1\u03c4\u03b6\u03af\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abe\u0a82\u0aa1\u0abe\u0a9c\u0abf\u0a95\u0abe"
@@ -79,7 +73,10 @@
     "name:mar_x_preferred":[
         "\u0917\u0902\u0927\u091c\u0940\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Gandajika"
+    ],
+    "name:nld_x_preferred":[
         "Gandajika"
     ],
     "name:nob_x_preferred":[
@@ -91,7 +88,7 @@
     "name:por_x_preferred":[
         "Gandajika"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gandajika"
     ],
     "name:rus_x_preferred":[
@@ -123,6 +120,9 @@
     ],
     "name:vie_x_preferred":[
         "Gandajika"
+    ],
+    "name:zho_x_preferred":[
+        "\u7518\u9054\u5409\u5361"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -249,7 +249,7 @@
         }
     ],
     "wof:id":890428883,
-    "wof:lastmodified":1527782117,
+    "wof:lastmodified":1561844944,
     "wof:name":"Gandajika",
     "wof:parent_id":85670011,
     "wof:placetype":"locality",

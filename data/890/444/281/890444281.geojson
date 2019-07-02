@@ -22,14 +22,11 @@
     "name:ben_x_preferred":[
         "\u099f\u09bf\u09b6\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5207\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Tshela"
     ],
-    "name:dut_x_preferred":[
-        "Tshela"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03ad\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Tshela"
@@ -37,11 +34,8 @@
     "name:fin_x_preferred":[
         "Tshela"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tshela"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03ad\u03bb\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0ac7\u0ab2\u0abe"
@@ -76,7 +70,10 @@
     "name:mar_x_preferred":[
         "\u0924\u094d\u0939\u0947\u0932\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Tshela"
+    ],
+    "name:nld_x_preferred":[
         "Tshela"
     ],
     "name:nob_x_preferred":[
@@ -88,7 +85,7 @@
     "name:por_x_preferred":[
         "Tshela"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tshela"
     ],
     "name:rus_x_preferred":[
@@ -123,6 +120,9 @@
     ],
     "name:vie_x_preferred":[
         "Tshela"
+    ],
+    "name:zho_x_preferred":[
+        "\u5207\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -247,7 +247,7 @@
         }
     ],
     "wof:id":890444281,
-    "wof:lastmodified":1527782130,
+    "wof:lastmodified":1561844944,
     "wof:name":"Tshela",
     "wof:parent_id":85669993,
     "wof:placetype":"locality",

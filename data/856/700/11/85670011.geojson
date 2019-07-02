@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.765346,
-    "geom:area_square_m":169612225310.859985,
+    "geom:area_square_m":169612225310.860321,
     "geom:bbox":"21.8990564308,-7.93811980578,26.2694356631,-1.74619801173",
     "geom:latitude":-4.545104,
     "geom:longitude":23.945124,
@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Kasa\u00ef-Oriental"
     ],
-    "name:chi_x_preferred":[
-        "\u4e1c\u5f00\u8d5b\u7701"
-    ],
     "name:dan_x_preferred":[
         "Kasa\u00ef Oriental"
     ],
-    "name:dut_x_preferred":[
-        "Oost-Kasa\u00ef"
+    "name:deu_x_preferred":[
+        "Kasa\u00ef-Oriental"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c3\u03ac\u03b9-\u039f\u03c1\u03b9\u03b5\u03bd\u03c4\u03ac\u03bb"
     ],
     "name:eng_x_preferred":[
         "Kasa\u00ef-Occidental Province"
@@ -64,14 +64,8 @@
     "name:fra_x_preferred":[
         "Kasai-Oriental"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Kasa\u00ef-Oriental"
-    ],
-    "name:ger_x_preferred":[
-        "Kasa\u00ef-Oriental"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c3\u03ac\u03b9-\u039f\u03c1\u03b9\u03b5\u03bd\u03c4\u03ac\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab8\u0abe\u0a88-\u0a93\u0ab0\u0abf\u0a8f\u0aa8\u0acd\u0a9f\u0ab2"
@@ -109,8 +103,11 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0938\u093e\u0908-\u0913\u0930\u093f\u090f\u0902\u091f\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kasai-Oriental"
+    ],
+    "name:nld_x_preferred":[
+        "Oost-Kasa\u00ef"
     ],
     "name:nob_x_preferred":[
         "Kasa\u00ef-Oriental"
@@ -130,7 +127,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dcf\u0dc3\u0dd2 -\u0d94\u0dbb\u0dd2\u0dba\u0db1\u0dca\u0da7\u0dbd\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kasa\u00ef-Oriental"
     ],
     "name:spa_x_preferred":[
@@ -165,6 +162,9 @@
     ],
     "name:vie_x_preferred":[
         "Kasai-Oriental"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u5f00\u8d5b\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COD",
@@ -277,7 +277,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1553814717,
+    "wof:lastmodified":1561844867,
     "wof:name":"Kasa\u00ef-Oriental",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

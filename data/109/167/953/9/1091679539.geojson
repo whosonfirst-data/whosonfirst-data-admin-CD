@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.234907,
-    "geom:area_square_m":101810211116.157654,
+    "geom:area_square_m":101810211116.155945,
     "geom:bbox":"16.5039998396,-2.00126634951,20.7147992402,2.12635596043",
     "geom:latitude":0.231318,
     "geom:longitude":18.918523,
@@ -42,8 +42,11 @@
     "name:dan_x_preferred":[
         "\u00c9quateur"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u00c9quateur"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03ba\u03bf\u03c5\u03b1\u03c4\u03cc\u03c1"
     ],
     "name:eng_x_preferred":[
         "\u00c9quateur"
@@ -58,17 +61,8 @@
     "name:fin_x_preferred":[
         "\u00c9quateur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00c9quateur"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10d9\u10d5\u10d0\u10e2\u10dd\u10e0\u10d8\u10d0\u10da\u10e3\u10e0\u10d8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "\u00c9quateur"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03ba\u03bf\u03c5\u03b1\u03c4\u03cc\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a95\u0acd\u0ab5\u0abe\u0a9f\u0ac7\u0aaf\u0ab0"
@@ -91,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0c95\u0ccd\u0cb5\u0c9a\u0cc1\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d9\u10d5\u10d0\u10e2\u10dd\u10e0\u10d8\u10d0\u10da\u10e3\u10e0\u10d8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kon_x_preferred":[
         "Ekwatelo"
     ],
@@ -106,8 +103,11 @@
     "name:mar_x_preferred":[
         "\u090f\u0915\u094d\u0935\u093e\u0924\u0947\u0935\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Equateur"
+    ],
+    "name:nld_x_preferred":[
+        "\u00c9quateur"
     ],
     "name:nob_x_preferred":[
         "\u00c9quateur"
@@ -118,7 +118,7 @@
     "name:por_x_preferred":[
         "\u00c9quateur"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia \u00c9quateur"
     ],
     "name:rus_x_preferred":[
@@ -186,7 +186,7 @@
         }
     ],
     "wof:id":1091679539,
-    "wof:lastmodified":1553816436,
+    "wof:lastmodified":1561844930,
     "wof:name":"Equateur",
     "wof:parent_id":85669975,
     "wof:placetype":"county",
