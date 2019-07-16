@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Kwilu"
     ],
+    "name:ceb_x_preferred":[
+        "Kwilu"
+    ],
     "name:deu_x_preferred":[
         "Kwilu"
     ],
@@ -41,7 +44,7 @@
     ],
     "name:eng_x_variant":[
         "Kwilu",
-        "Kwilu"
+        "Kwilu District"
     ],
     "name:epo_x_preferred":[
         "Provinco Kvilo"
@@ -52,8 +55,17 @@
     "name:fra_x_preferred":[
         "Kwilu"
     ],
+    "name:frr_x_preferred":[
+        "Kwilu"
+    ],
     "name:hun_x_preferred":[
         "Kwilu tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u057e\u056b\u056c\u0578\u0582"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Kwilu"
     ],
     "name:ita_x_preferred":[
         "Provincia di Kwilu"
@@ -69,6 +81,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud03c\ub8e8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud03c\ub8e8\uc8fc"
     ],
     "name:nld_x_preferred":[
         "Kwilu"
@@ -103,6 +118,12 @@
     "name:wln_x_preferred":[
         "Province do Kwilou"
     ],
+    "name:wuu_x_preferred":[
+        "\u594e\u5362\u7701"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10d5\u10d8\u10da\u10e3\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:zho_x_preferred":[
         "\u594e\u5362\u7701"
     ],
@@ -129,7 +150,7 @@
         }
     ],
     "wof:id":1091679385,
-    "wof:lastmodified":1561844930,
+    "wof:lastmodified":1563295413,
     "wof:name":"Kwilu",
     "wof:parent_id":85669985,
     "wof:placetype":"county",

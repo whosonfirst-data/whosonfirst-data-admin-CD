@@ -26,6 +26,9 @@
     "name:fra_x_preferred":[
         "Lusambo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05dc\u05d5\u05e1\u05de\u05d1\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Lusambo"
     ],
@@ -48,6 +51,9 @@
         "Lusambo"
     ],
     "name:swe_x_preferred":[
+        "Lusambo"
+    ],
+    "name:tgl_x_preferred":[
         "Lusambo"
     ],
     "name:unk_x_variant":[
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":421168659,
-    "wof:lastmodified":1561844941,
+    "wof:lastmodified":1563295645,
     "wof:name":"Lusambo",
     "wof:parent_id":85670011,
     "wof:placetype":"locality",

@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u041e \u041b\u043e\u043c\u0430\u043c\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Haut Lomami"
+    ],
     "name:deu_x_preferred":[
         "Haut-Lomami"
     ],
@@ -38,7 +41,7 @@
     ],
     "name:eng_x_variant":[
         "Haut-Lomami",
-        "Haut-Lomami"
+        "Haut-Lomami District"
     ],
     "name:epo_x_preferred":[
         "Provinco Supra Lomamo"
@@ -49,11 +52,17 @@
     "name:fra_x_preferred":[
         "Haut-Lomami"
     ],
+    "name:frr_x_preferred":[
+        "Haut-Lomami"
+    ],
     "name:hun_x_preferred":[
         "Fels\u0151-Lomami tartom\u00e1ny"
     ],
     "name:hye_x_preferred":[
         "\u054e\u0565\u0580\u056b\u0576 \u053c\u0578\u0574\u0561\u0574\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Haut-Lomami"
     ],
     "name:ita_x_preferred":[
         "Provincia dell'Alto Lomami"
@@ -69,6 +78,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\ud2b8\ub85c\ub9c8\ubbf8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\ud2b8\ub85c\ub9c8\ubbf8\uc8fc"
     ],
     "name:nld_x_preferred":[
         "Haut-Lomami"
@@ -106,6 +118,9 @@
     "name:wln_x_preferred":[
         "Province do H\u00f4t Lomami"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e0a\u6d1b\u9a6c\u7c73\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u4e0a\u6d1b\u9a6c\u7c73\u7701"
     ],
@@ -132,7 +147,7 @@
         }
     ],
     "wof:id":1091680277,
-    "wof:lastmodified":1561844930,
+    "wof:lastmodified":1563295409,
     "wof:name":"Haut-Lomami",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

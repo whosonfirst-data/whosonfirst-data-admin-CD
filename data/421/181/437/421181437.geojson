@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0646\u064a\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0646\u06cc\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09a8\u09bf\u09af\u09bc\u09be"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:epo_x_preferred":[
         "Bunia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0646\u06cc\u0627"
     ],
     "name:fin_x_preferred":[
         "Bunia"
@@ -125,11 +131,17 @@
     "name:swe_x_preferred":[
         "Bunia"
     ],
+    "name:szl_x_preferred":[
+        "Bunia"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0ba9\u0bbf\u0baf\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c41\u0c28\u0c3f\u0c2f"
+    ],
+    "name:tgl_x_preferred":[
+        "Bunia"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e39\u0e40\u0e19\u0e35\u0e22"
@@ -148,6 +160,9 @@
     ],
     "name:war_x_preferred":[
         "Bunia"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10e3\u10dc\u10d8\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5c3c\u4e9e"
@@ -290,7 +305,7 @@
         }
     ],
     "wof:id":421181437,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1563295660,
     "wof:name":"Bunia",
     "wof:parent_id":85669979,
     "wof:placetype":"locality",

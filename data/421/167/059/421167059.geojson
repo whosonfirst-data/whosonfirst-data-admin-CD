@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09b8\u09be\u09b2\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Lisala"
+    ],
     "name:ceb_x_preferred":[
         "Lisala"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0ab8\u0abe\u0ab2\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e1\u05d0\u05dc\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0932\u093f\u0938\u093e\u0932\u093e"
@@ -122,6 +128,9 @@
     "name:spa_x_preferred":[
         "Lisala"
     ],
+    "name:swa_x_preferred":[
+        "Lisala"
+    ],
     "name:swe_x_preferred":[
         "Lisala"
     ],
@@ -130,6 +139,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c40\u0c38\u0c3e\u0c32"
+    ],
+    "name:tgl_x_preferred":[
+        "Lisala"
     ],
     "name:tha_x_preferred":[
         "\u0e25\u0e34\u0e0b\u0e32\u0e25\u0e2d\u0e07"
@@ -298,7 +310,7 @@
         }
     ],
     "wof:id":421167059,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1563295656,
     "wof:name":"Lisala",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0645\u0628\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u062a\u0645\u0628\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09a4\u09c7\u09ae\u09cd\u09ac"
     ],
@@ -113,6 +116,9 @@
     "name:spa_x_preferred":[
         "Butembo"
     ],
+    "name:swa_x_preferred":[
+        "Butembo"
+    ],
     "name:swe_x_preferred":[
         "Butembo"
     ],
@@ -121,6 +127,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c41\u0c1f\u0c02\u0c2c\u0c4b"
+    ],
+    "name:tgl_x_preferred":[
+        "Butembo"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e39\u0e40\u0e17\u0e21\u0e42\u0e1a"
@@ -283,7 +292,7 @@
         }
     ],
     "wof:id":421168665,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1563295648,
     "wof:name":"Butembo",
     "wof:parent_id":85670021,
     "wof:placetype":"locality",

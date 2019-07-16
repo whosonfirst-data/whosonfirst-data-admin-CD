@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0643\u0627\u0628\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0634\u06cc\u06a9\u0627\u067e\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u0995\u09be\u09aa\u09be"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:epo_x_preferred":[
         "Tshikapa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0634\u06cc\u06a9\u0627\u067e\u0627"
     ],
     "name:fin_x_preferred":[
         "Tshikapa"
@@ -116,6 +122,9 @@
     "name:srp_x_preferred":[
         "\u0427\u0438\u043a\u0430\u043f\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Tshikapa"
+    ],
     "name:swe_x_preferred":[
         "Tshikapa"
     ],
@@ -124,6 +133,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c37\u0c3f\u0c15\u0c2a"
+    ],
+    "name:tgl_x_preferred":[
+        "Tshikapa"
     ],
     "name:tha_x_preferred":[
         "\u0e17\u0e0a\u0e34\u0e04\u0e32\u0e1b\u0e32"
@@ -145,6 +157,9 @@
     ],
     "name:war_x_preferred":[
         "Tshikapa"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e9\u10d8\u10d9\u10d0\u10de\u10d0"
     ],
     "name:zho_x_preferred":[
         "\u5947\u5361\u5e15"
@@ -287,7 +302,7 @@
         }
     ],
     "wof:id":421181995,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1563295661,
     "wof:name":"Tshikapa",
     "wof:parent_id":85669989,
     "wof:placetype":"locality",

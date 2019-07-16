@@ -50,6 +50,9 @@
     "name:ron_x_preferred":[
         "Zongo"
     ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043d\u0433\u043e"
+    ],
     "name:sco_x_preferred":[
         "Zongo"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:zho_x_preferred":[
         "\u677e\u6208"
+    ],
+    "name:zho_x_variant":[
+        "\u76e7\u672c\u5df4\u5e0c"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -202,7 +208,7 @@
         }
     ],
     "wof:id":421196249,
-    "wof:lastmodified":1561844943,
+    "wof:lastmodified":1563295666,
     "wof:name":"Zongo",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

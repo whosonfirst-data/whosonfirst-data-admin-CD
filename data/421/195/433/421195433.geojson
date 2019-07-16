@@ -20,6 +20,12 @@
     "name:nld_x_preferred":[
         "Wamba"
     ],
+    "name:spa_x_preferred":[
+        "Wamba"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u594e\u7279"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":421195433,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1563295653,
     "wof:name":"Wamba",
     "wof:parent_id":85669979,
     "wof:placetype":"locality",

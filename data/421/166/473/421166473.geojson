@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.6,-0.8,29.6,-0.8",
     "geom:latitude":-0.8,
     "geom:longitude":29.6,
@@ -14,6 +15,9 @@
     "mz:note":"quattroshapes points import (201603)",
     "name:ces_x_preferred":[
         "Kigezi"
+    ],
+    "name:eng_x_preferred":[
+        "Kigezi District"
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30b2\u30b8"
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":421166473,
-    "wof:lastmodified":1527716105,
+    "wof:lastmodified":1563295652,
     "wof:name":"Kigezi",
     "wof:parent_id":85670021,
     "wof:placetype":"locality",

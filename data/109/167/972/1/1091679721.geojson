@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430 \u0423\u0435\u043b\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Bas Uele"
+    ],
     "name:deu_x_preferred":[
         "Bas-Uele"
     ],
@@ -45,8 +48,14 @@
     "name:fra_x_preferred":[
         "Bas-Uele"
     ],
+    "name:frr_x_preferred":[
+        "Bas-Uele"
+    ],
     "name:hun_x_preferred":[
         "Als\u00f3-Uele tartom\u00e1ny"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Bas-U\u00e9l\u00e9"
     ],
     "name:ita_x_preferred":[
         "Provincia del Basso Uele"
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":1091679721,
-    "wof:lastmodified":1561844932,
+    "wof:lastmodified":1563295428,
     "wof:name":"Bas-Uele",
     "wof:parent_id":85669979,
     "wof:placetype":"county",

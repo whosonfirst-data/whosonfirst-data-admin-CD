@@ -41,6 +41,9 @@
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0ab8\u0acb\u0a95\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05e1\u05d5\u05e7\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0938\u094b\u0915\u094b"
     ],
@@ -262,7 +265,7 @@
         }
     ],
     "wof:id":421180365,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1563295657,
     "wof:name":"Basoko",
     "wof:parent_id":85669979,
     "wof:placetype":"locality",

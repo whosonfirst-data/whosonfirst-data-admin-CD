@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041d\u044e\u043d\u0437\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Nyunzu"
+    ],
     "name:eng_x_preferred":[
         "Nyunzu"
     ],
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":1141907759,
-    "wof:lastmodified":1561844988,
+    "wof:lastmodified":1563297318,
     "wof:name":"Nyunzu",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09be\u099c\u0995\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Gandajika"
+    ],
     "name:dan_x_preferred":[
         "Gandajika"
     ],
@@ -96,6 +99,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d9c\u0db1\u0dca\u0daf\u0da2\u0dd2\u0d9a\u0dcf"
+    ],
+    "name:swa_x_preferred":[
+        "Gandajika"
     ],
     "name:swe_x_preferred":[
         "Gandajika"
@@ -249,7 +255,7 @@
         }
     ],
     "wof:id":890428883,
-    "wof:lastmodified":1561844944,
+    "wof:lastmodified":1563295677,
     "wof:name":"Gandajika",
     "wof:parent_id":85670011,
     "wof:placetype":"locality",

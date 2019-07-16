@@ -47,6 +47,9 @@
     "name:rus_x_preferred":[
         "\u041c\u0432\u0435\u043a\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Mweka"
+    ],
     "name:swe_x_preferred":[
         "Mweka"
     ],
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":421167055,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1563295654,
     "wof:name":"Mweka",
     "wof:parent_id":85669989,
     "wof:placetype":"locality",

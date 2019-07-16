@@ -107,6 +107,9 @@
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c02\u0c2c\u0c4b\u0c35\u0c47"
     ],
+    "name:tgl_x_preferred":[
+        "Kambove"
+    ],
     "name:tha_x_preferred":[
         "\u0e41\u0e01\u0e21\u0e42\u0e1a\u0e25\u0e1f"
     ],
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":421179977,
-    "wof:lastmodified":1561844943,
+    "wof:lastmodified":1563295669,
     "wof:name":"Kambove",
     "wof:parent_id":85670015,
     "wof:placetype":"locality",

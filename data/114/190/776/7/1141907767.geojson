@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u0995\u09be\u09ae\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Bukama"
+    ],
     "name:dan_x_preferred":[
         "Bukama"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4d\u0c2f\u0c41\u0c15\u0c3e\u0c2e\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "Bukama"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e39\u0e01\u0e32\u0e21\u0e48\u0e32"
@@ -241,7 +247,7 @@
         }
     ],
     "wof:id":1141907767,
-    "wof:lastmodified":1561844988,
+    "wof:lastmodified":1563297314,
     "wof:name":"Bukama",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

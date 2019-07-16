@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0628\u0648\u0634\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Kipushi"
+    ],
     "name:deu_x_preferred":[
         "Kipushi"
     ],
@@ -61,7 +64,13 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u043f\u0443\u0448\u0438"
     ],
+    "name:swa_x_preferred":[
+        "Kipushi"
+    ],
     "name:swe_x_preferred":[
+        "Kipushi"
+    ],
+    "name:tgl_x_preferred":[
         "Kipushi"
     ],
     "name:ukr_x_preferred":[
@@ -198,7 +207,7 @@
         }
     ],
     "wof:id":890440071,
-    "wof:lastmodified":1561844944,
+    "wof:lastmodified":1563295672,
     "wof:name":"Kipushi",
     "wof:parent_id":85670015,
     "wof:placetype":"locality",

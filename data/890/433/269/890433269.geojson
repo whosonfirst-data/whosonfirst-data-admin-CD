@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u0434\u0436\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Lodja"
+    ],
     "name:dan_x_preferred":[
         "Lodja"
     ],
@@ -106,10 +109,16 @@
     "name:rus_x_preferred":[
         "\u041b\u043e\u0434\u0436"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u043e\u0434\u0436\u0430"
+    ],
     "name:sin_x_preferred":[
         "\u0dbd\u0ddc\u0da9\u0dca\u0da2\u0dcf"
     ],
     "name:spa_x_preferred":[
+        "Lodja"
+    ],
+    "name:swa_x_preferred":[
         "Lodja"
     ],
     "name:swe_x_preferred":[
@@ -273,7 +282,7 @@
         }
     ],
     "wof:id":890433269,
-    "wof:lastmodified":1561844944,
+    "wof:lastmodified":1563295679,
     "wof:name":"Lodja",
     "wof:parent_id":85670011,
     "wof:placetype":"locality",
