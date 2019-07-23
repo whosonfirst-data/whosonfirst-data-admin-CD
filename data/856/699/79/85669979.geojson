@@ -34,6 +34,12 @@
     "name:bre_x_preferred":[
         "Provi\u00f1s ar Reter"
     ],
+    "name:ceb_x_preferred":[
+        "Orientale Province"
+    ],
+    "name:cym_x_preferred":[
+        "Rhanbarth Orientale"
+    ],
     "name:dan_x_preferred":[
         "Orientale Province"
     ],
@@ -88,14 +94,23 @@
     "name:ita_x_preferred":[
         "Provincia Orientale"
     ],
+    "name:ita_x_variant":[
+        "provincia Orientale"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30ea\u30a8\u30f3\u30bf\u30eb"
+    ],
+    "name:jpn_x_variant":[
+        "\u6771\u90e8\u5dde"
     ],
     "name:kan_x_preferred":[
         "\u0c93\u0cb0\u0cbf\u0caf\u0c82\u0c9f\u0cc7\u0cb2\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
     "name:kor_x_preferred":[
         "\uc624\ub9ac\uc5d4\ud0c8"
+    ],
+    "name:kor_x_variant":[
+        "\ub3d9\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Austrumu province"
@@ -290,7 +305,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1561844867,
+    "wof:lastmodified":1563292700,
     "wof:name":"Orientale",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

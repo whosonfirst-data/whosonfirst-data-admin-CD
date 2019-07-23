@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u0648\u0646\u063a\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Kasongo"
+    ],
     "name:eng_x_preferred":[
         "Kasongo"
     ],
@@ -28,6 +31,9 @@
     "name:fra_x_preferred":[
         "Kasongo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d5\u05e0\u05d2\u05d5"
+    ],
     "name:hun_x_preferred":[
         "Kasongo"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30bd\u30f3\u30b4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e1\u10dd\u10dc\u10d2\u10dd"
     ],
     "name:nld_x_preferred":[
         "Kasongo"
@@ -49,7 +58,13 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u0441\u043e\u043d\u0433\u043e"
     ],
+    "name:swa_x_preferred":[
+        "Kasongo"
+    ],
     "name:swe_x_preferred":[
+        "Kasongo"
+    ],
+    "name:tgl_x_preferred":[
         "Kasongo"
     ],
     "name:ukr_x_preferred":[
@@ -57,6 +72,9 @@
     ],
     "name:unk_x_variant":[
         "Tongoni"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10d0\u10e1\u10dd\u10dc\u10d2\u10dd"
     ],
     "name:zho_x_preferred":[
         "\u5361\u677e\u6208"
@@ -184,7 +202,7 @@
         }
     ],
     "wof:id":890435351,
-    "wof:lastmodified":1561844944,
+    "wof:lastmodified":1563295679,
     "wof:name":"Kasongo",
     "wof:parent_id":85670007,
     "wof:placetype":"locality",

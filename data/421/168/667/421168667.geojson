@@ -137,6 +137,9 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c42\u0c1f\u0c3e"
     ],
+    "name:tgl_x_preferred":[
+        "Buta"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e39\u0e15\u0e27\u0e19"
     ],
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":421168667,
-    "wof:lastmodified":1561844941,
+    "wof:lastmodified":1563295645,
     "wof:name":"Buta",
     "wof:parent_id":85669979,
     "wof:placetype":"locality",

@@ -110,6 +110,9 @@
     "name:sin_x_preferred":[
         "\u0db6\u0db8\u0dca\u0db6\u0dcf"
     ],
+    "name:swa_x_preferred":[
+        "Bumba"
+    ],
     "name:swe_x_preferred":[
         "Bumba"
     ],
@@ -118,6 +121,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c41\u0c2e\u0c4d\u0c2c\u0c3e"
+    ],
+    "name:tgl_x_preferred":[
+        "Bumba"
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e31\u0e21\u0e41\u0e1a\u0e23\u0e4c\u0e01"
@@ -280,7 +286,7 @@
         }
     ],
     "wof:id":421168669,
-    "wof:lastmodified":1561844941,
+    "wof:lastmodified":1563295644,
     "wof:name":"Bumba",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

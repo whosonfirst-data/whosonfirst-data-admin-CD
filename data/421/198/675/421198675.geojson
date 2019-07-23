@@ -101,6 +101,9 @@
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c02\u0c17\u0c4b\u0c32\u0c4b"
     ],
+    "name:tgl_x_preferred":[
+        "Kongolo"
+    ],
     "name:tha_x_preferred":[
         "\u0e04\u0e2d\u0e07\u0e42\u0e01\u0e25\u0e32"
     ],
@@ -260,7 +263,7 @@
         }
     ],
     "wof:id":421198675,
-    "wof:lastmodified":1561844943,
+    "wof:lastmodified":1563295663,
     "wof:name":"Kongolo",
     "wof:parent_id":85670015,
     "wof:placetype":"locality",

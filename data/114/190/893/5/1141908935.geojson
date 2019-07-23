@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0645\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0645\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u043c\u0430"
     ],
@@ -27,6 +30,9 @@
         "\u0411\u043e\u043c\u0430"
     ],
     "name:cat_x_preferred":[
+        "Boma"
+    ],
+    "name:ceb_x_preferred":[
         "Boma"
     ],
     "name:ces_x_preferred":[
@@ -152,6 +158,9 @@
     "name:srp_x_preferred":[
         "\u0411\u043e\u043c\u0430"
     ],
+    "name:swa_x_preferred":[
+        "Boma"
+    ],
     "name:swe_x_preferred":[
         "Boma"
     ],
@@ -163,6 +172,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1a\u0e21\u0e48\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e1a\u0e21\u0e32"
     ],
     "name:tur_x_preferred":[
         "Boma"
@@ -181,6 +193,9 @@
     ],
     "name:war_x_preferred":[
         "Boma"
+    ],
+    "name:wuu_x_preferred":[
+        "\u535a\u9a6c"
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10dd\u10db\u10d0"
@@ -307,7 +322,7 @@
         }
     ],
     "wof:id":1141908935,
-    "wof:lastmodified":1561844988,
+    "wof:lastmodified":1563297313,
     "wof:name":"Boma",
     "wof:parent_id":1091679279,
     "wof:placetype":"locality",

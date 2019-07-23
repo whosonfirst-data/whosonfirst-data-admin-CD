@@ -38,6 +38,9 @@
     "name:ron_x_preferred":[
         "Mushie"
     ],
+    "name:swe_x_preferred":[
+        "Mushie"
+    ],
     "name:zho_x_preferred":[
         "\u7a46\u5e0c"
     ],
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":421175897,
-    "wof:lastmodified":1561844943,
+    "wof:lastmodified":1563295663,
     "wof:name":"Mushie",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

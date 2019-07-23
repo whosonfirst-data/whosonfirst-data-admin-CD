@@ -37,8 +37,17 @@
     "name:cat_x_preferred":[
         "Equador"
     ],
+    "name:cat_x_variant":[
+        "\u00c9quateur"
+    ],
     "name:ceb_x_preferred":[
         "Province de l'\u00c9quateur"
+    ],
+    "name:ces_x_preferred":[
+        "Rovn\u00edkov\u00e1 provincie"
+    ],
+    "name:cym_x_preferred":[
+        "Rhanbarth \u00c9quateur"
     ],
     "name:deu_x_preferred":[
         "\u00c9quateur"
@@ -51,6 +60,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco \u00c9quateur"
+    ],
+    "name:epo_x_variant":[
+        "Provinco Ekvatora"
     ],
     "name:fra_x_preferred":[
         "Equateur"
@@ -256,7 +268,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1561844867,
+    "wof:lastmodified":1563292699,
     "wof:name":"\u00c9quateur",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

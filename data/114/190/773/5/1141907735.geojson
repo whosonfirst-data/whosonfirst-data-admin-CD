@@ -65,6 +65,9 @@
     "name:spa_x_preferred":[
         "Kenge"
     ],
+    "name:swa_x_preferred":[
+        "Kenge"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0435\u043d\u0433\u0435"
     ],
@@ -196,7 +199,7 @@
         }
     ],
     "wof:id":1141907735,
-    "wof:lastmodified":1561844989,
+    "wof:lastmodified":1563297319,
     "wof:name":"Kenge",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

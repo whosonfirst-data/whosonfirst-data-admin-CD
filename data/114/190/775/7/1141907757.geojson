@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09a6\u09c0\u09b2\u09cb\u09b2\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Dilolo"
+    ],
     "name:dan_x_preferred":[
         "Dilolo"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c3f\u0c32\u0c4b\u0c32\u0c4b"
+    ],
+    "name:tgl_x_preferred":[
+        "Dilolo"
     ],
     "name:tha_x_preferred":[
         "\u0e14\u0e34\u0e42\u0e25\u0e42\u0e25"
@@ -241,7 +247,7 @@
         }
     ],
     "wof:id":1141907757,
-    "wof:lastmodified":1561844989,
+    "wof:lastmodified":1563297318,
     "wof:name":"Dilolo",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

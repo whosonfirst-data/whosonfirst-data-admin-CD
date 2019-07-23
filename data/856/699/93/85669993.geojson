@@ -25,18 +25,151 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0648\u0646\u063a\u0648 \u0627\u0644\u0648\u0633\u0637\u0649"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b8-\u0995\u0999\u09cd\u0997\u09cb"
+    ],
+    "name:bre_x_preferred":[
+        "Bas-Congo"
+    ],
+    "name:bul_x_preferred":[
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u043e \u041a\u043e\u043d\u0433\u043e"
+    ],
+    "name:ces_x_preferred":[
+        "Kongo Central"
+    ],
+    "name:cym_x_preferred":[
+        "Rhanbarth Bas-Congo"
+    ],
+    "name:dan_x_preferred":[
+        "Bas-Congo province"
+    ],
+    "name:deu_x_preferred":[
+        "Kongo Central"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c2-\u039a\u03bf\u03bd\u03b3\u03ba\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Bas-Congo Province"
     ],
     "name:eng_x_variant":[
         "Bas-Congo",
-        "Kongo Central"
+        "Kongo Central",
+        "Bas-Congo province"
+    ],
+    "name:est_x_preferred":[
+        "Kesk-Kongo provints"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u06af\u0648 \u0645\u0631\u06a9\u0632\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Keski-Kongo"
     ],
     "name:fra_x_preferred":[
         "Bas-Congo"
     ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0abe\u0ab8-\u0a95\u0acb\u0a82\u0a97\u0acb \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e0\u05d2\u05d5 \u05e1\u05e0\u05d8\u05e8\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e-\u0915\u094b\u0902\u0917\u094b \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Als\u00f3-Kong\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0580\u0584\u056b\u0576 \u053f\u0578\u0576\u0563\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Kongo Central"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30b4\u4e2d\u592e\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cbe\u0cb8\u0ccd-\u0c95\u0cbe\u0c82\u0c97\u0ccb \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ucf69\uace0 \uc8fc"
+    ],
+    "name:lin_x_preferred":[
+        "Bas-Congo"
+    ],
+    "name:lit_x_preferred":[
+        "\u017demutinis Kongas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0938-\u0915\u093e\u0902\u0917\u094b \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u043b\u043d\u043e \u041a\u043e\u043d\u0433\u043e"
+    ],
+    "name:msa_x_preferred":[
+        "Bas-Congo province"
+    ],
+    "name:nld_x_preferred":[
+        "Kongo-Central"
+    ],
+    "name:nob_x_preferred":[
+        "Bas-Congo"
+    ],
+    "name:pol_x_preferred":[
+        "Kongo \u015arodkowe"
+    ],
+    "name:por_x_preferred":[
+        "Congo Central"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0435\u0435 \u041a\u043e\u043d\u0433\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dc3\u0dca-\u0d9a\u0ddc\u0d82\u0d9c\u0ddd \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:slk_x_preferred":[
+        "Bas-Congo"
+    ],
+    "name:spa_x_preferred":[
+        "Bajo Congo"
+    ],
+    "name:swe_x_preferred":[
+        "Kongo-Central"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3e\u0c38\u0c4d-\u0c15\u0c3e\u0c02\u0c17\u0c4b \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e32\u0e2a\u0e04\u0e2d\u0e07\u0e42\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Bas-Congo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0438\u0436\u043d\u0454 \u041a\u043e\u043d\u0433\u043e"
+    ],
     "name:unk_x_variant":[
         "Kongo Centrale"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06cc\u0631\u06cc\u06ba-\u06a9\u0627\u0646\u06af\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Bas-Congo"
+    ],
+    "name:war_x_preferred":[
+        "Kongo Central"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e0b\u521a\u679c\u7701"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u521a\u679c\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COD",
@@ -162,7 +295,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1553550331,
+    "wof:lastmodified":1563292697,
     "wof:name":"Bas-Congo",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

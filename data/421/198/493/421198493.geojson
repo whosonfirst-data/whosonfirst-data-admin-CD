@@ -116,6 +116,9 @@
     "name:spa_x_preferred":[
         "Gemena"
     ],
+    "name:swa_x_preferred":[
+        "Gemena"
+    ],
     "name:swe_x_preferred":[
         "Gemena"
     ],
@@ -124,6 +127,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c46\u0c2e\u0c3f\u0c28"
+    ],
+    "name:tgl_x_preferred":[
+        "Gemena"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e08\u0e40\u0e21\u0e19\u0e32"
@@ -289,7 +295,7 @@
         }
     ],
     "wof:id":421198493,
-    "wof:lastmodified":1561844943,
+    "wof:lastmodified":1563295665,
     "wof:name":"Gemena",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

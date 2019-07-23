@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Lubao"
+    ],
     "name:eng_x_preferred":[
         "Lubao"
     ],
@@ -33,6 +36,9 @@
         "Lubao"
     ],
     "name:swe_x_preferred":[
+        "Lubao"
+    ],
+    "name:tgl_x_preferred":[
         "Lubao"
     ],
     "name:unk_x_variant":[
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":421167057,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1563295656,
     "wof:name":"Lubao",
     "wof:parent_id":85670011,
     "wof:placetype":"locality",

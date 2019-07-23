@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0645\u0628\u064a\u0632\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Kimpese"
+    ],
     "name:eng_x_preferred":[
         "Kimpese"
     ],
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1141907747,
-    "wof:lastmodified":1561844989,
+    "wof:lastmodified":1563297320,
     "wof:name":"Kimpese",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

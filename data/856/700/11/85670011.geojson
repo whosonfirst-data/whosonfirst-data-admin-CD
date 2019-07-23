@@ -76,6 +76,9 @@
     "name:hun_x_preferred":[
         "Kelet-Kasai tartom\u00e1ny"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0587\u0565\u056c\u0575\u0561\u0576 \u053f\u0561\u057d\u0561\u0575"
+    ],
     "name:ind_x_preferred":[
         "Kasai-Oriental"
     ],
@@ -277,7 +280,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1561844867,
+    "wof:lastmodified":1563292694,
     "wof:name":"Kasa\u00ef-Oriental",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

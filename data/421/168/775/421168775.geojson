@@ -71,6 +71,9 @@
     "name:hun_x_preferred":[
         "Kolwezi"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u056c\u057e\u0565\u0566\u056b"
+    ],
     "name:ind_x_preferred":[
         "Kolwezi"
     ],
@@ -145,6 +148,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4a\u0c32\u0c40\u0c35\u0c46\u0c1c\u0c3f"
+    ],
+    "name:tgl_x_preferred":[
+        "Kolwezi"
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e04\u0e25\u0e27\u0e35\u0e2a\u0e34"
@@ -308,7 +314,7 @@
         }
     ],
     "wof:id":421168775,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1563295648,
     "wof:name":"Kolwezi",
     "wof:parent_id":85670015,
     "wof:placetype":"locality",

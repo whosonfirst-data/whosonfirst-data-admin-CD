@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0628\u0648\u062c\u064a\u0645\u0627\u064a\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0628\u0648\u062c\u064a-\u0645\u0627\u064a\u064a"
+    ],
     "name:bar_x_preferred":[
         "Mbuji-Mayi"
     ],
@@ -32,6 +35,12 @@
     ],
     "name:bul_x_preferred":[
         "\u041c\u0431\u0443\u0436\u0438-\u041c\u0430\u0439\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Mbuji-Mayi City"
+    ],
+    "name:ces_x_preferred":[
+        "Mbuji-Mayi"
     ],
     "name:che_x_preferred":[
         "\u041c\u0431\u0443\u0436\u0438-\u041c\u0430\u0439\u0438"
@@ -328,7 +337,7 @@
         }
     ],
     "wof:id":1141909257,
-    "wof:lastmodified":1561844988,
+    "wof:lastmodified":1563297316,
     "wof:name":"Mbuji-Mayi",
     "wof:parent_id":1091680367,
     "wof:placetype":"locality",

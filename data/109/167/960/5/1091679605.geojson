@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u041d\u043e\u0440 \u0423\u0431\u0430\u043d\u0433\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Nord Ubangi"
+    ],
     "name:deu_x_preferred":[
         "Nord-Ubangi"
     ],
@@ -38,7 +41,7 @@
     ],
     "name:eng_x_variant":[
         "Nord-Ubangi",
-        "Nord-Ubangi"
+        "Nord-Ubangi District"
     ],
     "name:epo_x_preferred":[
         "Provinco Norda Ubango"
@@ -47,6 +50,9 @@
         "Pohjois-Ubangi"
     ],
     "name:fra_x_preferred":[
+        "Nord-Ubangi"
+    ],
+    "name:frr_x_preferred":[
         "Nord-Ubangi"
     ],
     "name:hun_x_preferred":[
@@ -70,8 +76,14 @@
     "name:kor_x_preferred":[
         "\ubd81\uc6b0\ubc29\uae30 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubd81\uc6b0\ubc29\uae30\uc8fc"
+    ],
     "name:nld_x_preferred":[
         "Noord-Ubangi"
+    ],
+    "name:nob_x_preferred":[
+        "Nord-Ubangi"
     ],
     "name:pol_x_preferred":[
         "Ubangi P\u00f3\u0142nocne"
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":1091679605,
-    "wof:lastmodified":1561844932,
+    "wof:lastmodified":1563295424,
     "wof:name":"Nord-Ubangi",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

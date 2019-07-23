@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Basankusu"
     ],
+    "name:epo_x_preferred":[
+        "Basankusu"
+    ],
     "name:fin_x_preferred":[
         "Basankusu"
     ],
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":1141907611,
-    "wof:lastmodified":1561844988,
+    "wof:lastmodified":1563297317,
     "wof:name":"Basankusu",
     "wof:parent_id":1091679539,
     "wof:placetype":"locality",

@@ -16,7 +16,16 @@
     "name:ceb_x_preferred":[
         "Lukolela"
     ],
+    "name:eng_x_preferred":[
+        "Lukolela"
+    ],
     "name:fra_x_preferred":[
+        "Lukolela"
+    ],
+    "name:ita_x_preferred":[
+        "Lukolela"
+    ],
+    "name:nld_x_preferred":[
         "Lukolela"
     ],
     "name:ron_x_preferred":[
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":421172107,
-    "wof:lastmodified":1527716305,
+    "wof:lastmodified":1563295659,
     "wof:name":"Lukolela",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

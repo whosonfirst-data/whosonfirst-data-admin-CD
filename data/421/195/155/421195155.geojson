@@ -131,6 +131,9 @@
     "name:spa_x_preferred":[
         "Kikwit"
     ],
+    "name:swa_x_preferred":[
+        "Kikwit"
+    ],
     "name:swe_x_preferred":[
         "Kikwit"
     ],
@@ -166,6 +169,9 @@
     ],
     "name:wln_x_preferred":[
         "Kicwite"
+    ],
+    "name:wln_x_variant":[
+        "Kikwit"
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d8\u10d9\u10d5\u10d8\u10e2\u10d8"
@@ -313,7 +319,7 @@
         }
     ],
     "wof:id":421195155,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1563295653,
     "wof:name":"Kikwit",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

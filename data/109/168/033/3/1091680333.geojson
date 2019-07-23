@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Alt Katanga"
     ],
+    "name:ceb_x_preferred":[
+        "Haut Katanga"
+    ],
     "name:deu_x_preferred":[
         "Haut-Katanga"
     ],
@@ -40,9 +43,8 @@
         "Haut-Katanga"
     ],
     "name:eng_x_variant":[
-        "Haut-Katanga",
         "Haut-Shaba",
-        "Haut-Katanga"
+        "Haut-Katanga Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Supra Katango"
@@ -53,11 +55,17 @@
     "name:fra_x_preferred":[
         "Haut-Katanga"
     ],
+    "name:frr_x_preferred":[
+        "Haut-Katanga"
+    ],
     "name:hun_x_preferred":[
         "Fels\u0151-Katanga tartom\u00e1ny"
     ],
     "name:hye_x_preferred":[
         "\u054e\u0565\u0580\u056b\u0576 \u053f\u0561\u057f\u0561\u0576\u0563\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Haut-Katanga"
     ],
     "name:ita_x_preferred":[
         "Provincia dell'Alto Katanga"
@@ -73,6 +81,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc624\ud2b8\uce74\ud0d5\uac00 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc624\ud2b8\uce74\ud0d5\uac00\uc8fc"
     ],
     "name:nld_x_preferred":[
         "Haut-Katanga"
@@ -110,6 +121,9 @@
     "name:wln_x_preferred":[
         "Province do H\u00f4t-Katanga"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e0a\u52a0\u4e39\u52a0\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u4e0a\u52a0\u4e39\u52a0\u7701"
     ],
@@ -136,7 +150,7 @@
         }
     ],
     "wof:id":1091680333,
-    "wof:lastmodified":1561844930,
+    "wof:lastmodified":1563295412,
     "wof:name":"Haut-Katanga",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

@@ -30,6 +30,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0443\u0440\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Sankuru"
+    ],
     "name:deu_x_preferred":[
         "Sankuru"
     ],
@@ -38,7 +41,7 @@
     ],
     "name:eng_x_variant":[
         "Sankuru",
-        "Sankuru"
+        "Sankuru District"
     ],
     "name:epo_x_preferred":[
         "Provinco Sankuro"
@@ -49,8 +52,14 @@
     "name:fra_x_preferred":[
         "Sankuru"
     ],
+    "name:frr_x_preferred":[
+        "Sankuru"
+    ],
     "name:hun_x_preferred":[
         "Sankuru tartom\u00e1ny"
+    ],
+    "name:ind_x_preferred":[
+        "Provinsi Sankuru"
     ],
     "name:ita_x_preferred":[
         "Provincia di Sankuru"
@@ -67,7 +76,13 @@
     "name:kor_x_preferred":[
         "\uc0c1\ucfe0\ub8e8 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc0c1\ucfe0\ub8e8\uc8fc"
+    ],
     "name:nld_x_preferred":[
+        "Sankuru"
+    ],
+    "name:nob_x_preferred":[
         "Sankuru"
     ],
     "name:pol_x_preferred":[
@@ -97,6 +112,9 @@
     "name:wln_x_preferred":[
         "Province do Sankourou"
     ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10d9\u10e3\u10e0\u10e3\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:zho_x_preferred":[
         "\u6851\u5e93\u9c81\u7701"
     ],
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":1091680399,
-    "wof:lastmodified":1561844929,
+    "wof:lastmodified":1563295408,
     "wof:name":"Sankuru",
     "wof:parent_id":85670011,
     "wof:placetype":"county",

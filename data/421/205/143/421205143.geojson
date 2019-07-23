@@ -71,11 +71,17 @@
     "name:srp_x_preferred":[
         "\u041b\u0443\u0435\u0431\u043e"
     ],
+    "name:swa_x_preferred":[
+        "Luebo"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0435\u0431\u043e"
     ],
     "name:war_x_preferred":[
         "Luebo"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10da\u10e3\u10d4\u10d1\u10dd"
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u8036\u6ce2"
@@ -217,7 +223,7 @@
         }
     ],
     "wof:id":421205143,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1563295657,
     "wof:name":"Luebo",
     "wof:parent_id":85669989,
     "wof:placetype":"locality",

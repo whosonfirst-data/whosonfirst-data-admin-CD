@@ -22,6 +22,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.0,
+    "name:bel_x_preferred":[
+        "\u041a\u0456\u043d\u0448\u0430\u0441\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kinshasa City"
+    ],
     "name:eng_x_preferred":[
         "Kinshasa City"
     ],
@@ -166,7 +172,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1561844867,
+    "wof:lastmodified":1563292699,
     "wof:name":"Kinshasa City",
     "wof:parent_id":85632643,
     "wof:placetype":"region",
