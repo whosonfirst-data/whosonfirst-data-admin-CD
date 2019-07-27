@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.602495,
-    "geom:area_square_m":56567276240.622101,
+    "geom:area_square_m":56567276240.622414,
     "geom:bbox":"21.4004599197,-7.89598998835,23.7584023198,-4.19886107822",
     "geom:latitude":-6.23082,
     "geom:longitude":22.489633,
@@ -24,8 +24,26 @@
     "mps:longitude":22.373783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lulua"
+    ],
+    "name:deu_x_preferred":[
+        "Lulua"
+    ],
     "name:eng_x_variant":[
         "Lulua"
+    ],
+    "name:fra_x_preferred":[
+        "Luluwa"
+    ],
+    "name:nld_x_preferred":[
+        "Lulua"
+    ],
+    "name:swe_x_preferred":[
+        "Lulua"
+    ],
+    "name:zho_x_preferred":[
+        "\u5362\u5362\u963f"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1091680517,
-    "wof:lastmodified":1512516680,
+    "wof:lastmodified":1564185747,
     "wof:name":"Lulua",
     "wof:parent_id":85669989,
     "wof:placetype":"county",

@@ -25,7 +25,13 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nuages"
+    ],
     "name:fra_x_preferred":[
+        "Nuages"
+    ],
+    "name:ita_x_preferred":[
         "Nuages"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1277140441,
-    "wof:lastmodified":1537590566,
+    "wof:lastmodified":1564183831,
     "wof:name":"Nuages",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

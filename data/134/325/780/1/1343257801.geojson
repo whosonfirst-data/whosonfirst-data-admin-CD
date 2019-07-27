@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aluta"
+    ],
+    "name:spa_x_preferred":[
+        "Aluta"
+    ],
+    "name:swe_x_preferred":[
+        "Aluta"
+    ],
+    "name:war_x_preferred":[
+        "Aluta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343257801,
-    "wof:lastmodified":1537037136,
+    "wof:lastmodified":1564182557,
     "wof:name":"Aluta",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

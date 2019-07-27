@@ -28,11 +28,35 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u062a\u0627\u0646\u063a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Katanga"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u0430\u0442\u0430\u043d\u0433\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u0430\u0442\u0430\u043d\u0433\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Katanga"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043d\u0433\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Katanga"
+    ],
+    "name:ceb_x_preferred":[
+        "Katanga Province"
+    ],
+    "name:ces_x_preferred":[
+        "Katanga"
+    ],
+    "name:dan_x_preferred":[
+        "Katanga"
+    ],
+    "name:deu_x_preferred":[
+        "Katanga"
     ],
     "name:eng_x_preferred":[
         "Katanga Province"
@@ -43,14 +67,35 @@
     "name:est_x_preferred":[
         "Katanga provints"
     ],
+    "name:eus_x_preferred":[
+        "Katanga"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0627\u062a\u0627\u0646\u06af\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Katanga"
+    ],
+    "name:fra_x_preferred":[
+        "Katanga"
+    ],
+    "name:glg_x_preferred":[
+        "Katanga"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0924\u093e\u0902\u0917\u093e \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:hrv_x_preferred":[
+        "Katanga"
+    ],
     "name:hun_x_preferred":[
         "Katanga tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057f\u0561\u0576\u0563\u0561"
+    ],
+    "name:ina_x_preferred":[
+        "Provincia Katanga"
     ],
     "name:ind_x_preferred":[
         "Provinsi Katanga"
@@ -61,14 +106,41 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30bf\u30f3\u30ac\u5dde"
     ],
+    "name:kik_x_preferred":[
+        "Katanga"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ud0d5\uac00 \uc8fc"
     ],
     "name:lat_x_preferred":[
         "Catanga"
     ],
+    "name:lat_x_variant":[
+        "Katanga"
+    ],
+    "name:lin_x_preferred":[
+        "Katanga"
+    ],
+    "name:lit_x_preferred":[
+        "Katanga"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043d\u0433\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Katanga"
+    ],
+    "name:nno_x_preferred":[
+        "Katanga-provinsen"
+    ],
+    "name:nor_x_preferred":[
+        "Katanga"
+    ],
+    "name:pol_x_preferred":[
+        "Katanga"
+    ],
+    "name:por_x_preferred":[
+        "Katanga"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043d\u0433\u0430"
@@ -76,8 +148,23 @@
     "name:sco_x_preferred":[
         "Katanga Province"
     ],
+    "name:slk_x_preferred":[
+        "Katanga"
+    ],
+    "name:spa_x_preferred":[
+        "Katanga"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043d\u0433\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Katanga"
+    ],
+    "name:swe_x_preferred":[
+        "Katanga"
+    ],
+    "name:tur_x_preferred":[
+        "Katanga"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043d\u0433\u0430"
@@ -87,6 +174,9 @@
     ],
     "name:vec_x_preferred":[
         "Catanga"
+    ],
+    "name:vie_x_preferred":[
+        "Katanga"
     ],
     "name:zho_x_preferred":[
         "\u52a0\u4e39\u52a0\u7701"
@@ -115,7 +205,7 @@
         }
     ],
     "wof:id":1343828703,
-    "wof:lastmodified":1537590491,
+    "wof:lastmodified":1564182533,
     "wof:name":"Katanga",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

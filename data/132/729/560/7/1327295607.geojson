@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tobe"
+    ],
+    "name:deu_x_preferred":[
+        "Tobe"
+    ],
+    "name:swe_x_preferred":[
+        "Tobe"
+    ],
     "name:und_x_variant":[
         "Tube",
         "Tobe"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327295607,
-    "wof:lastmodified":1537590498,
+    "wof:lastmodified":1564182195,
     "wof:name":"Tobe",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

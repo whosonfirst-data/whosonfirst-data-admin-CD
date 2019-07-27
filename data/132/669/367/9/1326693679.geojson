@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jiba"
+    ],
+    "name:swe_x_preferred":[
+        "Jiba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326693679,
-    "wof:lastmodified":1536751345,
+    "wof:lastmodified":1564181785,
     "wof:name":"Jiba",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

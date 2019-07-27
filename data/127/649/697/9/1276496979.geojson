@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Bombia"
     ],
+    "name:vie_x_preferred":[
+        "Bombia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276496979,
-    "wof:lastmodified":1537590567,
+    "wof:lastmodified":1564183919,
     "wof:name":"Bombia",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

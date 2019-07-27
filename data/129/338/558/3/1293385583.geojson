@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Seke-Banza"
+    ],
+    "name:ron_x_preferred":[
+        "Seke-Banza"
+    ],
     "name:und_x_variant":[
         "Seke Banga",
         "Seke-Banza"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293385583,
-    "wof:lastmodified":1537590502,
+    "wof:lastmodified":1564182894,
     "wof:name":"Seke-Banza",
     "wof:parent_id":1091679303,
     "wof:placetype":"locality",

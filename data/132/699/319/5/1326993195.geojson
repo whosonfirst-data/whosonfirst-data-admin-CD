@@ -25,6 +25,30 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bxr_x_preferred":[
+        "\u0421\u044d\u043b\u044d\u043d\u0433\u044d"
+    ],
+    "name:ceb_x_preferred":[
+        "Selenge"
+    ],
+    "name:deu_x_preferred":[
+        "Selenge"
+    ],
+    "name:fra_x_preferred":[
+        "Selenge"
+    ],
+    "name:kor_x_preferred":[
+        "\uc140\ub81d\uac8c"
+    ],
+    "name:mon_x_preferred":[
+        "\u0421\u044d\u043b\u044d\u043d\u0433\u044d"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044d\u043b\u044d\u043d\u0433\u044d"
+    ],
+    "name:swe_x_preferred":[
+        "Selenge"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1326993195,
-    "wof:lastmodified":1536816354,
+    "wof:lastmodified":1564182069,
     "wof:name":"Selenge",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

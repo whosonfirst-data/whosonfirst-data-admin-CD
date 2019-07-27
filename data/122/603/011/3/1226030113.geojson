@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tuka"
+    ],
+    "name:deu_x_preferred":[
+        "Tuka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30ab"
+    ],
+    "name:swe_x_preferred":[
+        "Tuka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226030113,
-    "wof:lastmodified":1536747521,
+    "wof:lastmodified":1564187287,
     "wof:name":"Tuka",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

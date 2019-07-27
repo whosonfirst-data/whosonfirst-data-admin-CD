@@ -25,6 +25,33 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Yambuku"
+    ],
+    "name:deu_x_preferred":[
+        "Yambuku"
+    ],
+    "name:fra_x_preferred":[
+        "Yambuku"
+    ],
+    "name:nld_x_preferred":[
+        "Yambuku"
+    ],
+    "name:pol_x_preferred":[
+        "Yambuku"
+    ],
+    "name:ron_x_preferred":[
+        "Yambuku"
+    ],
+    "name:swe_x_preferred":[
+        "Yambuku"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0627\u0645\u0628\u0648\u06a9\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9a\u5e03\u5e93"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1343416407,
-    "wof:lastmodified":1537489196,
+    "wof:lastmodified":1564182457,
     "wof:name":"Yambuku",
     "wof:parent_id":1091679647,
     "wof:placetype":"locality",

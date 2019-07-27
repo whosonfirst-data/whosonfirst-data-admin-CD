@@ -25,7 +25,19 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nanga"
+    ],
     "name:eng_x_preferred":[
+        "Nanga"
+    ],
+    "name:fra_x_preferred":[
+        "Nanga"
+    ],
+    "name:ind_x_preferred":[
+        "Nanga"
+    ],
+    "name:swe_x_preferred":[
         "Nanga"
     ],
     "src:geom":"geonames",
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1276888153,
-    "wof:lastmodified":1537590346,
+    "wof:lastmodified":1564183561,
     "wof:name":"Nanga",
     "wof:parent_id":85670015,
     "wof:placetype":"locality",

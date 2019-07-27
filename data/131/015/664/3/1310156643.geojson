@@ -25,6 +25,33 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Coq"
+    ],
+    "name:ell_x_preferred":[
+        "Coq"
+    ],
+    "name:fin_x_preferred":[
+        "Coq"
+    ],
+    "name:fra_x_preferred":[
+        "Coq"
+    ],
+    "name:jpn_x_preferred":[
+        "Coq"
+    ],
+    "name:por_x_preferred":[
+        "Coq"
+    ],
+    "name:rus_x_preferred":[
+        "Coq"
+    ],
+    "name:spa_x_preferred":[
+        "Coq"
+    ],
+    "name:zho_x_preferred":[
+        "Coq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1310156643,
-    "wof:lastmodified":1536923601,
+    "wof:lastmodified":1564185133,
     "wof:name":"Coq",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

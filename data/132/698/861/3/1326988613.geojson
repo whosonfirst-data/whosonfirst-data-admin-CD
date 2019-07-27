@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kazadi"
+    ],
     "name:und_x_variant":[
         "Kansadi",
         "Kazadi"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326988613,
-    "wof:lastmodified":1537590406,
+    "wof:lastmodified":1564182108,
     "wof:name":"Kazadi",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

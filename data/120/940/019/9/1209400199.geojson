@@ -25,6 +25,30 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0636 \u0643\u0648\u0646\u0632\u0648"
+    ],
+    "name:deu_x_preferred":[
+        "Konzo"
+    ],
+    "name:fra_x_preferred":[
+        "Konzo"
+    ],
+    "name:ita_x_preferred":[
+        "Konzo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30be"
+    ],
+    "name:pol_x_preferred":[
+        "Konzo"
+    ],
+    "name:spa_x_preferred":[
+        "Konzo"
+    ],
+    "name:swe_x_preferred":[
+        "Konzo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +58,7 @@
         "gn:id":2313953
     },
     "wof:country":"CD",
-    "wof:geomhash":"13cf2fc111a1da5dc2f7a55dbe659f2e",
+    "wof:geomhash":"30e410a86592e23680d27e7e3934e788",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +66,7 @@
         }
     ],
     "wof:id":1209400199,
-    "wof:lastmodified":1536288172,
+    "wof:lastmodified":1564184354,
     "wof:name":"Konzo",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.826770000000002,
-    -5.419580000000002,
-    13.826770000000002,
-    -5.419580000000002
+    13.82677,
+    -5.41958,
+    13.82677,
+    -5.41958
 ],
   "geometry": {"coordinates":[13.82677,-5.41958],"type":"Point"}
 }

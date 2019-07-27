@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lukanga"
+    ],
+    "name:swe_x_preferred":[
+        "Lukanga"
+    ],
     "name:und_x_variant":[
         "Lowanga",
         "Lotanga",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293371093,
-    "wof:lastmodified":1537590386,
+    "wof:lastmodified":1564182955,
     "wof:name":"Lukanga",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

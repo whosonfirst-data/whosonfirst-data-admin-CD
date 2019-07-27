@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kaita"
+    ],
+    "name:deu_x_preferred":[
+        "Kaita"
+    ],
+    "name:fin_x_preferred":[
+        "Kaita"
+    ],
+    "name:fra_x_preferred":[
+        "Kaita"
+    ],
+    "name:ita_x_preferred":[
+        "Kaita"
+    ],
+    "name:swe_x_preferred":[
+        "Kaita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1192976941,
-    "wof:lastmodified":1536372265,
+    "wof:lastmodified":1564184847,
     "wof:name":"Kaita",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Tangi"
+    ],
+    "name:ceb_x_preferred":[
+        "Tangi"
+    ],
+    "name:fra_x_preferred":[
+        "Tangi"
+    ],
+    "name:ita_x_preferred":[
+        "Tangi"
+    ],
+    "name:swe_x_preferred":[
+        "Tangi"
+    ],
+    "name:tgl_x_preferred":[
+        "Tangi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1293155017,
-    "wof:lastmodified":1536770050,
+    "wof:lastmodified":1564183109,
     "wof:name":"Tangi",
     "wof:parent_id":1091680399,
     "wof:placetype":"locality",

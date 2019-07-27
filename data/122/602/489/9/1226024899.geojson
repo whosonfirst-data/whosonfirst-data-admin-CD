@@ -25,6 +25,63 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Idjwi"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00cele Idjwi"
+    ],
+    "name:deu_x_preferred":[
+        "Idjiwi"
+    ],
+    "name:est_x_preferred":[
+        "Idjwi saar"
+    ],
+    "name:fra_x_preferred":[
+        "Idjwi"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u057b\u057e\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Idjwi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30c7\u30a3\u30a6\u30a3\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10ef\u10d5\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc950\uc12c"
+    ],
+    "name:lin_x_preferred":[
+        "Idjwi"
+    ],
+    "name:lit_x_preferred":[
+        "Id\u017evi"
+    ],
+    "name:por_x_preferred":[
+        "Idjwi"
+    ],
+    "name:ron_x_preferred":[
+        "Idjwi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0434\u0436\u0432\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Idjwi"
+    ],
+    "name:swe_x_preferred":[
+        "\u00cele Idjwi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0434\u0436\u0432\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u5409\u5a01\u5cf6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +105,7 @@
         }
     ],
     "wof:id":1226024899,
-    "wof:lastmodified":1536755323,
+    "wof:lastmodified":1564187237,
     "wof:name":"Idjwi",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

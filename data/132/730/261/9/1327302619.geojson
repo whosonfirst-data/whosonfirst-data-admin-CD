@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d0\u05d9\u05d6\u05d4"
+    ],
+    "name:pol_x_preferred":[
+        "Luiza"
+    ],
     "name:und_x_variant":[
         "Luisa",
         "Luiza"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1327302619,
-    "wof:lastmodified":1537590383,
+    "wof:lastmodified":1564181648,
     "wof:name":"Luiza",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",

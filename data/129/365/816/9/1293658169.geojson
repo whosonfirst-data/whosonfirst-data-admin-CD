@@ -25,6 +25,33 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Dona"
+    ],
+    "name:ceb_x_preferred":[
+        "Dona"
+    ],
+    "name:deu_x_preferred":[
+        "Dona"
+    ],
+    "name:fra_x_preferred":[
+        "Dona"
+    ],
+    "name:ita_x_preferred":[
+        "Dona"
+    ],
+    "name:pol_x_preferred":[
+        "Dona"
+    ],
+    "name:spa_x_preferred":[
+        "Dona"
+    ],
+    "name:swe_x_preferred":[
+        "Dona"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1293658169,
-    "wof:lastmodified":1537036706,
+    "wof:lastmodified":1564182922,
     "wof:name":"Dona",
     "wof:parent_id":1091680197,
     "wof:placetype":"locality",

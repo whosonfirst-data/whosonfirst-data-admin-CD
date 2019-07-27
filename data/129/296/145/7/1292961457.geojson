@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lin_x_preferred":[
+        "Bafwabaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1292961457,
-    "wof:lastmodified":1537489154,
+    "wof:lastmodified":1564183310,
     "wof:name":"Bafwabaka",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kimi"
+    ],
+    "name:deu_x_preferred":[
+        "Kimi"
+    ],
+    "name:por_x_preferred":[
+        "Kimi"
+    ],
+    "name:swe_x_preferred":[
+        "Kimi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209470757,
-    "wof:lastmodified":1536286087,
+    "wof:lastmodified":1564184390,
     "wof:name":"Kimi",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

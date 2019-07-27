@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kwamouth"
+    ],
+    "name:fra_x_preferred":[
+        "Kwamouth"
+    ],
+    "name:kon_x_preferred":[
+        "Kwamuntu"
+    ],
+    "name:swe_x_preferred":[
+        "Kwamouth"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1260098957,
-    "wof:lastmodified":1537489175,
+    "wof:lastmodified":1564184995,
     "wof:name":"Kwamouth",
     "wof:parent_id":1091679455,
     "wof:placetype":"locality",

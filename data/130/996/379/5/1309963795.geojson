@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbali"
+    ],
+    "name:deu_x_preferred":[
+        "Mbali"
+    ],
+    "name:swe_x_preferred":[
+        "Mbali"
+    ],
     "name:und_x_variant":[
         "Bali",
         "Mbali"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1309963795,
-    "wof:lastmodified":1537590517,
+    "wof:lastmodified":1564185775,
     "wof:name":"Mbali",
     "wof:parent_id":1091679455,
     "wof:placetype":"locality",

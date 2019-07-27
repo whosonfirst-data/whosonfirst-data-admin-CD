@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062039,
-    "geom:area_square_m":765040696.140801,
+    "geom:area_square_m":765040696.140783,
     "geom:bbox":"18.5460001199,3.96871775831,18.8679564004,4.38667812642",
     "geom:latitude":4.219689,
     "geom:longitude":18.698297,
@@ -24,9 +24,30 @@
     "mps:longitude":18.70074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Zongo"
+    ],
+    "name:deu_x_preferred":[
+        "Zongo"
+    ],
     "name:eng_x_variant":[
         "Zongo",
         "Sud-Ubangi"
+    ],
+    "name:fra_x_preferred":[
+        "Zongo"
+    ],
+    "name:ita_x_preferred":[
+        "Zongo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043d\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Zongo"
+    ],
+    "name:swe_x_preferred":[
+        "Zongo"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1091679589,
-    "wof:lastmodified":1512516675,
+    "wof:lastmodified":1564185753,
     "wof:name":"Zongo",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

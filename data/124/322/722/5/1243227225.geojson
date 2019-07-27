@@ -25,7 +25,31 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0644\u064a\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Dalia"
+    ],
     "name:fra_x_preferred":[
+        "Dalia"
+    ],
+    "name:glg_x_preferred":[
+        "Dalia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05dc\u05d9\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Dalia"
+    ],
+    "name:lit_x_preferred":[
+        "Dalia"
+    ],
+    "name:pol_x_preferred":[
+        "Dalia"
+    ],
+    "name:spa_x_preferred":[
         "Dalia"
     ],
     "src:geom":"geonames",
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1243227225,
-    "wof:lastmodified":1537590446,
+    "wof:lastmodified":1564186300,
     "wof:name":"Dalia",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sangi"
+    ],
+    "name:swe_x_preferred":[
+        "Sangi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1260369093,
-    "wof:lastmodified":1537090997,
+    "wof:lastmodified":1564184996,
     "wof:name":"Sangi",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

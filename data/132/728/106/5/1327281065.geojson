@@ -25,6 +25,45 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041b\u0443\u0431\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Luba"
+    ],
+    "name:deu_x_preferred":[
+        "Luba"
+    ],
+    "name:eus_x_preferred":[
+        "Luba"
+    ],
+    "name:fin_x_preferred":[
+        "Luba"
+    ],
+    "name:fra_x_preferred":[
+        "Luba"
+    ],
+    "name:ita_x_preferred":[
+        "Luba"
+    ],
+    "name:nld_x_preferred":[
+        "Luba"
+    ],
+    "name:pol_x_preferred":[
+        "Luba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Luba"
+    ],
+    "name:swe_x_preferred":[
+        "Luba"
+    ],
+    "name:war_x_preferred":[
+        "Luba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +87,7 @@
         }
     ],
     "wof:id":1327281065,
-    "wof:lastmodified":1536899415,
+    "wof:lastmodified":1564182157,
     "wof:name":"Luba",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

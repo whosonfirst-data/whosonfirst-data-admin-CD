@@ -25,9 +25,33 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dilolo"
+    ],
+    "name:deu_x_preferred":[
+        "Dilolo"
+    ],
+    "name:fra_x_preferred":[
+        "Dilolo"
+    ],
+    "name:ita_x_preferred":[
+        "Dilolo"
+    ],
+    "name:ron_x_preferred":[
+        "Dilolo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u043b\u043e\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Dilolo"
+    ],
     "name:und_x_variant":[
         "Dilolo Gare",
         "Dilolo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u6d1b\u6d1b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1242941887,
-    "wof:lastmodified":1537590494,
+    "wof:lastmodified":1564186146,
     "wof:name":"Dilolo",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

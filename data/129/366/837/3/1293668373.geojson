@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lambi"
+    ],
+    "name:deu_x_preferred":[
+        "Lambi"
+    ],
+    "name:swe_x_preferred":[
+        "Lambi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1293668373,
-    "wof:lastmodified":1537022547,
+    "wof:lastmodified":1564183187,
     "wof:name":"Lambi",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

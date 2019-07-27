@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Lobola"
+    ],
+    "name:swe_x_preferred":[
+        "Lobola"
+    ],
+    "name:tsn_x_preferred":[
+        "Lobola"
+    ],
+    "name:zul_x_preferred":[
+        "ILobolo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343574219,
-    "wof:lastmodified":1537076435,
+    "wof:lastmodified":1564182593,
     "wof:name":"Lobolo",
     "wof:parent_id":1091679539,
     "wof:placetype":"locality",

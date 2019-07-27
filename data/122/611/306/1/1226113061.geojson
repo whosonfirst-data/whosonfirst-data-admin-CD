@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shituru"
+    ],
+    "name:fra_x_preferred":[
+        "Tshituru"
+    ],
+    "name:swe_x_preferred":[
+        "Shituru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226113061,
-    "wof:lastmodified":1536626198,
+    "wof:lastmodified":1564187209,
     "wof:name":"Shituru",
     "wof:parent_id":1091680181,
     "wof:placetype":"locality",

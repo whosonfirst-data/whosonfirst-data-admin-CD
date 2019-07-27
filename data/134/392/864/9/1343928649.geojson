@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c41\u0c15\u0c41\u0c02\u0c26"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343928649,
-    "wof:lastmodified":1537063186,
+    "wof:lastmodified":1564182585,
     "wof:name":"Mukunda",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sambu"
+    ],
+    "name:deu_x_preferred":[
+        "Sambu"
+    ],
+    "name:fra_x_preferred":[
+        "Sambu"
+    ],
+    "name:swe_x_preferred":[
+        "Sambu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1260070777,
-    "wof:lastmodified":1537005640,
+    "wof:lastmodified":1564184992,
     "wof:name":"Sambu",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

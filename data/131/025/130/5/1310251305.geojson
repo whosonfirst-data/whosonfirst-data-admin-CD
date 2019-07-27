@@ -25,6 +25,108 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Poekoe"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0643\u0648"
+    ],
+    "name:ava_x_preferred":[
+        "\u041f\u0443\u043a\u0443"
+    ],
+    "name:aze_x_preferred":[
+        "Puku"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0443\u043a\u0443"
+    ],
+    "name:bre_x_preferred":[
+        "Puku"
+    ],
+    "name:cat_x_preferred":[
+        "Pucu"
+    ],
+    "name:ceb_x_preferred":[
+        "Kobus vardonii"
+    ],
+    "name:ces_x_preferred":[
+        "Vodu\u0161ka puku"
+    ],
+    "name:deu_x_preferred":[
+        "Puku"
+    ],
+    "name:eus_x_preferred":[
+        "Kobus vardonii"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Kobus vardonii"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Puku mocs\u00e1riantilop"
+    ],
+    "name:ind_x_preferred":[
+        "Puku"
+    ],
+    "name:ita_x_preferred":[
+        "Kobus vardonii"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30fc\u30af\u30fc"
+    ],
+    "name:lez_x_preferred":[
+        "\u041f\u0443\u043a\u0443"
+    ],
+    "name:lit_x_preferred":[
+        "Puku"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041f\u0443\u043a\u0443"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0443\u043a\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Puku"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0648\u06a9\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Kob lirorogi"
+    ],
+    "name:por_x_preferred":[
+        "Kobus vardonii"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043a\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Kobus vardonii"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u043a\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Puku"
+    ],
+    "name:tur_x_preferred":[
+        "Puku"
+    ],
+    "name:udm_x_preferred":[
+        "\u041f\u0443\u043a\u0443"
+    ],
+    "name:war_x_preferred":[
+        "Kobus vardonii"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u6c0f\u8d64\u7f9a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +150,7 @@
         }
     ],
     "wof:id":1310251305,
-    "wof:lastmodified":1536786646,
+    "wof:lastmodified":1564185172,
     "wof:name":"Puku",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

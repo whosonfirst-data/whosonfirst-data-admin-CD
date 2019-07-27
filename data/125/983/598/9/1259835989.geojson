@@ -25,6 +25,30 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Magasin"
+    ],
+    "name:est_x_preferred":[
+        "Magasin"
+    ],
+    "name:fin_x_preferred":[
+        "Makasiini"
+    ],
+    "name:fra_x_preferred":[
+        "Magasin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ac\u30b8\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9e4\uac70\uc9c4"
+    ],
+    "name:nor_x_preferred":[
+        "Magasin"
+    ],
+    "name:swe_x_preferred":[
+        "Magasin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1259835989,
-    "wof:lastmodified":1536846637,
+    "wof:lastmodified":1564186756,
     "wof:name":"Magasin",
     "wof:parent_id":1091680197,
     "wof:placetype":"locality",

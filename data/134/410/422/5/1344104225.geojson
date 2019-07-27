@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u064a\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Baya"
+    ],
+    "name:deu_x_preferred":[
+        "Baya"
+    ],
+    "name:fra_x_preferred":[
+        "Baya"
+    ],
+    "name:spa_x_preferred":[
+        "Baya"
+    ],
+    "name:swe_x_preferred":[
+        "Baya"
+    ],
     "name:und_x_variant":[
         "Busu Baya",
         "Baya",
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1344104225,
-    "wof:lastmodified":1537590465,
+    "wof:lastmodified":1564182701,
     "wof:name":"Baya",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

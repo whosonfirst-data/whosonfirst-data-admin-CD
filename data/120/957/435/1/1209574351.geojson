@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dibamba"
+    ],
+    "name:msa_x_preferred":[
+        "Dibamba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +40,7 @@
         "gn:id":10003207
     },
     "wof:country":"CD",
-    "wof:geomhash":"b8fc0efc24c004b7239464bb4fdff9c6",
+    "wof:geomhash":"657a15b181bb642f17be5f65948978d7",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209574351,
-    "wof:lastmodified":1536282985,
+    "wof:lastmodified":1564184433,
     "wof:name":"Dibamba",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +59,9 @@
 },
   "bbox": [
     25.44,
-    -6.609189999999999,
+    -6.60919,
     25.44,
-    -6.609189999999999
+    -6.60919
 ],
   "geometry": {"coordinates":[25.44,-6.60919],"type":"Point"}
 }

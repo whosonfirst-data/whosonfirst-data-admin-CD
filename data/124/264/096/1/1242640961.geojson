@@ -25,7 +25,22 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Makoko"
+    ],
+    "name:deu_x_preferred":[
+        "Makoko"
+    ],
     "name:fra_x_preferred":[
+        "Makoko"
+    ],
+    "name:ita_x_preferred":[
+        "Makoko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b3\u30b3"
+    ],
+    "name:vie_x_preferred":[
         "Makoko"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1242640961,
-    "wof:lastmodified":1537590566,
+    "wof:lastmodified":1564186539,
     "wof:name":"Makoko",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

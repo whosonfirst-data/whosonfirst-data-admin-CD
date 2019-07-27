@@ -25,6 +25,21 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gumba"
+    ],
+    "name:deu_x_preferred":[
+        "Gumba"
+    ],
+    "name:fra_x_preferred":[
+        "Gumba"
+    ],
+    "name:pol_x_preferred":[
+        "Gumba"
+    ],
+    "name:swe_x_preferred":[
+        "Gumba"
+    ],
     "name:und_x_variant":[
         "Gale",
         "Gumba"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1293546761,
-    "wof:lastmodified":1537590433,
+    "wof:lastmodified":1564182944,
     "wof:name":"Gumba",
     "wof:parent_id":1091679647,
     "wof:placetype":"locality",

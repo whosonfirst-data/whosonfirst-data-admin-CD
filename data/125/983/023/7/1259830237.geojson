@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bayo"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayo"
+    ],
+    "name:deu_x_preferred":[
+        "Bayo"
+    ],
+    "name:fra_x_preferred":[
+        "Bayo"
+    ],
+    "name:ita_x_preferred":[
+        "Bayo"
+    ],
+    "name:swe_x_preferred":[
+        "Bayo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1259830237,
-    "wof:lastmodified":1536854850,
+    "wof:lastmodified":1564186751,
     "wof:name":"Bayo",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

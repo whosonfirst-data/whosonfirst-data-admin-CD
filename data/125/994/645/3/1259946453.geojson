@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Pede"
+    ],
     "name:fra_x_preferred":[
         "Pede"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259946453,
-    "wof:lastmodified":1537590335,
+    "wof:lastmodified":1564186901,
     "wof:name":"Pede",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

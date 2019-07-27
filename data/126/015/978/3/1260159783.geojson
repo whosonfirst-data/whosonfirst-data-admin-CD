@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Musasa"
+    ],
+    "name:swe_x_preferred":[
+        "Musasa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1260159783,
-    "wof:lastmodified":1536879770,
+    "wof:lastmodified":1564184940,
     "wof:name":"Musasa",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

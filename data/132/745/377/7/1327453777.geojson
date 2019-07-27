@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kinu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1327453777,
-    "wof:lastmodified":1536649721,
+    "wof:lastmodified":1564182183,
     "wof:name":"Kinu",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bese"
+    ],
+    "name:hun_x_preferred":[
+        "Bese"
+    ],
+    "name:swe_x_preferred":[
+        "Bese"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310286023,
-    "wof:lastmodified":1536736095,
+    "wof:lastmodified":1564185417,
     "wof:name":"Bese",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

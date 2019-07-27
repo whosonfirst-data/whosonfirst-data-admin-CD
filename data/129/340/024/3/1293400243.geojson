@@ -29,6 +29,12 @@
     "name:eng_x_preferred":[
         "Kasenga"
     ],
+    "name:fra_x_preferred":[
+        "Kasenga"
+    ],
+    "name:ron_x_preferred":[
+        "Kasenga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293400243,
-    "wof:lastmodified":1537590491,
+    "wof:lastmodified":1564183143,
     "wof:name":"Kasenga",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

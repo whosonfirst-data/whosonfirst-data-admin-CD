@@ -25,6 +25,30 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lebia"
+    ],
+    "name:fra_x_preferred":[
+        "Lebia"
+    ],
+    "name:kir_x_preferred":[
+        "\u041b\u0435\u0431\u0438\u044f\u043b\u0430\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Lebia"
+    ],
+    "name:nor_x_preferred":[
+        "Lebia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0431\u0438\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Lebia"
+    ],
+    "name:war_x_preferred":[
+        "Lebia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1243351509,
-    "wof:lastmodified":1536943013,
+    "wof:lastmodified":1564186372,
     "wof:name":"Lebia",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

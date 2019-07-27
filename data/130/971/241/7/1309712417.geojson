@@ -25,6 +25,21 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Patu"
+    ],
+    "name:ita_x_preferred":[
+        "Patu"
+    ],
+    "name:lit_x_preferred":[
+        "Patu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0442\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Patu"
+    ],
     "name:und_x_variant":[
         "Mpatu",
         "Patu"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1309712417,
-    "wof:lastmodified":1537590335,
+    "wof:lastmodified":1564185847,
     "wof:name":"Patu",
     "wof:parent_id":1091680373,
     "wof:placetype":"locality",

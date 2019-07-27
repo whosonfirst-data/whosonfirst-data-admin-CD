@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lalu"
+    ],
+    "name:swe_x_preferred":[
+        "Lalu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276217459,
-    "wof:lastmodified":1536935056,
+    "wof:lastmodified":1564183585,
     "wof:name":"Lalu",
     "wof:parent_id":1091679351,
     "wof:placetype":"locality",

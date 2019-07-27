@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Bidu"
+    ],
     "name:und_x_variant":[
         "Bibu",
         "Bidu"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259647131,
-    "wof:lastmodified":1537590460,
+    "wof:lastmodified":1564186720,
     "wof:name":"Bidu",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

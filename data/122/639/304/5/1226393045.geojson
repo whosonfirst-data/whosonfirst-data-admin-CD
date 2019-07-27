@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u0627\u0646\u064a"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0631\u0627\u0646\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226393045,
-    "wof:lastmodified":1536721890,
+    "wof:lastmodified":1564187608,
     "wof:name":"Karani",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

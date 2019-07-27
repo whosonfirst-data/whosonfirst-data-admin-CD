@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.533957,
-    "geom:area_square_m":79683788881.69841,
+    "geom:area_square_m":79683788881.69902,
     "geom:bbox":"21.7447498803,-11.2509999099,24.5753391603,-7.63721995453",
     "geom:latitude":-9.465037,
     "geom:longitude":23.019407,
@@ -24,8 +24,44 @@
     "mps:longitude":23.046147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Lualaba"
+    ],
+    "name:ceb_x_preferred":[
+        "Lualaba"
+    ],
+    "name:deu_x_preferred":[
+        "Lualaba"
+    ],
     "name:eng_x_variant":[
         "Lualaba"
+    ],
+    "name:fra_x_preferred":[
+        "Lwalaba"
+    ],
+    "name:hun_x_preferred":[
+        "Lualaba"
+    ],
+    "name:kon_x_preferred":[
+        "Lualaba"
+    ],
+    "name:nor_x_preferred":[
+        "Lualaba"
+    ],
+    "name:pol_x_preferred":[
+        "Lualaba"
+    ],
+    "name:por_x_preferred":[
+        "Lualaba"
+    ],
+    "name:spa_x_preferred":[
+        "Lualaba"
+    ],
+    "name:swe_x_preferred":[
+        "Lualaba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5362\u963f\u62c9\u5df4"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1091680239,
-    "wof:lastmodified":1512516679,
+    "wof:lastmodified":1564185739,
     "wof:name":"Lualaba",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

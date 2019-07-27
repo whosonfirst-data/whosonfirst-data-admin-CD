@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kaunda"
+    ],
     "name:und_x_variant":[
         "Kanda"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310565585,
-    "wof:lastmodified":1537590407,
+    "wof:lastmodified":1564185515,
     "wof:name":"Kaunda",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

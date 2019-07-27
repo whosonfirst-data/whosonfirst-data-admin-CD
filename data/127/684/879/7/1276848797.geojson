@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Biso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276848797,
-    "wof:lastmodified":1537079621,
+    "wof:lastmodified":1564183982,
     "wof:name":"Biso",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

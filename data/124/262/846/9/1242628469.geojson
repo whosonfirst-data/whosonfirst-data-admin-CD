@@ -25,7 +25,19 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bengo"
+    ],
+    "name:deu_x_preferred":[
+        "Bengo"
+    ],
     "name:fra_x_preferred":[
+        "Bengo"
+    ],
+    "name:ita_x_preferred":[
+        "Bengo"
+    ],
+    "name:swe_x_preferred":[
         "Bengo"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1242628469,
-    "wof:lastmodified":1537590462,
+    "wof:lastmodified":1564186520,
     "wof:name":"Bengo",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

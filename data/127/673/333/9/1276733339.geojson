@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lusambo"
+    ],
+    "name:fra_x_preferred":[
+        "Lusambo"
+    ],
+    "name:ita_x_preferred":[
+        "Lusambo"
+    ],
+    "name:ron_x_preferred":[
+        "Lusambo"
+    ],
+    "name:swe_x_preferred":[
+        "Lusambo"
+    ],
+    "name:tgl_x_preferred":[
+        "Lusambo"
+    ],
     "name:und_x_variant":[
         "Lusamb",
         "Lusambo"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276733339,
-    "wof:lastmodified":1537590487,
+    "wof:lastmodified":1564183632,
     "wof:name":"Lusambo",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

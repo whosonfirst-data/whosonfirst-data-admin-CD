@@ -25,8 +25,35 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lokuta"
+    ],
+    "name:est_x_preferred":[
+        "Lokuta"
+    ],
+    "name:fra_x_preferred":[
+        "Lokuta"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u056f\u0578\u0582\u057f\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Lokuta"
+    ],
+    "name:sco_x_preferred":[
+        "Lokuta"
+    ],
+    "name:swe_x_preferred":[
+        "Lokuta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u043a\u0443\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Lokute",
+        "Lokuta"
+    ],
+    "name:vol_x_preferred":[
         "Lokuta"
     ],
     "src:geom":"geonames",
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1343394271,
-    "wof:lastmodified":1537590387,
+    "wof:lastmodified":1564182311,
     "wof:name":"Lokuta",
     "wof:parent_id":1091679649,
     "wof:placetype":"locality",

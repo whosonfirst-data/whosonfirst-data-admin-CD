@@ -25,6 +25,60 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kumba"
+    ],
+    "name:ces_x_preferred":[
+        "Kumba"
+    ],
+    "name:deu_x_preferred":[
+        "Kumba"
+    ],
+    "name:epo_x_preferred":[
+        "Kumba"
+    ],
+    "name:fin_x_preferred":[
+        "Kumba"
+    ],
+    "name:fra_x_preferred":[
+        "Kumba"
+    ],
+    "name:hrv_x_preferred":[
+        "Kumba"
+    ],
+    "name:ita_x_preferred":[
+        "Kumba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30f3\u30d0"
+    ],
+    "name:lav_x_preferred":[
+        "Kumba"
+    ],
+    "name:lit_x_preferred":[
+        "Kumba"
+    ],
+    "name:nld_x_preferred":[
+        "Kumba"
+    ],
+    "name:pol_x_preferred":[
+        "Kumba"
+    ],
+    "name:por_x_preferred":[
+        "Kumba"
+    ],
+    "name:ron_x_preferred":[
+        "Kumba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u0431\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kumba"
+    ],
+    "name:swe_x_preferred":[
+        "Kumba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +88,7 @@
         "gn:id":2313916
     },
     "wof:country":"CD",
-    "wof:geomhash":"03a040f9febfab8f852e52117c40e330",
+    "wof:geomhash":"dd72f632eda9928bce01e0193059acbb",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +96,7 @@
         }
     ],
     "wof:id":1209091739,
-    "wof:lastmodified":1536298015,
+    "wof:lastmodified":1564184115,
     "wof:name":"Kumba",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +107,9 @@
 },
   "bbox": [
     14.31526,
-    -5.502669999999998,
+    -5.50267,
     14.31526,
-    -5.502669999999998
+    -5.50267
 ],
   "geometry": {"coordinates":[14.31526,-5.50267],"type":"Point"}
 }

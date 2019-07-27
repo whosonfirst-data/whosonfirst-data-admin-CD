@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gabu"
+    ],
+    "name:fra_x_preferred":[
+        "Gabu"
+    ],
+    "name:swe_x_preferred":[
+        "Gabu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1259655065,
-    "wof:lastmodified":1536608957,
+    "wof:lastmodified":1564186678,
     "wof:name":"Gabu",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

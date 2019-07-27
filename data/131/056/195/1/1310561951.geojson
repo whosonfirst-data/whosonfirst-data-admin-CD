@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Etoka"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0442\u043e\u043a\u0430"
+    ],
     "name:und_x_variant":[
         "Itoko"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310561951,
-    "wof:lastmodified":1537590429,
+    "wof:lastmodified":1564185515,
     "wof:name":"Etoka",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

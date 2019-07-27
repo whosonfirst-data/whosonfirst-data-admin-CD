@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pinda"
+    ],
+    "name:pol_x_preferred":[
+        "Pinda"
+    ],
+    "name:por_x_preferred":[
+        "Pinda"
+    ],
+    "name:swe_x_preferred":[
+        "Pinda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226724385,
-    "wof:lastmodified":1536746092,
+    "wof:lastmodified":1564187066,
     "wof:name":"Pinda",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

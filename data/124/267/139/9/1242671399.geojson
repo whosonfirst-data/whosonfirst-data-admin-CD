@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kibamba"
+    ],
+    "name:swa_x_preferred":[
+        "Kibamba"
+    ],
     "name:und_x_variant":[
         "Kibamba Lubunda",
         "Kibamba"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242671399,
-    "wof:lastmodified":1537590404,
+    "wof:lastmodified":1564186155,
     "wof:name":"Kibamba",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

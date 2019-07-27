@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bunagana"
+    ],
     "name:und_x_variant":[
         "Bunagana"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293378051,
-    "wof:lastmodified":1537590449,
+    "wof:lastmodified":1564182954,
     "wof:name":"Bunangana",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

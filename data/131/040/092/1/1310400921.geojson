@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u0633\u06cc\u0633\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0633\u06cc\u0633\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Masisi"
+    ],
+    "name:ron_x_preferred":[
+        "Masisi"
+    ],
     "name:und_x_variant":[
         "Misisi"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1310400921,
-    "wof:lastmodified":1537590571,
+    "wof:lastmodified":1564185181,
     "wof:name":"Masisi",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

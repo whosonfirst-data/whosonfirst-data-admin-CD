@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kongu"
+    ],
+    "name:swe_x_preferred":[
+        "Kongu"
+    ],
     "name:und_x_variant":[
         "Konga"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293265891,
-    "wof:lastmodified":1537590393,
+    "wof:lastmodified":1564183464,
     "wof:name":"Kongu",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

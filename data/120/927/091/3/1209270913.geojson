@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Cazuangongo"
+    ],
+    "name:msa_x_preferred":[
+        "Kazua"
+    ],
+    "name:por_x_preferred":[
+        "Cazuangongo"
+    ],
     "name:und_x_variant":[
         "Kazau",
         "Kazua"
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1209270913,
-    "wof:lastmodified":1537590489,
+    "wof:lastmodified":1564184567,
     "wof:name":"Kazua",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

@@ -25,6 +25,42 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lualaba"
+    ],
+    "name:ceb_x_preferred":[
+        "Lualaba"
+    ],
+    "name:deu_x_preferred":[
+        "Lualaba"
+    ],
+    "name:fra_x_preferred":[
+        "Lwalaba"
+    ],
+    "name:hun_x_preferred":[
+        "Lualaba"
+    ],
+    "name:kon_x_preferred":[
+        "Lualaba"
+    ],
+    "name:nor_x_preferred":[
+        "Lualaba"
+    ],
+    "name:pol_x_preferred":[
+        "Lualaba"
+    ],
+    "name:por_x_preferred":[
+        "Lualaba"
+    ],
+    "name:spa_x_preferred":[
+        "Lualaba"
+    ],
+    "name:swe_x_preferred":[
+        "Lualaba"
+    ],
+    "name:zho_x_preferred":[
+        "\u5362\u963f\u62c9\u5df4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1242736849,
-    "wof:lastmodified":1536833488,
+    "wof:lastmodified":1564186069,
     "wof:name":"Lualaba",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

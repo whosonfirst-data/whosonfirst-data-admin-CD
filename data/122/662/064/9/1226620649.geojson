@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kabanga"
+    ],
+    "name:fra_x_preferred":[
+        "Kabanga"
+    ],
+    "name:swe_x_preferred":[
+        "Kabanga"
+    ],
     "name:und_x_variant":[
         "Kahanga",
         "Kabanga"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226620649,
-    "wof:lastmodified":1537590538,
+    "wof:lastmodified":1564187635,
     "wof:name":"Kabanga",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

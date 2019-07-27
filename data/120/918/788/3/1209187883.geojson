@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tantara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209187883,
-    "wof:lastmodified":1536295036,
+    "wof:lastmodified":1564184595,
     "wof:name":"Tantara",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

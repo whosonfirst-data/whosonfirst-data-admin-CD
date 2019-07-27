@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gungu"
+    ],
+    "name:fra_x_preferred":[
+        "Gungu"
+    ],
+    "name:ron_x_preferred":[
+        "Gungu"
+    ],
+    "name:swe_x_preferred":[
+        "Gungu"
+    ],
     "name:und_x_variant":[
         "Ngungu",
         "Gungu"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1343642567,
-    "wof:lastmodified":1537590433,
+    "wof:lastmodified":1564182353,
     "wof:name":"Gungu",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

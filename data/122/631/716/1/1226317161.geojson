@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Kayoko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226317161,
-    "wof:lastmodified":1536829806,
+    "wof:lastmodified":1564187682,
     "wof:name":"Kayoko",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

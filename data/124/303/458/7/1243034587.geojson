@@ -25,6 +25,21 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zani"
+    ],
+    "name:deu_x_preferred":[
+        "Zani"
+    ],
+    "name:fra_x_preferred":[
+        "Zani"
+    ],
+    "name:ita_x_preferred":[
+        "Zani"
+    ],
+    "name:swe_x_preferred":[
+        "Zani"
+    ],
     "name:und_x_variant":[
         "Nzani",
         "Zani"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1243034587,
-    "wof:lastmodified":1537590300,
+    "wof:lastmodified":1564186339,
     "wof:name":"Zani",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

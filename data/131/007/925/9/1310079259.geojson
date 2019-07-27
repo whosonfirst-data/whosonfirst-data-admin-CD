@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Masaba"
+    ],
+    "name:fra_x_preferred":[
+        "Masaba"
+    ],
+    "name:pol_x_preferred":[
+        "Masaba"
+    ],
+    "name:swe_x_preferred":[
+        "Masaba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310079259,
-    "wof:lastmodified":1537033027,
+    "wof:lastmodified":1564185232,
     "wof:name":"Masaba",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

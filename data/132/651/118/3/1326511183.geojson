@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Luana"
+    ],
+    "name:deu_x_preferred":[
+        "Luana"
+    ],
+    "name:ita_x_preferred":[
+        "Luana"
+    ],
+    "name:swe_x_preferred":[
+        "Luana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1326511183,
-    "wof:lastmodified":1537013718,
+    "wof:lastmodified":1564181768,
     "wof:name":"Luana",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

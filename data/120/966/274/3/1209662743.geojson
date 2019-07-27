@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vaka"
+    ],
+    "name:fra_x_preferred":[
+        "Vaka"
+    ],
+    "name:isl_x_preferred":[
+        "Vaka"
+    ],
+    "name:swe_x_preferred":[
+        "Vaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +46,7 @@
         "gn:id":2311033
     },
     "wof:country":"CD",
-    "wof:geomhash":"996b0995384a3d75466b2137fedaf3f1",
+    "wof:geomhash":"4a018c1e555273fd59879bfede5d57f2",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209662743,
-    "wof:lastmodified":1536280197,
+    "wof:lastmodified":1564184460,
     "wof:name":"Vaka",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +65,9 @@
 },
   "bbox": [
     18.26454,
-    2.3679900000000003,
+    2.36799,
     18.26454,
-    2.3679900000000003
+    2.36799
 ],
   "geometry": {"coordinates":[18.26454,2.36799],"type":"Point"}
 }

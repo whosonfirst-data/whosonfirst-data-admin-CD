@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Lupata"
+    ],
     "name:und_x_variant":[
         "Bola Lupata"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1277039353,
-    "wof:lastmodified":1537590455,
+    "wof:lastmodified":1564183876,
     "wof:name":"Lupata",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

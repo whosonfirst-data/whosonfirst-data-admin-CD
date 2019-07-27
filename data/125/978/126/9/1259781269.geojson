@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Ngiri-Ngiri"
+    ],
+    "name:fra_x_preferred":[
+        "Ngiri-Ngiri"
+    ],
+    "name:lin_x_preferred":[
+        "Ngiri-Ng\u00edri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259781269,
-    "wof:lastmodified":1537489198,
+    "wof:lastmodified":1564186786,
     "wof:name":"Ngiri-Ngiri",
     "wof:parent_id":1091679241,
     "wof:placetype":"locality",

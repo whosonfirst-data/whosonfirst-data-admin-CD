@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Isanga"
+    ],
+    "name:swa_x_preferred":[
+        "Isanga"
+    ],
     "name:und_x_variant":[
         "Isongo",
         "Isanga"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259539469,
-    "wof:lastmodified":1537590539,
+    "wof:lastmodified":1564186664,
     "wof:name":"Isanga",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

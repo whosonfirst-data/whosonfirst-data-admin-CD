@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Muamba"
+    ],
+    "name:deu_x_preferred":[
+        "Muamba"
+    ],
+    "name:fra_x_preferred":[
+        "Muamba"
+    ],
+    "name:swe_x_preferred":[
+        "Muamba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1193100123,
-    "wof:lastmodified":1536384339,
+    "wof:lastmodified":1564184883,
     "wof:name":"Muamba",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

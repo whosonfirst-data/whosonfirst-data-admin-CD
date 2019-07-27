@@ -25,7 +25,19 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bodea"
+    ],
     "name:fra_x_preferred":[
+        "Bodea"
+    ],
+    "name:ita_x_preferred":[
+        "Bodea"
+    ],
+    "name:nds_x_preferred":[
+        "Bodea"
+    ],
+    "name:ron_x_preferred":[
         "Bodea"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1226711327,
-    "wof:lastmodified":1537590567,
+    "wof:lastmodified":1564187462,
     "wof:name":"Bodea",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

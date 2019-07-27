@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lubao"
+    ],
+    "name:fra_x_preferred":[
+        "Lubao"
+    ],
+    "name:ita_x_preferred":[
+        "Lubao"
+    ],
+    "name:swe_x_preferred":[
+        "Lubao"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343625973,
-    "wof:lastmodified":1537004153,
+    "wof:lastmodified":1564182276,
     "wof:name":"Lubao",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

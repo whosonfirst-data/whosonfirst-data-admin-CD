@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Molegbe"
+    ],
     "name:und_x_variant":[
         "Molegbwe"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226806079,
-    "wof:lastmodified":1537590571,
+    "wof:lastmodified":1564187167,
     "wof:name":"Molegbe",
     "wof:parent_id":1091679653,
     "wof:placetype":"locality",

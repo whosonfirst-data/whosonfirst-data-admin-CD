@@ -25,6 +25,21 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kulunga"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u0941\u0932\u0941\u0919\u094d\u0917"
+    ],
+    "name:msa_x_preferred":[
+        "Kulunga"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u0941\u0932\u0941\u0902\u0917\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Kulung"
+    ],
     "name:und_x_variant":[
         "Kalunga",
         "Kulunga"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1326612957,
-    "wof:lastmodified":1537590479,
+    "wof:lastmodified":1564181848,
     "wof:name":"Kulunga",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

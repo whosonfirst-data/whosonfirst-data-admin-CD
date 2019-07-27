@@ -25,6 +25,21 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boku"
+    ],
+    "name:deu_x_preferred":[
+        "Boku"
+    ],
+    "name:fra_x_preferred":[
+        "Boku"
+    ],
+    "name:ita_x_preferred":[
+        "Boku"
+    ],
+    "name:swe_x_preferred":[
+        "Boku"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343913773,
-    "wof:lastmodified":1537084325,
+    "wof:lastmodified":1564182254,
     "wof:name":"Boku",
     "wof:parent_id":1091679455,
     "wof:placetype":"locality",

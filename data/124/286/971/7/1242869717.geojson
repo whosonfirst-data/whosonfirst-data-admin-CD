@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kimvula"
+    ],
     "name:und_x_variant":[
         "Kimbula",
         "Kivula",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1242869717,
-    "wof:lastmodified":1537590532,
+    "wof:lastmodified":1564186080,
     "wof:name":"Kimvula",
     "wof:parent_id":1091679351,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mambwe"
+    ],
+    "name:deu_x_preferred":[
+        "Mambwe"
+    ],
+    "name:fra_x_preferred":[
+        "Mambwe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +43,7 @@
         "gn:id":209730
     },
     "wof:country":"CD",
-    "wof:geomhash":"acb0bf12df87a7cc2905924d994dec53",
+    "wof:geomhash":"a26b267b36619260db304c36c9645bdc",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209057087,
-    "wof:lastmodified":1536299074,
+    "wof:lastmodified":1564184540,
     "wof:name":"Mambwe",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.503020000000006,
+    28.50302000000001,
     -7.33512,
-    28.503020000000006,
+    28.50302000000001,
     -7.33512
 ],
   "geometry": {"coordinates":[28.50302000000001,-7.33512],"type":"Point"}

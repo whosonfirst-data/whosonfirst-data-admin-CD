@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Some"
+    ],
+    "name:por_x_preferred":[
+        "Some"
+    ],
+    "name:swe_x_preferred":[
+        "Some"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1209795661,
-    "wof:lastmodified":1536393010,
+    "wof:lastmodified":1564184328,
     "wof:name":"Some",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

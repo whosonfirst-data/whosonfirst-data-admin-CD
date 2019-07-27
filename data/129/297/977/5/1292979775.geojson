@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tukutuku"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1292979775,
-    "wof:lastmodified":1537021037,
+    "wof:lastmodified":1564183332,
     "wof:name":"Tukutuku",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Luigi Bertelli"
+    ],
+    "name:fra_x_preferred":[
+        "Luigi Bertelli"
+    ],
+    "name:ita_x_preferred":[
+        "Luigi Bertelli"
+    ],
+    "name:pol_x_preferred":[
+        "Luigi Bertelli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1277098919,
-    "wof:lastmodified":1536744064,
+    "wof:lastmodified":1564183524,
     "wof:name":"Vamba",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

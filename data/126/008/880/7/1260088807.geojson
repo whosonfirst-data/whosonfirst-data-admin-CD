@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Makanza"
+    ],
     "name:und_x_variant":[
         "Nieuw-Antwerpen",
         "Nouvelle-Anvers",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1260088807,
-    "wof:lastmodified":1537590520,
+    "wof:lastmodified":1564185008,
     "wof:name":"Mankanza",
     "wof:parent_id":1091679539,
     "wof:placetype":"locality",

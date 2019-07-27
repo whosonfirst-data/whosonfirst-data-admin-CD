@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Murambi"
+    ],
     "name:und_x_variant":[
         "Mutambi"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1309886815,
-    "wof:lastmodified":1537590355,
+    "wof:lastmodified":1564185943,
     "wof:name":"Murambi",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

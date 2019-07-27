@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mambu"
+    ],
+    "name:swe_x_preferred":[
+        "Mambu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226769757,
-    "wof:lastmodified":1536680995,
+    "wof:lastmodified":1564187442,
     "wof:name":"Mambu",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

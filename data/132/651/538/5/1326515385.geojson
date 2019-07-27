@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Dembo"
+    ],
     "name:und_x_variant":[
         "Demba",
         "Dembo"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326515385,
-    "wof:lastmodified":1537590548,
+    "wof:lastmodified":1564181772,
     "wof:name":"Dembo",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

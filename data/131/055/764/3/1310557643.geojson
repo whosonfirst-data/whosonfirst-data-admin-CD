@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbulungu"
+    ],
+    "name:fra_x_preferred":[
+        "Bulungu"
+    ],
+    "name:swe_x_preferred":[
+        "Mbulungu"
+    ],
     "name:und_x_variant":[
         "Bulungu",
         "Mbulungu"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310557643,
-    "wof:lastmodified":1537590449,
+    "wof:lastmodified":1564185268,
     "wof:name":"Mbulungu",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",

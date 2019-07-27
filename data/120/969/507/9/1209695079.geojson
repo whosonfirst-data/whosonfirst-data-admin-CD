@@ -25,6 +25,21 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nguru"
+    ],
+    "name:deu_x_preferred":[
+        "Nguru"
+    ],
+    "name:ita_x_preferred":[
+        "Nguru"
+    ],
+    "name:kor_x_preferred":[
+        "\uc751\uad6c\ub8e8"
+    ],
+    "name:swe_x_preferred":[
+        "Nguru"
+    ],
     "name:und_x_variant":[
         "Lifaki",
         "Nguru"
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1209695079,
-    "wof:lastmodified":1537590343,
+    "wof:lastmodified":1564184534,
     "wof:name":"Nguru",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

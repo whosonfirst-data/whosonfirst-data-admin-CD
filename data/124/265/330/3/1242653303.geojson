@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sanga"
+    ],
+    "name:deu_x_preferred":[
+        "Sanga"
+    ],
+    "name:fra_x_preferred":[
+        "Sanga"
+    ],
+    "name:ita_x_preferred":[
+        "Sanga"
+    ],
+    "name:por_x_preferred":[
+        "Sanga"
+    ],
+    "name:swe_x_preferred":[
+        "Sanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1242653303,
-    "wof:lastmodified":1536954907,
+    "wof:lastmodified":1564186527,
     "wof:name":"Sanga",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Ikanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260293465,
-    "wof:lastmodified":1536698692,
+    "wof:lastmodified":1564185040,
     "wof:name":"Ikanga",
     "wof:parent_id":1091679539,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Kaulu"
+    ],
+    "name:ita_x_preferred":[
+        "Kaulu"
+    ],
     "name:und_x_variant":[
         "Kutala"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1260136509,
-    "wof:lastmodified":1537590488,
+    "wof:lastmodified":1564184952,
     "wof:name":"Kaulu",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

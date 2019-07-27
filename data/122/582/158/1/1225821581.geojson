@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Trudon"
+    ],
+    "name:isl_x_preferred":[
+        "\u00der\u00e1ndur"
+    ],
+    "name:nld_x_preferred":[
+        "Trudo"
+    ],
+    "name:nor_x_preferred":[
+        "Trond"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0440\u0443\u0434\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Trud\u00f3n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1225821581,
-    "wof:lastmodified":1537046645,
+    "wof:lastmodified":1564187693,
     "wof:name":"Trudo",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yamba"
+    ],
+    "name:deu_x_preferred":[
+        "Yamba"
+    ],
+    "name:fra_x_preferred":[
+        "Yamba"
+    ],
+    "name:swe_x_preferred":[
+        "Yamba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343634443,
-    "wof:lastmodified":1536991867,
+    "wof:lastmodified":1564182344,
     "wof:name":"Yamba",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

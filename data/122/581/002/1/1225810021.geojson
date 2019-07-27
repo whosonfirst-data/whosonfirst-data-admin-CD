@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pono"
+    ],
     "name:und_x_variant":[
         "Pomo",
         "Pono"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1225810021,
-    "wof:lastmodified":1537590504,
+    "wof:lastmodified":1564187355,
     "wof:name":"Pono",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

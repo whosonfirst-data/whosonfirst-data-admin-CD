@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Balaka"
+    ],
+    "name:fra_x_preferred":[
+        "Balaka"
+    ],
+    "name:nld_x_preferred":[
+        "Balaka"
+    ],
+    "name:swe_x_preferred":[
+        "Balaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343336071,
-    "wof:lastmodified":1536926590,
+    "wof:lastmodified":1564182680,
     "wof:name":"Balaka",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

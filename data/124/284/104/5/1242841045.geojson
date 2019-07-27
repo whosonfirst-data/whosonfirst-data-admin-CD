@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ikono"
+    ],
+    "name:hau_x_preferred":[
+        "Ikono"
+    ],
+    "name:ita_x_preferred":[
+        "Ikono"
+    ],
+    "name:spa_x_preferred":[
+        "Ikono"
+    ],
     "name:und_x_variant":[
         "Ikumu",
         "Ikono"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242841045,
-    "wof:lastmodified":1537590432,
+    "wof:lastmodified":1564186457,
     "wof:name":"Ikono",
     "wof:parent_id":1091680399,
     "wof:placetype":"locality",

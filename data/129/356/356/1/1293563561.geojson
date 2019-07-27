@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Kibaya"
+    ],
     "name:und_x_variant":[
         "Kibana",
         "Kibaya"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293563561,
-    "wof:lastmodified":1537590535,
+    "wof:lastmodified":1564183231,
     "wof:name":"Kibaya",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

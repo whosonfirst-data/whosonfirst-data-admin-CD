@@ -25,8 +25,20 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jina"
+    ],
+    "name:deu_x_preferred":[
+        "Jina"
+    ],
+    "name:ita_x_preferred":[
+        "Jina"
+    ],
     "name:und_x_variant":[
         "Gina"
+    ],
+    "name:vie_x_preferred":[
+        "Jina"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1192994633,
-    "wof:lastmodified":1537590435,
+    "wof:lastmodified":1564184859,
     "wof:name":"Jina",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

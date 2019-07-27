@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aluna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293665419,
-    "wof:lastmodified":1537026647,
+    "wof:lastmodified":1564183188,
     "wof:name":"Aluna",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

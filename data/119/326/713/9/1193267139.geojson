@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Makuburi"
+    ],
+    "name:swa_x_preferred":[
+        "Makuburi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1193267139,
-    "wof:lastmodified":1536374641,
+    "wof:lastmodified":1564184899,
     "wof:name":"Makuburi",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

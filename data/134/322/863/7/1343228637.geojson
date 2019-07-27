@@ -25,6 +25,39 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Kilima"
+    ],
+    "name:cat_x_preferred":[
+        "Kilima"
+    ],
+    "name:ceb_x_preferred":[
+        "Kilima"
+    ],
+    "name:fra_x_preferred":[
+        "Kilima"
+    ],
+    "name:ita_x_preferred":[
+        "Kilima"
+    ],
+    "name:nld_x_preferred":[
+        "Kilima"
+    ],
+    "name:ron_x_preferred":[
+        "Kilima"
+    ],
+    "name:spa_x_preferred":[
+        "Kilima"
+    ],
+    "name:swe_x_preferred":[
+        "Kilima"
+    ],
+    "name:vie_x_preferred":[
+        "Kilima"
+    ],
+    "name:war_x_preferred":[
+        "Kilima"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1343228637,
-    "wof:lastmodified":1537077880,
+    "wof:lastmodified":1564182550,
     "wof:name":"Kilima",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

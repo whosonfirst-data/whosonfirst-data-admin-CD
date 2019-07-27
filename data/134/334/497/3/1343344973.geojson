@@ -25,6 +25,27 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Shinkolobwe Mine"
+    ],
+    "name:fra_x_preferred":[
+        "Shinkolobwe"
+    ],
+    "name:ind_x_preferred":[
+        "Shinkolobwe"
+    ],
+    "name:ita_x_preferred":[
+        "Shinkolobwe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30f3\u30b3\u30ed\u30d6\u30a8\u9271\u5c71"
+    ],
+    "name:nor_x_preferred":[
+        "Shinkolobwe"
+    ],
+    "name:ron_x_preferred":[
+        "Shinkolobwe"
+    ],
     "name:und_x_variant":[
         "Chinkolobwe",
         "Shainkolobwe",
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1343344973,
-    "wof:lastmodified":1537590482,
+    "wof:lastmodified":1564182662,
     "wof:name":"Shinkolobwe",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

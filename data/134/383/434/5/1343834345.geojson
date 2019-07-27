@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lita"
+    ],
+    "name:deu_x_preferred":[
+        "Lita"
+    ],
+    "name:ita_x_preferred":[
+        "Lita"
+    ],
+    "name:por_x_preferred":[
+        "Lita"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Lita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1343834345,
-    "wof:lastmodified":1536704619,
+    "wof:lastmodified":1564182466,
     "wof:name":"Lita",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

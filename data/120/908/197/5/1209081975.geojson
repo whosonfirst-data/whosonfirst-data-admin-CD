@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mudimbi"
+    ],
+    "name:ita_x_preferred":[
+        "Mudimbi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209081975,
-    "wof:lastmodified":1536298307,
+    "wof:lastmodified":1564184225,
     "wof:name":"Mudimbi",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

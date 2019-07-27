@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Due"
+    ],
+    "name:deu_x_preferred":[
+        "Due"
+    ],
+    "name:fra_x_preferred":[
+        "Due"
+    ],
+    "name:nds_x_preferred":[
+        "Due"
+    ],
+    "name:spa_x_preferred":[
+        "Due"
+    ],
+    "name:swe_x_preferred":[
+        "Due"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -42,7 +60,7 @@
         }
     ],
     "wof:id":1209188715,
-    "wof:lastmodified":1536295010,
+    "wof:lastmodified":1564184593,
     "wof:name":"Due",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
