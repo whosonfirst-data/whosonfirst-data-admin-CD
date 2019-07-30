@@ -25,6 +25,33 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kalaw"
+    ],
+    "name:fra_x_preferred":[
+        "Kalaw"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ed\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\uce7c\ub85c"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u101c\u1031\u102c\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:pol_x_preferred":[
+        "Kalaw"
+    ],
+    "name:por_x_preferred":[
+        "Kalaw"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u043e"
+    ],
+    "name:shn_x_preferred":[
+        "\u1075\u1062\u1010\u103a\u1087\u101c\u1031\u1083\u1089"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1276522859,
-    "wof:lastmodified":1537021168,
+    "wof:lastmodified":1564184009,
     "wof:name":"Kalaw",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

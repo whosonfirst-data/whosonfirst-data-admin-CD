@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mawa"
+    ],
+    "name:fra_x_preferred":[
+        "Mawa"
+    ],
+    "name:swe_x_preferred":[
+        "Mawa"
+    ],
     "name:und_x_variant":[
         "Mawa Gare",
         "Mawa"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1260269387,
-    "wof:lastmodified":1537590370,
+    "wof:lastmodified":1564185048,
     "wof:name":"Mawa",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

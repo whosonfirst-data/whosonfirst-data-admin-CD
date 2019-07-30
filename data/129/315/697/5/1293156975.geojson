@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kakuna"
+    ],
+    "name:ceb_x_preferred":[
+        "Kakuna"
+    ],
+    "name:swe_x_preferred":[
+        "Kakuna"
+    ],
     "name:und_x_variant":[
         "Mwene Kakuna",
         "Kakuna"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293156975,
-    "wof:lastmodified":1537590422,
+    "wof:lastmodified":1564183112,
     "wof:name":"Kakuna",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",

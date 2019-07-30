@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mushie"
+    ],
+    "name:fra_x_preferred":[
+        "Mushie"
+    ],
+    "name:ron_x_preferred":[
+        "Mushie"
+    ],
+    "name:swe_x_preferred":[
+        "Mushie"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259357417,
-    "wof:lastmodified":1537038218,
+    "wof:lastmodified":1564186865,
     "wof:name":"Mushie",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

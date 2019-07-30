@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kamani"
+    ],
+    "name:deu_x_preferred":[
+        "Kamani"
+    ],
+    "name:swe_x_preferred":[
+        "Kamani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1242932297,
-    "wof:lastmodified":1537047932,
+    "wof:lastmodified":1564186158,
     "wof:name":"Kamani",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Diongo"
+    ],
     "name:und_x_variant":[
         "Diongo",
         "Divuma"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293658091,
-    "wof:lastmodified":1537590494,
+    "wof:lastmodified":1564182936,
     "wof:name":"Divuma",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

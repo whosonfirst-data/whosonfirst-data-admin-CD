@@ -25,6 +25,21 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Boya"
+    ],
+    "name:ceb_x_preferred":[
+        "Boya"
+    ],
+    "name:deu_x_preferred":[
+        "Boya"
+    ],
+    "name:fra_x_preferred":[
+        "Boya"
+    ],
+    "name:swe_x_preferred":[
+        "Boya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1193228879,
-    "wof:lastmodified":1536367375,
+    "wof:lastmodified":1564184805,
     "wof:name":"Boya",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

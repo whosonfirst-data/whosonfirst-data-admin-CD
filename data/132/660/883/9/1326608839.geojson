@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Unga"
+    ],
+    "name:deu_x_preferred":[
+        "Unga"
+    ],
+    "name:swe_x_preferred":[
+        "Unga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326608839,
-    "wof:lastmodified":1536872649,
+    "wof:lastmodified":1564181807,
     "wof:name":"Unga",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

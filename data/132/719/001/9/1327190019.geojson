@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gangan"
+    ],
+    "name:deu_x_preferred":[
+        "Gangan Verlag"
+    ],
+    "name:fra_x_preferred":[
+        "Gangan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30f3\u30ac\u30f3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327190019,
-    "wof:lastmodified":1537029648,
+    "wof:lastmodified":1564182134,
     "wof:name":"Gangan",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

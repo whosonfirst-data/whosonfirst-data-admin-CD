@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lokandu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209077497,
-    "wof:lastmodified":1536298446,
+    "wof:lastmodified":1564184155,
     "wof:name":"Lokandu",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

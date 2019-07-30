@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Befale"
+    ],
+    "name:ron_x_preferred":[
+        "Befale"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1259414305,
-    "wof:lastmodified":1537489150,
+    "wof:lastmodified":1564186784,
     "wof:name":"Befale",
     "wof:parent_id":1091679649,
     "wof:placetype":"locality",

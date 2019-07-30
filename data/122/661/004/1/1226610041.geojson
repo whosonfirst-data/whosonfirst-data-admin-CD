@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lozi"
+    ],
+    "name:fra_x_preferred":[
+        "Lozi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0437\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226610041,
-    "wof:lastmodified":1536910264,
+    "wof:lastmodified":1564187318,
     "wof:name":"Lozi",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

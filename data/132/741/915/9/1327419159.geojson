@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Donda"
+    ],
+    "name:deu_x_preferred":[
+        "Donda"
+    ],
+    "name:spa_x_preferred":[
+        "Donda"
+    ],
+    "name:swe_x_preferred":[
+        "Donda"
+    ],
     "name:und_x_variant":[
         "Bonda",
         "Donda",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1327419159,
-    "wof:lastmodified":1537590547,
+    "wof:lastmodified":1564181939,
     "wof:name":"Donda",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

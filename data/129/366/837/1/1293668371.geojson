@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Baranga"
+    ],
+    "name:spa_x_preferred":[
+        "Barangay"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293668371,
-    "wof:lastmodified":1537022551,
+    "wof:lastmodified":1564183186,
     "wof:name":"Baranga",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

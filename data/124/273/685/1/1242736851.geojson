@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Katunga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242736851,
-    "wof:lastmodified":1536833485,
+    "wof:lastmodified":1564186068,
     "wof:name":"Katunga",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

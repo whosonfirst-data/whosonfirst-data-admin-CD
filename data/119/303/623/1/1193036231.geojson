@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Biali"
+    ],
+    "name:pol_x_preferred":[
+        "Biali"
+    ],
+    "name:swe_x_preferred":[
+        "Biali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1193036231,
-    "wof:lastmodified":1536380757,
+    "wof:lastmodified":1564184820,
     "wof:name":"Biali",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

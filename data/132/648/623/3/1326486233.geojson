@@ -25,6 +25,33 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Penge"
+    ],
+    "name:azb_x_preferred":[
+        "\u067e\u0646\u062c"
+    ],
+    "name:dan_x_preferred":[
+        "Penge"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u062c"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0947\u0902\u091c"
+    ],
+    "name:ita_x_preferred":[
+        "Penge"
+    ],
+    "name:nld_x_preferred":[
+        "Penge"
+    ],
+    "name:pol_x_preferred":[
+        "Penge"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0646\u06af\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1326486233,
-    "wof:lastmodified":1537048374,
+    "wof:lastmodified":1564182048,
     "wof:name":"Penge",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

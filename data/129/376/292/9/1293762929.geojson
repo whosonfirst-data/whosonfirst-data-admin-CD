@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Balanga"
+    ],
+    "name:ilo_x_preferred":[
+        "Balanga"
+    ],
+    "name:ita_x_preferred":[
+        "Balanga"
+    ],
+    "name:swe_x_preferred":[
+        "Balanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1293762929,
-    "wof:lastmodified":1536886612,
+    "wof:lastmodified":1564183134,
     "wof:name":"Balanga",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

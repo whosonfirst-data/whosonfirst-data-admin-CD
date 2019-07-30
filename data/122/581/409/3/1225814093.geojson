@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nasoni"
+    ],
+    "name:hrv_x_preferred":[
+        "Upper Nasoni"
+    ],
     "name:und_x_variant":[
         "Nasogni",
         "Nasoni"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1225814093,
-    "wof:lastmodified":1537590483,
+    "wof:lastmodified":1564187345,
     "wof:name":"Nasoni",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

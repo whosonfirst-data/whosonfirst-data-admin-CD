@@ -29,6 +29,9 @@
         "Ngoka",
         "Ngora"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u06af\u0648\u0631\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1209195507,
-    "wof:lastmodified":1537590344,
+    "wof:lastmodified":1564184644,
     "wof:name":"Ngora",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Belo"
+    ],
+    "name:ita_x_preferred":[
+        "Belo"
+    ],
+    "name:swe_x_preferred":[
+        "Belo"
+    ],
     "name:und_x_variant":[
         "Bele",
         "Belo"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1225811365,
-    "wof:lastmodified":1537590464,
+    "wof:lastmodified":1564187349,
     "wof:name":"Belo",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

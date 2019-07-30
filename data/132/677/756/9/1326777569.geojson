@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kigumba"
+    ],
+    "name:lug_x_preferred":[
+        "Kigumba"
+    ],
     "name:und_x_variant":[
         "Kingumba",
         "Kigumba"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326777569,
-    "wof:lastmodified":1537590402,
+    "wof:lastmodified":1564182039,
     "wof:name":"Kigumba",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

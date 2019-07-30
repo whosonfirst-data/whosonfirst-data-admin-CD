@@ -25,6 +25,27 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gunda"
+    ],
+    "name:hun_x_preferred":[
+        "Gunda"
+    ],
+    "name:lat_x_preferred":[
+        "Gunda"
+    ],
+    "name:por_x_preferred":[
+        "Gunda"
+    ],
+    "name:swe_x_preferred":[
+        "Gunda"
+    ],
+    "name:vie_x_preferred":[
+        "Gunda"
+    ],
+    "name:war_x_preferred":[
+        "Gunda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -42,7 +63,7 @@
         }
     ],
     "wof:id":1209385177,
-    "wof:lastmodified":1536288649,
+    "wof:lastmodified":1564184136,
     "wof:name":"Gunda",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

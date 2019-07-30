@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Kapuku"
+    ],
     "name:und_x_variant":[
         "Kakuku"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243222629,
-    "wof:lastmodified":1537590411,
+    "wof:lastmodified":1564186305,
     "wof:name":"Kapuku",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

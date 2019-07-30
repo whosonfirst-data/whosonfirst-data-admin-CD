@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dungu"
+    ],
+    "name:deu_x_preferred":[
+        "Dungu"
+    ],
+    "name:swe_x_preferred":[
+        "Dungu"
+    ],
     "name:und_x_variant":[
         "Dunge",
         "Dungu"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226200269,
-    "wof:lastmodified":1537590546,
+    "wof:lastmodified":1564187192,
     "wof:name":"Dungu",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

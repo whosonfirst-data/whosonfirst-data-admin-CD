@@ -25,6 +25,36 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Malaika"
+    ],
+    "name:deu_x_preferred":[
+        "Malaika"
+    ],
+    "name:est_x_preferred":[
+        "Malaika"
+    ],
+    "name:fra_x_preferred":[
+        "Mala\u00efka"
+    ],
+    "name:hun_x_preferred":[
+        "Malaika"
+    ],
+    "name:ita_x_preferred":[
+        "Malaika"
+    ],
+    "name:nor_x_preferred":[
+        "Malaika"
+    ],
+    "name:spa_x_preferred":[
+        "Malaika"
+    ],
+    "name:swe_x_preferred":[
+        "Malaika"
+    ],
+    "name:vie_x_preferred":[
+        "Malaika"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1226817929,
-    "wof:lastmodified":1536608986,
+    "wof:lastmodified":1564187097,
     "wof:name":"Malaika",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

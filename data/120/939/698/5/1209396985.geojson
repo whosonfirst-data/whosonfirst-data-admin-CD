@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Badri"
+    ],
+    "name:deu_x_preferred":[
+        "Badri"
+    ],
+    "name:ita_x_preferred":[
+        "Badri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +43,7 @@
         "gn:id":220053
     },
     "wof:country":"CD",
-    "wof:geomhash":"67bb5631cba4e050e8c9ba2cfd40710f",
+    "wof:geomhash":"5319f8958443d247babbc1d2ce558ac7",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209396985,
-    "wof:lastmodified":1536288268,
+    "wof:lastmodified":1564184194,
     "wof:name":"Badri",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.816440000000004,
+    29.81644,
     4.03521,
-    29.816440000000004,
+    29.81644,
     4.03521
 ],
   "geometry": {"coordinates":[29.81644,4.03521],"type":"Point"}

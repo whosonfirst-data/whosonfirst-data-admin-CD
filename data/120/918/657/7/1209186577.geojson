@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Makombo"
+    ],
     "name:und_x_variant":[
         "Mokambo",
         "Magambo",
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1209186577,
-    "wof:lastmodified":1537590375,
+    "wof:lastmodified":1564184586,
     "wof:name":"Makombo",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

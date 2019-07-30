@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kabongo"
+    ],
+    "name:deu_x_preferred":[
+        "Kabongo"
+    ],
+    "name:fra_x_preferred":[
+        "Kabongo"
+    ],
+    "name:nds_x_preferred":[
+        "Kabongo"
+    ],
+    "name:ron_x_preferred":[
+        "Kabongo"
+    ],
+    "name:swe_x_preferred":[
+        "Kabongo"
+    ],
     "name:und_x_variant":[
         "Kabango",
         "Kabongo"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1309674491,
-    "wof:lastmodified":1537590538,
+    "wof:lastmodified":1564185898,
     "wof:name":"Kabongo",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u516b\u5742\u99c5"
+    ],
+    "name:kor_x_preferred":[
+        "\uc57c\uc0ac\uce74 \uc5ed"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243213941,
-    "wof:lastmodified":1536643121,
+    "wof:lastmodified":1564186615,
     "wof:name":"Yasaka",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

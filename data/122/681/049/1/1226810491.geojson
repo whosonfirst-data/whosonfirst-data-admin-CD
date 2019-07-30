@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Balabala"
+    ],
     "name:fra_x_preferred":[
         "Balabala"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226810491,
-    "wof:lastmodified":1537590564,
+    "wof:lastmodified":1564187090,
     "wof:name":"Balabala",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

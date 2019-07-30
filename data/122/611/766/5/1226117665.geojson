@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kajika"
+    ],
+    "name:fra_x_preferred":[
+        "Kajika"
+    ],
+    "name:ita_x_preferred":[
+        "Kajika"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30b8\u30ab"
+    ],
+    "name:spa_x_preferred":[
+        "Kajika"
+    ],
+    "name:swe_x_preferred":[
+        "Kajika"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1226117665,
-    "wof:lastmodified":1536619243,
+    "wof:lastmodified":1564187219,
     "wof:name":"Kajika",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

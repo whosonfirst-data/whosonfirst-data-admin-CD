@@ -25,8 +25,26 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lukula"
+    ],
+    "name:fra_x_preferred":[
+        "Lukula"
+    ],
+    "name:ita_x_preferred":[
+        "Lukula"
+    ],
+    "name:kon_x_preferred":[
+        "Lukula"
+    ],
+    "name:ron_x_preferred":[
+        "Lukula"
+    ],
     "name:und_x_variant":[
         "Lukule"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u5eab\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1226409033,
-    "wof:lastmodified":1537590382,
+    "wof:lastmodified":1564187495,
     "wof:name":"Lukula",
     "wof:parent_id":1091680399,
     "wof:placetype":"locality",

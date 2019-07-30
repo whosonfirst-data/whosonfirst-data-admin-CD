@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Makana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326504547,
-    "wof:lastmodified":1537022984,
+    "wof:lastmodified":1564181877,
     "wof:name":"Makana",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

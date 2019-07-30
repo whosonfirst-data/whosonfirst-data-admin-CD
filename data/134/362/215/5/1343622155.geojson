@@ -25,6 +25,21 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Songe"
+    ],
+    "name:jav_x_preferred":[
+        "Songe"
+    ],
+    "name:msa_x_preferred":[
+        "Songe"
+    ],
+    "name:nno_x_preferred":[
+        "Songe"
+    ],
+    "name:nor_x_preferred":[
+        "Songe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343622155,
-    "wof:lastmodified":1537009731,
+    "wof:lastmodified":1564182276,
     "wof:name":"Songe",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

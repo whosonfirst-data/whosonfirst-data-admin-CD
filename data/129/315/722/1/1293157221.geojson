@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sandala"
+    ],
+    "name:swe_x_preferred":[
+        "Sandala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1293157221,
-    "wof:lastmodified":1536766787,
+    "wof:lastmodified":1564183106,
     "wof:name":"Sandala",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

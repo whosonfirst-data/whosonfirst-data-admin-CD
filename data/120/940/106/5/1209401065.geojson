@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pamba"
+    ],
+    "name:deu_x_preferred":[
+        "Pamba"
+    ],
+    "name:swa_x_preferred":[
+        "Pamba"
+    ],
+    "name:swe_x_preferred":[
+        "Pamba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209401065,
-    "wof:lastmodified":1536288145,
+    "wof:lastmodified":1564184353,
     "wof:name":"Pamba",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

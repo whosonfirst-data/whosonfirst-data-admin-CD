@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":26466001.836288,
+    "geom:area_square_m":0.0,
     "geom:bbox":"15.280192,-4.321842,15.280192,-4.321842",
     "geom:latitude":-4.321842,
     "geom:longitude":15.280192,
@@ -28,8 +28,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043b\u0456\u043d\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Kalina"
     ],
     "name:ces_x_preferred":[
         "Kalina"
@@ -38,6 +44,9 @@
         "Kalina"
     ],
     "name:fra_x_preferred":[
+        "Kalina"
+    ],
+    "name:ita_x_preferred":[
         "Kalina"
     ],
     "name:nld_x_preferred":[
@@ -53,6 +62,12 @@
         "\u041a\u0430\u043b\u0438\u043d\u0430"
     ],
     "name:spa_x_preferred":[
+        "Kalina"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u043b\u0438\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Kalina"
     ],
     "name:ukr_x_preferred":[
@@ -139,7 +154,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1534379250,
+    "wof:lastmodified":1564182879,
     "wof:name":"Kalina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

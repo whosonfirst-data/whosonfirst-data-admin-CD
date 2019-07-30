@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mutshatsha"
+    ],
+    "name:fra_x_preferred":[
+        "Mutshatsha"
+    ],
+    "name:ita_x_preferred":[
+        "Mutshatsha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30c1\u30e3\u30c1\u30e3"
+    ],
+    "name:ron_x_preferred":[
+        "Mutshatsha"
+    ],
+    "name:swe_x_preferred":[
+        "Mutshatsha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1259639947,
-    "wof:lastmodified":1537489159,
+    "wof:lastmodified":1564186711,
     "wof:name":"Mutshatsha",
     "wof:parent_id":1091680197,
     "wof:placetype":"locality",

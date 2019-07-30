@@ -25,6 +25,21 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "Kuhu"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u0570\u0578\u0582"
+    ],
+    "name:pol_x_preferred":[
+        "Kuhu"
+    ],
+    "name:spa_x_preferred":[
+        "Kuhu"
+    ],
+    "name:vol_x_preferred":[
+        "Kuhu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1243419827,
-    "wof:lastmodified":1536842926,
+    "wof:lastmodified":1564186198,
     "wof:name":"Kuhu",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

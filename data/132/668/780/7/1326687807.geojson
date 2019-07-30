@@ -25,6 +25,21 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Oshwe"
+    ],
+    "name:fra_x_preferred":[
+        "Oshwe"
+    ],
+    "name:ita_x_preferred":[
+        "Oshwe"
+    ],
+    "name:ron_x_preferred":[
+        "Oshwe"
+    ],
+    "name:swe_x_preferred":[
+        "Oshwe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1326687807,
-    "wof:lastmodified":1537489167,
+    "wof:lastmodified":1564181868,
     "wof:name":"Oshwe",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

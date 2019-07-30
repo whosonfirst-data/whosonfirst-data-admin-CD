@@ -25,6 +25,27 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kitona"
+    ],
+    "name:fra_x_preferred":[
+        "Kitona"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0a4\ud1a0\ub098"
+    ],
+    "name:ron_x_preferred":[
+        "Kitona"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0442\u043e\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Kitona"
+    ],
+    "name:swe_x_preferred":[
+        "Kitona"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1193127895,
-    "wof:lastmodified":1537489176,
+    "wof:lastmodified":1564184799,
     "wof:name":"Kitona",
     "wof:parent_id":1091679303,
     "wof:placetype":"locality",

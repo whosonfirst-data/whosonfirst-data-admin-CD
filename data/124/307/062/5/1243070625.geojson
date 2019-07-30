@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bikoro"
+    ],
+    "name:ita_x_preferred":[
+        "Bikoro"
+    ],
+    "name:pol_x_preferred":[
+        "Bikoro"
+    ],
+    "name:ron_x_preferred":[
+        "Bikoro"
+    ],
+    "name:spa_x_preferred":[
+        "Bikoro"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u79d1\u7f85"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1243070625,
-    "wof:lastmodified":1537489189,
+    "wof:lastmodified":1564185982,
     "wof:name":"Bikoro",
     "wof:parent_id":1091679539,
     "wof:placetype":"locality",

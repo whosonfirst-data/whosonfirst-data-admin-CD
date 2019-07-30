@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kik_x_preferred":[
+        "Ikuma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310559469,
-    "wof:lastmodified":1536838215,
+    "wof:lastmodified":1564185272,
     "wof:name":"Ikuma",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

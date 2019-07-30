@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Moke"
+    ],
+    "name:fra_x_preferred":[
+        "Moke"
+    ],
+    "name:swe_x_preferred":[
+        "Moke"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209484837,
-    "wof:lastmodified":1536285669,
+    "wof:lastmodified":1564184291,
     "wof:name":"Moke",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

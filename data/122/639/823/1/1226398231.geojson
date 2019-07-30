@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbole"
+    ],
+    "name:fra_x_preferred":[
+        "Mbole"
+    ],
+    "name:swe_x_preferred":[
+        "Mbole"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226398231,
-    "wof:lastmodified":1536714360,
+    "wof:lastmodified":1564187609,
     "wof:name":"Mbole",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

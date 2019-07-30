@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kalenga"
+    ],
+    "name:swa_x_preferred":[
+        "Kalenga"
+    ],
     "name:und_x_variant":[
         "Kalenge"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259639941,
-    "wof:lastmodified":1537590492,
+    "wof:lastmodified":1564186711,
     "wof:name":"Kalenga",
     "wof:parent_id":1091680197,
     "wof:placetype":"locality",

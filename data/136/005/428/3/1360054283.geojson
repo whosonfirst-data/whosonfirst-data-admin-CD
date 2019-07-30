@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Savuka"
+    ],
+    "name:fra_x_preferred":[
+        "Savuka"
+    ],
+    "name:spa_x_preferred":[
+        "Savuka"
+    ],
+    "name:zul_x_preferred":[
+        "Savuka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1360054283,
-    "wof:lastmodified":1536989420,
+    "wof:lastmodified":1564185734,
     "wof:name":"Savuka",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

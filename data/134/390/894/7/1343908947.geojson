@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bokode"
+    ],
+    "name:ita_x_preferred":[
+        "Bokode"
+    ],
+    "name:jpn_x_preferred":[
+        "Bokode"
+    ],
     "name:und_x_variant":[
         "Bogode",
         "Bokode"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343908947,
-    "wof:lastmodified":1537590557,
+    "wof:lastmodified":1564182358,
     "wof:name":"Bokode",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

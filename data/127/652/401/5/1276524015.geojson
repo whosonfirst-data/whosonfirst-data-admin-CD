@@ -25,6 +25,30 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u043b\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Delo"
+    ],
+    "name:deu_x_preferred":[
+        "Delo"
+    ],
+    "name:ita_x_preferred":[
+        "Delo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043b\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Dielo"
+    ],
+    "name:swe_x_preferred":[
+        "Delo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043f\u0440\u0430\u0432\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1276524015,
-    "wof:lastmodified":1537019687,
+    "wof:lastmodified":1564184006,
     "wof:name":"Delo",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

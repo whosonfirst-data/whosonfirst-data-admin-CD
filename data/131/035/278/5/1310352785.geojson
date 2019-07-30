@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kole"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1310352785,
-    "wof:lastmodified":1537489198,
+    "wof:lastmodified":1564185458,
     "wof:name":"Kole",
     "wof:parent_id":1091680399,
     "wof:placetype":"locality",

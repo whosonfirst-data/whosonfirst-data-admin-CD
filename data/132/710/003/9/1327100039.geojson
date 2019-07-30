@@ -25,6 +25,30 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bibala"
+    ],
+    "name:deu_x_preferred":[
+        "Bibala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0628\u0627\u0644\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Bibala"
+    ],
+    "name:por_x_preferred":[
+        "Bibala"
+    ],
+    "name:ron_x_preferred":[
+        "Bibala"
+    ],
+    "name:spa_x_preferred":[
+        "Bibala"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u5df4\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1327100039,
-    "wof:lastmodified":1536662987,
+    "wof:lastmodified":1564182172,
     "wof:name":"Bibala",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

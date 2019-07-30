@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434\u0438\u0431\u0430\u043d\u0433\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259345895,
-    "wof:lastmodified":1537054168,
+    "wof:lastmodified":1564186932,
     "wof:name":"Badibanga",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

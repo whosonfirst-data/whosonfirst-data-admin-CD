@@ -25,6 +25,54 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:ceb_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:deu_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:eus_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:fra_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:ita_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041f\u0443\u043d\u0433\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:pol_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:por_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:spa_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:swe_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:ukr_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:vie_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:war_x_preferred":[
+        "Pungu maclareni"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u6c0f\u86f0\u4e3d\u9c7c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +96,7 @@
         }
     ],
     "wof:id":1226204849,
-    "wof:lastmodified":1536991896,
+    "wof:lastmodified":1564187185,
     "wof:name":"Pungu",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

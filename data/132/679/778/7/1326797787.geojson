@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Badja"
+    ],
+    "name:ceb_x_preferred":[
+        "Badja"
+    ],
+    "name:swe_x_preferred":[
+        "Badja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1326797787,
-    "wof:lastmodified":1537095278,
+    "wof:lastmodified":1564182009,
     "wof:name":"Badja",
     "wof:parent_id":1091679605,
     "wof:placetype":"locality",

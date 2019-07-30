@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kifuka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1209492325,
-    "wof:lastmodified":1537489125,
+    "wof:lastmodified":1564184400,
     "wof:name":"Kifuka",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

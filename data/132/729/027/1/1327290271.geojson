@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Senga"
+    ],
+    "name:ita_x_preferred":[
+        "Senga"
+    ],
+    "name:swa_x_preferred":[
+        "Senga"
+    ],
+    "name:swe_x_preferred":[
+        "Senga"
+    ],
     "name:und_x_variant":[
         "Mwene-Senga"
     ],
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1327290271,
-    "wof:lastmodified":1537590578,
+    "wof:lastmodified":1564182208,
     "wof:name":"Senga",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

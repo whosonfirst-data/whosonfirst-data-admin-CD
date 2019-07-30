@@ -25,6 +25,21 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tutanga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c4\u30bf\u30f3\u30ac\u5cf6"
+    ],
+    "name:pol_x_preferred":[
+        "Tutanga"
+    ],
+    "name:por_x_preferred":[
+        "Tutanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u5766\u52a0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343523237,
-    "wof:lastmodified":1536655828,
+    "wof:lastmodified":1564182324,
     "wof:name":"Tutanga",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

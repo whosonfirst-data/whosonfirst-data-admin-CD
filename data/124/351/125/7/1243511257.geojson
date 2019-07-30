@@ -25,6 +25,33 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Botola"
+    ],
+    "name:fin_x_preferred":[
+        "Botola"
+    ],
+    "name:hun_x_preferred":[
+        "Marokk\u00f3i labdar\u00fag\u00f3-bajnoks\u00e1g"
+    ],
+    "name:ind_x_preferred":[
+        "Botola"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30c8\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\ud1a8\ub77c"
+    ],
+    "name:ron_x_preferred":[
+        "Botola"
+    ],
+    "name:tur_x_preferred":[
+        "Botola Pro"
+    ],
+    "name:zho_x_preferred":[
+        "\u6469\u6d1b\u54e5\u8db3\u7403\u7532\u7d1a\u806f\u8cfd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1243511257,
-    "wof:lastmodified":1536712519,
+    "wof:lastmodified":1564186396,
     "wof:name":"Botola",
     "wof:parent_id":1091679605,
     "wof:placetype":"locality",

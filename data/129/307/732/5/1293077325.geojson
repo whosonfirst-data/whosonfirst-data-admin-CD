@@ -25,8 +25,35 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ituri"
+    ],
+    "name:ces_x_preferred":[
+        "Ituri"
+    ],
+    "name:deu_x_preferred":[
+        "Ituri"
+    ],
     "name:fra_x_preferred":[
         "Ituri"
+    ],
+    "name:hun_x_preferred":[
+        "Ituri"
+    ],
+    "name:ita_x_preferred":[
+        "Ituri"
+    ],
+    "name:nor_x_preferred":[
+        "Ituri"
+    ],
+    "name:pol_x_preferred":[
+        "Ituri"
+    ],
+    "name:swe_x_preferred":[
+        "Ituri"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u56fe\u5229"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1293077325,
-    "wof:lastmodified":1537590429,
+    "wof:lastmodified":1564182887,
     "wof:name":"Ituri",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

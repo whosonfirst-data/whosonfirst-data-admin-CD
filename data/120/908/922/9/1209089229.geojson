@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kabu"
+    ],
+    "name:nld_x_preferred":[
+        "Kabu"
+    ],
+    "name:swe_x_preferred":[
+        "Kabu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +43,7 @@
         "gn:id":215459
     },
     "wof:country":"CD",
-    "wof:geomhash":"9d3f6efac875df875fad39dc6602e33d",
+    "wof:geomhash":"3c0d2dd11b7e830e889effbc8955c8ec",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209089229,
-    "wof:lastmodified":1536298087,
+    "wof:lastmodified":1564184224,
     "wof:name":"Kabu",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     25.75933,
-    -7.950069999999998,
+    -7.95007,
     25.75933,
-    -7.950069999999998
+    -7.95007
 ],
   "geometry": {"coordinates":[25.75933,-7.95007],"type":"Point"}
 }

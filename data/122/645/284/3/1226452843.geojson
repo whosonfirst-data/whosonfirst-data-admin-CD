@@ -25,6 +25,84 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Njassaland"
+    ],
+    "name:ara_x_preferred":[
+        "\u0646\u064a\u0627\u0633\u0627\u0644\u0627\u0646\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Nyasalandia"
+    ],
+    "name:cat_x_preferred":[
+        "Nyasal\u00e0ndia"
+    ],
+    "name:ces_x_preferred":[
+        "\u0147asko"
+    ],
+    "name:cym_x_preferred":[
+        "Gwlad Nyasa"
+    ],
+    "name:dan_x_preferred":[
+        "Nyasaland"
+    ],
+    "name:epo_x_preferred":[
+        "Njasalando"
+    ],
+    "name:fin_x_preferred":[
+        "Njassamaa"
+    ],
+    "name:fra_x_preferred":[
+        "Nyassaland"
+    ],
+    "name:gle_x_preferred":[
+        "An Niasalainn"
+    ],
+    "name:ind_x_preferred":[
+        "Nyasaland"
+    ],
+    "name:ita_x_preferred":[
+        "Nyasaland"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e4\u30b5\u30e9\u30f3\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2c8\uc544\uc0b4\ub79c\ub4dc"
+    ],
+    "name:nld_x_preferred":[
+        "Nyasaland"
+    ],
+    "name:pol_x_preferred":[
+        "Nyasaland"
+    ],
+    "name:por_x_preferred":[
+        "Niassal\u00e2ndia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u044c\u044f\u0441\u0430\u043b\u0435\u043d\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Nyasalandia"
+    ],
+    "name:swe_x_preferred":[
+        "Nyasaland"
+    ],
+    "name:tum_x_preferred":[
+        "Nyasaland"
+    ],
+    "name:tur_x_preferred":[
+        "Nyasaland"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u044c\u044f\u0441\u0430\u043b\u0435\u043d\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "Nyasaland"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e9e\u85a9\u862d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +126,7 @@
         }
     ],
     "wof:id":1226452843,
-    "wof:lastmodified":1536633795,
+    "wof:lastmodified":1564187150,
     "wof:name":"Nyasaland",
     "wof:parent_id":1091680197,
     "wof:placetype":"locality",

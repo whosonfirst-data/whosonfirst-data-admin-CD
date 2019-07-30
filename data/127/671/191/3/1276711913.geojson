@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Idoma"
+    ],
     "name:und_x_variant":[
         "Idama",
         "Idoma"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276711913,
-    "wof:lastmodified":1537590541,
+    "wof:lastmodified":1564183933,
     "wof:name":"Idoma",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bulanda"
+    ],
+    "name:swe_x_preferred":[
+        "Bulanda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259357041,
-    "wof:lastmodified":1537038741,
+    "wof:lastmodified":1564186866,
     "wof:name":"Bulanda",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

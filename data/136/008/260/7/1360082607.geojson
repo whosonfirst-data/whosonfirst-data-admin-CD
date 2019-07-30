@@ -25,6 +25,99 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ang_x_preferred":[
+        "Wuduhen"
+    ],
+    "name:bre_x_preferred":[
+        "Weka"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0435\u043a\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Rascl\u00f3 weka"
+    ],
+    "name:ceb_x_preferred":[
+        "Gallirallus australis"
+    ],
+    "name:cym_x_preferred":[
+        "Weca"
+    ],
+    "name:dan_x_preferred":[
+        "Weka"
+    ],
+    "name:deu_x_preferred":[
+        "Wekaralle"
+    ],
+    "name:epo_x_preferred":[
+        "Vekaralo"
+    ],
+    "name:est_x_preferred":[
+        "Veeka"
+    ],
+    "name:eus_x_preferred":[
+        "Gallirallus australis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Vekaluhtakana"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e2le w\u00e9ka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Weka"
+    ],
+    "name:ind_x_preferred":[
+        "Weka"
+    ],
+    "name:ita_x_preferred":[
+        "Gallirallus australis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u30af\u30a4\u30ca"
+    ],
+    "name:lit_x_preferred":[
+        "Veka"
+    ],
+    "name:mri_x_preferred":[
+        "Weka"
+    ],
+    "name:nld_x_preferred":[
+        "Weka"
+    ],
+    "name:nno_x_preferred":[
+        "Wekarikse"
+    ],
+    "name:nor_x_preferred":[
+        "Wekarikse"
+    ],
+    "name:pol_x_preferred":[
+        "Weka"
+    ],
+    "name:por_x_preferred":[
+        "Gallirallus australis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0441\u0442\u0443\u0448\u043e\u043a-\u0443\u044d\u043a\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Gallirallus australis"
+    ],
+    "name:swe_x_preferred":[
+        "Wekarall"
+    ],
+    "name:vie_x_preferred":[
+        "Gallirallus australis"
+    ],
+    "name:war_x_preferred":[
+        "Gallirallus australis"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +141,7 @@
         }
     ],
     "wof:id":1360082607,
-    "wof:lastmodified":1536949565,
+    "wof:lastmodified":1564185651,
     "wof:name":"Weka",
     "wof:parent_id":1091679303,
     "wof:placetype":"locality",

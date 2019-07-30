@@ -27,6 +27,12 @@
     "name:eng_x_variant":[
         "Tshilenge"
     ],
+    "name:pol_x_preferred":[
+        "Tsilenge"
+    ],
+    "name:ron_x_preferred":[
+        "Tshilenge"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1091680373,
-    "wof:lastmodified":1536614917,
+    "wof:lastmodified":1564185745,
     "wof:name":"Tshilenge",
     "wof:parent_id":85670011,
     "wof:placetype":"county",

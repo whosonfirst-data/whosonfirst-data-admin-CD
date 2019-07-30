@@ -25,6 +25,21 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Roy"
+    ],
+    "name:fin_x_preferred":[
+        "Roy"
+    ],
+    "name:nno_x_preferred":[
+        "Roy"
+    ],
+    "name:nor_x_preferred":[
+        "Roy"
+    ],
+    "name:swe_x_preferred":[
+        "Roy"
+    ],
     "name:und_x_variant":[
         "Roi",
         "Roy"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1360064539,
-    "wof:lastmodified":1537590332,
+    "wof:lastmodified":1564185655,
     "wof:name":"Roy",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

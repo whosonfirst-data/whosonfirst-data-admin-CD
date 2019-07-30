@@ -25,6 +25,30 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boka"
+    ],
+    "name:deu_x_preferred":[
+        "Boka"
+    ],
+    "name:fra_x_preferred":[
+        "Boka"
+    ],
+    "name:hun_x_preferred":[
+        "Boka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u043a\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Boka"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u043e\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Boka"
+    ],
     "name:und_x_variant":[
         "Beka",
         "Bokulu",
@@ -47,7 +71,7 @@
         }
     ],
     "wof:id":1209479925,
-    "wof:lastmodified":1537590558,
+    "wof:lastmodified":1564184385,
     "wof:name":"Boka",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

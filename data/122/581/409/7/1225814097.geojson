@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Mases"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c3\u03b7\u03c2"
+    ],
+    "name:spa_x_preferred":[
+        "Mases"
+    ],
     "name:und_x_variant":[
         "Masese"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1225814097,
-    "wof:lastmodified":1537590371,
+    "wof:lastmodified":1564187344,
     "wof:name":"Mases",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

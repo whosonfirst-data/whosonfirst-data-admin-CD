@@ -25,6 +25,36 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zombi"
+    ],
+    "name:deu_x_preferred":[
+        "Zombi"
+    ],
+    "name:ind_x_preferred":[
+        "Zombi"
+    ],
+    "name:ita_x_preferred":[
+        "Zombi"
+    ],
+    "name:rus_x_preferred":[
+        "Zombi"
+    ],
+    "name:slk_x_preferred":[
+        "Zombi"
+    ],
+    "name:spa_x_preferred":[
+        "Zombi"
+    ],
+    "name:swe_x_preferred":[
+        "Zombi"
+    ],
+    "name:tur_x_preferred":[
+        "Zombi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043e\u043c\u0431\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1259744923,
-    "wof:lastmodified":1536978202,
+    "wof:lastmodified":1564186963,
     "wof:name":"Zombi",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

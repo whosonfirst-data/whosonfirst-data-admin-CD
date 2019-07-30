@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Matango"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30bf\u30f3\u30b4"
+    ],
+    "name:ron_x_preferred":[
+        "Matango"
+    ],
+    "name:zho_x_preferred":[
+        "\u746a\u5766\u6208"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1360066397,
-    "wof:lastmodified":1536972278,
+    "wof:lastmodified":1564185659,
     "wof:name":"Matango",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

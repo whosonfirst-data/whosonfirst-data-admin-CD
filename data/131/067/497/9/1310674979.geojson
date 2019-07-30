@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Tsilenge"
+    ],
+    "name:ron_x_preferred":[
+        "Tshilenge"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1310674979,
-    "wof:lastmodified":1536672419,
+    "wof:lastmodified":1564185538,
     "wof:name":"Tshilenge",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

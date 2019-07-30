@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tshibinda"
+    ],
+    "name:fra_x_preferred":[
+        "Tshibinda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0448\u0438\u0431\u0438\u043d\u0434\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Tshibinda"
+    ],
     "name:und_x_variant":[
         "Mulungu-Tshibinda",
         "Tshibinda"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243250687,
-    "wof:lastmodified":1537590319,
+    "wof:lastmodified":1564186316,
     "wof:name":"Tshibinda",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

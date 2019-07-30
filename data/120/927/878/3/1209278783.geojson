@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bakebe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209278783,
-    "wof:lastmodified":1536292097,
+    "wof:lastmodified":1564184575,
     "wof:name":"Bakebe",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

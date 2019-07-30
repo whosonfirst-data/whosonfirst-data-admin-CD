@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lende"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226030093,
-    "wof:lastmodified":1536747551,
+    "wof:lastmodified":1564187284,
     "wof:name":"Lende",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

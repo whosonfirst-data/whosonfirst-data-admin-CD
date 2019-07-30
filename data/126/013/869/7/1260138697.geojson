@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nasoni"
+    ],
+    "name:hrv_x_preferred":[
+        "Upper Nasoni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1260138697,
-    "wof:lastmodified":1536909748,
+    "wof:lastmodified":1564184951,
     "wof:name":"Nasoni",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

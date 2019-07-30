@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kintoni"
+    ],
     "name:und_x_variant":[
         "Kintoni",
         "Kinfoni"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1344042823,
-    "wof:lastmodified":1537590565,
+    "wof:lastmodified":1564182765,
     "wof:name":"Kinfoni",
     "wof:parent_id":1091679351,
     "wof:placetype":"locality",

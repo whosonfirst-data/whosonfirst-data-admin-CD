@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kimvula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1242763009,
-    "wof:lastmodified":1536796851,
+    "wof:lastmodified":1564186494,
     "wof:name":"Kimvula",
     "wof:parent_id":1091679351,
     "wof:placetype":"locality",

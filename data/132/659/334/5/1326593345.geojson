@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Wassa"
+    ],
     "name:und_x_variant":[
         "Wasa"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1326593345,
-    "wof:lastmodified":1537590311,
+    "wof:lastmodified":1564181834,
     "wof:name":"Wassa",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

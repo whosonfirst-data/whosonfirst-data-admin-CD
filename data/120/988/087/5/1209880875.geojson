@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lusanga"
+    ],
+    "name:swe_x_preferred":[
+        "Lusanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1209880875,
-    "wof:lastmodified":1536395107,
+    "wof:lastmodified":1564184700,
     "wof:name":"Lusanga",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

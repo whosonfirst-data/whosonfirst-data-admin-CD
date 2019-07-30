@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u06a9\u0646\u06cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06a9\u0646\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1327194515,
-    "wof:lastmodified":1537023407,
+    "wof:lastmodified":1564182139,
     "wof:name":"Bokoni",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

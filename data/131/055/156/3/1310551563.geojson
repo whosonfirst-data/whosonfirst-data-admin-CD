@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Barumbu"
+    ],
+    "name:eus_x_preferred":[
+        "Barumbu"
+    ],
+    "name:fra_x_preferred":[
+        "Barumbu"
+    ],
+    "name:ind_x_preferred":[
+        "Barumbu"
+    ],
+    "name:lin_x_preferred":[
+        "Barumb\u00fa"
+    ],
+    "name:swe_x_preferred":[
+        "Barumbu"
+    ],
     "name:und_x_variant":[
         "Barumou",
         "Barumbu"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1310551563,
-    "wof:lastmodified":1537590468,
+    "wof:lastmodified":1564185270,
     "wof:name":"Barumbu",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

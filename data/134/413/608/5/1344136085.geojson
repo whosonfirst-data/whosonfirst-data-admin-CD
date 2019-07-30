@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Basilia"
+    ],
+    "name:lat_x_preferred":[
+        "Basilia"
+    ],
+    "name:swe_x_preferred":[
+        "Basilia"
+    ],
     "name:und_x_variant":[
         "Bazilia",
         "Basilia"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1344136085,
-    "wof:lastmodified":1537590467,
+    "wof:lastmodified":1564182386,
     "wof:name":"Basilia",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

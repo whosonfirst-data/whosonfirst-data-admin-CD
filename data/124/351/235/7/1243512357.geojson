@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sha"
+    ],
+    "name:ceb_x_preferred":[
+        "Sha"
+    ],
+    "name:fin_x_preferred":[
+        "SHA"
+    ],
+    "name:pol_x_preferred":[
+        "Sha"
+    ],
+    "name:spa_x_preferred":[
+        "Sha"
+    ],
+    "name:swe_x_preferred":[
+        "Sha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1243512357,
-    "wof:lastmodified":1536710937,
+    "wof:lastmodified":1564186384,
     "wof:name":"Sha",
     "wof:parent_id":1091679455,
     "wof:placetype":"locality",

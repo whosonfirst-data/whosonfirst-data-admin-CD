@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uae30\ubaa8\ud1a0"
+    ],
     "name:und_x_variant":[
         "Kimoka",
         "Kimoto"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310200343,
-    "wof:lastmodified":1537590400,
+    "wof:lastmodified":1564185345,
     "wof:name":"Kimoto",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

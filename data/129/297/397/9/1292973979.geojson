@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Genda"
+    ],
+    "name:deu_x_preferred":[
+        "Genda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044d\u043d\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Genda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1292973979,
-    "wof:lastmodified":1537029137,
+    "wof:lastmodified":1564183327,
     "wof:name":"Genda",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dipanda"
+    ],
+    "name:fra_x_preferred":[
+        "Dipanda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326703967,
-    "wof:lastmodified":1536736582,
+    "wof:lastmodified":1564182022,
     "wof:name":"Dipanda",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

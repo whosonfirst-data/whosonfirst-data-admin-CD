@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lopes"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1292993113,
-    "wof:lastmodified":1537002003,
+    "wof:lastmodified":1564183344,
     "wof:name":"Lopes",
     "wof:parent_id":1091679267,
     "wof:placetype":"locality",

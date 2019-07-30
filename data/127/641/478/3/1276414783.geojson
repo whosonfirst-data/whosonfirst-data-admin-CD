@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Kambila"
+    ],
+    "name:fra_x_preferred":[
+        "Kambila"
+    ],
+    "name:ita_x_preferred":[
+        "Kambila"
+    ],
+    "name:nld_x_preferred":[
+        "Kambila"
+    ],
+    "name:spa_x_preferred":[
+        "Kambila"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u6bd4\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276414783,
-    "wof:lastmodified":1536669562,
+    "wof:lastmodified":1564183962,
     "wof:name":"Kambila",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lokole"
+    ],
+    "name:lin_x_preferred":[
+        "Lokol\u00e9"
+    ],
     "name:und_x_variant":[
         "Lokolo",
         "Lokole"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343394281,
-    "wof:lastmodified":1537590387,
+    "wof:lastmodified":1564182311,
     "wof:name":"Lokole",
     "wof:parent_id":1091679649,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0415\u043a\u0430\u0442\u0430"
+    ],
     "name:und_x_variant":[
         "Ekala",
         "Ekata"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260027175,
-    "wof:lastmodified":1537590545,
+    "wof:lastmodified":1564185128,
     "wof:name":"Ekata",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

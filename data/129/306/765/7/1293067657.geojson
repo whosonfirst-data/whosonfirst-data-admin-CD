@@ -25,6 +25,87 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pimbo"
+    ],
+    "name:ceb_x_preferred":[
+        "Pimbo"
+    ],
+    "name:deu_x_preferred":[
+        "Pimbo"
+    ],
+    "name:est_x_preferred":[
+        "Pimbo"
+    ],
+    "name:eus_x_preferred":[
+        "Pimbo"
+    ],
+    "name:fra_x_preferred":[
+        "Pimbo"
+    ],
+    "name:hun_x_preferred":[
+        "Pimbo"
+    ],
+    "name:ita_x_preferred":[
+        "Pimbo"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041f\u0435\u043c\u0431\u043e"
+    ],
+    "name:lat_x_preferred":[
+        "Pimbo"
+    ],
+    "name:msa_x_preferred":[
+        "Pimbo"
+    ],
+    "name:nld_x_preferred":[
+        "Pimbo"
+    ],
+    "name:oci_x_preferred":[
+        "Pimbo"
+    ],
+    "name:pms_x_preferred":[
+        "Pimbo"
+    ],
+    "name:pol_x_preferred":[
+        "Pimbo"
+    ],
+    "name:por_x_preferred":[
+        "Pimbo"
+    ],
+    "name:ron_x_preferred":[
+        "Pimbo"
+    ],
+    "name:slk_x_preferred":[
+        "Pimbo"
+    ],
+    "name:slv_x_preferred":[
+        "Pimbo"
+    ],
+    "name:spa_x_preferred":[
+        "Pimbo"
+    ],
+    "name:swe_x_preferred":[
+        "Pimbo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043c\u0431\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Pimbo"
+    ],
+    "name:vie_x_preferred":[
+        "Pimbo"
+    ],
+    "name:vol_x_preferred":[
+        "Pimbo"
+    ],
+    "name:war_x_preferred":[
+        "Pimbo"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u59c6\u535a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +129,7 @@
         }
     ],
     "wof:id":1293067657,
-    "wof:lastmodified":1536895281,
+    "wof:lastmodified":1564182968,
     "wof:name":"Pimbo",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tshimbulu"
+    ],
+    "name:ron_x_preferred":[
+        "Tshimbulu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1326998687,
-    "wof:lastmodified":1536808855,
+    "wof:lastmodified":1564182056,
     "wof:name":"Tshimbulu",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",

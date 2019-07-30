@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kimwenza"
+    ],
+    "name:fra_x_preferred":[
+        "Kimwenza"
+    ],
+    "name:kon_x_preferred":[
+        "Kimwenza"
+    ],
     "name:und_x_variant":[
         "Kimuenza",
         "Kimwenza"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1343283865,
-    "wof:lastmodified":1537590532,
+    "wof:lastmodified":1564182818,
     "wof:name":"Kimwenza",
     "wof:parent_id":1091679225,
     "wof:placetype":"locality",

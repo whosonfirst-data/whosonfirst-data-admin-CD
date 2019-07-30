@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lumina"
+    ],
+    "name:deu_x_preferred":[
+        "Lumina"
+    ],
+    "name:ron_x_preferred":[
+        "Lumina"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1260063661,
-    "wof:lastmodified":1537015866,
+    "wof:lastmodified":1564185022,
     "wof:name":"Lumina",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

@@ -25,6 +25,42 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Maiko"
+    ],
+    "name:cat_x_preferred":[
+        "Maiko"
+    ],
+    "name:fin_x_preferred":[
+        "Maiko"
+    ],
+    "name:fra_x_preferred":[
+        "Maiko"
+    ],
+    "name:hun_x_preferred":[
+        "Maik\u00f3"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u0575\u056f\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Maiko"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc774\ucf54"
+    ],
+    "name:pol_x_preferred":[
+        "Maiko"
+    ],
+    "name:ron_x_preferred":[
+        "Maiko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0439\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Maiko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1277023997,
-    "wof:lastmodified":1536846825,
+    "wof:lastmodified":1564183861,
     "wof:name":"Maiko",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

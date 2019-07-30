@@ -25,6 +25,24 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bayo"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayo"
+    ],
+    "name:deu_x_preferred":[
+        "Bayo"
+    ],
+    "name:fra_x_preferred":[
+        "Bayo"
+    ],
+    "name:ita_x_preferred":[
+        "Bayo"
+    ],
+    "name:swe_x_preferred":[
+        "Bayo"
+    ],
     "name:und_x_variant":[
         "Baya",
         "Bayo"
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1309878775,
-    "wof:lastmodified":1537590465,
+    "wof:lastmodified":1564185926,
     "wof:name":"Bayo",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mukota-Schwein"
+    ],
+    "name:vie_x_preferred":[
+        "L\u1ee3n Mukota"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1310269637,
-    "wof:lastmodified":1536759952,
+    "wof:lastmodified":1564185430,
     "wof:name":"Mukota",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

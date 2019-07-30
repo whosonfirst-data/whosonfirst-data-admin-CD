@@ -25,7 +25,19 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Keke"
+    ],
+    "name:fin_x_preferred":[
+        "Keke"
+    ],
     "name:fra_x_preferred":[
+        "Keke"
+    ],
+    "name:por_x_preferred":[
+        "Keke"
+    ],
+    "name:swe_x_preferred":[
         "Keke"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1259630709,
-    "wof:lastmodified":1537590536,
+    "wof:lastmodified":1564186705,
     "wof:name":"Keke",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

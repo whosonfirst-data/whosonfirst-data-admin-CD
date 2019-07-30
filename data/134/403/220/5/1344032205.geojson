@@ -25,6 +25,15 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Masi-Manimba"
+    ],
+    "name:fra_x_preferred":[
+        "Masi-Manimba"
+    ],
+    "name:swe_x_preferred":[
+        "Masi-Manimba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1344032205,
-    "wof:lastmodified":1537489172,
+    "wof:lastmodified":1564182749,
     "wof:name":"Masi-Manimba",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

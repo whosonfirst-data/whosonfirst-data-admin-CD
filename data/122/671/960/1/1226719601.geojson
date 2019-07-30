@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0443\u0441\u044f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0443\u0441\u044f"
+    ],
     "name:und_x_variant":[
         "Maruzia"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226719601,
-    "wof:lastmodified":1537590372,
+    "wof:lastmodified":1564187475,
     "wof:name":"Marusia",
     "wof:parent_id":1091679755,
     "wof:placetype":"locality",

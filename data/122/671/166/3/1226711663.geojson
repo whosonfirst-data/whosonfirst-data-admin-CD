@@ -25,6 +25,39 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kibo"
+    ],
+    "name:dan_x_preferred":[
+        "Kibo"
+    ],
+    "name:deu_x_preferred":[
+        "Kibo"
+    ],
+    "name:epo_x_preferred":[
+        "Kibo"
+    ],
+    "name:fin_x_preferred":[
+        "Kibo"
+    ],
+    "name:fra_x_preferred":[
+        "Kib\u014d"
+    ],
+    "name:hun_x_preferred":[
+        "Kibo"
+    ],
+    "name:lav_x_preferred":[
+        "Kibo"
+    ],
+    "name:pol_x_preferred":[
+        "Kibo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0431\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kibo"
+    ],
     "name:und_x_variant":[
         "Kobo",
         "Kibo"
@@ -52,7 +85,7 @@
         }
     ],
     "wof:id":1226711663,
-    "wof:lastmodified":1537590535,
+    "wof:lastmodified":1564187463,
     "wof:name":"Kibo",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

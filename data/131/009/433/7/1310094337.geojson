@@ -25,6 +25,18 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Obila"
+    ],
+    "name:swe_x_preferred":[
+        "Obila"
+    ],
+    "name:vie_x_preferred":[
+        "Obila"
+    ],
+    "name:war_x_preferred":[
+        "Obila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310094337,
-    "wof:lastmodified":1537011908,
+    "wof:lastmodified":1564185249,
     "wof:name":"Obila",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

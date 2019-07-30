@@ -25,6 +25,12 @@
     "iso:country":"CD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mulondo"
+    ],
+    "name:swe_x_preferred":[
+        "Mulondo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226289657,
-    "wof:lastmodified":1536869320,
+    "wof:lastmodified":1564187124,
     "wof:name":"Mulondo",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",
