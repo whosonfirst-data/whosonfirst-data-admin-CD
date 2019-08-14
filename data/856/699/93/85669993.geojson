@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BC"
+    ],
     "lbl:latitude":-5.315851,
     "lbl:longitude":14.115332,
     "mps:latitude":-5.315851,
@@ -282,9 +285,6 @@
         }
     ],
     "wof:id":85669993,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
@@ -295,7 +295,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1563292697,
+    "wof:lastmodified":1565661858,
     "wof:name":"Bas-Congo",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

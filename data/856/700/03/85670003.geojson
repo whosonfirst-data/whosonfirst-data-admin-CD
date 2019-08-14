@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Sud-Kivu Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KV"
+    ],
     "lbl:latitude":-3.233751,
     "lbl:longitude":28.221314,
     "mps:latitude":-3.233751,
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85670003,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
@@ -308,7 +308,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1563292693,
+    "wof:lastmodified":1565661858,
     "wof:name":"Sud-Kivu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

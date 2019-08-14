@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Kasa\u00ef-Occidental Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KC"
+    ],
     "lbl:latitude":-5.399199,
     "lbl:longitude":21.622831,
     "mps:latitude":-5.399199,
@@ -275,9 +278,6 @@
         }
     ],
     "wof:id":85669989,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
@@ -288,7 +288,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1563292698,
+    "wof:lastmodified":1565661858,
     "wof:name":"Kasa\u00ef-Occidental",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

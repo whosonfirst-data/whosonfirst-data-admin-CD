@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "\u00c9quateur Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EQ"
+    ],
     "lbl:latitude":1.069646,
     "lbl:longitude":20.217009,
     "mps:latitude":1.069646,
@@ -255,9 +258,6 @@
         }
     ],
     "wof:id":85669975,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
@@ -268,7 +268,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1563292699,
+    "wof:lastmodified":1565661858,
     "wof:name":"\u00c9quateur",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

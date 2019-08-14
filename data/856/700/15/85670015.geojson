@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Katanga Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KT"
+    ],
     "lbl:latitude":-8.882471,
     "lbl:longitude":26.079037,
     "mps:latitude":-8.882471,
@@ -324,9 +327,6 @@
         }
     ],
     "wof:id":85670015,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
@@ -337,7 +337,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1563292697,
+    "wof:lastmodified":1565661858,
     "wof:name":"Katanga",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

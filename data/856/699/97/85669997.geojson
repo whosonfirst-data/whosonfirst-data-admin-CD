@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Kinshasa City"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KN"
+    ],
     "lbl:latitude":-4.404224,
     "lbl:longitude":16.047398,
     "mps:latitude":-4.404224,
@@ -159,9 +162,6 @@
         }
     ],
     "wof:id":85669997,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
@@ -172,7 +172,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1563292699,
+    "wof:lastmodified":1565661859,
     "wof:name":"Kinshasa City",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

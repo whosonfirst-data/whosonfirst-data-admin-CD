@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Maniema Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":-3.392007,
     "lbl:longitude":26.04547,
     "mps:latitude":-3.392007,
@@ -304,9 +307,6 @@
         }
     ],
     "wof:id":85670007,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
@@ -317,14 +317,14 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1563292696,
+    "wof:lastmodified":1565661858,
     "wof:name":"Maniema",
     "wof:parent_id":85632643,
     "wof:placetype":"region",
     "wof:population":1718257,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-cd",
-    "wof:shortcode":"D.",
+    "wof:shortcode":"MA",
     "wof:subdivision":"CD-MA",
     "wof:superseded_by":[],
     "wof:supersedes":[],

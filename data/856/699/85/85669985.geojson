@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Bandundu Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BN"
+    ],
     "lbl:latitude":-4.432803,
     "lbl:longitude":18.313187,
     "mps:latitude":-4.432803,
@@ -282,9 +285,6 @@
         }
     ],
     "wof:id":85669985,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
@@ -295,7 +295,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1563292701,
+    "wof:lastmodified":1565661859,
     "wof:name":"Bandundu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",
