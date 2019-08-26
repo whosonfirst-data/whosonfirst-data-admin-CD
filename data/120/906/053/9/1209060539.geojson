@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.52743,-4.95592,23.56743,-4.91592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8250014
     },
     "wof:country":"CD",
-    "wof:geomhash":"8fc739b8459fd2f95aa20ca3a9b79911",
+    "wof:geomhash":"21f5533ecb09c7ddcde2d42a391c4426",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209060539,
-    "wof:lastmodified":1536298969,
+    "wof:lastmodified":1566635101,
     "wof:name":"Bombaie",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     23.54743,
-    -4.9359199999999985,
+    -4.93592,
     23.54743,
-    -4.9359199999999985
+    -4.93592
 ],
   "geometry": {"coordinates":[23.54743,-4.93592],"type":"Point"}
 }

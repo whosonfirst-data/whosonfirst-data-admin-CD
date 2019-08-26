@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.9325,-1.52333,28.9725,-1.48333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293368285,
-    "wof:lastmodified":1536958927,
+    "wof:lastmodified":1566634180,
     "wof:name":"Buniole",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

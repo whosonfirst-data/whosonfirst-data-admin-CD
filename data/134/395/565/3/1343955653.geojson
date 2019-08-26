@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"13.72867,-5.75716,13.76867,-5.71716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0424\u043e\u0440\u043d\u0430\u0441\u0430\u0440\u0438"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343955653,
-    "wof:lastmodified":1564182569,
+    "wof:lastmodified":1566633942,
     "wof:name":"Fornasari",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

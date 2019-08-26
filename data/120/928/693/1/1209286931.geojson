@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.37645,2.56464,27.41645,2.60464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8145521
     },
     "wof:country":"CD",
-    "wof:geomhash":"6876321421f8577cb3ba6b284204d450",
+    "wof:geomhash":"e91631bbd330a214ed57ceeb6d38b732",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209286931,
-    "wof:lastmodified":1536291827,
+    "wof:lastmodified":1566635448,
     "wof:name":"Maboda",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     27.39645,
-    2.5846400000000003,
+    2.58464,
     27.39645,
-    2.5846400000000003
+    2.58464
 ],
   "geometry": {"coordinates":[27.39645,2.58464],"type":"Point"}
 }

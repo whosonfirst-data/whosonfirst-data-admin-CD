@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.9122,-5.51088,17.9522,-5.47088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kikula"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309676721,
-    "wof:lastmodified":1564185897,
+    "wof:lastmodified":1566636315,
     "wof:name":"Kikula",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

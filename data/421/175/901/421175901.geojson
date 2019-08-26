@@ -10,6 +10,9 @@
     "geom:latitude":-6.47833,
     "geom:longitude":16.81735,
     "iso:country":"CD",
+    "lbl:bbox":"16.79735,-6.49833,16.83735,-6.45833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -157,7 +160,7 @@
     "wof:concordances":{
         "gn:id":2315026,
         "gp:id":1288783,
-        "qs:id":1034892,
+        "qs_pg:id":1034892,
         "wd:id":"Q3193717",
         "wk:page":"Kasongo Lunda"
     },
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":421175901,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1566636373,
     "wof:name":"Kasongo-Lunda",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

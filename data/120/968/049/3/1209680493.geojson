@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.99667,-4.95333,18.03667,-4.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":2314540
     },
     "wof:country":"CD",
-    "wof:geomhash":"eb39366b575dfe69fbb11295f855aa1f",
+    "wof:geomhash":"0bf54b826b6557de1ab7f9c87f980cdf",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209680493,
-    "wof:lastmodified":1536279594,
+    "wof:lastmodified":1566635275,
     "wof:name":"Kimofu",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     18.01667,
-    -4.9333300000000015,
+    -4.93333,
     18.01667,
-    -4.9333300000000015
+    -4.93333
 ],
   "geometry": {"coordinates":[18.01667,-4.93333],"type":"Point"}
 }

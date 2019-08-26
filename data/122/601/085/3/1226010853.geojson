@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.55771,-5.64645,21.59771,-5.60645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Dhimbes"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226010853,
-    "wof:lastmodified":1564187618,
+    "wof:lastmodified":1566637589,
     "wof:name":"Zemba",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

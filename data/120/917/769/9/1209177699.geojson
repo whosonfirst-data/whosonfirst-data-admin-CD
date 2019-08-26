@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"30.72536,2.25987,30.76536,2.29987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8143207
     },
     "wof:country":"CD",
-    "wof:geomhash":"2953929d30967580b38455e554e80372",
+    "wof:geomhash":"4926da7cd5268a9fa3afe54a3e389512",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209177699,
-    "wof:lastmodified":1536295366,
+    "wof:lastmodified":1566635437,
     "wof:name":"Oniaka",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     30.74536,
-    2.2798700000000003,
+    2.27987,
     30.74536,
-    2.2798700000000003
+    2.27987
 ],
   "geometry": {"coordinates":[30.74536,2.27987],"type":"Point"}
 }

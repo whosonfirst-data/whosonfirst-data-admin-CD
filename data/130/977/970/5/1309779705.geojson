@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.56509,-10.27182,28.60509,-10.23182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chibambo",
         "Tshibambo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309779705,
-    "wof:lastmodified":1537590482,
+    "wof:lastmodified":1566636263,
     "wof:name":"Tshibambo",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

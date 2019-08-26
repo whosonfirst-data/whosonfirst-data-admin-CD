@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.80559,-5.58261,19.84559,-5.54261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Samba"
     ],
@@ -252,7 +256,7 @@
         }
     ],
     "wof:id":1293654011,
-    "wof:lastmodified":1564182926,
+    "wof:lastmodified":1566634195,
     "wof:name":"Samba",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":3.33863,
     "geom:longitude":20.88577,
     "iso:country":"CD",
+    "lbl:bbox":"20.86577,3.31863,20.90577,3.35863",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -160,7 +163,7 @@
     "wof:concordances":{
         "gn:id":217637,
         "gp:id":1285517,
-        "qs:id":1026630,
+        "qs_pg:id":1026630,
         "wd:id":"Q581003",
         "wk:page":"Businga"
     },
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":421175669,
-    "wof:lastmodified":1561844943,
+    "wof:lastmodified":1566636374,
     "wof:name":"Businga",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.32814,2.94574,19.36814,2.98574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bozombali"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243019261,
-    "wof:lastmodified":1537590567,
+    "wof:lastmodified":1566636406,
     "wof:name":"Bozombali",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

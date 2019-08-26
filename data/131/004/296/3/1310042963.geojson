@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"20.90553,0.63625,20.94553,0.67625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lofoku",
         "Lofuko"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310042963,
-    "wof:lastmodified":1537590388,
+    "wof:lastmodified":1566635995,
     "wof:name":"Lofuko",
     "wof:parent_id":1091679649,
     "wof:placetype":"locality",

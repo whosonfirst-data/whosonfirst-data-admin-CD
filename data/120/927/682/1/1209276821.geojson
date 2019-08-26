@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.25667,-5.65799,17.29667,-5.61799",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8274676
     },
     "wof:country":"CD",
-    "wof:geomhash":"f55b06424b97fee6c7761a14fce0fd99",
+    "wof:geomhash":"aea2ae49977458ed66b2cdcaa55b01f1",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209276821,
-    "wof:lastmodified":1536292164,
+    "wof:lastmodified":1566635374,
     "wof:name":"Kalunga-Banza",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.276670000000006,
+    17.27667000000001,
     -5.63799,
-    17.276670000000006,
+    17.27667000000001,
     -5.63799
 ],
   "geometry": {"coordinates":[17.27667000000001,-5.63799],"type":"Point"}

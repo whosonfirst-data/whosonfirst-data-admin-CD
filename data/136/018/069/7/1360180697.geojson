@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.36333,-3.57,25.40333,-3.53",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tur_x_preferred":[
         "Twango"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360180697,
-    "wof:lastmodified":1564185673,
+    "wof:lastmodified":1566636155,
     "wof:name":"Twango",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

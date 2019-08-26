@@ -10,6 +10,9 @@
     "geom:latitude":4.1898,
     "geom:longitude":19.8833,
     "iso:country":"CD",
+    "lbl:bbox":"19.8633,4.1698,19.9033,4.2098",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -163,7 +166,7 @@
     "wof:concordances":{
         "gn:id":2316473,
         "gp:id":1285061,
-        "qs:id":278453,
+        "qs_pg:id":278453,
         "wd:id":"Q2911484",
         "wk:page":"Bosobolo"
     },
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":421178199,
-    "wof:lastmodified":1561844943,
+    "wof:lastmodified":1566636376,
     "wof:name":"Bosobolo",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

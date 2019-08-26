@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"20.04987,-6.60779,20.08987,-6.56779",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":205618
     },
     "wof:country":"CD",
-    "wof:geomhash":"23a85c04198108900718bb14ea796ddf",
+    "wof:geomhash":"4359239d8d2415a906bf18eaa91e5814",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209691835,
-    "wof:lastmodified":1536279212,
+    "wof:lastmodified":1566635340,
     "wof:name":"Shawotshia",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     20.06987,
-    -6.587789999999999,
+    -6.58779,
     20.06987,
-    -6.587789999999999
+    -6.58779
 ],
   "geometry": {"coordinates":[20.06987,-6.58779],"type":"Point"}
 }

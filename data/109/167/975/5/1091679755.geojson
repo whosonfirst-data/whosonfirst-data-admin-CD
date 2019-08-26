@@ -12,6 +12,8 @@
     "iso:country":"CD",
     "lbl:latitude":3.34558,
     "lbl:longitude":28.61941,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Orientale",
     "meso:gadm_admin":"Haut-Uele",
     "meso:gaul_admin":"Haut-Uele",
@@ -24,6 +26,7 @@
     "mps:longitude":28.61941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0412\u0435\u0440\u0445\u043d\u044f\u0435 \u0423\u044d\u043b\u0435"
     ],
@@ -121,7 +124,7 @@
         "\u4e0a\u97e6\u83b1\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643,
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":1091679755,
-    "wof:lastmodified":1563295427,
+    "wof:lastmodified":1566636220,
     "wof:name":"Haut-Uele",
     "wof:parent_id":85669979,
     "wof:placetype":"county",

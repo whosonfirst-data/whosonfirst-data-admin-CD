@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.02278,-7.0696,21.06278,-7.0296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344232789,
-    "wof:lastmodified":1536625073,
+    "wof:lastmodified":1566633838,
     "wof:name":"Tshikamba",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

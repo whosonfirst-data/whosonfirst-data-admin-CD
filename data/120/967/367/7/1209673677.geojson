@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.08416,-7.51824,23.12416,-7.47824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tambwe",
         "Tambwe-Yangala"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209673677,
-    "wof:lastmodified":1537590322,
+    "wof:lastmodified":1566635308,
     "wof:name":"Tambwe-Yangala",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

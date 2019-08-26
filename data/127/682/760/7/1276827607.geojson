@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.58945,-10.99765,23.62945,-10.95765",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Dua"
     ],
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":1276827607,
-    "wof:lastmodified":1564183913,
+    "wof:lastmodified":1566634882,
     "wof:name":"Dua",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

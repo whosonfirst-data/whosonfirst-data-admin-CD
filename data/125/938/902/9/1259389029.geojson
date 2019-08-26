@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.67713,-6.35133,23.71713,-6.31133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259389029,
-    "wof:lastmodified":1536993373,
+    "wof:lastmodified":1566636861,
     "wof:name":"Bena-Kadima",
     "wof:parent_id":1091680373,
     "wof:placetype":"locality",

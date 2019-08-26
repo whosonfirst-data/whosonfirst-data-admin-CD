@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.59141,-7.35603,23.63141,-7.31603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mole"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1293757625,
-    "wof:lastmodified":1564183475,
+    "wof:lastmodified":1566634574,
     "wof:name":"Mole",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

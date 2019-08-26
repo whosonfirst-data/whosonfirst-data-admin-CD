@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.59617,-7.28073,21.63617,-7.24073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8440260
     },
     "wof:country":"CD",
-    "wof:geomhash":"3538880e21117a20b2c1137587dc501d",
+    "wof:geomhash":"5e4e440bfe42f9a3bd3a6309f592c9c6",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209491239,
-    "wof:lastmodified":1536285478,
+    "wof:lastmodified":1566635249,
     "wof:name":"Mukungila",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     21.61617,
-    -7.2607300000000015,
+    -7.26073,
     21.61617,
-    -7.2607300000000015
+    -7.26073
 ],
   "geometry": {"coordinates":[21.61617,-7.26073],"type":"Point"}
 }

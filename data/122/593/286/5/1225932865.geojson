@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.22965,-4.44102,25.26965,-4.40102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gombe"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1225932865,
-    "wof:lastmodified":1564187044,
+    "wof:lastmodified":1566637170,
     "wof:name":"Gombe",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

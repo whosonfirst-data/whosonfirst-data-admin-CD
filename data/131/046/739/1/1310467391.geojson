@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.22114,-5.44601,17.26114,-5.40601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310467391,
-    "wof:lastmodified":1536971608,
+    "wof:lastmodified":1566635777,
     "wof:name":"Matombi",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

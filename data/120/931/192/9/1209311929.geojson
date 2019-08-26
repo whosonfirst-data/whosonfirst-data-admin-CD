@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"15.83707,-4.11847,15.87707,-4.07847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":10048982
     },
     "wof:country":"CD",
-    "wof:geomhash":"99e57a1b5704ec9f1c1e06d00cd81df5",
+    "wof:geomhash":"a8ca7f2760d598678c1378a5b8cd0060",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209311929,
-    "wof:lastmodified":1536290997,
+    "wof:lastmodified":1566635045,
     "wof:name":"Kamanka",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.857070000000002,
+    15.85707,
     -4.09847,
-    15.857070000000002,
+    15.85707,
     -4.09847
 ],
   "geometry": {"coordinates":[15.85707,-4.09847],"type":"Point"}

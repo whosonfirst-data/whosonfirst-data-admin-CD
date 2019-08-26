@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"14.4282,-5.62392,14.4682,-5.58392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09ae\u09cd\u09ac\u09bf"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1209307867,
-    "wof:lastmodified":1564184216,
+    "wof:lastmodified":1566635110,
     "wof:name":"Kumbi",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

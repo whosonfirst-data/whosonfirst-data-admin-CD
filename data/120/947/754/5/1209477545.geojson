@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.19305,-5.82367,18.23305,-5.78367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8276194
     },
     "wof:country":"CD",
-    "wof:geomhash":"f5775351a2a039bd3bc6345ef3bcaaf4",
+    "wof:geomhash":"be7ad9f2019099128ad74bc367d1ccc0",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209477545,
-    "wof:lastmodified":1536285888,
+    "wof:lastmodified":1566635230,
     "wof:name":"Makanda",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     18.21305,
-    -5.8036699999999986,
+    -5.80367,
     18.21305,
-    -5.8036699999999986
+    -5.80367
 ],
   "geometry": {"coordinates":[18.21305,-5.80367],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"20.65103,-4.35066,20.69103,-4.31066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293850041,
-    "wof:lastmodified":1536761897,
+    "wof:lastmodified":1566634337,
     "wof:name":"Malu-Malu",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

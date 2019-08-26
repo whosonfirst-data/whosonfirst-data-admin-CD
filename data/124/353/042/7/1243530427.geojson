@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.44628,-6.68675,21.48628,-6.64675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243530427,
-    "wof:lastmodified":1536684517,
+    "wof:lastmodified":1566636398,
     "wof:name":"Muela-Kapita",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

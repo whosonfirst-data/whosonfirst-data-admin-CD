@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.70282,-6.42349,23.74282,-6.38349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":9946757
     },
     "wof:country":"CD",
-    "wof:geomhash":"f4ed7712cfde6b3744f509ca74720239",
+    "wof:geomhash":"930a9b2be78db544f985d0aa749ce0ed",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209415301,
-    "wof:lastmodified":1536287708,
+    "wof:lastmodified":1566635207,
     "wof:name":"Mulemba",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     23.72282,
-    -6.4034900000000015,
+    -6.40349,
     23.72282,
-    -6.4034900000000015
+    -6.40349
 ],
   "geometry": {"coordinates":[23.72282,-6.40349],"type":"Point"}
 }

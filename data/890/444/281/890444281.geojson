@@ -11,8 +11,11 @@
     "geom:longitude":12.9484,
     "gn:country":"CD",
     "gn:fcode":"PPL",
-    "gn:pop":38845,
+    "gn:population":38845,
     "iso:country":"CD",
+    "lbl:bbox":"12.9284,-5.01707,12.9684,-4.97707",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -234,7 +237,7 @@
     "wof:concordances":{
         "gn:id":2311127,
         "gp:id":1477400,
-        "qs:id":1034804,
+        "qs_pg:id":1034804,
         "wd:id":"Q3090648",
         "wk:page":"Tshela"
     },
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":890444281,
-    "wof:lastmodified":1563295677,
+    "wof:lastmodified":1566636378,
     "wof:name":"Tshela",
     "wof:parent_id":85669993,
     "wof:placetype":"locality",

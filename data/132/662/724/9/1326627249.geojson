@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"14.93438,-5.4419,14.97438,-5.4019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326627249,
-    "wof:lastmodified":1536845950,
+    "wof:lastmodified":1566633591,
     "wof:name":"Lukuakwa",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

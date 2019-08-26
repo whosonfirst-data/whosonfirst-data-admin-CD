@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.09667,-9.33667,24.13667,-9.29667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":207909
     },
     "wof:country":"CD",
-    "wof:geomhash":"5f48b976814d6ec4fe336f537bb94b8d",
+    "wof:geomhash":"a7171714fbbbc34332255c8b9134207a",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209172505,
-    "wof:lastmodified":1536295532,
+    "wof:lastmodified":1566635434,
     "wof:name":"Musole",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.116670000000006,
+    24.11667000000001,
     -9.31667,
-    24.116670000000006,
+    24.11667000000001,
     -9.31667
 ],
   "geometry": {"coordinates":[24.11667000000001,-9.31667],"type":"Point"}

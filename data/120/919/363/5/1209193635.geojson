@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.20412,3.22889,27.24412,3.26889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8069400
     },
     "wof:country":"CD",
-    "wof:geomhash":"7cf6264f837c6ec0c5ae430dc9801d96",
+    "wof:geomhash":"beacce109cdd33936f1f4cb09f1214d4",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209193635,
-    "wof:lastmodified":1536294848,
+    "wof:lastmodified":1566635424,
     "wof:name":"Bekue",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.224120000000006,
-    3.2488900000000003,
-    27.224120000000006,
-    3.2488900000000003
+    27.22412000000001,
+    3.24889,
+    27.22412000000001,
+    3.24889
 ],
   "geometry": {"coordinates":[27.22412000000001,3.24889],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.39936,-6.08758,23.43936,-6.04758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242976907,
-    "wof:lastmodified":1536984612,
+    "wof:lastmodified":1566636794,
     "wof:name":"Tshimpange",
     "wof:parent_id":1091680373,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.65082,-10.60112,24.69082,-10.56112",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bangula"
     ],
@@ -38,8 +42,7 @@
         "Bangula"
     ],
     "name:und_x_variant":[
-        "Gangula",
-        "Bangula"
+        "Gangula"
     ],
     "name:zho_x_preferred":[
         "\u73ed\u53e4\u62c9"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1310064211,
-    "wof:lastmodified":1564185325,
+    "wof:lastmodified":1566635904,
     "wof:name":"Bangula",
     "wof:parent_id":1091680197,
     "wof:placetype":"locality",

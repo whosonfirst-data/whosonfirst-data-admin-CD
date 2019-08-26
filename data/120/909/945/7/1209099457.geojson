@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"12.37929,-6.02413,12.41929,-5.98413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Pisang"
     ],
@@ -418,10 +422,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0430\u043d"
     ],
-    "name:und_x_variant":[
-        "Banane",
-        "Banana"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0644\u0627"
     ],
@@ -469,7 +469,7 @@
         }
     ],
     "wof:id":1209099457,
-    "wof:lastmodified":1564184121,
+    "wof:lastmodified":1566635039,
     "wof:name":"Banana",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

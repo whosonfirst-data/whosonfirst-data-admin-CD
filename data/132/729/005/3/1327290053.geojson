@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.98402,-4.72903,23.02402,-4.68903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bakwa-Sungu",
         "Bena-Sungu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327290053,
-    "wof:lastmodified":1537590462,
+    "wof:lastmodified":1566633679,
     "wof:name":"Bena-Sungu",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",

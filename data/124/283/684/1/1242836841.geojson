@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"16.81213,-5.29341,16.85213,-5.25341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242836841,
-    "wof:lastmodified":1536690509,
+    "wof:lastmodified":1566636749,
     "wof:name":"Makaya",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

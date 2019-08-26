@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.40324,-7.0864,23.44324,-7.0464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ditu-Palmerale",
         "Ditu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293842765,
-    "wof:lastmodified":1537590576,
+    "wof:lastmodified":1566634309,
     "wof:name":"Palmeraises-Ditu",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

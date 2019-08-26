@@ -11,8 +11,11 @@
     "geom:longitude":18.26034,
     "gn:country":"CD",
     "gn:fcode":"PPLA",
-    "gn:pop":184185,
+    "gn:population":184185,
     "iso:country":"CD",
+    "lbl:bbox":"18.24034,0.02865,18.28034,0.06865",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.6,
@@ -172,7 +175,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0431\u0430\u043d\u0434\u0430\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wangata"
     ],
     "name:urd_x_preferred":[
@@ -304,10 +307,12 @@
     "wof:concordances":{
         "gn:id":2312895,
         "gp:id":1292953,
-        "qs:id":278410,
-        "qs_pg:id":1115259,
+        "qs_pg:id":278410,
         "wd:id":"Q211070",
         "wk:page":"Mbandaka"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1115259
     },
     "wof:country":"CD",
     "wof:created":1469052256,
@@ -322,7 +327,7 @@
         }
     ],
     "wof:id":890439949,
-    "wof:lastmodified":1563295674,
+    "wof:lastmodified":1566636377,
     "wof:name":"Mbandaka",
     "wof:parent_id":1091679473,
     "wof:placetype":"locality",

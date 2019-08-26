@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.06112,-3.43982,18.10112,-3.39982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pinanga",
         "Pimanga-Moke",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344019799,
-    "wof:lastmodified":1537590504,
+    "wof:lastmodified":1566633843,
     "wof:name":"Pinanga-Moke",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

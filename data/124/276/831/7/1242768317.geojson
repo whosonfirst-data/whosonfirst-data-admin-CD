@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"15.13801,-4.91709,15.17801,-4.87709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nsona-Bata",
         "Nsona Mbata",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242768317,
-    "wof:lastmodified":1537590500,
+    "wof:lastmodified":1566636758,
     "wof:name":"Sona-Bata",
     "wof:parent_id":1091679351,
     "wof:placetype":"locality",

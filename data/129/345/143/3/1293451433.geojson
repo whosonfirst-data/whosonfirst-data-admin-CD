@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.13463,-4.99372,18.17463,-4.95372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kazamba",
         "Kazamba-Wanga"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293451433,
-    "wof:lastmodified":1537590536,
+    "wof:lastmodified":1566634518,
     "wof:name":"Kazamba-Wanga",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

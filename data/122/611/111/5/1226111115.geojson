@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.64372,-9.13319,23.68372,-9.09319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mulamba",
         "Ulumba",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226111115,
-    "wof:lastmodified":1537590313,
+    "wof:lastmodified":1566637297,
     "wof:name":"Ulamba",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

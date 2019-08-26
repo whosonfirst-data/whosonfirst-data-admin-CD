@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"22.27475,3.71405,22.31475,3.75405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243421427,
-    "wof:lastmodified":1536840609,
+    "wof:lastmodified":1566636818,
     "wof:name":"Ngalolita",
     "wof:parent_id":1091679605,
     "wof:placetype":"locality",

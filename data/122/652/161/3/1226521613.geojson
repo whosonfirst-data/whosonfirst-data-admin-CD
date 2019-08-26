@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.65352,3.30349,23.69352,3.34349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Banga"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1226521613,
-    "wof:lastmodified":1564187566,
+    "wof:lastmodified":1566637551,
     "wof:name":"Banga",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

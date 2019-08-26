@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.09821,-6.61189,18.13821,-6.57189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8334546
     },
     "wof:country":"CD",
-    "wof:geomhash":"5532b3cf846ebd77ab5b551281b42365",
+    "wof:geomhash":"6a5d10c451f54aad7a25a792d89d685d",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209477549,
-    "wof:lastmodified":1536285887,
+    "wof:lastmodified":1566635230,
     "wof:name":"Mushindu",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     18.11821,
-    -6.5918899999999985,
+    -6.59189,
     18.11821,
-    -6.5918899999999985
+    -6.59189
 ],
   "geometry": {"coordinates":[18.11821,-6.59189],"type":"Point"}
 }

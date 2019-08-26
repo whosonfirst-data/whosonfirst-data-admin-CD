@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.12212,-10.85801,23.16212,-10.81801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kalulu"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1193247267,
-    "wof:lastmodified":1564184775,
+    "wof:lastmodified":1566635521,
     "wof:name":"Kalulu",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.39103,-7.37253,18.43103,-7.33253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344032913,
-    "wof:lastmodified":1536915938,
+    "wof:lastmodified":1566634072,
     "wof:name":"Mwa-Mufiya",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

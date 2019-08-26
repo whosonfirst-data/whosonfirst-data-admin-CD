@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.66664,2.77949,27.70664,2.81949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0633\u06cc\u0631\u0648"
     ],
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":1243141711,
-    "wof:lastmodified":1564186292,
+    "wof:lastmodified":1566636600,
     "wof:name":"Isiro",
     "wof:parent_id":1091679755,
     "wof:placetype":"locality",

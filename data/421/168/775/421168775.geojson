@@ -10,6 +10,9 @@
     "geom:latitude":-10.71484,
     "geom:longitude":25.46674,
     "iso:country":"CD",
+    "lbl:bbox":"25.44674,-10.73484,25.48674,-10.69484",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -298,7 +301,7 @@
     "wof:concordances":{
         "gn:id":922773,
         "gp:id":1290616,
-        "qs:id":1295281,
+        "qs_pg:id":1295281,
         "wd:id":"Q271404",
         "wk:page":"Kolwezi"
     },
@@ -314,7 +317,7 @@
         }
     ],
     "wof:id":421168775,
-    "wof:lastmodified":1563295648,
+    "wof:lastmodified":1566636370,
     "wof:name":"Kolwezi",
     "wof:parent_id":85670015,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":-5.79949,
     "geom:longitude":13.44068,
     "iso:country":"CD",
+    "lbl:bbox":"13.42068,-5.81949,13.46068,-5.77949",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -179,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0442\u0430\u0434\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Matidi"
     ],
     "name:urd_x_preferred":[
@@ -321,7 +324,7 @@
     "wof:concordances":{
         "gn:id":2313002,
         "gp:id":1292749,
-        "qs:id":274195,
+        "qs_pg:id":274195,
         "wd:id":"Q211073"
     },
     "wof:country":"CD",
@@ -336,7 +339,7 @@
         }
     ],
     "wof:id":421180025,
-    "wof:lastmodified":1563295658,
+    "wof:lastmodified":1566636372,
     "wof:name":"Matadi",
     "wof:parent_id":85669993,
     "wof:placetype":"locality",

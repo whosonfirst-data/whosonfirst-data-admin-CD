@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.52853,-2.66238,26.56853,-2.62238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tubuli"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310200509,
-    "wof:lastmodified":1537590574,
+    "wof:lastmodified":1566635915,
     "wof:name":"Yubili",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"29.09357,-0.63592,29.13357,-0.59592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":210435
     },
     "wof:country":"CD",
-    "wof:geomhash":"04a0d1e2f2a9e1d20470e3d6e3c16459",
+    "wof:geomhash":"8b5446dd280117d7570ff22df2412ea0",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209087391,
-    "wof:lastmodified":1536298143,
+    "wof:lastmodified":1566635112,
     "wof:name":"Luofu",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.113570000000006,
+    29.11357000000001,
     -0.61592,
-    29.113570000000006,
+    29.11357000000001,
     -0.61592
 ],
   "geometry": {"coordinates":[29.11357000000001,-0.61592],"type":"Point"}

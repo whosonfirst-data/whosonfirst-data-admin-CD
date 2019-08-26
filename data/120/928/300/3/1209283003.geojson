@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.51435,-6.15322,22.55435,-6.11322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209283003,
-    "wof:lastmodified":1536291955,
+    "wof:lastmodified":1566635444,
     "wof:name":"Mampanya",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.52696,-7.86162,26.56696,-7.82162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lubembe",
         "Lubembey",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276746185,
-    "wof:lastmodified":1537590385,
+    "wof:lastmodified":1566634669,
     "wof:name":"Lubembei",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

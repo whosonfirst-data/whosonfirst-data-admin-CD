@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.05968,4.08126,27.09968,4.12126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dindo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243143461,
-    "wof:lastmodified":1564186285,
+    "wof:lastmodified":1566636595,
     "wof:name":"Dindo",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

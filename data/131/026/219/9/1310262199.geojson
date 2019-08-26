@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.88993,1.70054,19.92993,1.74054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Modanda",
         "Busu-Modanda"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310262199,
-    "wof:lastmodified":1537590447,
+    "wof:lastmodified":1566635977,
     "wof:name":"Busu-Modanda",
     "wof:parent_id":1091679647,
     "wof:placetype":"locality",

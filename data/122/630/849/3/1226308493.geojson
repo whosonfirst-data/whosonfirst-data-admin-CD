@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.93239,-7.20745,17.97239,-7.16745",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226308493,
-    "wof:lastmodified":1536842299,
+    "wof:lastmodified":1566637574,
     "wof:name":"Mafolo",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

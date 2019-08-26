@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.30818,3.43351,27.34818,3.47351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226111767,
-    "wof:lastmodified":1536628203,
+    "wof:lastmodified":1566637303,
     "wof:name":"Gamwati",
     "wof:parent_id":1091679755,
     "wof:placetype":"locality",

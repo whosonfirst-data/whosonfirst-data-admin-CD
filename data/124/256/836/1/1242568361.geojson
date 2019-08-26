@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"14.4017,-5.88805,14.4417,-5.84805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bjn_x_preferred":[
         "Kiwa"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1242568361,
-    "wof:lastmodified":1564186187,
+    "wof:lastmodified":1566636523,
     "wof:name":"Kiwa",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.02505,0.51252,19.06505,0.55252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boso Djikimo",
         "Boso-Djikima",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276993931,
-    "wof:lastmodified":1537590553,
+    "wof:lastmodified":1566634953,
     "wof:name":"Boso-Djikina",
     "wof:parent_id":1091679539,
     "wof:placetype":"locality",

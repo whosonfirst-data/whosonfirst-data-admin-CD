@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.78792,4.55682,25.82792,4.59682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8242867
     },
     "wof:country":"CD",
-    "wof:geomhash":"c2d2ae794256b2011fd52ed99fa3fe61",
+    "wof:geomhash":"f20845127e39c4fb94afce6940542408",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209601563,
-    "wof:lastmodified":1536282150,
+    "wof:lastmodified":1566635328,
     "wof:name":"Bokwangwa",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.807920000000006,
+    25.80792000000001,
     4.57682,
-    25.807920000000006,
+    25.80792000000001,
     4.57682
 ],
   "geometry": {"coordinates":[25.80792000000001,4.57682],"type":"Point"}

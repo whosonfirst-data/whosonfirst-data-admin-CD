@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.94826,-4.6311,17.98826,-4.5911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242739621,
-    "wof:lastmodified":1536829522,
+    "wof:lastmodified":1566636433,
     "wof:name":"Kimbangi",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

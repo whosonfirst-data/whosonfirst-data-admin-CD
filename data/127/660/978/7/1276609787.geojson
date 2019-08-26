@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.36082,-5.87346,22.40082,-5.83346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kan_x_preferred":[
         "\u0c95\u0c82\u0cac\u0cb3"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276609787,
-    "wof:lastmodified":1564183718,
+    "wof:lastmodified":1566634740,
     "wof:name":"Kambala",
     "wof:parent_id":1091680487,
     "wof:placetype":"locality",

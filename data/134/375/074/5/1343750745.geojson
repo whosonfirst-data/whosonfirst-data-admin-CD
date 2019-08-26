@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.26333,-4.20333,27.30333,-4.16333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Silamba",
         "Silanda"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343750745,
-    "wof:lastmodified":1537590325,
+    "wof:lastmodified":1566634116,
     "wof:name":"Silanda",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

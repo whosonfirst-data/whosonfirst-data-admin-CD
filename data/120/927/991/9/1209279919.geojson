@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.76815,-7.26159,17.80815,-7.22159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8447428
     },
     "wof:country":"CD",
-    "wof:geomhash":"2a75dc4e6ef1f94da60e802010a94635",
+    "wof:geomhash":"bd9a88708e67b2a684427054be68efe0",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209279919,
-    "wof:lastmodified":1536292059,
+    "wof:lastmodified":1566635365,
     "wof:name":"Kambundi",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     17.78815,
-    -7.241589999999999,
+    -7.24159,
     17.78815,
-    -7.241589999999999
+    -7.24159
 ],
   "geometry": {"coordinates":[17.78815,-7.24159],"type":"Point"}
 }

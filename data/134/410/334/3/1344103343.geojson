@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.53649,-1.45546,25.57649,-1.41546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mongamba-Kifuku",
         "Banakambea",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344103343,
-    "wof:lastmodified":1537590471,
+    "wof:lastmodified":1566634035,
     "wof:name":"Banakambea",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

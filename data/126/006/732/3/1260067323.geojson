@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"29.00917,-3.77861,29.04917,-3.73861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260067323,
-    "wof:lastmodified":1537010630,
+    "wof:lastmodified":1566635697,
     "wof:name":"Kitumbula",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

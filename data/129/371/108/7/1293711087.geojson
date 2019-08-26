@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"15.81841,-4.10193,15.85841,-4.06193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293711087,
-    "wof:lastmodified":1536962000,
+    "wof:lastmodified":1566634339,
     "wof:name":"Mindana",
     "wof:parent_id":1091679267,
     "wof:placetype":"locality",

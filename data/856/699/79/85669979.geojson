@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":2.49465,
     "lbl:longitude":26.270935,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.49465,
     "mps:longitude":26.270935,
     "mz:hierarchy_label":1,
@@ -165,7 +166,7 @@
         "Orientale"
     ],
     "name:tam_x_preferred":[
-        "\u0b92\u0bb0\u0bc0\u0b8e\u0ba3\u0bcd\u0b9f\u0bbe\u0bb2\u0bc7  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b92\u0bb0\u0bc0\u0b8e\u0ba3\u0bcd\u0b9f\u0bbe\u0bb2\u0bc7 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c13\u0c30\u0c3f\u0c2f\u0c02\u0c1f\u0c47\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -179,7 +180,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0456\u0434\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Upper Zaire"
     ],
     "name:urd_x_preferred":[
@@ -267,7 +268,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "unlc:subdivision":"CD-OR",
     "wof:belongsto":[
@@ -280,7 +281,7 @@
         "gn:id":216139,
         "gp:id":2344985,
         "hasc:id":"CD.HC",
-        "qs:id":219525,
+        "qs_pg:id":219525,
         "unlc:id":"CD-OR",
         "wd:id":"Q831370",
         "wk:page":"Orientale Province"
@@ -305,7 +306,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1565661859,
+    "wof:lastmodified":1566634157,
     "wof:name":"Orientale",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

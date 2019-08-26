@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.95126,-2.70198,25.99126,-2.66198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mokele",
         "Ngoma",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309894635,
-    "wof:lastmodified":1537590375,
+    "wof:lastmodified":1566636343,
     "wof:name":"Makele",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

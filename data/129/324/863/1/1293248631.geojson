@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.87534,-5.16925,21.91534,-5.12925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Kalamba"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293248631,
-    "wof:lastmodified":1564183099,
+    "wof:lastmodified":1566634317,
     "wof:name":"Kalamba",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.15428,4.68082,25.19428,4.72082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259369205,
-    "wof:lastmodified":1537021868,
+    "wof:lastmodified":1566636860,
     "wof:name":"Kpokpo",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"15.24497,-5.03243,15.28497,-4.99243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kimpako"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293186295,
-    "wof:lastmodified":1537590532,
+    "wof:lastmodified":1566634487,
     "wof:name":"Kimpaku",
     "wof:parent_id":1091679351,
     "wof:placetype":"locality",

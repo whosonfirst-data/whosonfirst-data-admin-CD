@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.38,-3.10333,28.42,-3.06333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Munda"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1360161785,
-    "wof:lastmodified":1564185681,
+    "wof:lastmodified":1566636160,
     "wof:name":"Munda",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

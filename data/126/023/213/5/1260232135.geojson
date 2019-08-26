@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.70102,3.95818,18.74102,3.99818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Pau"
     ],
@@ -92,8 +96,7 @@
         "Pau"
     ],
     "name:und_x_variant":[
-        "Pall",
-        "Pau"
+        "Pall"
     ],
     "name:vie_x_preferred":[
         "Pau"
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1260232135,
-    "wof:lastmodified":1564184925,
+    "wof:lastmodified":1566635633,
     "wof:name":"Pau",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

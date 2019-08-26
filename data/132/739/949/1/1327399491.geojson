@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.28628,-7.76007,19.32628,-7.72007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327399491,
-    "wof:lastmodified":1536728775,
+    "wof:lastmodified":1566633261,
     "wof:name":"Nakapinga",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

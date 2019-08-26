@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.90204,-5.30017,27.94204,-5.26017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243314079,
-    "wof:lastmodified":1536995712,
+    "wof:lastmodified":1566636386,
     "wof:name":"Kakulu Maziba",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

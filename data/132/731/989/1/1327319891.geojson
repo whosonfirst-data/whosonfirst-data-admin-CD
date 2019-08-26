@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.65066,2.74542,24.69066,2.78542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327319891,
-    "wof:lastmodified":1536842321,
+    "wof:lastmodified":1566633302,
     "wof:name":"Ebwada",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.97774,-3.22058,23.01774,-3.18058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Kemba"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1293738155,
-    "wof:lastmodified":1564183406,
+    "wof:lastmodified":1566634526,
     "wof:name":"Kemba",
     "wof:parent_id":1091680399,
     "wof:placetype":"locality",

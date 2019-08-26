@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.04989,2.5169,19.08989,2.5569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Busu-Mopia"
     ],
     "name:fra_x_variant":[
-        "Busu-Mopea"
-    ],
-    "name:und_x_variant":[
         "Busu-Mopea"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1293337597,
-    "wof:lastmodified":1537590549,
+    "wof:lastmodified":1566634440,
     "wof:name":"Busu-Mopia",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

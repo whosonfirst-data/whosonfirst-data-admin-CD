@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.53965,-7.92376,18.57965,-7.88376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8447920
     },
     "wof:country":"CD",
-    "wof:geomhash":"9132be8608f1d48143564907a73bccc5",
+    "wof:geomhash":"17640d1f0799fa8700d07b683e57cf2d",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209071787,
-    "wof:lastmodified":1536298623,
+    "wof:lastmodified":1566635067,
     "wof:name":"Shakabamba",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     18.55965,
-    -7.903760000000001,
+    -7.90376,
     18.55965,
-    -7.903760000000001
+    -7.90376
 ],
   "geometry": {"coordinates":[18.55965,-7.90376],"type":"Point"}
 }

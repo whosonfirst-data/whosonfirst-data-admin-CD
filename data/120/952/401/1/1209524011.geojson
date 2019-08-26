@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.54667,-1.42,17.58667,-1.38",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":2315349
     },
     "wof:country":"CD",
-    "wof:geomhash":"a0014aa48a54704e5c1935d021976301",
+    "wof:geomhash":"6a57311f5ee296b618e776fa7da6905e",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209524011,
-    "wof:lastmodified":1536284489,
+    "wof:lastmodified":1566635152,
     "wof:name":"Iteke",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    17.566670000000002,
+    17.56667,
     -1.4,
-    17.566670000000002,
+    17.56667,
     -1.4
 ],
   "geometry": {"coordinates":[17.56667,-1.4],"type":"Point"}

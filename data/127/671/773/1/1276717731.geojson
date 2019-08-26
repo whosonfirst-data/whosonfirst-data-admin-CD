@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.61257,-7.31154,22.65257,-7.27154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276717731,
-    "wof:lastmodified":1536761100,
+    "wof:lastmodified":1566634901,
     "wof:name":"Sakonza",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"30.01861,1.92468,30.05861,1.96468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mongbwalu"
     ],
@@ -32,7 +36,6 @@
         "Mongbwala"
     ],
     "name:und_x_variant":[
-        "Mongbwala",
         "Mangbwalu"
     ],
     "src:geom":"geonames",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293747175,
-    "wof:lastmodified":1537590363,
+    "wof:lastmodified":1566634547,
     "wof:name":"Mangbwalu",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

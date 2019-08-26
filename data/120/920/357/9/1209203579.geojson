@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.85512,-4.96175,25.89512,-4.92175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8250440
     },
     "wof:country":"CD",
-    "wof:geomhash":"e366eff9f68b5d1dcbd168473d618d45",
+    "wof:geomhash":"53acbc233355006800adf27fd39d5d8d",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209203579,
-    "wof:lastmodified":1536294528,
+    "wof:lastmodified":1566635363,
     "wof:name":"Kihema",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.875120000000006,
+    25.87512000000001,
     -4.94175,
-    25.875120000000006,
+    25.87512000000001,
     -4.94175
 ],
   "geometry": {"coordinates":[25.87512000000001,-4.94175],"type":"Point"}

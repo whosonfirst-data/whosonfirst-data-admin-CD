@@ -12,6 +12,8 @@
     "iso:country":"CD",
     "lbl:latitude":-0.099667,
     "lbl:longitude":18.261374,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Equateur",
     "meso:gadm_admin":"Mbandaka",
     "meso:gaul_admin":"Mbandaka",
@@ -24,6 +26,7 @@
     "mps:longitude":18.261374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Mbandaka"
     ],
@@ -157,7 +160,7 @@
         "\u59c6\u73ed\u8fbe\u5361"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643,
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":1091679473,
-    "wof:lastmodified":1564185752,
+    "wof:lastmodified":1566636215,
     "wof:name":"Mbandaka",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

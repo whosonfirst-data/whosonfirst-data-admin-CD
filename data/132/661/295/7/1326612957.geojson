@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.14778,-8.68556,25.18778,-8.64556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kulunga"
     ],
@@ -41,8 +45,7 @@
         "Kulung"
     ],
     "name:und_x_variant":[
-        "Kalunga",
-        "Kulunga"
+        "Kalunga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1326612957,
-    "wof:lastmodified":1564181848,
+    "wof:lastmodified":1566633411,
     "wof:name":"Kulunga",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

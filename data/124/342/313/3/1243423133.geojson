@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.25738,-9.96878,22.29738,-9.92878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243423133,
-    "wof:lastmodified":1536838180,
+    "wof:lastmodified":1566636820,
     "wof:name":"Mwene-Tshamba",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

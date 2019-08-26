@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.24717,1.54212,28.28717,1.58212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":207777
     },
     "wof:country":"CD",
-    "wof:geomhash":"66b655fd21569d2e5daf45c080c31cc7",
+    "wof:geomhash":"999c45afb0a80ef19a3f01a3963ecbc5",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209478673,
-    "wof:lastmodified":1536285853,
+    "wof:lastmodified":1566635234,
     "wof:name":"Mutumoya",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     28.26717,
-    1.5621200000000002,
+    1.56212,
     28.26717,
-    1.5621200000000002
+    1.56212
 ],
   "geometry": {"coordinates":[28.26717,1.56212],"type":"Point"}
 }

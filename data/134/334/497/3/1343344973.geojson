@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.52665,-11.07248,26.56665,-11.03248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Shinkolobwe Mine"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Chinkolobwe",
-        "Shainkolobwe",
-        "Shinkolobwe"
+        "Shainkolobwe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343344973,
-    "wof:lastmodified":1564182662,
+    "wof:lastmodified":1566634006,
     "wof:name":"Shinkolobwe",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"15.56023,-5.42152,15.60023,-5.38152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":2317432
     },
     "wof:country":"CD",
-    "wof:geomhash":"7266760e2c3d12af8252711ead5af619",
+    "wof:geomhash":"c0a227e4d1a58e3e1e41357e33a3443a",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209408185,
-    "wof:lastmodified":1536287926,
+    "wof:lastmodified":1566635209,
     "wof:name":"Bamba Kopo",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.580229999999998,
+    15.58023,
     -5.40152,
-    15.580229999999998,
+    15.58023,
     -5.40152
 ],
   "geometry": {"coordinates":[15.58023,-5.40152],"type":"Point"}

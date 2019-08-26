@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"13.49602,-5.42208,13.53602,-5.38208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8252670
     },
     "wof:country":"CD",
-    "wof:geomhash":"3e3efa71453d86e66aef95484ee3eac9",
+    "wof:geomhash":"5963ebf78870b146bd55dfa7305775f8",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209600701,
-    "wof:lastmodified":1536282177,
+    "wof:lastmodified":1566635329,
     "wof:name":"Ngulu-Mufu",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     13.51602,
-    -5.4020800000000015,
+    -5.40208,
     13.51602,
-    -5.4020800000000015
+    -5.40208
 ],
   "geometry": {"coordinates":[13.51602,-5.40208],"type":"Point"}
 }

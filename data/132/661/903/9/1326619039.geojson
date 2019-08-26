@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.84706,-2.73394,26.88706,-2.69394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09ac\u09be\u0987\u09b2"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1326619039,
-    "wof:lastmodified":1564181851,
+    "wof:lastmodified":1566633413,
     "wof:name":"Mobile",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

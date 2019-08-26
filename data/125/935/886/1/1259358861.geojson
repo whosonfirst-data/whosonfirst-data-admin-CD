@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.97385,-3.28104,22.01385,-3.24104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259358861,
-    "wof:lastmodified":1537036198,
+    "wof:lastmodified":1566637031,
     "wof:name":"Osanga",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

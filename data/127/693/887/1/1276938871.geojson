@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.30968,-5.71187,19.34968,-5.67187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276938871,
-    "wof:lastmodified":1536962238,
+    "wof:lastmodified":1566634746,
     "wof:name":"Kihunda",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

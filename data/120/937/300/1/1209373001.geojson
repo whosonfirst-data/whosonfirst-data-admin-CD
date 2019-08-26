@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.88003,-6.83461,22.92003,-6.79461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":219172
     },
     "wof:country":"CD",
-    "wof:geomhash":"79870f8b824c2736fd8a92467861092b",
+    "wof:geomhash":"be9bffdd610ec871acdcffdd29a249a1",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209373001,
-    "wof:lastmodified":1536289043,
+    "wof:lastmodified":1566635120,
     "wof:name":"Bena Kalangala",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     22.90003,
-    -6.814610000000001,
+    -6.81461,
     22.90003,
-    -6.814610000000001
+    -6.81461
 ],
   "geometry": {"coordinates":[22.90003,-6.81461],"type":"Point"}
 }

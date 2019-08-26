@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.15359,-5.14996,22.19359,-5.10996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beha-Leka"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343730777,
-    "wof:lastmodified":1537590463,
+    "wof:lastmodified":1566634095,
     "wof:name":"Bena-Leka",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",

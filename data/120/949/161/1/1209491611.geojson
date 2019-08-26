@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.99582,1.83926,29.03582,1.87926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nduye"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209491611,
-    "wof:lastmodified":1537590346,
+    "wof:lastmodified":1566635244,
     "wof:name":"Nduye",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

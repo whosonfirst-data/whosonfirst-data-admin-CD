@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"22.53181,-1.25152,22.57181,-1.21152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":203755
     },
     "wof:country":"CD",
-    "wof:geomhash":"baa4b58c9ee961b2a071ce93827b237a",
+    "wof:geomhash":"4597306f32b6fc3d04f00582c7593f50",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209141679,
-    "wof:lastmodified":1536296484,
+    "wof:lastmodified":1566635257,
     "wof:name":"Yamputu",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     22.55181,
-    -1.2315200000000002,
+    -1.23152,
     22.55181,
-    -1.2315200000000002
+    -1.23152
 ],
   "geometry": {"coordinates":[22.55181,-1.23152],"type":"Point"}
 }

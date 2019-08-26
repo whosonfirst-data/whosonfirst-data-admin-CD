@@ -12,6 +12,8 @@
     "iso:country":"CD",
     "lbl:latitude":-10.486409,
     "lbl:longitude":25.524583,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Katanga",
     "meso:gadm_admin":"Kolwezi",
     "meso:gaul_admin":"Kolwezi",
@@ -24,6 +26,7 @@
     "mps:longitude":25.524583,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Kolwezi"
     ],
@@ -142,7 +145,7 @@
         "\u79d1\u5362\u97e6\u9f50"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643,
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":1091680197,
-    "wof:lastmodified":1564185747,
+    "wof:lastmodified":1566636211,
     "wof:name":"Kolwezi",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

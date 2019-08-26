@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.52763,-7.84789,28.56763,-7.80789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":9946460
     },
     "wof:country":"CD",
-    "wof:geomhash":"70dc7359c975e98f53573f7a26f2eff5",
+    "wof:geomhash":"93fa7458d3f2b3cc967f4ab9518d4db2",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209489061,
-    "wof:lastmodified":1536285544,
+    "wof:lastmodified":1566635163,
     "wof:name":"Kilungulila",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     28.54763,
-    -7.827889999999999,
+    -7.82789,
     28.54763,
-    -7.827889999999999
+    -7.82789
 ],
   "geometry": {"coordinates":[28.54763,-7.82789],"type":"Point"}
 }

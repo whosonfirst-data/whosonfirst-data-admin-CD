@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.51214,1.48569,23.55214,1.52569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326476973,
-    "wof:lastmodified":1537060990,
+    "wof:lastmodified":1566633519,
     "wof:name":"Yawinawina",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

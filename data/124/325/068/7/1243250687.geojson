@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.73144,-2.33599,28.77144,-2.29599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tshibinda"
     ],
@@ -38,8 +42,7 @@
         "Tshibinda"
     ],
     "name:und_x_variant":[
-        "Mulungu-Tshibinda",
-        "Tshibinda"
+        "Mulungu-Tshibinda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1243250687,
-    "wof:lastmodified":1564186316,
+    "wof:lastmodified":1566636617,
     "wof:name":"Tshibinda",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

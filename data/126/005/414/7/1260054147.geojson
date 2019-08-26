@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.80015,-7.00235,23.84015,-6.96235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260054147,
-    "wof:lastmodified":1537029123,
+    "wof:lastmodified":1566635761,
     "wof:name":"Bena-Pandajila",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

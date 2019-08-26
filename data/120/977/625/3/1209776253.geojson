@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.46987,-0.73705,23.50987,-0.69705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Busemba",
         "Besomba"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209776253,
-    "wof:lastmodified":1537590462,
+    "wof:lastmodified":1566635183,
     "wof:name":"Besomba",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

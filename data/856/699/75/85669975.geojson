@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":1.069646,
     "lbl:longitude":20.217009,
+    "lbl:min_zoom":8.0,
     "mps:latitude":1.069646,
     "mps:longitude":20.217009,
     "mz:hierarchy_label":1,
@@ -139,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043a\u0432\u0430\u0442\u043e\u0440\u0456\u0430\u043b\u044c\u043d\u0430 \u043f\u0440\u043e\u0432\u0456\u043d\u0446\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u2019Equateur"
     ],
     "name:urd_x_preferred":[
@@ -230,7 +231,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "unlc:subdivision":"CD-EQ",
     "wof:belongsto":[
@@ -243,7 +244,7 @@
         "gn:id":216661,
         "gp:id":2344978,
         "hasc:id":"CD.EQ",
-        "qs:id":423620,
+        "qs_pg:id":423620,
         "unlc:id":"CD-EQ",
         "wd:id":"Q139626",
         "wk:page":"\u00c9quateur (former province)"
@@ -268,7 +269,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1565661858,
+    "wof:lastmodified":1566634157,
     "wof:name":"\u00c9quateur",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

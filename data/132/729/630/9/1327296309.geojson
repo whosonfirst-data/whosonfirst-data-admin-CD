@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.31655,-6.38065,17.35655,-6.34065",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327296309,
-    "wof:lastmodified":1536876607,
+    "wof:lastmodified":1566633678,
     "wof:name":"Mutanga",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

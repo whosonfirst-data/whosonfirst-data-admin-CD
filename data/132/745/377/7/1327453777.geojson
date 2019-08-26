@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"14.63745,-5.55698,14.67745,-5.51698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kinu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327453777,
-    "wof:lastmodified":1564182183,
+    "wof:lastmodified":1566633657,
     "wof:name":"Kinu",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

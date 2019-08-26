@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.7851,-4.31519,28.8251,-4.27519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276213809,
-    "wof:lastmodified":1536939960,
+    "wof:lastmodified":1566634647,
     "wof:name":"Mokanga",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

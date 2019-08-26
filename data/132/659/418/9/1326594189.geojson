@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.64895,-7.13854,23.68895,-7.09854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Combo"
     ],
@@ -32,8 +36,7 @@
         "Kombo"
     ],
     "name:und_x_variant":[
-        "Mwene Kombo",
-        "Kombo"
+        "Mwene Kombo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1326594189,
-    "wof:lastmodified":1564181838,
+    "wof:lastmodified":1566633403,
     "wof:name":"Kombo",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

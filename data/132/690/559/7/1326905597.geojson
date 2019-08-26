@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.74711,-6.56521,17.78711,-6.52521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326905597,
-    "wof:lastmodified":1536943726,
+    "wof:lastmodified":1566633579,
     "wof:name":"Mwari-Nzita-Kibungi",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.99815,-3.36902,28.03815,-3.32902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kan_x_preferred":[
         "\u0cae\u0cc7\u0cb3"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327114535,
-    "wof:lastmodified":1564182187,
+    "wof:lastmodified":1566633660,
     "wof:name":"Mela",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

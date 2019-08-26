@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"14.73346,-5.4572,14.77346,-5.4172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Lufu-Toto"
     ],
     "name:und_x_variant":[
-        "Cattier",
-        "Lufu-Toto"
+        "Cattier"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1344079145,
-    "wof:lastmodified":1564182438,
+    "wof:lastmodified":1566633849,
     "wof:name":"Lufu-Toto",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

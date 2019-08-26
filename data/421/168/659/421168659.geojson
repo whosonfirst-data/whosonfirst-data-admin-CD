@@ -10,6 +10,9 @@
     "geom:latitude":-4.97503,
     "geom:longitude":23.44391,
     "iso:country":"CD",
+    "lbl:bbox":"23.42391,-4.99503,23.46391,-4.95503",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -56,7 +59,7 @@
     "name:tgl_x_preferred":[
         "Lusambo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Luzambo"
     ],
     "ne:ADM0CAP":0.0,
@@ -181,7 +184,7 @@
     "wof:concordances":{
         "gn:id":210379,
         "gp:id":1291935,
-        "qs:id":273734,
+        "qs_pg:id":273734,
         "wd:id":"Q3267776",
         "wk:page":"Lusambo"
     },
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":421168659,
-    "wof:lastmodified":1563295645,
+    "wof:lastmodified":1566636370,
     "wof:name":"Lusambo",
     "wof:parent_id":85670011,
     "wof:placetype":"locality",

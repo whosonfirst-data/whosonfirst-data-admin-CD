@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.74667,-7.55333,22.78667,-7.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1233\u12ab\u12ce\u127d"
     ],
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":1243332179,
-    "wof:lastmodified":1564186415,
+    "wof:lastmodified":1566636697,
     "wof:name":"Saka",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.64294,3.48489,18.68294,3.52489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Singa"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1343312987,
-    "wof:lastmodified":1564182245,
+    "wof:lastmodified":1566633704,
     "wof:name":"Singa",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

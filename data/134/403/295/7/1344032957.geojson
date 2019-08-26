@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.1812,-7.68127,19.2212,-7.64127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344032957,
-    "wof:lastmodified":1536915875,
+    "wof:lastmodified":1566634068,
     "wof:name":"Shadima",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

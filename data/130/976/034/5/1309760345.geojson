@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.73579,-3.83795,23.77579,-3.79795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309760345,
-    "wof:lastmodified":1536995942,
+    "wof:lastmodified":1566636294,
     "wof:name":"Utshudi",
     "wof:parent_id":1091680399,
     "wof:placetype":"locality",

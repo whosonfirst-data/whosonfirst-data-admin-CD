@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"12.97564,-4.98243,13.01564,-4.94243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kizu"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259505821,
-    "wof:lastmodified":1564186818,
+    "wof:lastmodified":1566637006,
     "wof:name":"Kizu",
     "wof:parent_id":1091679303,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.37623,-1.59113,28.41623,-1.55113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Kalenga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259370899,
-    "wof:lastmodified":1564186700,
+    "wof:lastmodified":1566636910,
     "wof:name":"Kalenga",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

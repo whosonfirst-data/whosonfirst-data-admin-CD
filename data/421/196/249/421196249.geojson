@@ -10,6 +10,9 @@
     "geom:latitude":4.34283,
     "geom:longitude":18.59447,
     "iso:country":"CD",
+    "lbl:bbox":"18.57447,4.32283,18.61447,4.36283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -192,7 +195,7 @@
     "wof:concordances":{
         "gn:id":2310763,
         "gp:id":1299109,
-        "qs:id":1352589,
+        "qs_pg:id":1352589,
         "wd:id":"Q219930",
         "wk:page":"Zongo"
     },
@@ -208,7 +211,7 @@
         }
     ],
     "wof:id":421196249,
-    "wof:lastmodified":1563295666,
+    "wof:lastmodified":1566636375,
     "wof:name":"Zongo",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.12842,4.10169,26.16842,4.14169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wote",
         "Wote-Buda"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260066581,
-    "wof:lastmodified":1537590310,
+    "wof:lastmodified":1566635696,
     "wof:name":"Wote-Buda",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"20.53956,-6.13234,20.57956,-6.09234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1292976805,
-    "wof:lastmodified":1537025169,
+    "wof:lastmodified":1566634474,
     "wof:name":"Makumbi",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

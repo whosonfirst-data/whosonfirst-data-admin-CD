@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.2137,-7.33508,25.2537,-7.29508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293265249,
-    "wof:lastmodified":1536607673,
+    "wof:lastmodified":1566634572,
     "wof:name":"Maucha",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

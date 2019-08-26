@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.85051,-5.60827,18.89051,-5.56827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kabate",
         "Kabeta",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293253949,
-    "wof:lastmodified":1537590563,
+    "wof:lastmodified":1566634361,
     "wof:name":"Banza-Kabete",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

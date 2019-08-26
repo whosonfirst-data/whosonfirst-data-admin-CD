@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.61598,-6.76297,23.65598,-6.72297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226078079,
-    "wof:lastmodified":1536678648,
+    "wof:lastmodified":1566637629,
     "wof:name":"Mukedi",
     "wof:parent_id":1091680373,
     "wof:placetype":"locality",

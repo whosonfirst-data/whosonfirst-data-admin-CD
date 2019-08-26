@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.82619,-2.62179,25.86619,-2.58179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":211282
     },
     "wof:country":"CD",
-    "wof:geomhash":"b1b596ebdc0971a88e6d916f07b69304",
+    "wof:geomhash":"3f98905ca50ad2d6edde7b9fe2f00445",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209510267,
-    "wof:lastmodified":1536284904,
+    "wof:lastmodified":1566635343,
     "wof:name":"Lotemo",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     25.84619,
-    -2.6017900000000003,
+    -2.60179,
     25.84619,
-    -2.6017900000000003
+    -2.60179
 ],
   "geometry": {"coordinates":[25.84619,-2.60179],"type":"Point"}
 }

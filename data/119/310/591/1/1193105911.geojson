@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.71701,-9.53383,22.75701,-9.49383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Calungas"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193105911,
-    "wof:lastmodified":1564184888,
+    "wof:lastmodified":1566635605,
     "wof:name":"Kalunga",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

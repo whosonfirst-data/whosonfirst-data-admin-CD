@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.62659,0.5572,28.66659,0.5972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Masinga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226825359,
-    "wof:lastmodified":1564187445,
+    "wof:lastmodified":1566637464,
     "wof:name":"Masinga",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

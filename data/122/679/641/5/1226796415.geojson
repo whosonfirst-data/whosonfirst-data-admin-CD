@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.03,-6.63667,26.07,-6.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0997\u09be\u09a8\u09cd\u09a1\u09c1"
     ],
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":1226796415,
-    "wof:lastmodified":1564187546,
+    "wof:lastmodified":1566637536,
     "wof:name":"Gandu",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

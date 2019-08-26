@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"20.88693,-7.18548,20.92693,-7.14548",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":213914
     },
     "wof:country":"CD",
-    "wof:geomhash":"ae1e0d86159f3dfd436f5505e7140694",
+    "wof:geomhash":"fe0eca88fed1cd98c19b86876074e9c0",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209591519,
-    "wof:lastmodified":1536282463,
+    "wof:lastmodified":1566635291,
     "wof:name":"Kasosha",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     20.90693,
-    -7.1654800000000005,
+    -7.16548,
     20.90693,
-    -7.1654800000000005
+    -7.16548
 ],
   "geometry": {"coordinates":[20.90693,-7.16548],"type":"Point"}
 }

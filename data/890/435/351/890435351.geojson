@@ -11,8 +11,11 @@
     "geom:longitude":26.66656,
     "gn:country":"CD",
     "gn:fcode":"PPL",
-    "gn:pop":55118,
+    "gn:population":55118,
     "iso:country":"CD",
+    "lbl:bbox":"26.64656,-4.44741,26.68656,-4.40741",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -70,7 +73,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u043e\u043d\u0433\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tongoni"
     ],
     "name:xmf_x_preferred":[
@@ -186,7 +189,7 @@
     "wof:concordances":{
         "gn:id":213940,
         "gp:id":1474795,
-        "qs:id":273735,
+        "qs_pg:id":273735,
         "wd:id":"Q587152",
         "wk:page":"Kasongo"
     },
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":890435351,
-    "wof:lastmodified":1563295679,
+    "wof:lastmodified":1566636378,
     "wof:name":"Kasongo",
     "wof:parent_id":85670007,
     "wof:placetype":"locality",

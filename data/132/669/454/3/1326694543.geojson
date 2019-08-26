@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.88492,-5.30051,25.92492,-5.26051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kabao"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326694543,
-    "wof:lastmodified":1537590427,
+    "wof:lastmodified":1566633363,
     "wof:name":"Kabao-Ehata",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

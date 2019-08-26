@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.83136,2.83689,23.87136,2.87689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kamambare",
         "Kabambare"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309992161,
-    "wof:lastmodified":1537590428,
+    "wof:lastmodified":1566636255,
     "wof:name":"Kabambare",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

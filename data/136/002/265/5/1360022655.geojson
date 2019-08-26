@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"22.599,0.32424,22.639,0.36424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yalisele"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360022655,
-    "wof:lastmodified":1537590308,
+    "wof:lastmodified":1566636203,
     "wof:name":"Yalisere",
     "wof:parent_id":1091679649,
     "wof:placetype":"locality",

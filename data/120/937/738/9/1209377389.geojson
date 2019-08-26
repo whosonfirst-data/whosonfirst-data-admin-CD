@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.65171,-6.77198,19.69171,-6.73198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":9529059
     },
     "wof:country":"CD",
-    "wof:geomhash":"d0a823a441994eb55eed40431dfdc075",
+    "wof:geomhash":"5ab2d530b06fb26e4999b62dc25215ce",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209377389,
-    "wof:lastmodified":1536288901,
+    "wof:lastmodified":1566635122,
     "wof:name":"Shambau",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     19.67171,
-    -6.7519800000000005,
+    -6.75198,
     19.67171,
-    -6.7519800000000005
+    -6.75198
 ],
   "geometry": {"coordinates":[19.67171,-6.75198],"type":"Point"}
 }

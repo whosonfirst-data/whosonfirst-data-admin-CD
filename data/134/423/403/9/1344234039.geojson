@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.51974,-2.4992,28.55974,-2.4592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344234039,
-    "wof:lastmodified":1536623205,
+    "wof:lastmodified":1566633838,
     "wof:name":"Ihembe",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

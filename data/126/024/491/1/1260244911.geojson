@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.03718,-5.61524,21.07718,-5.57524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260244911,
-    "wof:lastmodified":1536764615,
+    "wof:lastmodified":1566635622,
     "wof:name":"Buloba-Bukole",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

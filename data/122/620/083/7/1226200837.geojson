@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.91645,-10.00675,22.95645,-9.96675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kazao"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226200837,
-    "wof:lastmodified":1537590406,
+    "wof:lastmodified":1566637273,
     "wof:name":"Kasau",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

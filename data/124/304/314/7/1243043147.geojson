@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.01601,-4.73817,17.05601,-4.69817",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243043147,
-    "wof:lastmodified":1536889578,
+    "wof:lastmodified":1566636643,
     "wof:name":"Kingoma",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"20.62931,2.81911,20.66931,2.85911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326481331,
-    "wof:lastmodified":1537055100,
+    "wof:lastmodified":1566633555,
     "wof:name":"Yengolu",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

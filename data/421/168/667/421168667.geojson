@@ -10,6 +10,9 @@
     "geom:latitude":2.78582,
     "geom:longitude":24.72998,
     "iso:country":"CD",
+    "lbl:bbox":"24.70998,2.76582,24.74998,2.80582",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -288,7 +291,7 @@
     "wof:concordances":{
         "gn:id":217570,
         "gp:id":1285604,
-        "qs:id":273745,
+        "qs_pg:id":273745,
         "wd:id":"Q736905",
         "wk:page":"Buta, Democratic Republic of the Congo"
     },
@@ -304,7 +307,7 @@
         }
     ],
     "wof:id":421168667,
-    "wof:lastmodified":1563295645,
+    "wof:lastmodified":1566636369,
     "wof:name":"Buta",
     "wof:parent_id":85669979,
     "wof:placetype":"locality",

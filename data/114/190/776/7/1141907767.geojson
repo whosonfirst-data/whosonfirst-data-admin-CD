@@ -10,10 +10,14 @@
     "geom:latitude":-9.209581,
     "geom:longitude":25.840014,
     "iso:country":"CD",
+    "lbl:bbox":"25.8200141995,-9.22958127964,25.8600141995,-9.18958127964",
     "lbl:latitude":-9.209581,
     "lbl:longitude":25.840014,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0627\u0645\u0627"
     ],
@@ -247,7 +251,7 @@
         }
     ],
     "wof:id":1141907767,
-    "wof:lastmodified":1563297314,
+    "wof:lastmodified":1566637669,
     "wof:name":"Bukama",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

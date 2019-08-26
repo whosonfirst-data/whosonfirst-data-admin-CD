@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.59783,-6.70737,24.63783,-6.66737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Kapuku"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243222629,
-    "wof:lastmodified":1564186305,
+    "wof:lastmodified":1566636609,
     "wof:name":"Kapuku",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.04667,-1.38667,18.08667,-1.34667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Koli",
         "Ikoli",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343529611,
-    "wof:lastmodified":1537590541,
+    "wof:lastmodified":1566633764,
     "wof:name":"Ikali",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

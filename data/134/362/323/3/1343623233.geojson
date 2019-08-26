@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.41202,-4.42369,19.45202,-4.38369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bele"
     ],
@@ -32,8 +36,7 @@
         "Bele"
     ],
     "name:und_x_variant":[
-        "Belo",
-        "Bele"
+        "Belo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1343623233,
-    "wof:lastmodified":1564182274,
+    "wof:lastmodified":1566633726,
     "wof:name":"Bele",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

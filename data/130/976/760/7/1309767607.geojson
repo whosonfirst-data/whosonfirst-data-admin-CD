@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"20.06702,3.74377,20.10702,3.78377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boyaweza",
         "Boyawaza"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309767607,
-    "wof:lastmodified":1537590451,
+    "wof:lastmodified":1566636290,
     "wof:name":"Boyawaza",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

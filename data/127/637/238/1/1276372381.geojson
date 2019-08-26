@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"20.97483,-0.42003,21.01483,-0.38003",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276372381,
-    "wof:lastmodified":1536726607,
+    "wof:lastmodified":1566634976,
     "wof:name":"Lofondo",
     "wof:parent_id":1091679649,
     "wof:placetype":"locality",

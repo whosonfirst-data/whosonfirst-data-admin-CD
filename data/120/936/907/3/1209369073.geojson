@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.71899,-4.94161,24.75899,-4.90161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gamba"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1209369073,
-    "wof:lastmodified":1564184121,
+    "wof:lastmodified":1566635039,
     "wof:name":"Gamba",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

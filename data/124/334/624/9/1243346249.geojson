@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.91731,-8.07652,23.95731,-8.03652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kambi"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243346249,
-    "wof:lastmodified":1564186408,
+    "wof:lastmodified":1566636693,
     "wof:name":"Kambi",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

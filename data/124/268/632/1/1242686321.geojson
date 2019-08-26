@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.3765,-0.62133,19.4165,-0.58133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242686321,
-    "wof:lastmodified":1536907378,
+    "wof:lastmodified":1566636467,
     "wof:name":"Bobua",
     "wof:parent_id":1091679539,
     "wof:placetype":"locality",

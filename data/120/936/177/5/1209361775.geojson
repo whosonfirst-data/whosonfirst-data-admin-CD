@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"30.06329,-8.14811,30.10329,-8.10811",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":10048866
     },
     "wof:country":"CD",
-    "wof:geomhash":"9450d3600f8e4d5808b7144bd48138d5",
+    "wof:geomhash":"254f9ec1de51e51e410eb5c4474d0bdc",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209361775,
-    "wof:lastmodified":1536289398,
+    "wof:lastmodified":1566635043,
     "wof:name":"Nonda",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     30.08329,
-    -8.128110000000001,
+    -8.12811,
     30.08329,
-    -8.128110000000001
+    -8.12811
 ],
   "geometry": {"coordinates":[30.08329,-8.12811],"type":"Point"}
 }
