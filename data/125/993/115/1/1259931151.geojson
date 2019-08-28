@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.89037,3.00273,18.93037,3.04273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259931151,
-    "wof:lastmodified":1536710978,
+    "wof:lastmodified":1566637053,
     "wof:name":"Bogbazudo",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

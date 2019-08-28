@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"29.03488,1.87483,29.07488,1.91483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nabere"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193113475,
-    "wof:lastmodified":1537590347,
+    "wof:lastmodified":1566635592,
     "wof:name":"Nabere",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.93898,-7.9426,18.97898,-7.9026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226610903,
-    "wof:lastmodified":1536909080,
+    "wof:lastmodified":1566637366,
     "wof:name":"Mwangelu Premiere",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"20.6974,-6.48007,20.7374,-6.44007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326596023,
-    "wof:lastmodified":1536891831,
+    "wof:lastmodified":1566633398,
     "wof:name":"Katalaie",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"29.93229,1.61875,29.97229,1.65875",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sudjiabo"
     ],
     "name:fra_x_variant":[
-        "Sudjiabu"
-    ],
-    "name:und_x_variant":[
         "Sudjiabu"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1293465979,
-    "wof:lastmodified":1537590324,
+    "wof:lastmodified":1566634284,
     "wof:name":"Sudjiabo",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

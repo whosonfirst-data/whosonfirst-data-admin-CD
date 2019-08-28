@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"20.14382,3.29311,20.18382,3.33311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226189605,
-    "wof:lastmodified":1537013807,
+    "wof:lastmodified":1566637268,
     "wof:name":"Boyaswe",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"22.20553,2.80114,22.24553,2.84114",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Yambuku"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1343416407,
-    "wof:lastmodified":1564182457,
+    "wof:lastmodified":1566633862,
     "wof:name":"Yambuku",
     "wof:parent_id":1091679647,
     "wof:placetype":"locality",

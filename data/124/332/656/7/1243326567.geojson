@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.34532,-3.74001,21.38532,-3.70001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bahomo",
         "Bakono",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243326567,
-    "wof:lastmodified":1537590472,
+    "wof:lastmodified":1566636649,
     "wof:name":"Bakomo",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

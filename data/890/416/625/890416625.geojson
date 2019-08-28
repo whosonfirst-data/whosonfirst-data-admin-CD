@@ -11,10 +11,14 @@
     "geom:longitude":15.3279,
     "gn:country":"CD",
     "gn:fcode":"ADM4",
-    "gn:pop":150319,
+    "gn:population":150319,
     "iso:country":"CD",
+    "lbl:bbox":"15.2279,-4.41783,15.4279,-4.21783",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "qs:name":"commune de Barumbu",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -28,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6544534,
-        "qs:id":628546
+        "qs_pg:id":628546
     },
     "wof:country":"CD",
     "wof:created":1469051145,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":890416625,
-    "wof:lastmodified":1505343433,
+    "wof:lastmodified":1566636378,
     "wof:name":"commune de Barumbu",
     "wof:parent_id":85669997,
     "wof:placetype":"localadmin",

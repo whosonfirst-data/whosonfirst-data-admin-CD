@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.28327,-7.39531,19.32327,-7.35531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8448232
     },
     "wof:country":"CD",
-    "wof:geomhash":"277913b18f24a11b5cd4cb7a25d60b9b",
+    "wof:geomhash":"6495875a23b5c8850bd6c30cba07f8ee",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209691191,
-    "wof:lastmodified":1536279235,
+    "wof:lastmodified":1566635338,
     "wof:name":"Shayita",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     19.30327,
-    -7.375310000000002,
+    -7.37531,
     19.30327,
-    -7.375310000000002
+    -7.37531
 ],
   "geometry": {"coordinates":[19.30327,-7.37531],"type":"Point"}
 }

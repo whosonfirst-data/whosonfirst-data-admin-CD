@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.63457,-2.30286,17.67457,-2.26286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276622625,
-    "wof:lastmodified":1536888054,
+    "wof:lastmodified":1566635003,
     "wof:name":"Ikili",
     "wof:parent_id":1091679455,
     "wof:placetype":"locality",

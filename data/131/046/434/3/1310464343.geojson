@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.57523,-4.62642,17.61523,-4.58642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310464343,
-    "wof:lastmodified":1536975878,
+    "wof:lastmodified":1566635786,
     "wof:name":"Sawana",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

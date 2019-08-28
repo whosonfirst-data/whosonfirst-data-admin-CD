@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.30118,-3.50008,18.34118,-3.46008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mak"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293059113,
-    "wof:lastmodified":1537590519,
+    "wof:lastmodified":1566634447,
     "wof:name":"Makaw",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

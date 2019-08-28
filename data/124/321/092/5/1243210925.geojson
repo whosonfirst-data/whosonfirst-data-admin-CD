@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"29.79667,-7.35333,29.83667,-7.31333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mtambala",
         "Mutumbala",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243210925,
-    "wof:lastmodified":1537590353,
+    "wof:lastmodified":1566636841,
     "wof:name":"Mutambala",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

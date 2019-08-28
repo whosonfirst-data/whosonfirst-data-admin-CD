@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.43305,-8.90944,25.47305,-8.86944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kibula Gare",
         "Kibula"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260053115,
-    "wof:lastmodified":1537590403,
+    "wof:lastmodified":1566635768,
     "wof:name":"Kibula",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

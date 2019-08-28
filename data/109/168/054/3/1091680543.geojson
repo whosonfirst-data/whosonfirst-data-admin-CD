@@ -12,6 +12,8 @@
     "iso:country":"CD",
     "lbl:latitude":-4.90027,
     "lbl:longitude":20.964716,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kasai Occidental",
     "meso:gadm_admin":"Kasa\u00ef",
     "meso:gaul_admin":"Kasai",
@@ -24,6 +26,7 @@
     "mps:longitude":20.964716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u0627\u064a"
     ],
@@ -95,7 +98,7 @@
         "Kasai"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1091680543,
-    "wof:lastmodified":1564185741,
+    "wof:lastmodified":1566636204,
     "wof:name":"Kasai",
     "wof:parent_id":85669989,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.04027,-5.86891,18.08027,-5.82891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242652695,
-    "wof:lastmodified":1536955785,
+    "wof:lastmodified":1566636779,
     "wof:name":"Mulikandi",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

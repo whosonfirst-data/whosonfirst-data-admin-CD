@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.31312,-8.67311,28.35312,-8.63311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Musanga",
         "Musenge"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243145859,
-    "wof:lastmodified":1537590354,
+    "wof:lastmodified":1566636598,
     "wof:name":"Musenge",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

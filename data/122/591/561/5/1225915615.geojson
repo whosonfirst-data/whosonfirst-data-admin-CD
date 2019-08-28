@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"30.61899,2.44183,30.65899,2.48183",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ama"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1225915615,
-    "wof:lastmodified":1564187410,
+    "wof:lastmodified":1566637439,
     "wof:name":"Ama",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

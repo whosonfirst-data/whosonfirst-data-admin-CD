@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.02593,-5.53212,19.06593,-5.49212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242934905,
-    "wof:lastmodified":1537044381,
+    "wof:lastmodified":1566636506,
     "wof:name":"Kiambo",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

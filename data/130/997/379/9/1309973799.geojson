@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"20.16898,2.35697,20.20898,2.39697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Akula"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1309973799,
-    "wof:lastmodified":1564185790,
+    "wof:lastmodified":1566636245,
     "wof:name":"Akula",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

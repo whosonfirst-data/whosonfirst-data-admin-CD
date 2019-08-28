@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"13.81894,-4.47885,13.85894,-4.43885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kingoy",
         "Kingoye"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1344252679,
-    "wof:lastmodified":1537590531,
+    "wof:lastmodified":1566633805,
     "wof:name":"Kingoye",
     "wof:parent_id":85669993,
     "wof:placetype":"locality",

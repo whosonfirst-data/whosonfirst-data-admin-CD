@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"13.85817,-4.76325,13.89817,-4.72325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Lende"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226030093,
-    "wof:lastmodified":1564187284,
+    "wof:lastmodified":1566637347,
     "wof:name":"Lende",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"30.474,3.06724,30.514,3.10724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dere"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1292967259,
-    "wof:lastmodified":1564183309,
+    "wof:lastmodified":1566634460,
     "wof:name":"Dere",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

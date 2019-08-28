@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.13943,-6.78052,21.17943,-6.74052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mutema"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310267909,
-    "wof:lastmodified":1537590352,
+    "wof:lastmodified":1566635974,
     "wof:name":"Mutena",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

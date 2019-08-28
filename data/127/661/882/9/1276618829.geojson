@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.04667,-4.50333,17.08667,-4.46333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fakuri",
         "Fukuri"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276618829,
-    "wof:lastmodified":1537590544,
+    "wof:lastmodified":1566634774,
     "wof:name":"Fukuri",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

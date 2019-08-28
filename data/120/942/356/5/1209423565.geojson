@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.10147,-0.86175,18.14147,-0.82175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tondo"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1209423565,
-    "wof:lastmodified":1564184635,
+    "wof:lastmodified":1566635417,
     "wof:name":"Tondo",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

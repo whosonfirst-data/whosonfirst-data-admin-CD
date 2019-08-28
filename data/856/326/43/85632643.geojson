@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-2.271721,
     "lbl:longitude":23.513592,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-2.271721,
     "mps:longitude":23.513592,
     "mz:hierarchy_label":1,
@@ -1039,11 +1041,7 @@
     "name:und_x_variant":[
         "Congo, Demokratiske Republik",
         "Demokratiske Republikken Kongo",
-        "Kongon demokraattinen tasavalta",
         "Republika Zair",
-        "Zair"
-    ],
-    "name:unk_x_variant":[
         "Congo Free State"
     ],
     "name:urd_x_preferred":[
@@ -1210,7 +1208,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"243",
     "statoids:ds":"ZRE",
@@ -1252,7 +1250,7 @@
         "marc:id":"cg",
         "mzb:id":"congo-kinshasa",
         "ne:adm0_a3":"COD",
-        "qs:id":546266,
+        "qs_pg:id":546266,
         "uncrt:id":"ZRE",
         "wd:id":"Q974",
         "wk:page":"Democratic Republic of the Congo",
@@ -1278,7 +1276,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1565661859,
+    "wof:lastmodified":1566634158,
     "wof:name":"Democratic Republic of the Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

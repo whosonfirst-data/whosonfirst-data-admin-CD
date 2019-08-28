@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"13.99979,-4.57217,14.03979,-4.53217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ganda"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1260174967,
-    "wof:lastmodified":1564185042,
+    "wof:lastmodified":1566635711,
     "wof:name":"Ganda",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

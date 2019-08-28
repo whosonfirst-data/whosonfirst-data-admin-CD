@@ -12,6 +12,8 @@
     "iso:country":"CD",
     "lbl:latitude":-4.32142,
     "lbl:longitude":15.30807,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -455,7 +457,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043d\u0448\u0430\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leopoldstad"
     ],
     "name:urd_x_preferred":[
@@ -639,7 +641,7 @@
         "gn:id":2314302,
         "gp:id":1290062,
         "loc:id":"n78073109",
-        "qs:id":278426,
+        "qs_pg:id":278426,
         "wd:id":"Q3838",
         "wk:page":"Kinshasa"
     },
@@ -655,7 +657,7 @@
         }
     ],
     "wof:id":421166913,
-    "wof:lastmodified":1563295651,
+    "wof:lastmodified":1566636370,
     "wof:name":"Kinshasa",
     "wof:parent_id":85669997,
     "wof:placetype":"locality",

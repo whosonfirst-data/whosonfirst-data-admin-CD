@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.25467,-7.39719,18.29467,-7.35719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kimwangala"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259945389,
-    "wof:lastmodified":1537590575,
+    "wof:lastmodified":1566637067,
     "wof:name":"Kinwangala",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

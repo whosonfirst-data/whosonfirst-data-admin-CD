@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.55937,-7.37671,26.59937,-7.33671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Niemba"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343905091,
-    "wof:lastmodified":1564182359,
+    "wof:lastmodified":1566633791,
     "wof:name":"Niemba",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

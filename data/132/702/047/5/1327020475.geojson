@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"14.35416,-4.83342,14.39416,-4.79342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327020475,
-    "wof:lastmodified":1536778224,
+    "wof:lastmodified":1566633488,
     "wof:name":"Bisinza",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

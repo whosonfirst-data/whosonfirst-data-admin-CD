@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.87571,-3.96821,17.91571,-3.92821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mbule"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243029859,
-    "wof:lastmodified":1564186450,
+    "wof:lastmodified":1566636720,
     "wof:name":"Mbule",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

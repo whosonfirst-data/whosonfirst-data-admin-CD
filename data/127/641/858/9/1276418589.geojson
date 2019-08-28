@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"29.34906,-1.37766,29.38906,-1.33766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rumengabo",
         "Ramangabo",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276418589,
-    "wof:lastmodified":1537590332,
+    "wof:lastmodified":1566634922,
     "wof:name":"Rumangabo",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",

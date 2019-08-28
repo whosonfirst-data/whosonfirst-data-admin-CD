@@ -12,6 +12,8 @@
     "iso:country":"CD",
     "lbl:latitude":-5.898503,
     "lbl:longitude":22.436171,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kasai Occidental",
     "meso:gadm_admin":"Kananga",
     "meso:gaul_admin":"Kananga",
@@ -24,6 +26,7 @@
     "mps:longitude":22.436171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Kananga"
     ],
@@ -169,7 +172,7 @@
         "\u5361\u5357\u52a0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643,
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":1091680487,
-    "wof:lastmodified":1564185740,
+    "wof:lastmodified":1566636204,
     "wof:name":"Kananga",
     "wof:parent_id":85669989,
     "wof:placetype":"county",

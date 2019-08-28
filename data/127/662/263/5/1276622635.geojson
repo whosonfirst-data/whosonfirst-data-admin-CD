@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.70911,-2.66447,17.74911,-2.62447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276622635,
-    "wof:lastmodified":1536888046,
+    "wof:lastmodified":1566635004,
     "wof:name":"Mokolombu",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

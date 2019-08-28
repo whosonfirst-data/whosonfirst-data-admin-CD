@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"14.96145,-4.67933,15.00145,-4.63933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nsanda"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243254179,
-    "wof:lastmodified":1537590575,
+    "wof:lastmodified":1566636615,
     "wof:name":"Msanda",
     "wof:parent_id":1091679351,
     "wof:placetype":"locality",

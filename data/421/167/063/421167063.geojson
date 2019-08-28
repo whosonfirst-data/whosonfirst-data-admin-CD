@@ -10,6 +10,9 @@
     "geom:latitude":1.50695,
     "geom:longitude":21.0726,
     "iso:country":"CD",
+    "lbl:bbox":"21.0526,1.48695,21.0926,1.52695",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -169,7 +172,7 @@
     "wof:concordances":{
         "gn:id":218229,
         "gp:id":1284845,
-        "qs:id":123436,
+        "qs_pg:id":123436,
         "wd:id":"Q2910050"
     },
     "wof:country":"CD",
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":421167063,
-    "wof:lastmodified":1561844942,
+    "wof:lastmodified":1566636371,
     "wof:name":"Bongandanga",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

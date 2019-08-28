@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.16559,-6.38888,21.20559,-6.34888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293465639,
-    "wof:lastmodified":1536817823,
+    "wof:lastmodified":1566634284,
     "wof:name":"Tshimbawo",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

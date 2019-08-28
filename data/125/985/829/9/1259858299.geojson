@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.81333,-4.67,27.85333,-4.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mupapaye",
         "Mupayepaye"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259858299,
-    "wof:lastmodified":1537590355,
+    "wof:lastmodified":1566636987,
     "wof:name":"Mupayepaye",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

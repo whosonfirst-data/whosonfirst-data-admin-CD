@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.17272,-7.38781,19.21272,-7.34781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kabongo"
     ],
@@ -44,8 +48,7 @@
         "Kabongo"
     ],
     "name:und_x_variant":[
-        "Kabango",
-        "Kabongo"
+        "Kabango"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1309674491,
-    "wof:lastmodified":1564185898,
+    "wof:lastmodified":1566636316,
     "wof:name":"Kabongo",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

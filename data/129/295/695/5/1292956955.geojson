@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.78525,-6.38803,21.82525,-6.34803",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Diulu-Matenge",
         "Diulu-Matange"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292956955,
-    "wof:lastmodified":1537590444,
+    "wof:lastmodified":1566634271,
     "wof:name":"Diulu-Matange",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",

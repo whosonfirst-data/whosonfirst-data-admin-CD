@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"15.59667,-5.08667,15.63667,-5.04667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kimbundu"
     ],
@@ -95,8 +99,7 @@
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u043c\u0431\u0443\u043d\u0434\u0443"
     ],
     "name:und_x_variant":[
-        "Kimbunda",
-        "Kimbundu"
+        "Kimbunda"
     ],
     "name:zho_x_preferred":[
         "\u91d1\u90a6\u675c\u8bed"
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1243058433,
-    "wof:lastmodified":1564186436,
+    "wof:lastmodified":1566636710,
     "wof:name":"Kimbundu",
     "wof:parent_id":1091679351,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.81761,-2.53865,28.85761,-2.49865",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shabarari",
         "Tshabarabi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343838065,
-    "wof:lastmodified":1537590321,
+    "wof:lastmodified":1566633869,
     "wof:name":"Tshabarabi",
     "wof:parent_id":1091679967,
     "wof:placetype":"locality",

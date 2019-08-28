@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.89395,1.3814,25.93395,1.4214",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209665445,
-    "wof:lastmodified":1536280114,
+    "wof:lastmodified":1566635289,
     "wof:name":"Bafwagambo",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

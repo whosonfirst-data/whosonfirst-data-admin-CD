@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.87378,-5.83879,24.91378,-5.79879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309765029,
-    "wof:lastmodified":1536989176,
+    "wof:lastmodified":1566636286,
     "wof:name":"Shadika",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

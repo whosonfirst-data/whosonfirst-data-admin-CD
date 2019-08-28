@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.72022,-9.4043,22.76022,-9.3643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260239957,
-    "wof:lastmodified":1536771576,
+    "wof:lastmodified":1566635632,
     "wof:name":"Saosoko",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

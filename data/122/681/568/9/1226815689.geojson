@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"30.61234,1.97637,30.65234,2.01637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226815689,
-    "wof:lastmodified":1536612434,
+    "wof:lastmodified":1566637200,
     "wof:name":"Djokwa",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

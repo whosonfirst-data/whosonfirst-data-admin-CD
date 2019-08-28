@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.92481,-4.39199,17.96481,-4.35199",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bulangunga Deuxi\u00e8me",
         "Bulangunga II"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276726911,
-    "wof:lastmodified":1537590550,
+    "wof:lastmodified":1566634622,
     "wof:name":"Bulangunga Deuxieme",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

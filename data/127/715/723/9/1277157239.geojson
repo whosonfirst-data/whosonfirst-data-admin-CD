@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.78794,-3.73575,27.82794,-3.69575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "Museem"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277157239,
-    "wof:lastmodified":1564183842,
+    "wof:lastmodified":1566634828,
     "wof:name":"Museme",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.17999,-11.04729,23.21999,-11.00729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lundubi",
         "Lundumbi",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242832809,
-    "wof:lastmodified":1537590487,
+    "wof:lastmodified":1566636739,
     "wof:name":"Lundumb",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

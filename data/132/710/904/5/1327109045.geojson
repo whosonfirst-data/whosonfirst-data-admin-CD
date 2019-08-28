@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.93168,-5.74566,18.97168,-5.70566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lusanga"
     ],
@@ -32,8 +36,7 @@
         "Lusanga"
     ],
     "name:und_x_variant":[
-        "Koy",
-        "Lusanga"
+        "Koy"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1327109045,
-    "wof:lastmodified":1564182171,
+    "wof:lastmodified":1566633648,
     "wof:name":"Lusanga",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

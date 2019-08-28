@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.56196,-7.13208,23.60196,-7.09208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8520477
     },
     "wof:country":"CD",
-    "wof:geomhash":"61a26b244505b1a60d955640073cdad5",
+    "wof:geomhash":"b237bd43d748c58ba8ef8e0815d8532a",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209373761,
-    "wof:lastmodified":1536289020,
+    "wof:lastmodified":1566635127,
     "wof:name":"Bakwa Tinibwe",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     23.58196,
-    -7.1120800000000015,
+    -7.11208,
     23.58196,
-    -7.1120800000000015
+    -7.11208
 ],
   "geometry": {"coordinates":[23.58196,-7.11208],"type":"Point"}
 }

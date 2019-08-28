@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.83906,-0.85671,25.87906,-0.81671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batianoya",
         "Batiayamuya",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259429205,
-    "wof:lastmodified":1537590466,
+    "wof:lastmodified":1566637115,
     "wof:name":"Batiayamuyao",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"22.76813,-0.87781,22.80813,-0.83781",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":218474
     },
     "wof:country":"CD",
-    "wof:geomhash":"05ed1feae5dd94f44738f256042cd791",
+    "wof:geomhash":"4ed9896355dec65824b2744027c54dee",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209139093,
-    "wof:lastmodified":1536296563,
+    "wof:lastmodified":1566635256,
     "wof:name":"Bokungwaenga",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     22.78813,
-    -0.8578100000000001,
+    -0.85781,
     22.78813,
-    -0.8578100000000001
+    -0.85781
 ],
   "geometry": {"coordinates":[22.78813,-0.85781],"type":"Point"}
 }

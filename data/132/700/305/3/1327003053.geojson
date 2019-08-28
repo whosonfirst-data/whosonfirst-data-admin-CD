@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.47291,-8.79438,24.51291,-8.75438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327003053,
-    "wof:lastmodified":1536802888,
+    "wof:lastmodified":1566633312,
     "wof:name":"Kiwiba",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

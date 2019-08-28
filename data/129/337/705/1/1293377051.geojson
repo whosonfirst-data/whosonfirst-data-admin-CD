@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.74835,-4.93033,28.78835,-4.89033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Natalongwe",
         "Nalalongwe",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293377051,
-    "wof:lastmodified":1537590347,
+    "wof:lastmodified":1566634215,
     "wof:name":"Nalalongwe",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

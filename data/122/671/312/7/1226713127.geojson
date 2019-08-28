@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"20.33904,-5.78892,20.37904,-5.74892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kilembe"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226713127,
-    "wof:lastmodified":1564187471,
+    "wof:lastmodified":1566637483,
     "wof:name":"Kilembe",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

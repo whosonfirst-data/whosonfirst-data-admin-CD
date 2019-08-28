@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.92343,-6.65906,24.96343,-6.61906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Tanka"
     ],
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1259747537,
-    "wof:lastmodified":1564186954,
+    "wof:lastmodified":1566637103,
     "wof:name":"Tanka",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"14.56614,-5.19514,14.60614,-5.15514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343480905,
-    "wof:lastmodified":1536717002,
+    "wof:lastmodified":1566633872,
     "wof:name":"Kinlungi",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

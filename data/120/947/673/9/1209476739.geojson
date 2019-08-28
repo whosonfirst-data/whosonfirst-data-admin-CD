@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.88411,-4.64898,17.92411,-4.60898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sakabanza",
         "Sakambanza",
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209476739,
-    "wof:lastmodified":1537590503,
+    "wof:lastmodified":1566635232,
     "wof:name":"Sakambanz",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

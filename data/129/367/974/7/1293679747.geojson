@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"14.05651,-4.4357,14.09651,-4.3957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mahana"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293679747,
-    "wof:lastmodified":1564183250,
+    "wof:lastmodified":1566634417,
     "wof:name":"Mahana",
     "wof:parent_id":85669993,
     "wof:placetype":"locality",

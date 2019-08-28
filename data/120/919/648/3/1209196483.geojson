@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"30.22494,3.91898,30.26494,3.95898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8143994
     },
     "wof:country":"CD",
-    "wof:geomhash":"e492990f95dc01b19fc904a75de1abf9",
+    "wof:geomhash":"15578b0b90a7291d342e2a3edd87130a",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209196483,
-    "wof:lastmodified":1536294753,
+    "wof:lastmodified":1566635427,
     "wof:name":"Ludanga",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.244940000000003,
+    30.24494,
     3.93898,
-    30.244940000000003,
+    30.24494,
     3.93898
 ],
   "geometry": {"coordinates":[30.24494,3.93898],"type":"Point"}

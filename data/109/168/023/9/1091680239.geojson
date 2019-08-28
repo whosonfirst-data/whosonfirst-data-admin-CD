@@ -12,6 +12,8 @@
     "iso:country":"CD",
     "lbl:latitude":-9.492156,
     "lbl:longitude":23.046147,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Katanga",
     "meso:gadm_admin":"Lualaba",
     "meso:gaul_admin":"Lualaba",
@@ -24,6 +26,7 @@
     "mps:longitude":23.046147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Lualaba"
     ],
@@ -64,7 +67,7 @@
         "\u5362\u963f\u62c9\u5df4"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1091680239,
-    "wof:lastmodified":1564185739,
+    "wof:lastmodified":1566636204,
     "wof:name":"Lualaba",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

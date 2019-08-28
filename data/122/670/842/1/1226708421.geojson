@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.53703,-10.16385,22.57703,-10.12385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Carduelis flavirostris"
     ],
@@ -174,7 +178,7 @@
         }
     ],
     "wof:id":1226708421,
-    "wof:lastmodified":1564187549,
+    "wof:lastmodified":1566637537,
     "wof:name":"Twite",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

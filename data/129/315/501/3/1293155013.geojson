@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.28,-4.02,22.32,-3.98",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kamba"
     ],
@@ -47,8 +51,7 @@
         "Kamba"
     ],
     "name:und_x_variant":[
-        "Kamba De Passemier",
-        "Kamba"
+        "Kamba De Passemier"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1293155013,
-    "wof:lastmodified":1564183109,
+    "wof:lastmodified":1566634324,
     "wof:name":"Kamba",
     "wof:parent_id":1091680399,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.79875,-9.27796,22.83875,-9.23796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326698915,
-    "wof:lastmodified":1536743594,
+    "wof:lastmodified":1566633367,
     "wof:name":"Safuliela",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

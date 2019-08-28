@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.5873,-6.17503,24.6273,-6.13503",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326789429,
-    "wof:lastmodified":1536610854,
+    "wof:lastmodified":1566633529,
     "wof:name":"Eshiba",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

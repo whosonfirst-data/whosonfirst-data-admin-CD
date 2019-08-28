@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"15.1988,-4.35384,15.2388,-4.31384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kiasuka"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276331997,
-    "wof:lastmodified":1537590530,
+    "wof:lastmodified":1566634715,
     "wof:name":"Kinsuka",
     "wof:parent_id":1091679225,
     "wof:placetype":"locality",

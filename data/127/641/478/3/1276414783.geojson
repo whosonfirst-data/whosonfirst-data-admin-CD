@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.81475,-5.66625,18.85475,-5.62625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Kambila"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1276414783,
-    "wof:lastmodified":1564183962,
+    "wof:lastmodified":1566634920,
     "wof:name":"Kambila",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

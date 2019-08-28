@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.31889,-6.92964,18.35889,-6.88964",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360047947,
-    "wof:lastmodified":1536998641,
+    "wof:lastmodified":1566636187,
     "wof:name":"Kazwanda",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.17384,-3.25392,18.21384,-3.21392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sekie",
         "Sekwe"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293069325,
-    "wof:lastmodified":1537590502,
+    "wof:lastmodified":1566634232,
     "wof:name":"Sekwe",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.99622,-10.39288,24.03622,-10.35288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326688437,
-    "wof:lastmodified":1536759182,
+    "wof:lastmodified":1566633419,
     "wof:name":"Wadanamutshima",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

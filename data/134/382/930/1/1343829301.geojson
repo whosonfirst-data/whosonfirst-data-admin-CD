@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.48378,2.45538,23.52378,2.49538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343829301,
-    "wof:lastmodified":1536711960,
+    "wof:lastmodified":1566633911,
     "wof:name":"Kindi-Tambo",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

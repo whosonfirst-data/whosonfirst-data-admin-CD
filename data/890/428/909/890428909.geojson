@@ -11,8 +11,11 @@
     "geom:longitude":24.48333,
     "gn:country":"CD",
     "gn:fcode":"PPL",
-    "gn:pop":59004,
+    "gn:population":59004,
     "iso:country":"CD",
+    "lbl:bbox":"24.46333,-6.15333,24.50333,-6.11333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -204,7 +207,7 @@
     "wof:concordances":{
         "gn:id":215527,
         "gp:id":1287515,
-        "qs:id":274452,
+        "qs_pg:id":274452,
         "wd:id":"Q3191660",
         "wk:page":"Kabinda"
     },
@@ -220,7 +223,7 @@
         }
     ],
     "wof:id":890428909,
-    "wof:lastmodified":1563295676,
+    "wof:lastmodified":1566636377,
     "wof:name":"Kabinda",
     "wof:parent_id":85670011,
     "wof:placetype":"locality",

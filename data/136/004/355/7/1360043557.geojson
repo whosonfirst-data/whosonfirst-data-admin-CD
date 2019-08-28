@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.5296,-5.88131,22.5696,-5.84131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tshimanya",
         "Tshimanga"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360043557,
-    "wof:lastmodified":1537590479,
+    "wof:lastmodified":1566636184,
     "wof:name":"Tshimanga",
     "wof:parent_id":1091680487,
     "wof:placetype":"locality",

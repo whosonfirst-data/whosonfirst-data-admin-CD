@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.00831,-6.50293,17.04831,-6.46293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mwana Muyambo",
         "Mwana-Muyombo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259348365,
-    "wof:lastmodified":1537590510,
+    "wof:lastmodified":1566637089,
     "wof:name":"Mwana-Muyombo",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

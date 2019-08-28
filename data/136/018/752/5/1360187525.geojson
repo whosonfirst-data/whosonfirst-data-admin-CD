@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CD",
+    "lbl:bbox":"17.56213,-0.72511,17.60213,-0.68511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gombe"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1360187525,
-    "wof:lastmodified":1564185670,
+    "wof:lastmodified":1566636152,
     "wof:name":"Gombe",
     "wof:parent_id":1091679539,
     "wof:placetype":"locality",

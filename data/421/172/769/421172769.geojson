@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.91879,-2.10399,28.91879,-2.10399",
     "geom:latitude":-2.10399,
     "geom:longitude":28.91879,
     "iso:country":"CD",
+    "lbl:bbox":"28.89879,-2.12399,28.93879,-2.08399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CD",
     "qs:gn_fcode":"PPL",
@@ -39,11 +45,11 @@
     "wof:concordances":{
         "gn:id":215002,
         "gp:id":1474364,
-        "qs:id":274466
+        "qs_pg:id":274466
     },
     "wof:country":"CD",
     "wof:created":1459008954,
-    "wof:geomhash":"2db14c06205802d23756c68b76dcdbec",
+    "wof:geomhash":"1ef4b1cfa2b87c33cd9d2dc264ab5922",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":421172769,
-    "wof:lastmodified":1466635836,
+    "wof:lastmodified":1566636373,
     "wof:name":"Kalehe",
     "wof:parent_id":85670003,
     "wof:placetype":"locality",

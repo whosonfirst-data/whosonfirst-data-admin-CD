@@ -10,6 +10,9 @@
     "geom:latitude":0.14164,
     "geom:longitude":29.29117,
     "iso:country":"CD",
+    "lbl:bbox":"29.27117,0.12164,29.31117,0.16164",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -276,7 +279,7 @@
     "wof:concordances":{
         "gn:id":217562,
         "gp:id":1285613,
-        "qs:id":1088884,
+        "qs_pg:id":1088884,
         "wd:id":"Q518785",
         "wk:page":"Butembo"
     },
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":421168665,
-    "wof:lastmodified":1563295648,
+    "wof:lastmodified":1566636370,
     "wof:name":"Butembo",
     "wof:parent_id":85670021,
     "wof:placetype":"locality",

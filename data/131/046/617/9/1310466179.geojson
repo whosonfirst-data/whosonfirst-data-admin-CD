@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.51473,-6.15922,24.55473,-6.11922",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u043e\u043c\u043e"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1310466179,
-    "wof:lastmodified":1564185140,
+    "wof:lastmodified":1566635777,
     "wof:name":"Kalomo",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

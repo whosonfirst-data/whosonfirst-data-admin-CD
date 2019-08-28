@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.91333,-4.67,18.95333,-4.63",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ae\u0999\u09cd\u0997\u09b2"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1327395613,
-    "wof:lastmodified":1564181625,
+    "wof:lastmodified":1566633255,
     "wof:name":"Mangala",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

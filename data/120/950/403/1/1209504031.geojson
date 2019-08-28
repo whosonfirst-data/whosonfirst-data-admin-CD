@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.61557,-4.76832,27.65557,-4.72832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mutu Peke"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209504031,
-    "wof:lastmodified":1537590571,
+    "wof:lastmodified":1566635261,
     "wof:name":"Mutupeke",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

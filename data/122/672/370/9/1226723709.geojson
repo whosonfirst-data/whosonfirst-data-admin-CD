@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.86998,-10.55343,26.90998,-10.51343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kanoni"
     ],
@@ -33,8 +37,7 @@
     ],
     "name:und_x_variant":[
         "Kamoni",
-        "Kanon",
-        "Kanoni"
+        "Kanon"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0646\u0648\u0646\u06cc"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226723709,
-    "wof:lastmodified":1564187068,
+    "wof:lastmodified":1566637188,
     "wof:name":"Kanoni",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

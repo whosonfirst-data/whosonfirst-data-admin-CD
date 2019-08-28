@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Luanda",
     "iso:country":"CD",
+    "lbl:bbox":"16.70233,-6.22954,16.74233,-6.18954",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1276737919,
-    "wof:lastmodified":1536733973,
+    "wof:lastmodified":1566634675,
     "wof:name":"Kwamba",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

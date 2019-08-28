@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.16414,-2.98304,27.20414,-2.94304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":212951
     },
     "wof:country":"CD",
-    "wof:geomhash":"4c63cdf0e2e833a464aa6a2cd76b9828",
+    "wof:geomhash":"d7ff7de2ed49d36689a2ae283884d0db",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209602231,
-    "wof:lastmodified":1536282129,
+    "wof:lastmodified":1566635330,
     "wof:name":"Kimbondi",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.184140000000006,
-    -2.9630400000000003,
-    27.184140000000006,
-    -2.9630400000000003
+    27.18414000000001,
+    -2.96304,
+    27.18414000000001,
+    -2.96304
 ],
   "geometry": {"coordinates":[27.18414000000001,-2.96304],"type":"Point"}
 }

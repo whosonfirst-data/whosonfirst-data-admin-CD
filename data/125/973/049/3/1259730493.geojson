@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.35509,-6.54574,26.39509,-6.50574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Kilima"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1259730493,
-    "wof:lastmodified":1564186943,
+    "wof:lastmodified":1566637096,
     "wof:name":"Kilima",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

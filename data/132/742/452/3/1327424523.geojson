@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"15.07211,-4.64314,15.11211,-4.60314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kisantu"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1327424523,
-    "wof:lastmodified":1564182178,
+    "wof:lastmodified":1566633654,
     "wof:name":"Kisantu",
     "wof:parent_id":1091679351,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.36732,2.99441,28.40732,3.03441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":220133
     },
     "wof:country":"CD",
-    "wof:geomhash":"f30dba2088ee229bc41b6cb07a0fad0c",
+    "wof:geomhash":"cac0808867afabbe52e377c3dae0bf20",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209283971,
-    "wof:lastmodified":1536291923,
+    "wof:lastmodified":1566635445,
     "wof:name":"Azango",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.387320000000006,
+    28.38732000000001,
     3.01441,
-    28.387320000000006,
+    28.38732000000001,
     3.01441
 ],
   "geometry": {"coordinates":[28.38732000000001,3.01441],"type":"Point"}

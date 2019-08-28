@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.22004,2.67902,19.26004,2.71902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ngele"
     ],
     "name:fra_x_variant":[
-        "Gele"
-    ],
-    "name:und_x_variant":[
         "Gele"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1343805283,
-    "wof:lastmodified":1537590508,
+    "wof:lastmodified":1566634103,
     "wof:name":"Ngele",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

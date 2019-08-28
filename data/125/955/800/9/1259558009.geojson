@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.94981,-5.68805,18.98981,-5.64805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Kikombo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259558009,
-    "wof:lastmodified":1564186743,
+    "wof:lastmodified":1566636942,
     "wof:name":"Kikombo",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":-2.72037,
     "geom:longitude":17.69001,
     "iso:country":"CD",
+    "lbl:bbox":"17.67001,-2.74037,17.71001,-2.70037",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041d\u0438\u043e\u043a\u0438"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":2311968,
         "gp:id":1295375,
-        "qs:id":1034827,
+        "qs_pg:id":1034827,
         "wd:id":"Q7039359",
         "wk:page":"Nioki"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421168129,
-    "wof:lastmodified":1561844941,
+    "wof:lastmodified":1566636370,
     "wof:name":"Nioki",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

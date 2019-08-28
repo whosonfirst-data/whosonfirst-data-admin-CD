@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"20.52215,3.7843,20.56215,3.8243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Badorowe",
         "Bodorowe"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209782877,
-    "wof:lastmodified":1537590458,
+    "wof:lastmodified":1566635217,
     "wof:name":"Bodorowe",
     "wof:parent_id":1091679605,
     "wof:placetype":"locality",

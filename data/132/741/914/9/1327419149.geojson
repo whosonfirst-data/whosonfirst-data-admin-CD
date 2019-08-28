@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"13.80304,-4.54313,13.84304,-4.50313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327419149,
-    "wof:lastmodified":1536700213,
+    "wof:lastmodified":1566633482,
     "wof:name":"Kinanga-Bonda",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

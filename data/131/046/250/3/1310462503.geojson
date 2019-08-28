@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.00376,-0.13578,24.04376,-0.09578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lito"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310462503,
-    "wof:lastmodified":1564185143,
+    "wof:lastmodified":1566635780,
     "wof:name":"Lito",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

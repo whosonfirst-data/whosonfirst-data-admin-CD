@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"21.16949,4.28276,21.20949,4.32276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mobayi-Mbongo"
     ],
@@ -56,8 +60,7 @@
         "Banzyville",
         "Yasanyama",
         "Banzystad",
-        "Mobayi",
-        "Mobayi-Mbongo"
+        "Mobayi"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10dd\u10d1\u10d0\u10d8\u10d8-\u10db\u10d1\u10dd\u10dc\u10d2\u10dd"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1259350007,
-    "wof:lastmodified":1564186860,
+    "wof:lastmodified":1566637031,
     "wof:name":"Mobayi-Mbongo",
     "wof:parent_id":1091679605,
     "wof:placetype":"locality",

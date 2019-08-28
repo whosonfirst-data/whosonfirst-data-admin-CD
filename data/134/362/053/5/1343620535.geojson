@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.98,-5.83667,25.02,-5.79667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0648"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1343620535,
-    "wof:lastmodified":1564182271,
+    "wof:lastmodified":1566633724,
     "wof:name":"Koto",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

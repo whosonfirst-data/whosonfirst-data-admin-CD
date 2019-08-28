@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.1345,-5.82901,21.1745,-5.78901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sokombi",
         "Sakombe",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292966845,
-    "wof:lastmodified":1537590324,
+    "wof:lastmodified":1566634465,
     "wof:name":"Sokombe",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

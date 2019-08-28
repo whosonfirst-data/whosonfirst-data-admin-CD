@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.11287,0.30955,24.15287,0.34955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310152285,
-    "wof:lastmodified":1536929849,
+    "wof:lastmodified":1566635772,
     "wof:name":"Bolanda",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

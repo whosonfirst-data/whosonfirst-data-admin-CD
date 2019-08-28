@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.46568,-11.20431,28.50568,-11.16431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kilukusa",
         "Kilukusha"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293071817,
-    "wof:lastmodified":1537590489,
+    "wof:lastmodified":1566634167,
     "wof:name":"Kilukusha",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"CD",
     "lbl:latitude":-6.443574,
     "lbl:longitude":28.088814,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Katanga",
     "meso:gadm_admin":"Tanganika",
     "meso:gaul_admin":"Tanganyka",
@@ -24,6 +26,7 @@
     "mps:longitude":28.088814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0422\u0430\u043d\u0433\u0430\u043d\u044c\u0456\u043a\u0430"
     ],
@@ -117,7 +120,7 @@
         "\u5766\u5676\u5c3c\u5580\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643,
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1091680307,
-    "wof:lastmodified":1563295407,
+    "wof:lastmodified":1566636209,
     "wof:name":"Tanganyka",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

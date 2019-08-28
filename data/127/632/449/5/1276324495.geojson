@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"13.05092,-5.86613,13.09092,-5.82613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276324495,
-    "wof:lastmodified":1536790941,
+    "wof:lastmodified":1566634757,
     "wof:name":"Tshikuku",
     "wof:parent_id":1091679279,
     "wof:placetype":"locality",

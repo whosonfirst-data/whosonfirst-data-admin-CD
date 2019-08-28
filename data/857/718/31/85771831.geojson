@@ -9,14 +9,16 @@
     "geom:bbox":"15.280192,-4.321842,15.280192,-4.321842",
     "geom:latitude":-4.321842,
     "geom:longitude":15.280192,
-    "gn:gn_country":"CD",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CD",
+    "gn:fcode":"PPLX",
     "gn:latitude":-4.30806,
     "gn:longitude":15.2839,
+    "gn:population":0,
     "iso:country":"CD",
+    "lbl:bbox":"15.275192,-4.326842,15.285192,-4.316842",
     "lbl:latitude":-4.321842,
     "lbl:longitude":15.280192,
+    "lbl:max_zoom":18.0,
     "mps:latitude":-4.314869,
     "mps:longitude":15.275757,
     "mz:hierarchy_label":0,
@@ -73,9 +75,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Kalina"
-    ],
     "qs:gn_adm0_cc":"CD",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":2314302,
@@ -123,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":189,
     "wof:belongsto":[
         85669997,
@@ -135,7 +134,6 @@
     "wof:concordances":{
         "gn:id":2315191,
         "gp:id":1287974,
-        "qs:id":1083553,
         "qs_pg:id":1083553
     },
     "wof:country":"CD",
@@ -154,7 +152,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1564182879,
+    "wof:lastmodified":1566634155,
     "wof:name":"Kalina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

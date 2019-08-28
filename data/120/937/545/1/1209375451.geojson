@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.5702,1.10799,23.6102,1.14799",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bandu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209375451,
-    "wof:lastmodified":1564184239,
+    "wof:lastmodified":1566635127,
     "wof:name":"Bandu",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

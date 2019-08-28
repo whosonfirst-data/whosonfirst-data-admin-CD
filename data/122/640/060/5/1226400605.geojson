@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.38264,-6.32296,22.42264,-6.28296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0627\u0646\u0632\u0627"
     ],
@@ -195,7 +199,7 @@
         }
     ],
     "wof:id":1226400605,
-    "wof:lastmodified":1564187504,
+    "wof:lastmodified":1566637506,
     "wof:name":"Mwanza",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",

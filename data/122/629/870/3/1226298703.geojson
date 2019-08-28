@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.09816,-2.16635,17.13816,-2.12635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mpa Premi\u00e8re",
         "Mpa I"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226298703,
-    "wof:lastmodified":1537590513,
+    "wof:lastmodified":1566637290,
     "wof:name":"Mpa Premiere",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

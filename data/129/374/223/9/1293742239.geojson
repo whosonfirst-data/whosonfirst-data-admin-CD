@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.40249,-10.17319,24.44249,-10.13319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293742239,
-    "wof:lastmodified":1536917639,
+    "wof:lastmodified":1566634541,
     "wof:name":"Tshifweta",
     "wof:parent_id":1091680197,
     "wof:placetype":"locality",

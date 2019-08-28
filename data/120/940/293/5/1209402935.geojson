@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"29.38787,0.48347,29.42787,0.52347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":206381
     },
     "wof:country":"CD",
-    "wof:geomhash":"0b4b6aff8cef2f4f34a7031a5c94dc6e",
+    "wof:geomhash":"2bceffad56ab7fc9d30daa3fa2993213",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209402935,
-    "wof:lastmodified":1536288086,
+    "wof:lastmodified":1566635210,
     "wof:name":"Pasisi",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.407870000000006,
+    29.40787000000001,
     0.50347,
-    29.407870000000006,
+    29.40787000000001,
     0.50347
 ],
   "geometry": {"coordinates":[29.40787000000001,0.50347],"type":"Point"}

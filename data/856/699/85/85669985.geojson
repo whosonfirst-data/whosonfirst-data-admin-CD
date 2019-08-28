@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-4.432803,
     "lbl:longitude":18.313187,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-4.432803,
     "mps:longitude":18.313187,
     "mz:hierarchy_label":1,
@@ -149,7 +150,7 @@
         "Bandundu"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0ba3\u0bcd\u0b9f\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0ba3\u0bcd\u0b9f\u0bc1\u0ba3\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c02\u0c26\u0c41\u0c02\u0c21\u0c41 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -166,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043d\u0434\u0443\u043d\u0434\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion de Bandundu"
     ],
     "name:urd_x_preferred":[
@@ -257,7 +258,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "unlc:subdivision":"CD-BN",
     "wof:belongsto":[
@@ -270,7 +271,7 @@
         "gn:id":2317396,
         "gp:id":2344977,
         "hasc:id":"CD.BN",
-        "qs:id":423615,
+        "qs_pg:id":423615,
         "unlc:id":"CD-BN",
         "wd:id":"Q671442",
         "wk:page":"Bandundu Province"
@@ -295,7 +296,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1565661859,
+    "wof:lastmodified":1566634158,
     "wof:name":"Bandundu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

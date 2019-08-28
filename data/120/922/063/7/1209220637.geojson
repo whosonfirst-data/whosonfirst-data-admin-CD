@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.24236,-6.27737,23.28236,-6.23737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209220637,
-    "wof:lastmodified":1536293974,
+    "wof:lastmodified":1566635254,
     "wof:name":"Bakwa-Lukanda",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",

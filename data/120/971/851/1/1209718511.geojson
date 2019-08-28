@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.01333,-1.62,17.05333,-1.58",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nkondi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209718511,
-    "wof:lastmodified":1564184395,
+    "wof:lastmodified":1566635243,
     "wof:name":"Nkondi",
     "wof:parent_id":1091679539,
     "wof:placetype":"locality",

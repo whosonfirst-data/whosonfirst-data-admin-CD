@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"20.44136,3.68331,20.48136,3.72331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293168045,
-    "wof:lastmodified":1536750653,
+    "wof:lastmodified":1566634501,
     "wof:name":"Boyawuku",
     "wof:parent_id":1091679605,
     "wof:placetype":"locality",

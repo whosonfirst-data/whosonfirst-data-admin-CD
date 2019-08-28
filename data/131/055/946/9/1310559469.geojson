@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.30943,-2.88488,18.34943,-2.84488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kik_x_preferred":[
         "Ikuma"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310559469,
-    "wof:lastmodified":1564185272,
+    "wof:lastmodified":1566635867,
     "wof:name":"Ikuma",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

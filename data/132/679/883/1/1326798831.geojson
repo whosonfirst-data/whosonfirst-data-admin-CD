@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.91345,-3.34902,18.95345,-3.30902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326798831,
-    "wof:lastmodified":1537093789,
+    "wof:lastmodified":1566633537,
     "wof:name":"Bempaka",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

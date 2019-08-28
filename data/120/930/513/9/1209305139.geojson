@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"14.79731,-5.817,14.83731,-5.777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8328036
     },
     "wof:country":"CD",
-    "wof:geomhash":"e72c3ac7155b0dcc08bba7489a5306fb",
+    "wof:geomhash":"883135bc23023300647160c871376cb1",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209305139,
-    "wof:lastmodified":1536291222,
+    "wof:lastmodified":1566635111,
     "wof:name":"Kinsende",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     14.81731,
-    -5.7970000000000015,
+    -5.797,
     14.81731,
-    -5.7970000000000015
+    -5.797
 ],
   "geometry": {"coordinates":[14.81731,-5.797],"type":"Point"}
 }

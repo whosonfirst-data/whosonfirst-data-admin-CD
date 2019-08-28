@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.92853,-8.09705,23.96853,-8.05705",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Goy",
         "Ngoi"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293753913,
-    "wof:lastmodified":1537590344,
+    "wof:lastmodified":1566634573,
     "wof:name":"Ngoi",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.66909,3.43007,27.70909,3.47007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":208900
     },
     "wof:country":"CD",
-    "wof:geomhash":"535eb1bbf5012efe236efc0013dc627d",
+    "wof:geomhash":"6ae61e2519ce4a185a19b044b7e61413",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209585271,
-    "wof:lastmodified":1536282657,
+    "wof:lastmodified":1566635322,
     "wof:name":"Mokondo",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.689090000000004,
+    27.68909,
     3.45007,
-    27.689090000000004,
+    27.68909,
     3.45007
 ],
   "geometry": {"coordinates":[27.68909,3.45007],"type":"Point"}

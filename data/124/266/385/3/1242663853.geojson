@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.17394,2.92077,24.21394,2.96077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Gorla"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242663853,
-    "wof:lastmodified":1564186123,
+    "wof:lastmodified":1566636477,
     "wof:name":"Gorla",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

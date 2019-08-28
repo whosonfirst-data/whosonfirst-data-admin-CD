@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.52171,-5.91988,22.56171,-5.87988",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8328909
     },
     "wof:country":"CD",
-    "wof:geomhash":"429e6ec146872773ed05dfbe320bdaa7",
+    "wof:geomhash":"81093a4f82db2595994c709e3fcf4129",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209172267,
-    "wof:lastmodified":1536295539,
+    "wof:lastmodified":1566635432,
     "wof:name":"Loamba",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     22.54171,
-    -5.8998800000000005,
+    -5.89988,
     22.54171,
-    -5.8998800000000005
+    -5.89988
 ],
   "geometry": {"coordinates":[22.54171,-5.89988],"type":"Point"}
 }

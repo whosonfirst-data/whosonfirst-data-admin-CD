@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.41035,-5.44379,17.45035,-5.40379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043b\u0430"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309677531,
-    "wof:lastmodified":1564185896,
+    "wof:lastmodified":1566636315,
     "wof:name":"Katala",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

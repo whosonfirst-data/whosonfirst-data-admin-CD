@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.41649,-8.65308,28.45649,-8.61308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243334353,
-    "wof:lastmodified":1536967033,
+    "wof:lastmodified":1566636705,
     "wof:name":"Mungedi",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

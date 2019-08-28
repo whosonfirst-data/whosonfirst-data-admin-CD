@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.47426,-9.87578,26.51426,-9.83578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259766683,
-    "wof:lastmodified":1536947721,
+    "wof:lastmodified":1566637002,
     "wof:name":"Luswaka",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

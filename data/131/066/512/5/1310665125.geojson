@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.19983,-7.86637,23.23983,-7.82637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kanonkina",
         "Kanokima",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310665125,
-    "wof:lastmodified":1537590412,
+    "wof:lastmodified":1566636011,
     "wof:name":"Kanunkina",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

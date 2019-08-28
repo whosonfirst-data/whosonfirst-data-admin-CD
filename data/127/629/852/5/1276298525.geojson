@@ -23,15 +23,16 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"29.03356,1.47579,29.07356,1.51579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tsumbi"
     ],
     "name:fra_x_variant":[
-        "Tshumbi"
-    ],
-    "name:und_x_variant":[
         "Tshumbi"
     ],
     "src:geom":"geonames",
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1276298525,
-    "wof:lastmodified":1537590314,
+    "wof:lastmodified":1566634712,
     "wof:name":"Tsumbi",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

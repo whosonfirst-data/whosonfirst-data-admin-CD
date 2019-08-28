@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"20.16403,-0.15598,20.20403,-0.11598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bokutsu",
         "Bonkotsu",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293209089,
-    "wof:lastmodified":1537590453,
+    "wof:lastmodified":1566634484,
     "wof:name":"Bonkutsu",
     "wof:parent_id":1091679649,
     "wof:placetype":"locality",

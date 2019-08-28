@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.01373,-4.91206,25.05373,-4.87206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259371857,
-    "wof:lastmodified":1537018231,
+    "wof:lastmodified":1566636911,
     "wof:name":"Manonwa",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

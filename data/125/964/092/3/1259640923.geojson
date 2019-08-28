@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"20.70232,2.17744,20.74232,2.21744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259640923,
-    "wof:lastmodified":1536630446,
+    "wof:lastmodified":1566636929,
     "wof:name":"Magombe",
     "wof:parent_id":1091679647,
     "wof:placetype":"locality",

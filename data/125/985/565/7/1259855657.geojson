@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"30.46428,2.20919,30.50428,2.24919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259855657,
-    "wof:lastmodified":1536818426,
+    "wof:lastmodified":1566636992,
     "wof:name":"Ngodja",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",

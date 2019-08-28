@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.228,-7.30489,19.268,-7.26489",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8448243
     },
     "wof:country":"CD",
-    "wof:geomhash":"82bab0408f42064f681b20fdd8dd653e",
+    "wof:geomhash":"527a1d5203eb7cfe6608f05c3971e07b",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209179679,
-    "wof:lastmodified":1536295302,
+    "wof:lastmodified":1566635437,
     "wof:name":"Mwayamvwa",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     19.248,
-    -7.284889999999999,
+    -7.28489,
     19.248,
-    -7.284889999999999
+    -7.28489
 ],
   "geometry": {"coordinates":[19.248,-7.28489],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"29.43625,2.88498,29.47625,2.92498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moto"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1243236093,
-    "wof:lastmodified":1564186230,
+    "wof:lastmodified":1566636557,
     "wof:name":"Moto",
     "wof:parent_id":1091679755,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.41012,-4.43624,18.45012,-4.39624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "Vangidae"
     ],
@@ -107,8 +111,7 @@
         "\u0412\u0430\u043d\u0433\u043e\u0432\u0456"
     ],
     "name:und_x_variant":[
-        "Yanga",
-        "Vanga"
+        "Yanga"
     ],
     "name:vie_x_preferred":[
         "Vangidae"
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1193098801,
-    "wof:lastmodified":1564184742,
+    "wof:lastmodified":1566635497,
     "wof:name":"Vanga",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

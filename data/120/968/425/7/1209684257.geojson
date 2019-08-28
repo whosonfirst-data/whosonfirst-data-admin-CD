@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.43288,-7.39077,22.47288,-7.35077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8438847
     },
     "wof:country":"CD",
-    "wof:geomhash":"ebc98acae1e19680ead00849e7245d87",
+    "wof:geomhash":"16326551db28521d65d9a2597b3c5443",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209684257,
-    "wof:lastmodified":1536279467,
+    "wof:lastmodified":1566635275,
     "wof:name":"Kapata",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     22.45288,
-    -7.3707699999999985,
+    -7.37077,
     22.45288,
-    -7.3707699999999985
+    -7.37077
 ],
   "geometry": {"coordinates":[22.45288,-7.37077],"type":"Point"}
 }

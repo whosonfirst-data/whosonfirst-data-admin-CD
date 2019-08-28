@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.30616,2.35684,27.34616,2.39684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326502551,
-    "wof:lastmodified":1537025747,
+    "wof:lastmodified":1566633439,
     "wof:name":"Abjengame",
     "wof:parent_id":1091679755,
     "wof:placetype":"locality",

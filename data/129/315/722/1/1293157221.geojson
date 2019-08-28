@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"22.70494,-9.5874,22.74494,-9.5474",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sandala"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293157221,
-    "wof:lastmodified":1564183106,
+    "wof:lastmodified":1566634322,
     "wof:name":"Sandala",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

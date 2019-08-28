@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-3.233751,
     "lbl:longitude":28.221314,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-3.233751,
     "mps:longitude":28.221314,
     "mz:hierarchy_label":1,
@@ -175,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0435 \u041a\u0456\u0432\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sous-R\u00e9gion du Sud-Kivu"
     ],
     "name:urd_x_preferred":[
@@ -270,7 +271,7 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "unlc:subdivision":"CD-SK",
     "wof:belongsto":[
@@ -283,7 +284,7 @@
         "gn:id":205413,
         "gp:id":20069829,
         "hasc:id":"CD.KV",
-        "qs:id":1117316,
+        "qs_pg:id":1117316,
         "unlc:id":"CD-SK",
         "wd:id":"Q488326",
         "wk:page":"South Kivu"
@@ -308,7 +309,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1565661858,
+    "wof:lastmodified":1566634155,
     "wof:name":"Sud-Kivu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

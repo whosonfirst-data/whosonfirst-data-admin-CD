@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.60434,-5.99902,24.64434,-5.95902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8329564
     },
     "wof:country":"CD",
-    "wof:geomhash":"a3622451dafc0babec6363e7ad9d2fc4",
+    "wof:geomhash":"402749785fd49757de3dd0af0332a5ec",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209674335,
-    "wof:lastmodified":1536279808,
+    "wof:lastmodified":1566635312,
     "wof:name":"Etala",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     24.62434,
-    -5.9790199999999984,
+    -5.97902,
     24.62434,
-    -5.9790199999999984
+    -5.97902
 ],
   "geometry": {"coordinates":[24.62434,-5.97902],"type":"Point"}
 }

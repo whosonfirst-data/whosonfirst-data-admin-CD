@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.29577,-10.40331,23.33577,-10.36331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mashibo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360143215,
-    "wof:lastmodified":1537590576,
+    "wof:lastmodified":1566636118,
     "wof:name":"Matshibo",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

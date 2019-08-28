@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.20271,-7.49522,18.24271,-7.45522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8447713
     },
     "wof:country":"CD",
-    "wof:geomhash":"24b73146cb4db6f717e4fef7819e4932",
+    "wof:geomhash":"00a1b72d423b4980c71cb9a1f7a7638f",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209068817,
-    "wof:lastmodified":1536298713,
+    "wof:lastmodified":1566635098,
     "wof:name":"Pimbi Tsakala",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     18.22271,
-    -7.475219999999998,
+    -7.47522,
     18.22271,
-    -7.475219999999998
+    -7.47522
 ],
   "geometry": {"coordinates":[18.22271,-7.47522],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"14.76218,-5.19552,14.80218,-5.15552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Todila",
         "Tadila"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326715707,
-    "wof:lastmodified":1537590499,
+    "wof:lastmodified":1566633517,
     "wof:name":"Tadila",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

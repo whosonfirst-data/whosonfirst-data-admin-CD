@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.6082,-2.28878,27.6482,-2.24878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wakalamisuku Deuxi\u00e8me",
         "Wakalamisuku II"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276847673,
-    "wof:lastmodified":1537590311,
+    "wof:lastmodified":1566634937,
     "wof:name":"Wakalamisuku Deuxieme",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

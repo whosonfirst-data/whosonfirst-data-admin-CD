@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"19.34145,-6.03692,19.38145,-5.99692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Matanga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327198695,
-    "wof:lastmodified":1564182133,
+    "wof:lastmodified":1566633620,
     "wof:name":"Matanga",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

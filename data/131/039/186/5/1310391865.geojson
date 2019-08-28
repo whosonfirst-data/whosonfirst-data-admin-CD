@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"24.20504,2.88269,24.24504,2.92269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310391865,
-    "wof:lastmodified":1537077805,
+    "wof:lastmodified":1566635898,
     "wof:name":"Difongo",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",

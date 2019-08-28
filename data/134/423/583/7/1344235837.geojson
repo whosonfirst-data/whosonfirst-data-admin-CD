@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.5267,-1.55325,26.5667,-1.51325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sulia de Miluba",
         "Sulia"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344235837,
-    "wof:lastmodified":1537590323,
+    "wof:lastmodified":1566633839,
     "wof:name":"Sulia",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",

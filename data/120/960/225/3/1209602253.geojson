@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.08109,-2.49963,28.12109,-2.45963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":215740
     },
     "wof:country":"CD",
-    "wof:geomhash":"96df815884190c26fb43693bb3a76f76",
+    "wof:geomhash":"0f7db4bd088ace95b82dc82ad3c8ec01",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209602253,
-    "wof:lastmodified":1536282128,
+    "wof:lastmodified":1566635330,
     "wof:name":"Itengia",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.101090000000006,
+    28.10109000000001,
     -2.47963,
-    28.101090000000006,
+    28.10109000000001,
     -2.47963
 ],
   "geometry": {"coordinates":[28.10109000000001,-2.47963],"type":"Point"}

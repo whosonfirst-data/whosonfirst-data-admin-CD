@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.4265,-5.45521,27.4665,-5.41521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226503569,
-    "wof:lastmodified":1537056504,
+    "wof:lastmodified":1566637378,
     "wof:name":"Muhaba",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

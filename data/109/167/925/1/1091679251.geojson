@@ -12,6 +12,8 @@
     "iso:country":"CD",
     "lbl:latitude":-4.385621,
     "lbl:longitude":15.339809,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kinshasa",
     "meso:gadm_admin":"Kinshasa",
     "meso:gaul_admin":"Kinshasa",
@@ -24,11 +26,12 @@
     "mps:longitude":15.339809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Kinshasa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1091679251,
-    "wof:lastmodified":1536614916,
+    "wof:lastmodified":1566636216,
     "wof:name":"Mont Amba",
     "wof:parent_id":85669997,
     "wof:placetype":"county",

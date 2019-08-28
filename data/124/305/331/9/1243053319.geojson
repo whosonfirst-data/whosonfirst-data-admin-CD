@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"14.57619,-5.63602,14.61619,-5.59602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mongo"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1243053319,
-    "wof:lastmodified":1564186432,
+    "wof:lastmodified":1566636707,
     "wof:name":"Mongo",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

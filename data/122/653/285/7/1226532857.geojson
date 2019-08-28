@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"16.06947,-5.78517,16.10947,-5.74517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226532857,
-    "wof:lastmodified":1537015956,
+    "wof:lastmodified":1566637612,
     "wof:name":"Lubisi",
     "wof:parent_id":1091679351,
     "wof:placetype":"locality",

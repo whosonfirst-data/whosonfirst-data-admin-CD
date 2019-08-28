@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"25.13747,-5.37376,25.17747,-5.33376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kabwe"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327004047,
-    "wof:lastmodified":1537590426,
+    "wof:lastmodified":1566633314,
     "wof:name":"Kabue",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.76333,-3.47,23.80333,-3.43",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Omehale",
         "Omehele"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259449691,
-    "wof:lastmodified":1537590338,
+    "wof:lastmodified":1566637137,
     "wof:name":"Omehele",
     "wof:parent_id":1091680399,
     "wof:placetype":"locality",

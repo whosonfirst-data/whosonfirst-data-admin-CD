@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.13881,-2.35842,27.17881,-2.31842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mabondo"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259956931,
-    "wof:lastmodified":1564186831,
+    "wof:lastmodified":1566637012,
     "wof:name":"Mabondo",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.41333,0.33,23.45333,0.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ikela",
         "Ikela II"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226092117,
-    "wof:lastmodified":1537590432,
+    "wof:lastmodified":1566637644,
     "wof:name":"Ikela II",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

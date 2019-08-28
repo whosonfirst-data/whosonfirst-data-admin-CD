@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"21.71819,2.28794,21.75819,2.32794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":218739
     },
     "wof:country":"CD",
-    "wof:geomhash":"a4cf28343490e2ce68c5834728fbc301",
+    "wof:geomhash":"7835732b3c0134e54b7b5e19a382a9de",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209073963,
-    "wof:lastmodified":1536298556,
+    "wof:lastmodified":1566635058,
     "wof:name":"Bobie",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     21.73819,
-    2.3079400000000003,
+    2.30794,
     21.73819,
-    2.3079400000000003
+    2.30794
 ],
   "geometry": {"coordinates":[21.73819,2.30794],"type":"Point"}
 }

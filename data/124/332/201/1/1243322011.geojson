@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.60257,-9.70336,23.64257,-9.66336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Funika"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243322011,
-    "wof:lastmodified":1537590437,
+    "wof:lastmodified":1566636656,
     "wof:name":"Funyika",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"21.10543,-6.60355,21.14543,-6.56355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309688159,
-    "wof:lastmodified":1536600583,
+    "wof:lastmodified":1566636304,
     "wof:name":"Mai-Luebo",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

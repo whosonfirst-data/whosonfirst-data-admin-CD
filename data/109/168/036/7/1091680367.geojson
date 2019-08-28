@@ -12,6 +12,8 @@
     "iso:country":"CD",
     "lbl:latitude":-6.117906,
     "lbl:longitude":23.595908,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kasai Oriental",
     "meso:gadm_admin":"Mbuji-Mayi",
     "meso:gaul_admin":"Mbuji-Mayi",
@@ -24,6 +26,7 @@
     "mps:longitude":23.595908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Mbuji-Mayi"
     ],
@@ -163,7 +166,7 @@
         "\u59c6\u5e03\u5409\u9a6c\u4f0a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643,
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":1091680367,
-    "wof:lastmodified":1564185745,
+    "wof:lastmodified":1566636208,
     "wof:name":"Mbuji-Mayi",
     "wof:parent_id":85670011,
     "wof:placetype":"county",

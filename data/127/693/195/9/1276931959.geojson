@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"22.41557,2.29432,22.45557,2.33432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yamisika",
         "Yamisiko"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276931959,
-    "wof:lastmodified":1537590306,
+    "wof:lastmodified":1566634745,
     "wof:name":"Yamisiko",
     "wof:parent_id":1091679647,
     "wof:placetype":"locality",

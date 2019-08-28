@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.88293,-3.5926,18.92293,-3.5526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Esangankusu",
         "Isangakusu",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343418915,
-    "wof:lastmodified":1537590539,
+    "wof:lastmodified":1566633862,
     "wof:name":"Isangankusu",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",

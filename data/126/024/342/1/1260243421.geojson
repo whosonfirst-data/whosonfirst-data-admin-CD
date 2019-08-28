@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"18.58827,-4.24073,18.62827,-4.20073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muway Pukulu",
         "Moway-Pukulu",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260243421,
-    "wof:lastmodified":1537590503,
+    "wof:lastmodified":1566635628,
     "wof:name":"Pukulu",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

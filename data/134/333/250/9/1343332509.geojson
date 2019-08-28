@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.43281,-11.06938,26.47281,-11.02938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343332509,
-    "wof:lastmodified":1536931786,
+    "wof:lastmodified":1566634013,
     "wof:name":"Kaluba",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

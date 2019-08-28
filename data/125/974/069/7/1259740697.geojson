@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"22.85372,2.87608,22.89372,2.91608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0646\u0632\u0629"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259740697,
-    "wof:lastmodified":1564186963,
+    "wof:lastmodified":1566637109,
     "wof:name":"Kenza",
     "wof:parent_id":1091679647,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"16.99024,-5.64073,17.03024,-5.60073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09a4\u09be\u09a8\u09cd\u09a6\u09be"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1293352905,
-    "wof:lastmodified":1564183220,
+    "wof:lastmodified":1566634398,
     "wof:name":"Tanda",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

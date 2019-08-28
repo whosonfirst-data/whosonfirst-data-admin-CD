@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"28.20378,-5.06808,28.24378,-5.02808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209762679,
-    "wof:lastmodified":1536387806,
+    "wof:lastmodified":1566635252,
     "wof:name":"Lulonga",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"13.87446,-5.32107,13.91446,-5.28107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tenta"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360182405,
-    "wof:lastmodified":1564185673,
+    "wof:lastmodified":1566636154,
     "wof:name":"Tenta",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"CD",
     "lbl:latitude":-5.811469,
     "lbl:longitude":13.054725,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bas-Congo",
     "meso:gadm_admin":"Boma",
     "meso:gaul_admin":"Boma",
@@ -24,6 +26,7 @@
     "mps:longitude":13.054725,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Boma"
     ],
@@ -61,7 +64,7 @@
         "Boma"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1091679279,
-    "wof:lastmodified":1564185754,
+    "wof:lastmodified":1566636218,
     "wof:name":"Boma",
     "wof:parent_id":85669993,
     "wof:placetype":"county",

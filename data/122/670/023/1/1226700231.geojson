@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"27.95404,-0.34385,27.99404,-0.30385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226700231,
-    "wof:lastmodified":1536781788,
+    "wof:lastmodified":1566637536,
     "wof:name":"Lusika",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",

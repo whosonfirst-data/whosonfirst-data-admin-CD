@@ -12,6 +12,8 @@
     "iso:country":"CD",
     "lbl:latitude":-0.677438,
     "lbl:longitude":21.718086,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Equateur",
     "meso:gadm_admin":"Tshuapa",
     "meso:gaul_admin":"Tshuapa",
@@ -24,6 +26,7 @@
     "mps:longitude":21.718086,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0427\u0443\u0430\u043f\u0430"
     ],
@@ -122,7 +125,7 @@
         "\u695a\u963f\u5e15\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632643,
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1091679649,
-    "wof:lastmodified":1563295417,
+    "wof:lastmodified":1566636213,
     "wof:name":"Tshuapa",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"29.05301,-1.95676,29.09301,-1.91676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kihumba",
         "Kiumba"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226222259,
-    "wof:lastmodified":1537590395,
+    "wof:lastmodified":1566637457,
     "wof:name":"Kiumba",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

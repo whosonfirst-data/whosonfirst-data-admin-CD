@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"26.60314,-2.6136,26.64314,-2.5736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":210293
     },
     "wof:country":"CD",
-    "wof:geomhash":"69dc5f0add6639c9366d21b6ad18beb0",
+    "wof:geomhash":"50573f4539632fcb9f283007841b67aa",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209293317,
-    "wof:lastmodified":1536291618,
+    "wof:lastmodified":1566635354,
     "wof:name":"Lutala",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.623140000000006,
+    26.62314000000001,
     -2.5936,
-    26.623140000000006,
+    26.62314000000001,
     -2.5936
 ],
   "geometry": {"coordinates":[26.62314000000001,-2.5936],"type":"Point"}

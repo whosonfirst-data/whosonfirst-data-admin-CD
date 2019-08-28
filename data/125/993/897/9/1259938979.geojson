@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"23.21426,-6.63072,23.25426,-6.59072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259938979,
-    "wof:lastmodified":1536699682,
+    "wof:lastmodified":1566637053,
     "wof:name":"Muambi",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

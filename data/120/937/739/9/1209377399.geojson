@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.70524,-7.24516,17.74524,-7.20516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8447406
     },
     "wof:country":"CD",
-    "wof:geomhash":"8492c0209cb37fe37b9fa02894516398",
+    "wof:geomhash":"09a41822d4c3bb8241a718708265d139",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209377399,
-    "wof:lastmodified":1536288901,
+    "wof:lastmodified":1566635121,
     "wof:name":"Malanza",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     17.72524,
-    -7.225160000000002,
+    -7.22516,
     17.72524,
-    -7.225160000000002
+    -7.22516
 ],
   "geometry": {"coordinates":[17.72524,-7.22516],"type":"Point"}
 }

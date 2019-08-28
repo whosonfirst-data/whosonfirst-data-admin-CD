@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Lubumbashi",
     "iso:country":"CD",
+    "lbl:bbox":"20.20686,-5.97313,20.24686,-5.93313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kamokamo",
         "Kamu-Kamu"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293552433,
-    "wof:lastmodified":1537590415,
+    "wof:lastmodified":1566634244,
     "wof:name":"Kamu-Kamu",
     "wof:parent_id":1091680543,
     "wof:placetype":"locality",

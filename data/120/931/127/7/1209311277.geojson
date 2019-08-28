@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"15.17843,-5.65911,15.21843,-5.61911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632643
@@ -34,7 +38,7 @@
         "gn:id":8254517
     },
     "wof:country":"CD",
-    "wof:geomhash":"f57404ce992eb3be9abf89978e7ddd47",
+    "wof:geomhash":"34796ba62111ab3daf55db8be64eefb6",
     "wof:hierarchy":[
         {
             "country_id":85632643,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209311277,
-    "wof:lastmodified":1536291020,
+    "wof:lastmodified":1566635045,
     "wof:name":"Kitsuka",
     "wof:parent_id":85632643,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.198429999999998,
+    15.19843,
     -5.63911,
-    15.198429999999998,
+    15.19843,
     -5.63911
 ],
   "geometry": {"coordinates":[15.19843,-5.63911],"type":"Point"}

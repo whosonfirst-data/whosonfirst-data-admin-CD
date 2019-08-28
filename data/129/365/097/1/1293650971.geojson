@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kinshasa",
     "iso:country":"CD",
+    "lbl:bbox":"17.46234,-3.29403,17.50234,-3.25403",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dima"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1293650971,
-    "wof:lastmodified":1564182927,
+    "wof:lastmodified":1566634196,
     "wof:name":"Dima",
     "wof:parent_id":1091679353,
     "wof:placetype":"locality",
