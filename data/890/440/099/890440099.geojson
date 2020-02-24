@@ -300,6 +300,9 @@
     },
     "wof:country":"CD",
     "wof:created":1469052262,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ab56128efe5dcba82255ec4b78ae0bfd",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
         }
     ],
     "wof:id":890440099,
-    "wof:lastmodified":1566636377,
+    "wof:lastmodified":1582347485,
     "wof:name":"Kalemie",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

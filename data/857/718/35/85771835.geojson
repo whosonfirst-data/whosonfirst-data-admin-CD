@@ -78,6 +78,9 @@
         "qs:id":1167983
     },
     "wof:country":"CD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e9eb2529f40dfe516b7f06987101282",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1534379250,
+    "wof:lastmodified":1582347452,
     "wof:name":"Ndolo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -316,6 +316,9 @@
     },
     "wof:country":"CD",
     "wof:created":1469052256,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6ecc12cd5fb47c86c4a058d5a248e32f",
     "wof:hierarchy":[
         {
@@ -327,7 +330,7 @@
         }
     ],
     "wof:id":890439949,
-    "wof:lastmodified":1566636377,
+    "wof:lastmodified":1582347485,
     "wof:name":"Mbandaka",
     "wof:parent_id":1091679473,
     "wof:placetype":"locality",
