@@ -137,6 +137,9 @@
         "qs_pg:id":1083553
     },
     "wof:country":"CD",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ec003a1ab89924c689c9bc59ef064a25",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566634155,
+    "wof:lastmodified":1582347453,
     "wof:name":"Kalina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

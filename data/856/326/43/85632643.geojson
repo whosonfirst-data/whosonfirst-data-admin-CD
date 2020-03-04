@@ -1258,6 +1258,11 @@
     },
     "wof:country":"CD",
     "wof:country_alpha3":"COD",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"232bd92415de430d732dcb6207c8e3e0",
     "wof:hierarchy":[
         {
@@ -1276,7 +1281,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1566634158,
+    "wof:lastmodified":1582347454,
     "wof:name":"Democratic Republic of the Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

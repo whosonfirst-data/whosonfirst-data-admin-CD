@@ -201,6 +201,9 @@
     },
     "wof:country":"CD",
     "wof:created":1459009874,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"49af62f4b3b6e4e619b9364878139b5b",
     "wof:hierarchy":[
         {
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":421196249,
-    "wof:lastmodified":1566636375,
+    "wof:lastmodified":1582347485,
     "wof:name":"Zongo",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

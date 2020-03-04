@@ -647,6 +647,9 @@
     },
     "wof:country":"CD",
     "wof:created":1459008707,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b93164c227db1c3fae897949f99bb7ad",
     "wof:hierarchy":[
         {
@@ -657,7 +660,7 @@
         }
     ],
     "wof:id":421166913,
-    "wof:lastmodified":1566636370,
+    "wof:lastmodified":1582347485,
     "wof:name":"Kinshasa",
     "wof:parent_id":85669997,
     "wof:placetype":"locality",
