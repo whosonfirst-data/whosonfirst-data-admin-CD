@@ -1236,9 +1236,7 @@
         421166913
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            180
-        ],
+        "digitalenvoy:country_code":180,
         "fifa:id":"COD",
         "fips:code":"CG",
         "gaul:id":"68",
@@ -1284,7 +1282,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1583529108,
+    "wof:lastmodified":1583797312,
     "wof:name":"Democratic Republic of the Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
