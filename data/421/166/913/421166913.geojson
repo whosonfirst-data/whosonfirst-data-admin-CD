@@ -660,7 +660,9 @@
         85669997
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632643,
+    "wof:capital_of":[
+        85632643
+    ],
     "wof:concordances":{
         "gn:id":2314302,
         "gp:id":1290062,
@@ -684,7 +686,7 @@
         }
     ],
     "wof:id":421166913,
-    "wof:lastmodified":1587428312,
+    "wof:lastmodified":1607390893,
     "wof:name":"Kinshasa",
     "wof:parent_id":85669997,
     "wof:placetype":"locality",
