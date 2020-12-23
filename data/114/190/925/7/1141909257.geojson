@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"23.5980500304,-6.14808057076,23.5980500304,-6.14808057076",
+    "geom:bbox":"23.59805,-6.148081,23.59805,-6.148081",
     "geom:latitude":-6.148081,
     "geom:longitude":23.59805,
     "gn:country":"CD",
@@ -20,7 +20,7 @@
     "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "mz:min_zoom":5.0,
+    "mz:min_zoom":5.6,
     "name:afr_x_preferred":[
         "Mbuji-Mayi"
     ],
@@ -318,18 +318,19 @@
     "wof:belongsto":[
         102191573,
         85632643,
-        85670011,
-        1091680367
+        1091680367,
+        85670011
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":209228,
+        "ne:id":1159149981,
         "qs_pg:id":1026586,
         "wd:id":"Q319660"
     },
     "wof:country":"CD",
     "wof:created":1499131055,
-    "wof:geomhash":"a405fa4d58e2f8ae8702851b38d81573",
+    "wof:geomhash":"6c57e31466b92bf927372d8069d35dac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -340,7 +341,8 @@
         }
     ],
     "wof:id":1141909257,
-    "wof:lastmodified":1566637670,
+    "wof:lastmodified":1608688172,
+    "wof:megacity":1,
     "wof:name":"Mbuji-Mayi",
     "wof:parent_id":1091680367,
     "wof:placetype":"locality",
@@ -354,10 +356,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.59805003036638,
-    -6.1480805707572,
-    23.59805003036638,
-    -6.1480805707572
+    23.59805,
+    -6.148081,
+    23.59805,
+    -6.148081
 ],
-  "geometry": {"coordinates":[23.59805003036638,-6.1480805707572],"type":"Point"}
+  "geometry": {"coordinates":[23.59805,-6.148081],"type":"Point"}
 }
