@@ -13,7 +13,6 @@
     "gn:fcode":"PPLA",
     "gn:population":874761,
     "iso:country":"CD",
-    "lbl:bbox":"23.5780500304,-6.16808057076,23.6180500304,-6.12808057076",
     "lbl:latitude":-6.119132,
     "lbl:longitude":23.5899,
     "lbl:max_zoom":13.0,
@@ -353,7 +352,7 @@
         }
     ],
     "wof:id":1141909257,
-    "wof:lastmodified":1608696099,
+    "wof:lastmodified":1610153714,
     "wof:megacity":1,
     "wof:name":"Mbuji-Mayi",
     "wof:parent_id":1091680367,

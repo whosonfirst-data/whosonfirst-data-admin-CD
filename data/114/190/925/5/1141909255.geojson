@@ -13,7 +13,6 @@
     "gn:fcode":"PPLA",
     "gn:population":463546,
     "iso:country":"CD",
-    "lbl:bbox":"22.3780715961,-5.9080964399,22.4180715961,-5.8680964399",
     "lbl:latitude":-5.897896,
     "lbl:longitude":22.409671,
     "lbl:max_zoom":13.0,
@@ -326,7 +325,7 @@
         }
     ],
     "wof:id":1141909255,
-    "wof:lastmodified":1608689809,
+    "wof:lastmodified":1610153715,
     "wof:megacity":1,
     "wof:name":"Kananga",
     "wof:parent_id":1091680487,

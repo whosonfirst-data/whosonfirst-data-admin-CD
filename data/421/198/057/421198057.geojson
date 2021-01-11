@@ -10,7 +10,6 @@
     "geom:latitude":-11.671843,
     "geom:longitude":27.461802,
     "iso:country":"CD",
-    "lbl:bbox":"27.45938,-11.68089,27.49938,-11.64089",
     "lbl:latitude":-11.664279,
     "lbl:longitude":27.482771,
     "lbl:max_zoom":13.0,
@@ -404,7 +403,7 @@
         }
     ],
     "wof:id":421198057,
-    "wof:lastmodified":1608689810,
+    "wof:lastmodified":1610153683,
     "wof:megacity":1,
     "wof:name":"Lubumbashi",
     "wof:parent_id":85670015,
