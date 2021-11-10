@@ -33,6 +33,9 @@
     "name:fra_x_preferred":[
         "Sud-Kivu"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e8\u05d5\u05dd-\u05e7\u05d9\u05d1\u05d5"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1091680001,
-    "wof:lastmodified":1628266719,
+    "wof:lastmodified":1636501435,
     "wof:name":"Sud-Kivu",
     "wof:parent_id":85670003,
     "wof:placetype":"county",

@@ -42,6 +42,9 @@
         "Mbale"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05d1\u05d0\u05dd"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d1\u05d0\u05dc\u05d4"
     ],
     "name:hrv_x_preferred":[
@@ -104,7 +107,7 @@
         "gn:id":2312902
     },
     "wof:country":"CD",
-    "wof:geomhash":"dec6b9975090b5142b304703a52cf3b9",
+    "wof:geomhash":"e1856a9f7875d05212ef3d18b6e7e788",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1293941365,
-    "wof:lastmodified":1566634428,
+    "wof:lastmodified":1636501388,
     "wof:name":"Mbale",
     "wof:parent_id":1091679355,
     "wof:placetype":"locality",
@@ -125,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    18.11667000000001,
+    18.11667,
     -1.81667,
-    18.11667000000001,
+    18.11667,
     -1.81667
 ],
-  "geometry": {"coordinates":[18.11667000000001,-1.81667],"type":"Point"}
+  "geometry": {"coordinates":[18.11667,-1.81667],"type":"Point"}
 }

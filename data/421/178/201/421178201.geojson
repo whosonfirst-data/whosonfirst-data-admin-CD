@@ -56,6 +56,9 @@
     "name:est_x_preferred":[
         "Bandundu"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u062f\u0648\u0646\u062f\u0648"
+    ],
     "name:fin_x_preferred":[
         "Bandundu"
     ],
@@ -349,7 +352,7 @@
         }
     ],
     "wof:id":421178201,
-    "wof:lastmodified":1566636376,
+    "wof:lastmodified":1636501450,
     "wof:name":"Bandundu",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

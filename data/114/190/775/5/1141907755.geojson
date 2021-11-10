@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"26.5833280016,-0.732889385078,26.5833280016,-0.732889385078",
+    "geom:bbox":"26.583328,-0.732889,26.583328,-0.732889",
     "geom:latitude":-0.732889,
     "geom:longitude":26.583328,
     "iso:country":"CD",
@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0628\u0648\u062a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u09ac\u09c1\u09a4\u09c1"
+    ],
+    "name:deu_x_preferred":[
+        "Lubutu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03bc\u03c0\u03bf\u03cd\u03c4\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Lubutu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0628\u0648\u062a\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Lubutu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d1\u05d5\u05d8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0941\u092c\u0942\u091f\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Lubutu"
+    ],
+    "name:ind_x_preferred":[
+        "Lubutu"
+    ],
+    "name:ita_x_preferred":[
+        "Lubutu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30d6\u30c8\u30a5"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\ubd80\ud22c"
+    ],
+    "name:nld_x_preferred":[
+        "Lubutu"
+    ],
+    "name:pol_x_preferred":[
+        "Lubutu"
+    ],
+    "name:por_x_preferred":[
+        "Lubutu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0431\u044e\u0442\u044e"
+    ],
+    "name:spa_x_preferred":[
+        "Lubutu"
+    ],
+    "name:swe_x_preferred":[
+        "Lubutu"
+    ],
+    "name:tur_x_preferred":[
+        "Lubutu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0431\u0443\u0442\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0628\u0648\u062a\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Lubutu"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5362\u5e03\u56fe"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u76e7\u5e03\u5716"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -124,7 +202,7 @@
     "wof:concordances":{},
     "wof:country":"CD",
     "wof:created":1499130767,
-    "wof:geomhash":"0aef9b19384ac595764c9adb636dee6d",
+    "wof:geomhash":"3d2e4e2b68e737104300ed339beb7313",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +213,7 @@
         }
     ],
     "wof:id":1141907755,
-    "wof:lastmodified":1566637671,
+    "wof:lastmodified":1636501492,
     "wof:name":"Lubutu",
     "wof:parent_id":1091680093,
     "wof:placetype":"locality",
@@ -145,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.58332800162145,
-    -0.73288938507767,
-    26.58332800162145,
-    -0.73288938507767
+    26.583328,
+    -0.732889,
+    26.583328,
+    -0.732889
 ],
-  "geometry": {"coordinates":[26.58332800162145,-0.73288938507767],"type":"Point"}
+  "geometry": {"coordinates":[26.583328,-0.732889],"type":"Point"}
 }

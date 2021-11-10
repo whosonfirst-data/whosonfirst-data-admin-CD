@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.5280025406,-0.756998889277,28.5280025406,-0.756998889277",
+    "geom:bbox":"28.528003,-0.756999,28.528003,-0.756999",
     "geom:latitude":-0.756999,
     "geom:longitude":28.528003,
     "iso:country":"CD",
@@ -18,6 +18,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u0643\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09b2\u09c1\u0995\u09cb"
+    ],
+    "name:deu_x_preferred":[
+        "Buluko"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03bb\u03bf\u03cd\u03ba\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Buluko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Buluko"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d5\u05e7\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0942\u0932\u0941\u0915\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Buluko"
+    ],
+    "name:ind_x_preferred":[
+        "Buluko"
+    ],
+    "name:ita_x_preferred":[
+        "Buluko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30eb\u30b3"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\ub8e8\ucf54"
+    ],
+    "name:nld_x_preferred":[
+        "Buluko"
+    ],
+    "name:pol_x_preferred":[
+        "Buluko"
+    ],
+    "name:por_x_preferred":[
+        "Buluko"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044e\u043b\u044e\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Buluko"
+    ],
+    "name:swe_x_preferred":[
+        "Buluko"
+    ],
+    "name:tur_x_preferred":[
+        "Buluko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043b\u0443\u043a\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Buluko"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e03\u9c81\u79d1"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e03\u9b6f\u79d1"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -124,7 +202,7 @@
     "wof:concordances":{},
     "wof:country":"CD",
     "wof:created":1499130542,
-    "wof:geomhash":"8e0454d2416122d5615e464f2e07439d",
+    "wof:geomhash":"70be6244f545ce13e424606197b2f368",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +213,7 @@
         }
     ],
     "wof:id":1141906115,
-    "wof:lastmodified":1566637669,
+    "wof:lastmodified":1636501490,
     "wof:name":"Buluko",
     "wof:parent_id":1091679863,
     "wof:placetype":"locality",
@@ -145,10 +223,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.52800254055387,
-    -0.75699888927693,
-    28.52800254055387,
-    -0.75699888927693
+    28.528003,
+    -0.756999,
+    28.528003,
+    -0.756999
 ],
-  "geometry": {"coordinates":[28.52800254055387,-0.75699888927693],"type":"Point"}
+  "geometry": {"coordinates":[28.528003,-0.756999],"type":"Point"}
 }

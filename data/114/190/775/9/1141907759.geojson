@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.0166772041,-5.94957354851,28.0166772041,-5.94957354851",
+    "geom:bbox":"28.016677,-5.949574,28.016677,-5.949574",
     "geom:latitude":-5.949574,
     "geom:longitude":28.016677,
     "iso:country":"CD",
@@ -21,16 +21,49 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u064a\u0648\u0646\u0632\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09a8\u09cb\u09df\u09be\u09a8\u099c\u09c1"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u044e\u043d\u0437\u0443"
     ],
     "name:ceb_x_preferred":[
         "Nyunzu"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03bf\u03cd\u03bd\u03b6\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Nyunzu"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0648\u0646\u0632\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Nyunzu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d9\u05d5\u05e0\u05d6\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u094d\u092f\u0942\u0902\u091c\u093c\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Nyunzu"
+    ],
+    "name:ind_x_preferred":[
+        "Nyunzu"
+    ],
+    "name:ita_x_preferred":[
+        "Nyunzu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30e5\u30f3\u30ba"
+    ],
+    "name:kor_x_preferred":[
+        "\ub258\uc988"
+    ],
+    "name:nld_x_preferred":[
         "Nyunzu"
     ],
     "name:por_x_preferred":[
@@ -39,8 +72,32 @@
     "name:ron_x_preferred":[
         "Nyunzu"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0438\u0435\u043d\u0446\u044e"
+    ],
+    "name:spa_x_preferred":[
+        "Nyunzu"
+    ],
     "name:swe_x_preferred":[
         "Nyunzu"
+    ],
+    "name:tur_x_preferred":[
+        "Nyunzu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0456\u0454\u043d\u0446\u044e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0648\u0646\u0632\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Nyunzu"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5c3c\u6e29\u7956"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5c3c\u6e29\u7956"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -150,7 +207,7 @@
     },
     "wof:country":"CD",
     "wof:created":1499130767,
-    "wof:geomhash":"805b668ff9aff777c8b3e89dc3877ed1",
+    "wof:geomhash":"20697121f42f6a8c4d06e1ff3d417a67",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -161,7 +218,7 @@
         }
     ],
     "wof:id":1141907759,
-    "wof:lastmodified":1566637671,
+    "wof:lastmodified":1636501491,
     "wof:name":"Nyunzu",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",
@@ -171,10 +228,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.01667720410114,
-    -5.94957354850993,
-    28.01667720410114,
-    -5.94957354850993
+    28.016677,
+    -5.949574,
+    28.016677,
+    -5.949574
 ],
-  "geometry": {"coordinates":[28.01667720410114,-5.94957354850993],"type":"Point"}
+  "geometry": {"coordinates":[28.016677,-5.949574],"type":"Point"}
 }

@@ -41,6 +41,9 @@
     "name:est_x_preferred":[
         "Lola"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0644\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lola"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1243128587,
-    "wof:lastmodified":1566636567,
+    "wof:lastmodified":1636501459,
     "wof:name":"Lola",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

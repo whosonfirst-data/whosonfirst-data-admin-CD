@@ -53,6 +53,9 @@
     "name:fra_x_preferred":[
         "Isiro"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e1\u05d9\u05e8\u05d5"
+    ],
     "name:hrv_x_preferred":[
         "Isiro"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1243141711,
-    "wof:lastmodified":1566636600,
+    "wof:lastmodified":1636501460,
     "wof:name":"Isiro",
     "wof:parent_id":1091679755,
     "wof:placetype":"locality",

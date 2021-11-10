@@ -29,11 +29,17 @@
     "name:dan_x_preferred":[
         "Bolobo"
     ],
+    "name:deu_x_preferred":[
+        "Bolobo"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03bb\u03cc\u03bc\u03c0\u03bf"
     ],
     "name:eng_x_preferred":[
         "Bolobo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u0628\u0648"
     ],
     "name:fin_x_preferred":[
         "Bolobo"
@@ -44,8 +50,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0ab2\u0acb\u0aac\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d5\u05d1\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u094d\u0935\u093e\u092e\u094b\u0909\u0925"
+    ],
+    "name:hun_x_preferred":[
+        "Bolobo"
     ],
     "name:ind_x_preferred":[
         "Bolobo"
@@ -266,7 +278,7 @@
         }
     ],
     "wof:id":421197461,
-    "wof:lastmodified":1566636375,
+    "wof:lastmodified":1636501449,
     "wof:name":"Bolobo",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

@@ -34,6 +34,12 @@
     "name:fra_x_preferred":[
         "Plateaux"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05e9\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Plateaux"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1091679455,
-    "wof:lastmodified":1628266702,
+    "wof:lastmodified":1636501439,
     "wof:name":"Plateaux",
     "wof:parent_id":85669985,
     "wof:placetype":"county",

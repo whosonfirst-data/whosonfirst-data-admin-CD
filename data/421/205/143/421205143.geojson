@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u064a\u0628\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u09df\u09c7\u09ac\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0443\u0435\u0431\u043e"
     ],
@@ -29,16 +35,31 @@
     "name:deu_x_preferred":[
         "Luebo"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03ad\u03bc\u03c0\u03bf"
+    ],
     "name:eng_x_preferred":[
         "Luebo"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0626\u0628\u0648"
+    ],
     "name:fra_x_preferred":[
         "Lwebo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d0\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094d\u092f\u0942\u092c\u094b"
     ],
     "name:hrv_x_preferred":[
         "Luebo"
     ],
     "name:hun_x_preferred":[
+        "Luebo"
+    ],
+    "name:ind_x_preferred":[
         "Luebo"
     ],
     "name:ita_x_preferred":[
@@ -77,8 +98,17 @@
     "name:swa_x_preferred":[
         "Luebo"
     ],
+    "name:tur_x_preferred":[
+        "Luebo"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0435\u0431\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0648\u0628\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Luebo"
     ],
     "name:war_x_preferred":[
         "Luebo"
@@ -226,7 +256,7 @@
         }
     ],
     "wof:id":421205143,
-    "wof:lastmodified":1566636372,
+    "wof:lastmodified":1636501447,
     "wof:name":"Luebo",
     "wof:parent_id":85669989,
     "wof:placetype":"locality",

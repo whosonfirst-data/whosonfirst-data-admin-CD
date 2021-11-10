@@ -59,6 +59,9 @@
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0aae\u0abf\u0aa8\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05de\u05d9\u05e0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u092e\u0940\u0928\u093e"
     ],
@@ -307,7 +310,7 @@
         }
     ],
     "wof:id":421198613,
-    "wof:lastmodified":1566636374,
+    "wof:lastmodified":1636501449,
     "wof:name":"Kamina",
     "wof:parent_id":85670015,
     "wof:placetype":"locality",

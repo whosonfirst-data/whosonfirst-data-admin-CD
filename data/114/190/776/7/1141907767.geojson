@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"25.8400141995,-9.20958127964,25.8400141995,-9.20958127964",
+    "geom:bbox":"25.840014,-9.209581,25.840014,-9.209581",
     "geom:latitude":-9.209581,
     "geom:longitude":25.840014,
     "iso:country":"CD",
@@ -30,11 +30,17 @@
     "name:dan_x_preferred":[
         "Bukama"
     ],
+    "name:deu_x_preferred":[
+        "Bukama"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c5\u03ba\u03ac\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bukama"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0627\u0645\u0627"
     ],
     "name:fin_x_preferred":[
         "Bukama"
@@ -50,6 +56,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0928\u093e\u0915\u093e\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Bukama"
     ],
     "name:ind_x_preferred":[
         "Bukama"
@@ -240,7 +249,7 @@
     },
     "wof:country":"CD",
     "wof:created":1499130768,
-    "wof:geomhash":"21ac4d353fd541bfdee210ef19092ba6",
+    "wof:geomhash":"247892cf7c97adbc99c9da90856c4921",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -251,7 +260,7 @@
         }
     ],
     "wof:id":1141907767,
-    "wof:lastmodified":1566637669,
+    "wof:lastmodified":1636501490,
     "wof:name":"Bukama",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",
@@ -261,10 +270,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    25.84001419953518,
-    -9.20958127964286,
-    25.84001419953518,
-    -9.20958127964286
+    25.840014,
+    -9.209581,
+    25.840014,
+    -9.209581
 ],
-  "geometry": {"coordinates":[25.84001419953518,-9.20958127964286],"type":"Point"}
+  "geometry": {"coordinates":[25.840014,-9.209581],"type":"Point"}
 }

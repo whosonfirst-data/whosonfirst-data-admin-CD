@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Bumba"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05de\u05d1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bumba"
+    ],
     "name:ind_x_preferred":[
         "Bumba"
     ],
@@ -68,7 +74,7 @@
         "gn:id":217731
     },
     "wof:country":"CD",
-    "wof:geomhash":"4516e98a2164ae26b9a4d5fed7b033be",
+    "wof:geomhash":"d136cd5bb98cbac7bf849ee27cd1b918",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1310470701,
-    "wof:lastmodified":1566635806,
+    "wof:lastmodified":1636501422,
     "wof:name":"Bumba",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",
@@ -89,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.63882000000001,
+    22.63882,
     -9.12323,
-    22.63882000000001,
+    22.63882,
     -9.12323
 ],
-  "geometry": {"coordinates":[22.63882000000001,-9.12323],"type":"Point"}
+  "geometry": {"coordinates":[22.63882,-9.12323],"type":"Point"}
 }

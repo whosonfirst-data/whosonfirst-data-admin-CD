@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Kalungu"
     ],
+    "name:hun_x_preferred":[
+        "Kalungu"
+    ],
     "name:lug_x_preferred":[
         "Kalungu"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1259642417,
-    "wof:lastmodified":1566636928,
+    "wof:lastmodified":1636501469,
     "wof:name":"Kalungu",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

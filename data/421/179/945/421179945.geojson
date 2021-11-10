@@ -56,6 +56,9 @@
     "name:guj_x_preferred":[
         "\u0a89\u0ab5\u0abf\u0ab0\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d1\u05d9\u05e8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0909\u0935\u0940\u0930\u093e"
     ],
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":421179945,
-    "wof:lastmodified":1566636376,
+    "wof:lastmodified":1636501450,
     "wof:name":"Uvira",
     "wof:parent_id":85670003,
     "wof:placetype":"locality",

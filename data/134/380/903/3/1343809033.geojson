@@ -44,6 +44,9 @@
     "name:epo_x_preferred":[
         "Lisala"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0633\u0627\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
         "Lisala"
     ],
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1343809033,
-    "wof:lastmodified":1566634103,
+    "wof:lastmodified":1636501377,
     "wof:name":"Lisala",
     "wof:parent_id":1091679559,
     "wof:placetype":"locality",

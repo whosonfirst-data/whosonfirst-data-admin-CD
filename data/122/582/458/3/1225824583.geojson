@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Mongo"
     ],
+    "name:hun_x_preferred":[
+        "Mongo"
+    ],
     "name:ita_x_preferred":[
         "Mongo"
     ],
@@ -89,7 +92,7 @@
         "gn:id":208718
     },
     "wof:country":"CD",
-    "wof:geomhash":"75e5990c2eaae700fa96d466e49afabd",
+    "wof:geomhash":"70f4423ebc187d2bc84b5c5bf31f6357",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1225824583,
-    "wof:lastmodified":1566637655,
+    "wof:lastmodified":1636501489,
     "wof:name":"Mongo",
     "wof:parent_id":1091679721,
     "wof:placetype":"locality",
@@ -110,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    23.36667000000001,
+    23.36667,
     3.01667,
-    23.36667000000001,
+    23.36667,
     3.01667
 ],
-  "geometry": {"coordinates":[23.36667000000001,3.01667],"type":"Point"}
+  "geometry": {"coordinates":[23.36667,3.01667],"type":"Point"}
 }

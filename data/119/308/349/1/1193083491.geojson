@@ -29,14 +29,57 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0643\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09c1\u0995\u09bf"
+    ],
     "name:ceb_x_preferred":[
+        "Ruki"
+    ],
+    "name:deu_x_preferred":[
+        "Ruki (Fluss)"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03cd\u03ba\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u06a9\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05e7\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0941\u0915\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Ruki"
+    ],
+    "name:ind_x_preferred":[
+        "Ruki"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\ud0a4"
+    ],
+    "name:por_x_preferred":[
         "Ruki"
     ],
     "name:spa_x_preferred":[
         "Ruki"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "Ruki"
+    ],
+    "name:tur_x_preferred":[
+        "Ruki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u043a\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u06a9\u06cc\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +93,7 @@
         "gn:id":206064
     },
     "wof:country":"CD",
-    "wof:geomhash":"7f4d0510b359f70e3255a6e385ff04ba",
+    "wof:geomhash":"5742f0bdf8f475f7d1a9fafcde0d4503",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -61,7 +104,7 @@
         }
     ],
     "wof:id":1193083491,
-    "wof:lastmodified":1566635506,
+    "wof:lastmodified":1636501413,
     "wof:name":"Ruki",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",
@@ -71,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    24.36667000000001,
+    24.36667,
     1.36667,
-    24.36667000000001,
+    24.36667,
     1.36667
 ],
-  "geometry": {"coordinates":[24.36667000000001,1.36667],"type":"Point"}
+  "geometry": {"coordinates":[24.36667,1.36667],"type":"Point"}
 }

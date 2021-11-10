@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Lubombo"
     ],
+    "name:hun_x_preferred":[
+        "Lubombo"
+    ],
     "name:ita_x_preferred":[
         "Lubombo"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1360056245,
-    "wof:lastmodified":1566636201,
+    "wof:lastmodified":1636501434,
     "wof:name":"Lubombo",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

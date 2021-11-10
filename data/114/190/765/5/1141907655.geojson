@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.2665937894,1.08384726858,27.2665937894,1.08384726858",
+    "geom:bbox":"27.266594,1.083847,27.266594,1.083847",
     "geom:latitude":1.083847,
     "geom:longitude":27.266594,
     "iso:country":"CD",
@@ -21,17 +21,47 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0627\u0641\u0627\u0633\u0646\u062f\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09ab\u0993\u09df\u09be\u09b8\u09c7\u09a8\u09cd\u09a6\u09c7"
+    ],
     "name:ceb_x_preferred":[
         "Bafwasende"
+    ],
+    "name:deu_x_preferred":[
+        "Bafwasende"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c6\u03b3\u03b1\u03c3\u03ad\u03bd\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
         "Bafwasende"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0641\u0648\u0627\u0633\u0646\u062f\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Bafwasende"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05dc\u05d5\u05d5\u05e1\u05e0\u05d3\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u092b\u093c\u094d\u0935\u093e\u0938\u0947\u0902\u0921\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Bafwasende"
+    ],
+    "name:ind_x_preferred":[
         "Bafwasende"
     ],
     "name:ita_x_preferred":[
         "Bafwasende"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30d5\u30ef\u30bb\u30f3\u30c7"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ud504\uc640\uc13c\ub370"
     ],
     "name:nld_x_preferred":[
         "Bafwasende"
@@ -42,7 +72,25 @@
     "name:ron_x_preferred":[
         "Bafwasende"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0444\u0432\u0430\u0441\u0430\u043d\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Bafwasende"
+    ],
     "name:swe_x_preferred":[
+        "Bafwasende"
+    ],
+    "name:tur_x_preferred":[
+        "Bafwasende"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0444\u0432\u0430\u0441\u0435\u043d\u0434\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0641\u0648\u0627\u0633\u06cc\u0646\u062f\u06d2"
+    ],
+    "name:vie_x_preferred":[
         "Bafwasende"
     ],
     "name:zho_x_preferred":[
@@ -156,7 +204,7 @@
     },
     "wof:country":"CD",
     "wof:created":1499130754,
-    "wof:geomhash":"7d2df595b22d0de7e3ce4cd145db0984",
+    "wof:geomhash":"f50be002714fdd97d5c2719ecdd986a8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -167,7 +215,7 @@
         }
     ],
     "wof:id":1141907655,
-    "wof:lastmodified":1566637668,
+    "wof:lastmodified":1636501490,
     "wof:name":"Bafwasende",
     "wof:parent_id":1091679679,
     "wof:placetype":"locality",
@@ -177,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.26659378938456,
-    1.08384726857543,
-    27.26659378938456,
-    1.08384726857543
+    27.266594,
+    1.083847,
+    27.266594,
+    1.083847
 ],
-  "geometry": {"coordinates":[27.26659378938456,1.08384726857543],"type":"Point"}
+  "geometry": {"coordinates":[27.266594,1.083847],"type":"Point"}
 }

@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Maluku"
     ],
+    "name:hun_x_preferred":[
+        "Maluku"
+    ],
     "name:ita_x_preferred":[
         "Maluku"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1343850429,
-    "wof:lastmodified":1566633899,
+    "wof:lastmodified":1636501371,
     "wof:name":"Maluku",
     "wof:parent_id":1091679267,
     "wof:placetype":"locality",

@@ -29,6 +29,48 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0641\u0648\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u09ad\u09c1\u09df\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03b2\u03bf\u03cd\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0648\u0648\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d5\u05d2\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0941\u0935\u0941\u0906"
+    ],
+    "name:ind_x_preferred":[
+        "Luvua"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\ubd80\uc544"
+    ],
+    "name:por_x_preferred":[
+        "Luvua"
+    ],
+    "name:spa_x_preferred":[
+        "Luvua"
+    ],
+    "name:tur_x_preferred":[
+        "Luvua"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0432\u0443\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Luvua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +94,7 @@
         }
     ],
     "wof:id":1242736843,
-    "wof:lastmodified":1566636439,
+    "wof:lastmodified":1636501454,
     "wof:name":"Luvua",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

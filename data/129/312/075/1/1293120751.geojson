@@ -32,6 +32,12 @@
     "name:ceb_x_preferred":[
         "Kibuku"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d1\u05d5\u05e7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Kibuku"
+    ],
     "name:lug_x_preferred":[
         "Kibuku"
     ],
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1293120751,
-    "wof:lastmodified":1566634329,
+    "wof:lastmodified":1636501386,
     "wof:name":"Kibuku",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

@@ -32,6 +32,12 @@
     "name:ceb_x_preferred":[
         "Kanungu"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e0\u05d5\u05e0\u05d2\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Kanungu"
+    ],
     "name:lug_x_preferred":[
         "Kanungu"
     ],
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1326492767,
-    "wof:lastmodified":1566633508,
+    "wof:lastmodified":1636501356,
     "wof:name":"Kanungu",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

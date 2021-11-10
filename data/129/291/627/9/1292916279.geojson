@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Boende"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d0\u05e0\u05d3\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Boende"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1292916279,
-    "wof:lastmodified":1566634468,
+    "wof:lastmodified":1636501389,
     "wof:name":"Boende",
     "wof:parent_id":1091679539,
     "wof:placetype":"locality",

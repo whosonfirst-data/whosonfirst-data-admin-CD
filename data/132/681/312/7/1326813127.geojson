@@ -53,6 +53,9 @@
     "name:hrv_x_preferred":[
         "Kitale"
     ],
+    "name:hun_x_preferred":[
+        "Kitale"
+    ],
     "name:ita_x_preferred":[
         "Kitale"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1326813127,
-    "wof:lastmodified":1566633321,
+    "wof:lastmodified":1636501351,
     "wof:name":"Kitale",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

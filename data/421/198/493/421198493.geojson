@@ -53,6 +53,9 @@
     "name:guj_x_preferred":[
         "\u0a9c\u0ac7\u0aae\u0ac7\u0aa8\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05de\u05e0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u0947\u092e\u093f\u0928\u093e"
     ],
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":421198493,
-    "wof:lastmodified":1566636375,
+    "wof:lastmodified":1636501449,
     "wof:name":"Gemena",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

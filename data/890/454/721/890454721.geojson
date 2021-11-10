@@ -67,6 +67,9 @@
     "name:guj_x_preferred":[
         "\u0a95\u0ac0\u0aa8\u0acd\u0aa1\u0ac1\u0a82"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e0\u05d3\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u0902\u0926\u0941"
     ],
@@ -318,7 +321,7 @@
         }
     ],
     "wof:id":890454721,
-    "wof:lastmodified":1566636377,
+    "wof:lastmodified":1636501451,
     "wof:name":"Kindu",
     "wof:parent_id":85670007,
     "wof:placetype":"locality",

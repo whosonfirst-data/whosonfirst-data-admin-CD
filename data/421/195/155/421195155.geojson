@@ -50,6 +50,9 @@
     "name:est_x_preferred":[
         "Kikwit"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u06a9\u0648\u06cc\u062a"
+    ],
     "name:fin_x_preferred":[
         "Kikwit"
     ],
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":421195155,
-    "wof:lastmodified":1566636371,
+    "wof:lastmodified":1636501445,
     "wof:name":"Kikwit",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

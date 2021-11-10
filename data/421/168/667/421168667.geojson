@@ -59,6 +59,9 @@
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a9f\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0942\u091f\u093e"
     ],
@@ -307,7 +310,7 @@
         }
     ],
     "wof:id":421168667,
-    "wof:lastmodified":1566636369,
+    "wof:lastmodified":1636501445,
     "wof:name":"Buta",
     "wof:parent_id":85669979,
     "wof:placetype":"locality",

@@ -29,13 +29,64 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u0995\u09c7\u09b2\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Ikela"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03ba\u03ad\u03bb\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u06a9\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
         "Ikela"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e7\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0915\u0947\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Ikela"
+    ],
+    "name:ind_x_preferred":[
+        "Ikela"
+    ],
+    "name:ita_x_preferred":[
+        "Ikela"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\ucf08\ub77c"
     ],
     "name:pol_x_preferred":[
         "Ikela"
     ],
     "name:ron_x_preferred":[
+        "Ikela"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043a\u0435\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Ikela"
+    ],
+    "name:swe_x_preferred":[
+        "Ikela"
+    ],
+    "name:tur_x_preferred":[
+        "Ikela"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043a\u0435\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u06a9\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Ikela"
     ],
     "name:zho_x_preferred":[
@@ -53,7 +104,7 @@
         "gn:id":216033
     },
     "wof:country":"CD",
-    "wof:geomhash":"75e4f4ff3d928589886c015736e2d210",
+    "wof:geomhash":"c29470b7eb3baa889ba6758fb3c5b93d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +115,7 @@
         }
     ],
     "wof:id":1310704791,
-    "wof:lastmodified":1566635793,
+    "wof:lastmodified":1636501422,
     "wof:name":"Ikela",
     "wof:parent_id":1091679539,
     "wof:placetype":"locality",
@@ -74,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.11667000000001,
+    20.11667,
     -0.6,
-    20.11667000000001,
+    20.11667,
     -0.6
 ],
-  "geometry": {"coordinates":[20.11667000000001,-0.6],"type":"Point"}
+  "geometry": {"coordinates":[20.11667,-0.6],"type":"Point"}
 }

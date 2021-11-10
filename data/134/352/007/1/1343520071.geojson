@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0644\u0627\u0643\u0648\u0644\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b2\u09be\u0995\u09c1\u09b2\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u0435\u043a\u0443\u043b\u0430"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:glg_x_preferred":[
         "Malakula"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0932\u0915\u0941\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
         "Malakula"
@@ -101,8 +110,14 @@
     "name:swe_x_preferred":[
         "Malakula"
     ],
+    "name:tur_x_preferred":[
+        "Malakula"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0435\u043a\u0443\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0644\u0627\u06a9\u0648\u0644\u0627"
     ],
     "name:vie_x_preferred":[
         "Malakula"
@@ -133,7 +148,7 @@
         }
     ],
     "wof:id":1343520071,
-    "wof:lastmodified":1566633761,
+    "wof:lastmodified":1636501365,
     "wof:name":"Malakula",
     "wof:parent_id":1091680197,
     "wof:placetype":"locality",

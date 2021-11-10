@@ -41,6 +41,9 @@
     "name:fas_x_preferred":[
         "\u0641\u0648\u06a9\u0648\u0626\u06cc"
     ],
+    "name:hun_x_preferred":[
+        "Fukui"
+    ],
     "name:ita_x_preferred":[
         "Fukui"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1343331943,
-    "wof:lastmodified":1566634011,
+    "wof:lastmodified":1636501374,
     "wof:name":"Fukui",
     "wof:parent_id":1091680277,
     "wof:placetype":"locality",

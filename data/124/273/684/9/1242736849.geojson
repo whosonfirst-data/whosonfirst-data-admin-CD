@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0627\u0644\u0627\u0628\u0627"
+    ],
     "name:cat_x_preferred":[
         "Lualaba"
     ],
@@ -38,6 +41,12 @@
     "name:deu_x_preferred":[
         "Lualaba"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03b1\u03bb\u03ac\u03bc\u03c0\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0627\u0644\u0627\u0628\u0627"
+    ],
     "name:fra_x_preferred":[
         "Lwalaba"
     ],
@@ -46,6 +55,9 @@
     ],
     "name:kon_x_preferred":[
         "Lualaba"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\uc54c\ub77c\ubc14"
     ],
     "name:nor_x_preferred":[
         "Lualaba"
@@ -59,8 +71,18 @@
     "name:spa_x_preferred":[
         "Lualaba"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "Lualaba"
+    ],
+    "name:tur_x_preferred":[
+        "Lualaba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0430\u043b\u0430\u0431\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0627\u0644\u0627\u0628\u0627"
     ],
     "name:zho_x_preferred":[
         "\u5362\u963f\u62c9\u5df4"
@@ -88,7 +110,7 @@
         }
     ],
     "wof:id":1242736849,
-    "wof:lastmodified":1566636439,
+    "wof:lastmodified":1636501454,
     "wof:name":"Lualaba",
     "wof:parent_id":1091680435,
     "wof:placetype":"locality",

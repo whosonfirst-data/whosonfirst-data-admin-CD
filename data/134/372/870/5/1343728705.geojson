@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Arua"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d5\u05d0\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Arua"
     ],
@@ -98,7 +101,7 @@
         "gn:id":8143309
     },
     "wof:country":"CD",
-    "wof:geomhash":"2fc6c6bd4bc6d97884fdff4928a61a65",
+    "wof:geomhash":"1f47e6a36093399ce46e7b191d22e40e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1343728705,
-    "wof:lastmodified":1566634135,
+    "wof:lastmodified":1636501378,
     "wof:name":"Arua",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",
@@ -119,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.79432000000001,
+    30.79432,
     2.87457,
-    30.79432000000001,
+    30.79432,
     2.87457
 ],
-  "geometry": {"coordinates":[30.79432000000001,2.87457],"type":"Point"}
+  "geometry": {"coordinates":[30.79432,2.87457],"type":"Point"}
 }

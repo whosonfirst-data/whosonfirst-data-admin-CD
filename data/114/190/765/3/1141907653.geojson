@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.0332982979,1.95043519989,30.0332982979,1.95043519989",
+    "geom:bbox":"30.033298,1.950435,30.033298,1.950435",
     "geom:latitude":1.950435,
     "geom:longitude":30.033298,
     "iso:country":"CD",
@@ -21,8 +21,41 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u063a\u0628\u0648\u0627\u0644\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09ae\u0982\u0997\u09ac\u09cb\u09df\u09be\u09b2\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Mongbwalu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03b3\u03ba\u03bc\u03c0\u03bf\u03c5\u03ac\u03bb\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Mongbwalu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u06af\u0628\u0627\u0644\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d2\u05d1\u05d5\u05d5\u05d0\u05dc\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0902\u0917\u092c\u094d\u0935\u093e\u0932\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Mongbwalu"
+    ],
+    "name:ind_x_preferred":[
+        "Mongbwalu"
+    ],
+    "name:ita_x_preferred":[
+        "Mongbwalu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30d6\u30ef\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ubabd\ubc4c\ub8e8"
     ],
     "name:nld_x_preferred":[
         "Mongbwalu"
@@ -31,6 +64,27 @@
         "Mongbwalu"
     ],
     "name:ron_x_preferred":[
+        "Mongbwalu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u0431\u0432\u0430\u043b\u044e"
+    ],
+    "name:spa_x_preferred":[
+        "Mongbwalu"
+    ],
+    "name:swe_x_preferred":[
+        "Mongbwalu"
+    ],
+    "name:tur_x_preferred":[
+        "Mongbwalu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u0431\u0432\u0430\u043b\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u06af\u0628\u0648\u0627\u0644\u0648"
+    ],
+    "name:vie_x_preferred":[
         "Mongbwalu"
     ],
     "ne:ADM0CAP":0.0,
@@ -141,7 +195,7 @@
     },
     "wof:country":"CD",
     "wof:created":1499130754,
-    "wof:geomhash":"5d3e46335e62bf84d3ee5d3f5a48399b",
+    "wof:geomhash":"a29d8b09f324bf136b23c46bc7421a04",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -152,7 +206,7 @@
         }
     ],
     "wof:id":1141907653,
-    "wof:lastmodified":1566637668,
+    "wof:lastmodified":1636501489,
     "wof:name":"Mongbwalu",
     "wof:parent_id":1091679797,
     "wof:placetype":"locality",
@@ -162,10 +216,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.03329829785912,
-    1.95043519989406,
-    30.03329829785912,
-    1.95043519989406
+    30.033298,
+    1.950435,
+    30.033298,
+    1.950435
 ],
-  "geometry": {"coordinates":[30.03329829785912,1.95043519989406],"type":"Point"}
+  "geometry": {"coordinates":[30.033298,1.950435],"type":"Point"}
 }

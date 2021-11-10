@@ -50,6 +50,9 @@
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0aa8\u0acd\u0aa1\u0ac7"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d0\u05e0\u05d3\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u090f\u0928\u0921\u0947"
     ],
@@ -293,7 +296,7 @@
         }
     ],
     "wof:id":421198611,
-    "wof:lastmodified":1566636374,
+    "wof:lastmodified":1636501448,
     "wof:name":"Boende",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.3333031806,-10.6996195283,22.3333031806,-10.6996195283",
+    "geom:bbox":"22.333303,-10.69962,22.333303,-10.69962",
     "geom:latitude":-10.69962,
     "geom:longitude":22.333303,
     "iso:country":"CD",
@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Dilolo"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0644\u0648\u0644\u0648"
+    ],
     "name:fin_x_preferred":[
         "Dilolo"
     ],
@@ -48,8 +51,14 @@
     "name:guj_x_preferred":[
         "\u0aa6\u0abf\u0ab2\u0acb\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05dc\u05d5\u05dc\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0926\u093f\u0932\u094b\u0932\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Dilolo"
     ],
     "name:ind_x_preferred":[
         "Dilolo"
@@ -240,7 +249,7 @@
     },
     "wof:country":"CD",
     "wof:created":1499130767,
-    "wof:geomhash":"e65a325af58852338e9e3590e2dfbbf0",
+    "wof:geomhash":"b3743905149497f54147c77cb5e1933d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -251,7 +260,7 @@
         }
     ],
     "wof:id":1141907757,
-    "wof:lastmodified":1566637671,
+    "wof:lastmodified":1636501491,
     "wof:name":"Dilolo",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",
@@ -261,10 +270,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.33330318064094,
-    -10.69961952834672,
-    22.33330318064094,
-    -10.69961952834672
+    22.333303,
+    -10.69962,
+    22.333303,
+    -10.69962
 ],
-  "geometry": {"coordinates":[22.33330318064094,-10.69961952834672],"type":"Point"}
+  "geometry": {"coordinates":[22.333303,-10.69962],"type":"Point"}
 }

@@ -18,6 +18,9 @@
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
+        "\u0628\u064a\u0646\u064a"
+    ],
+    "name:ara_x_variant":[
         "\u0628\u0646\u064a"
     ],
     "name:azb_x_preferred":[
@@ -68,8 +71,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aa8\u0ac0"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0947\u0928\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Beni"
     ],
     "name:ind_x_preferred":[
         "Beni"
@@ -303,7 +312,7 @@
         }
     ],
     "wof:id":421201963,
-    "wof:lastmodified":1566636375,
+    "wof:lastmodified":1636501449,
     "wof:name":"Beni",
     "wof:parent_id":85670021,
     "wof:placetype":"locality",

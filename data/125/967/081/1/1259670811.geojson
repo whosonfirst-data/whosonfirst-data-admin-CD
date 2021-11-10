@@ -105,6 +105,9 @@
         "Sveti Josip"
     ],
     "name:hun_x_preferred":[
+        "Saint Joseph"
+    ],
+    "name:hun_x_variant":[
         "J\u00f3zsef"
     ],
     "name:hye_x_preferred":[
@@ -256,7 +259,7 @@
         }
     ],
     "wof:id":1259670811,
-    "wof:lastmodified":1566637058,
+    "wof:lastmodified":1636501473,
     "wof:name":"Saint Joseph",
     "wof:parent_id":1091680001,
     "wof:placetype":"locality",

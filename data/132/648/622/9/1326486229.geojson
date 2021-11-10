@@ -84,13 +84,22 @@
         "Provincia Mongala"
     ],
     "name:rus_x_preferred":[
+        "\u0440\u0435\u043a\u0430 \u041c\u043e\u043d\u0433\u0430\u043b\u0430"
+    ],
+    "name:rus_x_variant":[
         "\u041c\u043e\u043d\u0433\u0430\u043b\u0430"
     ],
     "name:swe_x_preferred":[
         "Mongala"
     ],
+    "name:tur_x_preferred":[
+        "Mongala"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0433\u0430\u043b\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Mongala"
     ],
     "name:war_x_preferred":[
         "Mongala"
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1326486229,
-    "wof:lastmodified":1566633559,
+    "wof:lastmodified":1636501359,
     "wof:name":"Mongala",
     "wof:parent_id":1091679455,
     "wof:placetype":"locality",

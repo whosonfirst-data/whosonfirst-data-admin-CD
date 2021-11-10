@@ -110,6 +110,9 @@
     "name:pol_x_preferred":[
         "Tshikapa"
     ],
+    "name:por_x_preferred":[
+        "Tshikapa"
+    ],
     "name:ron_x_preferred":[
         "Tshikapa"
     ],
@@ -120,6 +123,9 @@
         "\u0da7\u0dca\u0dc2\u0dd2\u0d9a\u0db4\u0dcf"
     ],
     "name:slk_x_preferred":[
+        "Tshikapa"
+    ],
+    "name:spa_x_preferred":[
         "Tshikapa"
     ],
     "name:srp_x_preferred":[
@@ -305,7 +311,7 @@
         }
     ],
     "wof:id":421181995,
-    "wof:lastmodified":1566636373,
+    "wof:lastmodified":1636501447,
     "wof:name":"Tshikapa",
     "wof:parent_id":85669989,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
     "name:fra_x_preferred":[
         "Nord-Kivu"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d5\u05e8\u05d3-\u05e7\u05d9\u05d1\u05d5"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1091679863,
-    "wof:lastmodified":1628266692,
+    "wof:lastmodified":1636501439,
     "wof:name":"Nord-Kivu",
     "wof:parent_id":85670021,
     "wof:placetype":"county",

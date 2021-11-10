@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"16.5166556383,-5.5829292614,16.5166556383,-5.5829292614",
+    "geom:bbox":"16.516656,-5.582929,16.516656,-5.582929",
     "geom:latitude":-5.582929,
     "geom:longitude":16.516656,
     "iso:country":"CD",
@@ -18,11 +18,83 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0644\u0648\u0632\u0627\u0646\u063a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u09b8\u09be\u0982\u0997\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Lusanga"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03c3\u03ac\u03bd\u03b3\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Lusanga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0633\u0627\u0646\u06af\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Lusanga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05e1\u05e0\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0941\u0938\u093e\u0902\u0917\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Lusanga"
+    ],
+    "name:ind_x_preferred":[
+        "Lusanga"
+    ],
+    "name:ita_x_preferred":[
         "Lusanga"
     ],
     "name:jpn_x_preferred":[
         "\u30eb\u30b5\u30f3\u30ac"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8\uc0c1\uac00"
+    ],
+    "name:nld_x_preferred":[
+        "Lusanga"
+    ],
+    "name:pol_x_preferred":[
+        "Lusanga"
+    ],
+    "name:por_x_preferred":[
+        "Lusanga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044e\u0437\u0430\u043d\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Lusanga"
+    ],
+    "name:swe_x_preferred":[
+        "Lusanga"
+    ],
+    "name:tur_x_preferred":[
+        "Lusanga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0443\u0441\u0430\u043d\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0633\u0627\u0646\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Lusanga"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5362\u6851\u52a0"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u76e7\u6851\u52a0"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -132,7 +204,7 @@
     },
     "wof:country":"CD",
     "wof:created":1499130765,
-    "wof:geomhash":"fa4591c47de9dbcd376bc43c4612f107",
+    "wof:geomhash":"c2473236bf820f7b28e3b374d03286c6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -143,7 +215,7 @@
         }
     ],
     "wof:id":1141907741,
-    "wof:lastmodified":1566637672,
+    "wof:lastmodified":1636501493,
     "wof:name":"Lusanga",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",
@@ -153,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    16.51665563829988,
-    -5.58292926139916,
-    16.51665563829988,
-    -5.58292926139916
+    16.516656,
+    -5.582929,
+    16.516656,
+    -5.582929
 ],
-  "geometry": {"coordinates":[16.51665563829988,-5.58292926139916],"type":"Point"}
+  "geometry": {"coordinates":[16.516656,-5.582929],"type":"Point"}
 }

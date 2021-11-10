@@ -50,6 +50,9 @@
     "name:fra_x_preferred":[
         "Ilebo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05dc\u05d1\u05d5"
+    ],
     "name:hun_x_preferred":[
         "Ilebo"
     ],
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1276393055,
-    "wof:lastmodified":1566634995,
+    "wof:lastmodified":1636501401,
     "wof:name":"Ilebo",
     "wof:parent_id":1091680399,
     "wof:placetype":"locality",

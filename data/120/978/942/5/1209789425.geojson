@@ -29,6 +29,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0647\u0631 \u0634\u064a\u0628\u064a\u0644\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b6\u09c7\u09ac\u09c7\u09b2\u09c7"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03c0\u03b5\u03bb\u03b5"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05b6\u05d1\u05b6\u05dc\u05b6\u05d4"
+    ],
+    "name:kor_x_preferred":[
+        "\uc170\ubca8\ub808"
+    ],
+    "name:tur_x_preferred":[
+        "Shebele"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06cc\u0628\u06cc\u0644\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Shebele"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1209789425,
-    "wof:lastmodified":1566635227,
+    "wof:lastmodified":1636501406,
     "wof:name":"Shebele",
     "wof:parent_id":1091680333,
     "wof:placetype":"locality",

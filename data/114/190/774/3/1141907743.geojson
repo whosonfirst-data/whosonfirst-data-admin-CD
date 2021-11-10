@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"22.8700146064,-6.50953936882,22.8700146064,-6.50953936882",
+    "geom:bbox":"22.870015,-6.509539,22.870015,-6.509539",
     "geom:latitude":-6.509539,
     "geom:longitude":22.870015,
     "iso:country":"CD",
@@ -18,19 +18,79 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062f\u0628\u0627\u064a\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09bf\u09ac\u09be\u09df\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Dibaya"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03bc\u03c0\u03ac\u03b3\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Dibaya"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0628\u0627\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Dibaya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05d1\u05d9\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0921\u093f\u092c\u093e\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Dibaya"
+    ],
+    "name:ind_x_preferred":[
+        "Dibaya"
+    ],
+    "name:ita_x_preferred":[
         "Dibaya"
     ],
     "name:jpn_x_preferred":[
         "\u30c7\u30a3\u30d0\u30e4"
     ],
+    "name:kor_x_preferred":[
+        "\ub514\ubc14\uc57c"
+    ],
     "name:nld_x_preferred":[
         "Dibaya"
     ],
+    "name:pol_x_preferred":[
+        "Dibaya"
+    ],
+    "name:por_x_preferred":[
+        "Dibaya"
+    ],
     "name:ron_x_preferred":[
+        "Dibaya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0431\u0435\u0439\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Dibaya"
+    ],
+    "name:swe_x_preferred":[
+        "Dibaya"
+    ],
+    "name:tur_x_preferred":[
+        "Dibaya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0456\u0431\u0435\u0439\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0628\u0627\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Dibaya"
     ],
     "ne:ADM0CAP":0.0,
@@ -141,7 +201,7 @@
     },
     "wof:country":"CD",
     "wof:created":1499130765,
-    "wof:geomhash":"73e3e984e14d81c6484ad35defe88fd8",
+    "wof:geomhash":"e5676cd05d64a08526583f8eafd6eb1f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -152,7 +212,7 @@
         }
     ],
     "wof:id":1141907743,
-    "wof:lastmodified":1566637673,
+    "wof:lastmodified":1636501493,
     "wof:name":"Dibaya",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",
@@ -162,10 +222,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    22.87001460642426,
-    -6.50953936882473,
-    22.87001460642426,
-    -6.50953936882473
+    22.870015,
+    -6.509539,
+    22.870015,
+    -6.509539
 ],
-  "geometry": {"coordinates":[22.87001460642426,-6.50953936882473],"type":"Point"}
+  "geometry": {"coordinates":[22.870015,-6.509539],"type":"Point"}
 }

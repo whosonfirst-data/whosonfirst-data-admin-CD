@@ -56,6 +56,9 @@
     "name:guj_x_preferred":[
         "\u0aac\u0ac2\u0a9f\u0ac7\u0aae\u0acd\u0aac\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d8\u05de\u05d1\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0941\u091f\u0947\u092e\u094d\u092c\u094b"
     ],
@@ -295,7 +298,7 @@
         }
     ],
     "wof:id":421168665,
-    "wof:lastmodified":1566636370,
+    "wof:lastmodified":1636501445,
     "wof:name":"Butembo",
     "wof:parent_id":85670021,
     "wof:placetype":"locality",

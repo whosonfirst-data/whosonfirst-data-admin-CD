@@ -29,11 +29,56 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0635\u064a\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09b8\u09bf\u09b0\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Tshuapa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c3\u03af\u03c1\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0633\u06cc\u0631\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e1\u05d9\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u0938\u0940\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Busira"
+    ],
+    "name:ind_x_preferred":[
+        "Busira"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\uc2dc\ub77c"
+    ],
+    "name:por_x_preferred":[
+        "Busira"
+    ],
+    "name:spa_x_preferred":[
+        "Busira"
+    ],
+    "name:tur_x_preferred":[
+        "Busira"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0441\u0456\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Busira Monene",
         "Busira Manene",
         "Buzira Monene",
         "Busira"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0633\u06cc\u0631\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +92,7 @@
         "gn:id":2316202
     },
     "wof:country":"CD",
-    "wof:geomhash":"5e4961ddfcfdebc6addaa884b7f70418",
+    "wof:geomhash":"709ea1e132fe47c09d91a623cfd10a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +103,7 @@
         }
     ],
     "wof:id":1327137223,
-    "wof:lastmodified":1566633444,
+    "wof:lastmodified":1636501355,
     "wof:name":"Busira",
     "wof:parent_id":1091679649,
     "wof:placetype":"locality",
@@ -68,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    20.01767000000001,
+    20.01767,
     -0.20781,
-    20.01767000000001,
+    20.01767,
     -0.20781
 ],
-  "geometry": {"coordinates":[20.01767000000001,-0.20781],"type":"Point"}
+  "geometry": {"coordinates":[20.01767,-0.20781],"type":"Point"}
 }
