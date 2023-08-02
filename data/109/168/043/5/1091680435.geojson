@@ -33,6 +33,12 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u043c\u0430\u043c\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Kabinda"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Lomami"
+    ],
     "name:deu_x_preferred":[
         "Lomami"
     ],
@@ -46,13 +52,22 @@
     "name:epo_x_preferred":[
         "Provinco Lomamo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0644\u0648\u0645\u0627\u0645\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Lomami"
     ],
     "name:fra_x_preferred":[
         "Kabinda"
     ],
+    "name:fra_x_variant":[
+        "Lomani"
+    ],
     "name:frr_x_preferred":[
+        "Lomami"
+    ],
+    "name:glg_x_preferred":[
         "Lomami"
     ],
     "name:hun_x_preferred":[
@@ -79,6 +94,9 @@
     "name:kor_x_variant":[
         "\ub85c\ub9c8\ubbf8\uc8fc",
         "\ub85c\ub9c8\ubbf8 \uc8fc"
+    ],
+    "name:lit_x_preferred":[
+        "Lomamis"
     ],
     "name:nld_x_preferred":[
         "Lomami"
@@ -131,6 +149,9 @@
     "name:zho_x_preferred":[
         "\u6d1b\u9a6c\u7c73\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Lomami Province"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -155,7 +176,7 @@
         }
     ],
     "wof:id":1091680435,
-    "wof:lastmodified":1636501436,
+    "wof:lastmodified":1690865811,
     "wof:name":"Kabinda",
     "wof:parent_id":85670011,
     "wof:placetype":"county",

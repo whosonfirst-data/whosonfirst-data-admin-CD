@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u062c\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Kenge"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c7\u0999\u09cd\u0997\u09c7"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0646\u06af\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Kenge"
     ],
     "name:fra_x_preferred":[
         "Kenge"
@@ -74,6 +80,9 @@
     ],
     "name:lin_x_preferred":[
         "K\u00e9ng\u00e9"
+    ],
+    "name:lit_x_preferred":[
+        "Keng\u0117"
     ],
     "name:nld_x_preferred":[
         "Kenge"
@@ -119,6 +128,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6839\u84cb"
+    ],
+    "name:zul_x_preferred":[
+        "Kenge"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -239,7 +251,7 @@
         }
     ],
     "wof:id":1141907735,
-    "wof:lastmodified":1636501492,
+    "wof:lastmodified":1690865842,
     "wof:name":"Kenge",
     "wof:parent_id":1091679429,
     "wof:placetype":"locality",

@@ -38,6 +38,12 @@
     "name:swe_x_preferred":[
         "Lukolela"
     ],
+    "name:zho_x_preferred":[
+        "\u5362\u79d1\u83b1\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Lukolela"
+    ],
     "qs:gn_country":"CD",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":2313371,
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":421172107,
-    "wof:lastmodified":1566636373,
+    "wof:lastmodified":1690865823,
     "wof:name":"Lukolela",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

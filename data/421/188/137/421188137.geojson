@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u062f\u064a\u0645\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0645\u0628\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09c7\u09ae\u09ac\u09be"
     ],
@@ -74,6 +77,9 @@
     "name:por_x_preferred":[
         "Demba"
     ],
+    "name:ron_x_preferred":[
+        "Demba"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u043c\u0431\u0430"
     ],
@@ -97,6 +103,9 @@
     ],
     "name:zho_x_preferred":[
         "\u767b\u5df4"
+    ],
+    "name:zul_x_preferred":[
+        "Demba"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -236,7 +245,7 @@
         }
     ],
     "wof:id":421188137,
-    "wof:lastmodified":1636501447,
+    "wof:lastmodified":1690865823,
     "wof:name":"Demba",
     "wof:parent_id":85669989,
     "wof:placetype":"locality",

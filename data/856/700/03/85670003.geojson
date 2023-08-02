@@ -41,6 +41,9 @@
     "name:bul_x_preferred":[
         "\u0421\u044e\u0434 \u041a\u0438\u0432\u0443"
     ],
+    "name:ces_x_preferred":[
+        "Ji\u017en\u00ed Kivu"
+    ],
     "name:dan_x_preferred":[
         "South Kivu"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:est_x_preferred":[
         "L\u00f5una-Kivu"
+    ],
+    "name:eus_x_preferred":[
+        "Hego Kivu"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0648\u062f \u06a9\u06cc\u0648\u0627"
@@ -85,6 +91,9 @@
     ],
     "name:hun_x_preferred":[
         "D\u00e9l-Kivu tartom\u00e1ny"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u053f\u056b\u057e\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Sud-Kivu"
@@ -164,6 +173,9 @@
     "name:swe_x_preferred":[
         "S\u00f6dra Kivu-provinsen"
     ],
+    "name:swe_x_variant":[
+        "S\u00f6dra Kivu"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0b95\u0bbf\u0bb5\u0bc1"
     ],
@@ -202,6 +214,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5357\u57fa\u4f0d\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "South Kivu"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COD",
@@ -312,7 +327,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1636501378,
+    "wof:lastmodified":1690865795,
     "wof:name":"Sud-Kivu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

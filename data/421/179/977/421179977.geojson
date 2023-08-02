@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0628\u0648\u0641"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0645\u0628\u0648\u0641"
+    ],
+    "name:ast_x_preferred":[
+        "Kambove"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09ac\u09cb\u09ad\u09c7"
     ],
@@ -145,6 +151,9 @@
     ],
     "name:zho_x_preferred":[
         "\u574e\u535a\u97cb"
+    ],
+    "name:zul_x_preferred":[
+        "Kambove"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -285,7 +294,7 @@
         }
     ],
     "wof:id":421179977,
-    "wof:lastmodified":1636501449,
+    "wof:lastmodified":1690865827,
     "wof:name":"Kambove",
     "wof:parent_id":85670015,
     "wof:placetype":"locality",

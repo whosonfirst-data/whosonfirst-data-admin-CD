@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u064a\u0648\u0646\u0632\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0627\u064a\u0648\u0646\u0632\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Nyunzu"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09a8\u09cb\u09df\u09be\u09a8\u099c\u09c1"
     ],
@@ -28,6 +34,9 @@
         "\u041d\u044e\u043d\u0437\u0443"
     ],
     "name:ceb_x_preferred":[
+        "Nyunzu"
+    ],
+    "name:deu_x_preferred":[
         "Nyunzu"
     ],
     "name:ell_x_preferred":[
@@ -66,6 +75,9 @@
     "name:nld_x_preferred":[
         "Nyunzu"
     ],
+    "name:pol_x_preferred":[
+        "Nyunzu"
+    ],
     "name:por_x_preferred":[
         "Nyunzu"
     ],
@@ -98,6 +110,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u5c3c\u6e29\u7956"
+    ],
+    "name:zul_x_preferred":[
+        "Nyunzu"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -218,7 +233,7 @@
         }
     ],
     "wof:id":1141907759,
-    "wof:lastmodified":1636501491,
+    "wof:lastmodified":1690865841,
     "wof:name":"Nyunzu",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

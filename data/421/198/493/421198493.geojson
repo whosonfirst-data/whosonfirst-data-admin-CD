@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0645\u064a\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0645\u064a\u0646\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Gemena"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09c7\u09ae\u09bf\u09a8\u09be"
     ],
@@ -161,6 +167,9 @@
     "name:zho_x_preferred":[
         "\u84cb\u6885\u7d0d"
     ],
+    "name:zul_x_preferred":[
+        "Gemena"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -301,7 +310,7 @@
         }
     ],
     "wof:id":421198493,
-    "wof:lastmodified":1636501449,
+    "wof:lastmodified":1690865825,
     "wof:name":"Gemena",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

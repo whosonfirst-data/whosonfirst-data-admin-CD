@@ -93,6 +93,12 @@
     "name:vie_x_preferred":[
         "Dibaya"
     ],
+    "name:zho_x_preferred":[
+        "\u8fea\u5df4\u4e9a"
+    ],
+    "name:zul_x_preferred":[
+        "Dibaya"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -212,7 +218,7 @@
         }
     ],
     "wof:id":1141907743,
-    "wof:lastmodified":1636501493,
+    "wof:lastmodified":1690865842,
     "wof:name":"Dibaya",
     "wof:parent_id":1091680517,
     "wof:placetype":"locality",

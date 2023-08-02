@@ -62,6 +62,9 @@
     "name:epo_x_preferred":[
         "Kasajo Orienta"
     ],
+    "name:eus_x_preferred":[
+        "Ekialdeko Kasa\u00ef"
+    ],
     "name:fin_x_preferred":[
         "Kasa\u00ef-Oriental"
     ],
@@ -128,6 +131,9 @@
     ],
     "name:por_x_preferred":[
         "Kasa\u00ef-Oriental"
+    ],
+    "name:ron_x_preferred":[
+        "Kasa\u00ef Oriental"
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0435 \u041a\u0430\u0441\u0430\u0438"
@@ -282,7 +288,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1614893641,
+    "wof:lastmodified":1690865795,
     "wof:name":"Kasa\u00ef-Oriental",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

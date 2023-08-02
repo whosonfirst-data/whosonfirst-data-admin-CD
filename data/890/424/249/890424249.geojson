@@ -31,6 +31,12 @@
     "name:fra_x_preferred":[
         "Makambo"
     ],
+    "name:gle_x_preferred":[
+        "SS Makambo"
+    ],
+    "name:pap_x_preferred":[
+        "Makambo"
+    ],
     "name:slv_x_preferred":[
         "SS Makambo"
     ],
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":890424249,
-    "wof:lastmodified":1566636377,
+    "wof:lastmodified":1690865829,
     "wof:name":"Makambo",
     "wof:parent_id":85669979,
     "wof:placetype":"locality",

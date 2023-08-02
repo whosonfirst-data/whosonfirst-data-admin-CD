@@ -37,6 +37,9 @@
     "name:fra_x_preferred":[
         "Masina"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057d\u056b\u0576\u0561"
+    ],
     "name:ind_x_preferred":[
         "Masina"
     ],
@@ -49,11 +52,20 @@
     "name:nld_x_preferred":[
         "Masina"
     ],
+    "name:por_x_preferred":[
+        "Masina"
+    ],
     "name:swe_x_preferred":[
+        "Masina"
+    ],
+    "name:war_x_preferred":[
         "Masina"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u5e0c\u7d0d\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u897f\u7eb3"
     ],
     "qs_pg:aaroncc":"CD",
     "qs_pg:gn_country":"CD",
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":1125882173,
-    "wof:lastmodified":1566636378,
+    "wof:lastmodified":1690865832,
     "wof:name":"Masina",
     "wof:parent_id":1091679267,
     "wof:placetype":"locality",

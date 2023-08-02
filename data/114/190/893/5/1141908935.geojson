@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"13.0499938544,-5.82999428419,13.0499938544,-5.82999428419",
+    "geom:bbox":"13.049994,-5.829994,13.049994,-5.829994",
     "geom:latitude":-5.829994,
     "geom:longitude":13.049994,
     "iso:country":"CD",
@@ -21,11 +21,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0645\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Boma"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0645\u0627"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u043c\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u043e\u043c\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09ae\u09be"
@@ -70,6 +79,9 @@
         "Boma"
     ],
     "name:fra_x_preferred":[
+        "Boma"
+    ],
+    "name:gle_x_preferred":[
         "Boma"
     ],
     "name:glg_x_preferred":[
@@ -207,6 +219,9 @@
     "name:zho_x_preferred":[
         "\u535a\u99ac"
     ],
+    "name:zul_x_preferred":[
+        "Boma"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -315,7 +330,7 @@
     },
     "wof:country":"CD",
     "wof:created":1499131000,
-    "wof:geomhash":"02c717c7c5b40c3e0ca61e69af23cb43",
+    "wof:geomhash":"06a2372d8236dce0528e44968092309d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -326,7 +341,7 @@
         }
     ],
     "wof:id":1141908935,
-    "wof:lastmodified":1566637669,
+    "wof:lastmodified":1690865839,
     "wof:name":"Boma",
     "wof:parent_id":1091679279,
     "wof:placetype":"locality",
@@ -336,10 +351,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    13.04999385443193,
-    -5.82999428418657,
-    13.04999385443193,
-    -5.82999428418657
+    13.049994,
+    -5.829994,
+    13.049994,
+    -5.829994
 ],
-  "geometry": {"coordinates":[13.04999385443193,-5.82999428418657],"type":"Point"}
+  "geometry": {"coordinates":[13.049994,-5.829994],"type":"Point"}
 }

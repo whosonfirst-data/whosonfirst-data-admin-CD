@@ -23,6 +23,9 @@
     "name:ara_x_variant":[
         "\u0628\u0646\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Beni"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0646\u06cc"
     ],
@@ -54,6 +57,9 @@
         "Beni"
     ],
     "name:epo_x_preferred":[
+        "Beni"
+    ],
+    "name:eus_x_preferred":[
         "Beni"
     ],
     "name:fas_x_preferred":[
@@ -175,6 +181,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u5c3c"
+    ],
+    "name:zul_x_preferred":[
+        "Beni"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -312,7 +321,7 @@
         }
     ],
     "wof:id":421201963,
-    "wof:lastmodified":1636501449,
+    "wof:lastmodified":1690865826,
     "wof:name":"Beni",
     "wof:parent_id":85670021,
     "wof:placetype":"locality",

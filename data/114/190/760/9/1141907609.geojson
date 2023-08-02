@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u063a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0646\u062c\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u0982\u0997\u09be"
     ],
@@ -107,6 +110,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d8\u10dc\u10d2\u10d0"
+    ],
+    "name:zul_x_preferred":[
+        "Binga"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -227,7 +233,7 @@
         }
     ],
     "wof:id":1141907609,
-    "wof:lastmodified":1636501491,
+    "wof:lastmodified":1690865841,
     "wof:name":"Binga",
     "wof:parent_id":1091679647,
     "wof:placetype":"locality",

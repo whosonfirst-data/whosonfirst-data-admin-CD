@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0628\u0648\u0634\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Kipushi"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09aa\u09c1\u09b6\u09bf"
     ],
@@ -70,6 +73,9 @@
     "name:kor_x_preferred":[
         "\ud0a4\ud478\uc2dc"
     ],
+    "name:lin_x_preferred":[
+        "Kipushi"
+    ],
     "name:lit_x_preferred":[
         "Kipu\u0161is"
     ],
@@ -117,6 +123,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fa\u666e\u5e0c"
+    ],
+    "name:zul_x_preferred":[
+        "Kipushi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -243,7 +252,7 @@
         }
     ],
     "wof:id":890440071,
-    "wof:lastmodified":1636501450,
+    "wof:lastmodified":1690865828,
     "wof:name":"Kipushi",
     "wof:parent_id":85670015,
     "wof:placetype":"locality",

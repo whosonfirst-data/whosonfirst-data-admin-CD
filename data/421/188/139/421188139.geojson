@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u0627\u0646\u063a\u0648\u0644\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0633\u0627\u0646\u062c\u0648\u0644\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b8\u09be\u0982\u0997\u09c1\u09b2\u09c1"
     ],
@@ -68,6 +71,9 @@
     "name:nld_x_preferred":[
         "Kasangulu"
     ],
+    "name:pol_x_preferred":[
+        "Kasangulu"
+    ],
     "name:por_x_preferred":[
         "Kasangulu"
     ],
@@ -97,6 +103,12 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d9\u10d0\u10e1\u10d0\u10dc\u10d2\u10e3\u10da\u10e3"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u6851\u53e4\u5362"
+    ],
+    "name:zul_x_preferred":[
+        "Kasangulu"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -236,7 +248,7 @@
         }
     ],
     "wof:id":421188139,
-    "wof:lastmodified":1636501447,
+    "wof:lastmodified":1690865822,
     "wof:name":"Kasangulu",
     "wof:parent_id":85669993,
     "wof:placetype":"locality",

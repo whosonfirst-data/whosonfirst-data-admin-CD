@@ -38,6 +38,9 @@
     "name:bre_x_preferred":[
         "Provi\u00f1s ar Reter"
     ],
+    "name:cat_x_preferred":[
+        "Prov\u00edncia Oriental"
+    ],
     "name:ceb_x_preferred":[
         "Orientale Province"
     ],
@@ -309,7 +312,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1636501378,
+    "wof:lastmodified":1690865797,
     "wof:name":"Orientale",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

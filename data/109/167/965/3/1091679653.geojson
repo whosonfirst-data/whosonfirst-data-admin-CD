@@ -53,11 +53,13 @@
     ],
     "name:eng_x_variant":[
         "Gbadolite",
-        "Nord-Ubangi",
         "Nord-Ubangi District"
     ],
     "name:epo_x_preferred":[
         "Provinco Norda Ubango"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0648\u0631\u062f \u0627\u0648\u0628\u0627\u0646\u06af\u06cc"
     ],
     "name:fin_x_preferred":[
         "Pohjois-Ubangi"
@@ -97,6 +99,9 @@
     ],
     "name:kor_x_variant":[
         "\ubd81\uc6b0\ubc29\uae30\uc8fc"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160iaur\u0117s Ubangis"
     ],
     "name:nld_x_preferred":[
         "Noord-Ubangi"
@@ -143,6 +148,9 @@
     "name:zho_x_preferred":[
         "\u5317\u4e4c\u73ed\u5409\u7701"
     ],
+    "name:zul_x_preferred":[
+        "Nord-Ubangi"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -166,7 +174,7 @@
         }
     ],
     "wof:id":1091679653,
-    "wof:lastmodified":1636501437,
+    "wof:lastmodified":1690865812,
     "wof:name":"Gbadolite",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

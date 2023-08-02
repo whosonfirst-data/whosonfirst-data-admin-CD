@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644\u0648\u064a\u0632\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Kolwezi"
+    ],
     "name:bel_x_preferred":[
         "\u041a\u0430\u043b\u0432\u0435\u0437\u0456"
     ],
@@ -56,6 +59,9 @@
     "name:est_x_preferred":[
         "Kolwezi"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0644\u0648\u0632\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Kolwezi"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab2\u0ab5\u0ac7\u0a9d\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05dc\u05d5\u05d5\u05d6\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0932\u094d\u0935\u0947\u091c\u0940"
@@ -178,6 +187,9 @@
     ],
     "name:zho_x_preferred":[
         "\u79d1\u5362\u97e6\u9f50"
+    ],
+    "name:zul_x_preferred":[
+        "Kolwezi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -317,7 +329,7 @@
         }
     ],
     "wof:id":421168775,
-    "wof:lastmodified":1566636370,
+    "wof:lastmodified":1690865818,
     "wof:name":"Kolwezi",
     "wof:parent_id":85670015,
     "wof:placetype":"locality",

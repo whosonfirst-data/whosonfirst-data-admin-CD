@@ -80,6 +80,9 @@
     "name:hun_x_preferred":[
         "Egyenl\u00edt\u0151i tartom\u00e1ny"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u057d\u0561\u0580\u0561\u056f\u0561\u056e\u0561\u0575\u056b\u0576 \u057a\u0580\u0578\u057e\u056b\u0576\u0581\u056b\u0561"
+    ],
     "name:ina_x_preferred":[
         "Provincia Equateur"
     ],
@@ -115,6 +118,9 @@
     ],
     "name:por_x_preferred":[
         "\u00c9quateur"
+    ],
+    "name:por_x_variant":[
+        "Equador"
     ],
     "name:ron_x_preferred":[
         "Provincia \u00c9quateur"
@@ -269,7 +275,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1614893641,
+    "wof:lastmodified":1690865797,
     "wof:name":"\u00c9quateur",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

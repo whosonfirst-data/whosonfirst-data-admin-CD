@@ -27,6 +27,9 @@
     "name:ara_x_variant":[
         "\u0628\u0648\u0644\u0648\u0646\u063a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u0646\u062c\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b2\u09c1\u0982\u0997\u09c1"
     ],
@@ -101,6 +104,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u9686\u53e4"
+    ],
+    "name:zul_x_preferred":[
+        "Bulungu"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -235,7 +241,7 @@
         }
     ],
     "wof:id":1141907739,
-    "wof:lastmodified":1636501492,
+    "wof:lastmodified":1690865842,
     "wof:name":"Bulungu",
     "wof:parent_id":1091679385,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628\u0627\u0644\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0628\u0627\u0644\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Kabalo"
+    ],
     "name:bcl_x_preferred":[
         "Kabalo"
     ],
@@ -32,6 +38,9 @@
         "\u0995\u09be\u09ac\u09be\u09b2\u09cb"
     ],
     "name:ceb_x_preferred":[
+        "Kabalo"
+    ],
+    "name:deu_x_preferred":[
         "Kabalo"
     ],
     "name:ell_x_preferred":[
@@ -73,6 +82,9 @@
     "name:nld_x_preferred":[
         "Kabalo"
     ],
+    "name:pol_x_preferred":[
+        "Kabalo"
+    ],
     "name:por_x_preferred":[
         "Kabalo"
     ],
@@ -108,6 +120,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u5df4\u6d1b"
+    ],
+    "name:zul_x_preferred":[
+        "Kabalo"
     ],
     "qs_pg:aaroncc":"CD",
     "qs_pg:gn_country":"CD",
@@ -148,7 +163,7 @@
         }
     ],
     "wof:id":1125782335,
-    "wof:lastmodified":1636501452,
+    "wof:lastmodified":1690865832,
     "wof:name":"Kabalo",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

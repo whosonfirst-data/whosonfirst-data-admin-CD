@@ -26,16 +26,25 @@
     "name:eng_x_preferred":[
         "Nioki"
     ],
+    "name:fra_x_preferred":[
+        "Nioki"
+    ],
     "name:jpn_x_preferred":[
         "\u30cb\u30a6\u30fc\u30ad"
     ],
     "name:nld_x_preferred":[
         "Nioki"
     ],
+    "name:pol_x_preferred":[
+        "Nioki"
+    ],
     "name:ron_x_preferred":[
         "Nioki"
     ],
     "name:swe_x_preferred":[
+        "Nioki"
+    ],
+    "name:zul_x_preferred":[
         "Nioki"
     ],
     "qs:gn_country":"CD",
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":421168129,
-    "wof:lastmodified":1566636370,
+    "wof:lastmodified":1690865818,
     "wof:name":"Nioki",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0627\u062a\u0633\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0627\u062a\u0633\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09df\u09be\u09a4\u09b8\u09be"
     ],
@@ -65,7 +68,13 @@
     "name:kor_x_preferred":[
         "\uc653\uc0ac"
     ],
+    "name:mdf_x_preferred":[
+        "\u0412\u0430\u0442\u0441\u0430"
+    ],
     "name:nld_x_preferred":[
+        "Watsa"
+    ],
+    "name:pol_x_preferred":[
         "Watsa"
     ],
     "name:por_x_preferred":[
@@ -97,6 +106,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74e6\u65af\u5854"
+    ],
+    "name:zul_x_preferred":[
+        "Watsa"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -236,7 +248,7 @@
         }
     ],
     "wof:id":421179943,
-    "wof:lastmodified":1636501450,
+    "wof:lastmodified":1690865828,
     "wof:name":"Watsa",
     "wof:parent_id":85669979,
     "wof:placetype":"locality",
