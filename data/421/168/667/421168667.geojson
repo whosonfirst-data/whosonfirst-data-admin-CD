@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Buta"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u099f\u09be"
     ],
@@ -51,6 +57,9 @@
         "Buta"
     ],
     "name:fra_x_preferred":[
+        "Buta"
+    ],
+    "name:frr_x_preferred":[
         "Buta"
     ],
     "name:glg_x_preferred":[
@@ -169,6 +178,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5854"
+    ],
+    "name:zul_x_preferred":[
+        "Buta"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -310,7 +322,7 @@
         }
     ],
     "wof:id":421168667,
-    "wof:lastmodified":1636501445,
+    "wof:lastmodified":1690865817,
     "wof:name":"Buta",
     "wof:parent_id":85669979,
     "wof:placetype":"locality",

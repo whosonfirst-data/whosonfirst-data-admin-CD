@@ -38,6 +38,9 @@
     "name:bre_x_preferred":[
         "Bandundu"
     ],
+    "name:cat_x_preferred":[
+        "Bandundu"
+    ],
     "name:ceb_x_preferred":[
         "Bandundu Province"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc18\ub454\ub450 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc18\ub454\ub450\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Bandundu province"
@@ -299,7 +305,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1636501379,
+    "wof:lastmodified":1690865798,
     "wof:name":"Bandundu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

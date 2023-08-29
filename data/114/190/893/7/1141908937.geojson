@@ -24,10 +24,16 @@
     "name:ara_x_variant":[
         "\u0645\u0627\u0646\u0648\u0646\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Manono"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09cb\u09a8\u09cb"
     ],
     "name:ceb_x_preferred":[
+        "Manono"
+    ],
+    "name:deu_x_preferred":[
         "Manono"
     ],
     "name:ell_x_preferred":[
@@ -96,8 +102,14 @@
     "name:vie_x_preferred":[
         "Manono"
     ],
+    "name:yue_x_preferred":[
+        "\u99ac\u8afe\u8afe"
+    ],
     "name:zho_x_preferred":[
         "\u99ac\u8afe\u8afe"
+    ],
+    "name:zul_x_preferred":[
+        "Manono"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -218,7 +230,7 @@
         }
     ],
     "wof:id":1141908937,
-    "wof:lastmodified":1636501490,
+    "wof:lastmodified":1690865839,
     "wof:name":"Manono",
     "wof:parent_id":1091680307,
     "wof:placetype":"locality",

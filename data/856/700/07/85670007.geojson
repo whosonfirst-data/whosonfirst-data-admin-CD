@@ -38,14 +38,23 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09c7\u0987\u09ae\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09cd\u09af\u09be\u09a8\u09bf\u09af\u09bc\u09c7\u09ae\u09be"
+    ],
     "name:bre_x_preferred":[
         "Maniema"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0438\u0435\u043c\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Maniema"
+    ],
     "name:ceb_x_preferred":[
         "Province du Maniema"
+    ],
+    "name:ces_x_preferred":[
+        "Maniema"
     ],
     "name:dan_x_preferred":[
         "Maniema"
@@ -72,6 +81,9 @@
         "Maniema provints"
     ],
     "name:est_x_variant":[
+        "Maniema"
+    ],
+    "name:eus_x_preferred":[
         "Maniema"
     ],
     "name:fas_x_preferred":[
@@ -121,6 +133,9 @@
     ],
     "name:kor_x_variant":[
         "\ub9c8\ub2c8\uc5d0\ub9c8\uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Maniema"
     ],
     "name:lav_x_preferred":[
         "Maniema"
@@ -208,6 +223,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u6d85\u9a6c\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Maniema"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COD",
@@ -321,7 +339,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1607982033,
+    "wof:lastmodified":1690865796,
     "wof:name":"Maniema",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

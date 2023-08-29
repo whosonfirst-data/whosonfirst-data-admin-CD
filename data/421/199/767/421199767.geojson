@@ -23,8 +23,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0627\u0641\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0643\u0627\u0641\u0648"
+    ],
     "name:ast_x_preferred":[
         "Bukavu"
+    ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u06a9\u0627\u0648\u0627"
     ],
     "name:aze_x_preferred":[
         "Bukavu"
@@ -47,6 +53,9 @@
     "name:ceb_x_preferred":[
         "Bukavu"
     ],
+    "name:ces_x_preferred":[
+        "Bukavu"
+    ],
     "name:dan_x_preferred":[
         "Bukavu"
     ],
@@ -63,6 +72,9 @@
         "Bukavu"
     ],
     "name:est_x_preferred":[
+        "Bukavu"
+    ],
+    "name:eus_x_preferred":[
         "Bukavu"
     ],
     "name:fas_x_preferred":[
@@ -85,6 +97,9 @@
     ],
     "name:hau_x_preferred":[
         "Bukavu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e7\u05d0\u05d1\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092c\u0941\u0915\u093e\u0935\u0941"
@@ -125,6 +140,9 @@
     "name:lit_x_preferred":[
         "Bukavu"
     ],
+    "name:ltz_x_preferred":[
+        "Bukavu"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u0941\u0915\u093e\u090a"
     ],
@@ -154,6 +172,9 @@
     ],
     "name:por_x_preferred":[
         "Bukavu"
+    ],
+    "name:por_x_variant":[
+        "Bucavu"
     ],
     "name:ron_x_preferred":[
         "Bukavu"
@@ -191,6 +212,9 @@
     "name:tel_x_preferred":[
         "\u0c2c\u0c41\u0c15\u0c3e\u0c35\u0c41"
     ],
+    "name:tgl_x_preferred":[
+        "Bukavu"
+    ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e39\u0e42\u0e04\u0e27\u0e32\u0e19\u0e35"
     ],
@@ -214,6 +238,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5361\u6b66"
+    ],
+    "name:zul_x_preferred":[
+        "Bukavu"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -352,7 +379,7 @@
         }
     ],
     "wof:id":421199767,
-    "wof:lastmodified":1566636375,
+    "wof:lastmodified":1690865826,
     "wof:name":"Bukavu",
     "wof:parent_id":85670003,
     "wof:placetype":"locality",

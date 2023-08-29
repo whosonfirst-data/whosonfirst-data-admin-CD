@@ -110,6 +110,9 @@
     "name:zho_x_variant":[
         "\u76e7\u672c\u5df4\u5e0c"
     ],
+    "name:zul_x_preferred":[
+        "Zongo"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -253,7 +256,7 @@
         }
     ],
     "wof:id":421196249,
-    "wof:lastmodified":1636501449,
+    "wof:lastmodified":1690865826,
     "wof:name":"Zongo",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

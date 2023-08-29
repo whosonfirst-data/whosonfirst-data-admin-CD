@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0627\u062f\u0648\u0644\u064a\u062a"
     ],
+    "name:ast_x_preferred":[
+        "Gbadolite"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09ac\u09be\u09a6\u09cb\u09b2\u09be\u0987\u09a4"
     ],
@@ -88,6 +91,9 @@
     "name:kor_x_preferred":[
         "\uadf8\ubc14\ub3cc\ub9ac\ud14c"
     ],
+    "name:lit_x_preferred":[
+        "Gbadolit\u0117"
+    ],
     "name:nld_x_preferred":[
         "Gbadolite"
     ],
@@ -115,6 +121,9 @@
     "name:swe_x_preferred":[
         "Gbadolite"
     ],
+    "name:szl_x_preferred":[
+        "Gbadolite"
+    ],
     "name:tur_x_preferred":[
         "Gbadolite"
     ],
@@ -138,6 +147,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6208\u5df4\u591a\u840a"
+    ],
+    "name:zul_x_preferred":[
+        "Gbadolite"
     ],
     "qs_pg:aaroncc":"CD",
     "qs_pg:gn_country":"CD",
@@ -178,7 +190,7 @@
         }
     ],
     "wof:id":1125782363,
-    "wof:lastmodified":1636501453,
+    "wof:lastmodified":1690865833,
     "wof:name":"Gbadolite",
     "wof:parent_id":1091679653,
     "wof:placetype":"locality",

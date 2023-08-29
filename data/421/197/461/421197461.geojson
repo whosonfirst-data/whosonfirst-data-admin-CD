@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0648\u0628\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0644\u0648\u0628\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09b2\u09cb\u09ac\u09cb"
     ],
@@ -139,6 +142,9 @@
     ],
     "name:zho_x_preferred":[
         "\u535a\u6d1b\u535a"
+    ],
+    "name:zul_x_preferred":[
+        "Bolobo"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -278,7 +284,7 @@
         }
     ],
     "wof:id":421197461,
-    "wof:lastmodified":1636501449,
+    "wof:lastmodified":1690865826,
     "wof:name":"Bolobo",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

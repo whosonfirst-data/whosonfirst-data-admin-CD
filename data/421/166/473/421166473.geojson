@@ -26,6 +26,12 @@
     "name:jpn_x_preferred":[
         "\u30ad\u30b2\u30b8"
     ],
+    "name:nan_x_preferred":[
+        "Kigezi Ko\u0101n"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito Kigezi"
+    ],
     "qs:gn_country":"CD",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":213222,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":421166473,
-    "wof:lastmodified":1566636370,
+    "wof:lastmodified":1690865819,
     "wof:name":"Kigezi",
     "wof:parent_id":85670021,
     "wof:placetype":"locality",

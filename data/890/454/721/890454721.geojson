@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u062f\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Kindu"
+    ],
     "name:azb_x_preferred":[
         "\u06a9\u06cc\u0646\u062f\u0648"
     ],
@@ -196,6 +199,9 @@
     "name:zho_x_preferred":[
         "\u91d1\u675c"
     ],
+    "name:zul_x_preferred":[
+        "Kindu"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -321,7 +327,7 @@
         }
     ],
     "wof:id":890454721,
-    "wof:lastmodified":1636501451,
+    "wof:lastmodified":1690865830,
     "wof:name":"Kindu",
     "wof:parent_id":85670007,
     "wof:placetype":"locality",

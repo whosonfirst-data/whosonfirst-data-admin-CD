@@ -98,6 +98,9 @@
     "name:zho_x_preferred":[
         "\u535a\u7d22\u535a\u6d1b"
     ],
+    "name:zul_x_preferred":[
+        "Bosobolo"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421178199,
-    "wof:lastmodified":1636501450,
+    "wof:lastmodified":1690865828,
     "wof:name":"Bosobolo",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

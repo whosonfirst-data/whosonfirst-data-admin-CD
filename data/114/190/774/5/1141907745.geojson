@@ -132,6 +132,9 @@
     "name:zho_x_preferred":[
         "\u59c6\u5b89\u8fbe"
     ],
+    "name:zul_x_preferred":[
+        "Moanda"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -251,7 +254,7 @@
         }
     ],
     "wof:id":1141907745,
-    "wof:lastmodified":1636501493,
+    "wof:lastmodified":1690865843,
     "wof:name":"Moanda",
     "wof:parent_id":1091679303,
     "wof:placetype":"locality",

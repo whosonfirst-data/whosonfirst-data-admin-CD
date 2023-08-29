@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0645\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0645\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bumba"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09ae\u09cd\u09ac\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Bumba"
     ],
     "name:ceb_x_preferred":[
         "Bumba"
@@ -119,6 +128,9 @@
     "name:sin_x_preferred":[
         "\u0db6\u0db8\u0dca\u0db6\u0dcf"
     ],
+    "name:spa_x_preferred":[
+        "Bumba"
+    ],
     "name:swa_x_preferred":[
         "Bumba"
     ],
@@ -154,6 +166,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5954\u5df4"
+    ],
+    "name:zul_x_preferred":[
+        "Bumba"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -295,7 +310,7 @@
         }
     ],
     "wof:id":421168669,
-    "wof:lastmodified":1636501444,
+    "wof:lastmodified":1690865817,
     "wof:name":"Bumba",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

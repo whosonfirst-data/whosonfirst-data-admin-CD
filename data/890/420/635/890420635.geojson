@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0644\u064a\u0628\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0644\u064a\u0628\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Ilebo"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0644\u06cc\u0628\u0648"
     ],
@@ -38,6 +44,9 @@
         "Ilebo"
     ],
     "name:dan_x_preferred":[
+        "Ilebo"
+    ],
+    "name:deu_x_preferred":[
         "Ilebo"
     ],
     "name:ell_x_preferred":[
@@ -169,6 +178,9 @@
     "name:zho_x_preferred":[
         "\u4f0a\u840a\u535a"
     ],
+    "name:zul_x_preferred":[
+        "Ilebo"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -294,7 +306,7 @@
         }
     ],
     "wof:id":890420635,
-    "wof:lastmodified":1636501452,
+    "wof:lastmodified":1690865831,
     "wof:name":"Ilebo",
     "wof:parent_id":85669989,
     "wof:placetype":"locality",

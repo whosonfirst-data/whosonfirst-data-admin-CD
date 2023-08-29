@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0641\u064a\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0641\u064a\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Uvira"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0627\u06cc\u0631\u0627"
     ],
@@ -119,6 +125,9 @@
     "name:sin_x_preferred":[
         "\u0d8b\u0dc0\u0dd2\u0dbb\u0dcf"
     ],
+    "name:slk_x_preferred":[
+        "Uvira"
+    ],
     "name:sna_x_preferred":[
         "Uvira"
     ],
@@ -160,6 +169,9 @@
     ],
     "name:zho_x_preferred":[
         "\u70cf\u7dad\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Uvira"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -301,7 +313,7 @@
         }
     ],
     "wof:id":421179945,
-    "wof:lastmodified":1636501450,
+    "wof:lastmodified":1690865827,
     "wof:name":"Uvira",
     "wof:parent_id":85670003,
     "wof:placetype":"locality",

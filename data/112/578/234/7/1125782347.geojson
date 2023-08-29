@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0645\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Kinshasa-Gombe"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0648\u0645\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u043c\u0430"
     ],
@@ -70,6 +76,9 @@
     "name:est_x_preferred":[
         "Goma"
     ],
+    "name:eus_x_preferred":[
+        "Goma"
+    ],
     "name:fas_x_preferred":[
         "\u06af\u0648\u0645\u0627"
     ],
@@ -85,6 +94,9 @@
     "name:hau_x_preferred":[
         "Goma"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05de\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0917\u094b\u092e\u093e"
     ],
@@ -93,6 +105,9 @@
     ],
     "name:hun_x_preferred":[
         "Goma"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0574\u0561"
     ],
     "name:ind_x_preferred":[
         "Goma"
@@ -108,6 +123,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10dd\u10db\u10d0"
+    ],
+    "name:kin_x_preferred":[
+        "Goma"
     ],
     "name:kon_x_preferred":[
         "Goma"
@@ -126,6 +144,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0917\u094b\u092e\u093e"
+    ],
+    "name:mri_x_preferred":[
+        "Goma"
     ],
     "name:msa_x_preferred":[
         "Goma"
@@ -172,6 +193,9 @@
     "name:swe_x_preferred":[
         "Goma"
     ],
+    "name:szl_x_preferred":[
+        "Goma"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0bae\u0bbe"
     ],
@@ -207,6 +231,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6208\u9a6c"
+    ],
+    "name:zul_x_preferred":[
+        "Goma"
     ],
     "qs_pg:aaroncc":"CD",
     "qs_pg:gn_country":"CD",
@@ -247,7 +274,7 @@
         }
     ],
     "wof:id":1125782347,
-    "wof:lastmodified":1566636379,
+    "wof:lastmodified":1690865833,
     "wof:name":"Goma",
     "wof:parent_id":1091679837,
     "wof:placetype":"locality",

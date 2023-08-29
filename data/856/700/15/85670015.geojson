@@ -158,6 +158,9 @@
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043d\u0433\u0430"
     ],
+    "name:mlg_x_preferred":[
+        "Katanga"
+    ],
     "name:msa_x_preferred":[
         "Katanga Province"
     ],
@@ -176,6 +179,9 @@
     "name:por_x_preferred":[
         "Katanga"
     ],
+    "name:por_x_variant":[
+        "Catanga"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0442\u0430\u043d\u0433\u0430"
     ],
@@ -187,6 +193,9 @@
     ],
     "name:slk_x_preferred":[
         "Katanga"
+    ],
+    "name:slv_x_preferred":[
+        "Pokrajina Katanga"
     ],
     "name:spa_x_preferred":[
         "Katanga"
@@ -229,6 +238,15 @@
     ],
     "name:vie_x_preferred":[
         "Katanga"
+    ],
+    "name:war_x_preferred":[
+        "Katanga"
+    ],
+    "name:wuu_x_preferred":[
+        "\u52a0\u4e39\u52a0\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5361\u5766\u52a0\u7701"
     ],
     "name:zho_x_preferred":[
         "\u52a0\u4e39\u52a0\u7701"
@@ -341,7 +359,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1636501378,
+    "wof:lastmodified":1690865796,
     "wof:name":"Katanga",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

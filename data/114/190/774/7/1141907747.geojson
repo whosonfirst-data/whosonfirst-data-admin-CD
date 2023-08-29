@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0645\u0628\u064a\u0632\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0645\u0628\u064a\u0632\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Kimpese"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09ae\u09cd\u09aa\u09c7\u09b8\u09c7"
     ],
@@ -72,6 +78,9 @@
     "name:nld_x_preferred":[
         "Kimpese"
     ],
+    "name:pol_x_preferred":[
+        "Kimpese"
+    ],
     "name:por_x_preferred":[
         "Kimpese"
     ],
@@ -104,6 +113,9 @@
     ],
     "name:zho_x_preferred":[
         "\u91d1\u4f69\u585e"
+    ],
+    "name:zul_x_preferred":[
+        "Kimpese"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -224,7 +236,7 @@
         }
     ],
     "wof:id":1141907747,
-    "wof:lastmodified":1636501492,
+    "wof:lastmodified":1690865842,
     "wof:name":"Kimpese",
     "wof:parent_id":1091679331,
     "wof:placetype":"locality",

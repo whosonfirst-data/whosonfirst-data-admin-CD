@@ -44,6 +44,9 @@
     "name:fas_x_preferred":[
         "\u0644\u0648\u0626\u0628\u0648"
     ],
+    "name:fin_x_preferred":[
+        "Luebo"
+    ],
     "name:fra_x_preferred":[
         "Lwebo"
     ],
@@ -98,6 +101,9 @@
     "name:swa_x_preferred":[
         "Luebo"
     ],
+    "name:swe_x_preferred":[
+        "Luebo"
+    ],
     "name:tur_x_preferred":[
         "Luebo"
     ],
@@ -118,6 +124,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u8036\u6ce2"
+    ],
+    "name:zul_x_preferred":[
+        "Luebo"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -256,7 +265,7 @@
         }
     ],
     "wof:id":421205143,
-    "wof:lastmodified":1636501447,
+    "wof:lastmodified":1690865821,
     "wof:name":"Luebo",
     "wof:parent_id":85669989,
     "wof:placetype":"locality",

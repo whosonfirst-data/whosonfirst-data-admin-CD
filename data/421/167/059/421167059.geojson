@@ -20,11 +20,20 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0633\u0627\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u0633\u0627\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Lisala"
+    ],
     "name:bar_x_preferred":[
         "Lisala"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09b8\u09be\u09b2\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u0437\u0430\u043b\u0430"
     ],
     "name:cat_x_preferred":[
         "Lisala"
@@ -176,6 +185,9 @@
     "name:zho_x_preferred":[
         "\u5229\u85a9\u62c9"
     ],
+    "name:zul_x_preferred":[
+        "Lisala"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -316,7 +328,7 @@
         }
     ],
     "wof:id":421167059,
-    "wof:lastmodified":1636501446,
+    "wof:lastmodified":1690865821,
     "wof:name":"Lisala",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

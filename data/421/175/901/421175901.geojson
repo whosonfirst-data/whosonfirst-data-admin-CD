@@ -95,6 +95,12 @@
     "name:vie_x_preferred":[
         "Kasongo-Lunda"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u677e\u6208-\u9686\u8fbe"
+    ],
+    "name:zul_x_preferred":[
+        "Kasongo Lunda"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -233,7 +239,7 @@
         }
     ],
     "wof:id":421175901,
-    "wof:lastmodified":1636501447,
+    "wof:lastmodified":1690865823,
     "wof:name":"Kasongo-Lunda",
     "wof:parent_id":85669985,
     "wof:placetype":"locality",

@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0644\u0648\u0644\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0644\u0648\u0644\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Dilolo"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09c0\u09b2\u09cb\u09b2\u09cb"
     ],
@@ -141,6 +147,9 @@
     "name:zho_x_preferred":[
         "\u8fea\u6d1b\u6d1b"
     ],
+    "name:zul_x_preferred":[
+        "Dilolo"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
     "ne:ADM0_A3":"COD",
@@ -260,7 +269,7 @@
         }
     ],
     "wof:id":1141907757,
-    "wof:lastmodified":1636501491,
+    "wof:lastmodified":1690865841,
     "wof:name":"Dilolo",
     "wof:parent_id":1091680239,
     "wof:placetype":"locality",

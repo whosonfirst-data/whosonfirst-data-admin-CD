@@ -83,6 +83,9 @@
     "name:est_x_variant":[
         "P\u00f5hja-Kivu"
     ],
+    "name:eus_x_preferred":[
+        "Ipar Kivu"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0648\u0648 \u0634\u0645\u0627\u0644\u06cc"
     ],
@@ -100,6 +103,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d5\u05e8\u05d3-\u05e7\u05d9\u05d1\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d9\u05d5\u05d5 \u05e6\u05e4\u05d5\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0915\u0940\u0935\u0942 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
@@ -185,8 +191,14 @@
     "name:swe_x_preferred":[
         "Norra Kivu-provinsen"
     ],
+    "name:swe_x_variant":[
+        "Norra Kivu"
+    ],
     "name:tam_x_preferred":[
         "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0b95\u0bbf\u0bb5\u0bc1"
+    ],
+    "name:tam_x_variant":[
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1 \u0b95\u0bbf\u0bb5\u0bc1"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c15\u0c3f\u0c35\u0c41"
@@ -220,6 +232,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5317\u57fa\u4f0d\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "North Kivu"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COD",
@@ -330,7 +345,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1636501378,
+    "wof:lastmodified":1690865795,
     "wof:name":"Nord-Kivu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

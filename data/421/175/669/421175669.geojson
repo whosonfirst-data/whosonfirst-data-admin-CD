@@ -65,6 +65,9 @@
     "name:nld_x_preferred":[
         "Businga"
     ],
+    "name:pol_x_preferred":[
+        "Businga"
+    ],
     "name:por_x_preferred":[
         "Businga"
     ],
@@ -94,6 +97,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u8f9b\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "Businga"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -233,7 +239,7 @@
         }
     ],
     "wof:id":421175669,
-    "wof:lastmodified":1636501448,
+    "wof:lastmodified":1690865824,
     "wof:name":"Businga",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",

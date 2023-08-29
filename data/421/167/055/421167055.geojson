@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u064a\u0643\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Mweka"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09ae\u0993\u09df\u09c7\u0995\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Mweka"
     ],
     "name:ceb_x_preferred":[
         "Mweka"
@@ -112,6 +118,9 @@
     ],
     "name:zho_x_preferred":[
         "\u59c6\u97cb\u5361"
+    ],
+    "name:zul_x_preferred":[
+        "Mweka"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -250,7 +259,7 @@
         }
     ],
     "wof:id":421167055,
-    "wof:lastmodified":1636501446,
+    "wof:lastmodified":1690865820,
     "wof:name":"Mweka",
     "wof:parent_id":85669989,
     "wof:placetype":"locality",

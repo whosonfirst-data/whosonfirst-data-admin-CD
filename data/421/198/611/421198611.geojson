@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0646\u062f\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u064a\u0646\u062f\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Boende"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09af\u09bc\u09c7\u09a8\u09cd\u09a1\u09c7"
     ],
@@ -157,6 +163,9 @@
     ],
     "name:zho_x_preferred":[
         "\u535a\u6069\u4ee3"
+    ],
+    "name:zul_x_preferred":[
+        "Boende"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Kinshasa)",
@@ -296,7 +305,7 @@
         }
     ],
     "wof:id":421198611,
-    "wof:lastmodified":1636501448,
+    "wof:lastmodified":1690865825,
     "wof:name":"Boende",
     "wof:parent_id":85669975,
     "wof:placetype":"locality",
