@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":40.013571,
-    "geom:area_square_m":488742962497.581116,
+    "geom:area_square_m":488742967464.590271,
     "geom:bbox":"21.751054,-13.458351,30.752107,-4.999953",
     "geom:latitude":-8.758293,
     "geom:longitude":26.387474,
@@ -13,6 +13,9 @@
     "iso:country":"CD",
     "label:eng_x_preferred_longname":[
         "Katanga Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "KT"
@@ -340,7 +343,7 @@
         "wd:id":"Q217242"
     },
     "wof:country":"CD",
-    "wof:geomhash":"76243d3bdedd47cc19d5b93cf1466e48",
+    "wof:geomhash":"7019f0bdb2a792978e0150fe0a3e829f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -359,7 +362,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1690865796,
+    "wof:lastmodified":1694493259,
     "wof:name":"Katanga",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

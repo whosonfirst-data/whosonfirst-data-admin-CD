@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.419234,
-    "geom:area_square_m":79091741951.055557,
+    "geom:area_square_m":79091746154.930359,
     "geom:bbox":"16.477741,-6.391375,20.2038,-3.29364",
     "geom:latitude":-4.788963,
     "geom:longitude":18.660341,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Kwilu Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-4.313051,
     "lbl:longitude":18.533398,
     "lbl:max_zoom":10.0,
@@ -169,7 +175,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878855,
-    "wof:geomhash":"5586a3077dc802438fbb5ae9736ad4d7",
+    "wof:geomhash":"a86f44b1fd90eb2504be8087b44c104f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1091679385,
-    "wof:lastmodified":1690865812,
+    "wof:lastmodified":1694498106,
     "wof:name":"Kwilu",
     "wof:parent_id":85669985,
     "wof:placetype":"county",

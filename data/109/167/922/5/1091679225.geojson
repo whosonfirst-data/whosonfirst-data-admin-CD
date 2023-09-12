@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044873,
-    "geom:area_square_m":553167403.563962,
+    "geom:area_square_m":553167599.153422,
     "geom:bbox":"15.128455,-4.63777,15.40771,-4.296961",
     "geom:latitude":-4.477885,
     "geom:longitude":15.275003,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Lukunga Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-4.504578,
     "lbl:longitude":15.288764,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Lukunga"
+    ],
     "name:eng_x_variant":[
         "Kinshasa"
     ],
@@ -46,7 +55,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878838,
-    "wof:geomhash":"7bbd3ace097b186ed1739bb12d1abbb8",
+    "wof:geomhash":"7837152fd5db1845aa40f62a5c054df5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1091679225,
-    "wof:lastmodified":1628266679,
+    "wof:lastmodified":1694498073,
     "wof:name":"Lukunga",
     "wof:parent_id":85669997,
     "wof:placetype":"county",

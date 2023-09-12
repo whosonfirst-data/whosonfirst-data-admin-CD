@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.172248,
-    "geom:area_square_m":51512772917.560303,
+    "geom:area_square_m":51512767786.515762,
     "geom:bbox":"18.065,1.902331,20.916303,4.776902",
     "geom:latitude":3.074049,
     "geom:longitude":19.364428,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Sud-Ubangi Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":3.062135,
     "lbl:longitude":19.385606,
     "lbl:max_zoom":10.0,
@@ -136,7 +142,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878868,
-    "wof:geomhash":"6f9633b36f1416b8eb36081cd3332cab",
+    "wof:geomhash":"b53d2f3799b2e7310908c8a0ef598417",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":1091679559,
-    "wof:lastmodified":1690865813,
+    "wof:lastmodified":1694497837,
     "wof:name":"Sud-Ubangi",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02946,
-    "geom:area_square_m":363674140.328754,
+    "geom:area_square_m":363673746.214255,
     "geom:bbox":"17.33865,-3.439808,17.562925,-3.19173",
     "geom:latitude":-3.316336,
     "geom:longitude":17.445192,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Bandundu Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-3.314379,
     "lbl:longitude":17.443499,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Bandundu"
     ],
     "name:deu_x_preferred":[
+        "Bandundu"
+    ],
+    "name:eng_x_preferred":[
         "Bandundu"
     ],
     "name:eng_x_variant":[
@@ -68,7 +77,7 @@
     "wof:concordances":{},
     "wof:country":"CD",
     "wof:created":1473878852,
-    "wof:geomhash":"4390a9457e9a4a288b6721cf430217ed",
+    "wof:geomhash":"c0d4b136228cd965b99cc6614436087f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":1091679353,
-    "wof:lastmodified":1636501438,
+    "wof:lastmodified":1694498107,
     "wof:name":"Bandundu",
     "wof:parent_id":85669985,
     "wof:placetype":"county",

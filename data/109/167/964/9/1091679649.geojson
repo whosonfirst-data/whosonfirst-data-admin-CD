@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.80118,
-    "geom:area_square_m":133530370393.223785,
+    "geom:area_square_m":133530372378.282364,
     "geom:bbox":"19.433271,-2.532387,24.444044,1.762617",
     "geom:latitude":-0.667562,
     "geom:longitude":21.756403,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Tshuapa Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-0.677438,
     "lbl:longitude":21.718086,
     "lbl:max_zoom":10.0,
@@ -154,7 +160,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878874,
-    "wof:geomhash":"f622accca46a6d62f951ffe5640bacac",
+    "wof:geomhash":"a54a5df2dcb4facf343e4e299470e578",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -164,7 +170,7 @@
         }
     ],
     "wof:id":1091679649,
-    "wof:lastmodified":1690865813,
+    "wof:lastmodified":1694498106,
     "wof:name":"Tshuapa",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

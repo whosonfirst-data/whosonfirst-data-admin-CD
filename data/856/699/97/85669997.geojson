@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.901465,
-    "geom:area_square_m":11113176480.353344,
+    "geom:area_square_m":11113177132.720823,
     "geom:bbox":"15.150678,-5.031992,16.548065,-3.940523",
     "geom:latitude":-4.443068,
     "geom:longitude":15.921079,
     "gn:population":164857,
     "iso:country":"CD",
     "label:eng_x_preferred_longname":[
-        "Kinshasa City"
+        "Kinshasa City Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "KN"
@@ -160,7 +163,7 @@
         "wk:page":"Kinshasa (commune)"
     },
     "wof:country":"CD",
-    "wof:geomhash":"7cb6ea64b59bcec1326efe0d31108e02",
+    "wof:geomhash":"f579d950728252ee052bf1fbb99f9b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -179,7 +182,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1690865797,
+    "wof:lastmodified":1694493129,
     "wof:name":"Kinshasa City",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

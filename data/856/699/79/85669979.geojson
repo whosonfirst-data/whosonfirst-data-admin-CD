@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":40.701839,
-    "geom:area_square_m":502734587165.396729,
+    "geom:area_square_m":502734595269.605774,
     "geom:bbox":"22.289937,-2.110879,31.280447,5.37528",
     "geom:latitude":2.091414,
     "geom:longitude":26.355681,
     "gn:population":6828888,
     "iso:country":"CD",
     "label:eng_x_preferred_longname":[
-        "Orientale Province"
+        "Eastern Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "HC"
@@ -57,7 +60,7 @@
         "\u039f\u03c1\u03b9\u03b5\u03bd\u03c4\u03ac\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
-        "Eastern Province"
+        "Eastern"
     ],
     "name:eng_x_variant":[
         "Orientale Province",
@@ -293,7 +296,7 @@
         "wk:page":"Orientale Province"
     },
     "wof:country":"CD",
-    "wof:geomhash":"b6baf32c63f28f18b22568dde21dc382",
+    "wof:geomhash":"62104184264be324b502833c9c06734d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -312,7 +315,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1690865797,
+    "wof:lastmodified":1694493259,
     "wof:name":"Orientale",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

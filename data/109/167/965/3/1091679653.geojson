@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102041,
-    "geom:area_square_m":1258226253.354456,
+    "geom:area_square_m":1258226494.95556,
     "geom:bbox":"20.624,4.062417,21.087,4.446",
     "geom:latitude":4.282872,
     "geom:longitude":20.876549,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Nord-Ubangi Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":4.290236,
     "lbl:longitude":20.880036,
     "lbl:max_zoom":10.0,
@@ -164,7 +170,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878876,
-    "wof:geomhash":"31063f4e86391c2d7965674b4c151fad",
+    "wof:geomhash":"81bf434352afff26fd418a31deea4374",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":1091679653,
-    "wof:lastmodified":1690865812,
+    "wof:lastmodified":1694498106,
     "wof:name":"Gbadolite",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

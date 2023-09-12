@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.874458,
-    "geom:area_square_m":97260752764.190826,
+    "geom:area_square_m":97260752764.191193,
     "geom:bbox":"16.6370241599,-4.39898003313,21.0232720804,-0.736009001121",
     "geom:latitude":-2.592907,
     "geom:longitude":19.086408,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Mai-Ndombe Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-2.658745,
     "lbl:longitude":19.053812,
     "lbl:max_zoom":10.0,
@@ -60,7 +66,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878853,
-    "wof:geomhash":"36d1a7926ee822a8408368379a384556",
+    "wof:geomhash":"ce5100a77c9889c2f85f7343bf3fd2f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1091679355,
-    "wof:lastmodified":1566636216,
+    "wof:lastmodified":1694497838,
     "wof:name":"Mai-Ndombe",
     "wof:parent_id":85669985,
     "wof:placetype":"county",

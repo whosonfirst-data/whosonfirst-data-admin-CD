@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.372051,
-    "geom:area_square_m":128031538120.937759,
+    "geom:area_square_m":128031538120.948227,
     "geom:bbox":"24.59839,-5.019725,28.803515,-0.0138",
     "geom:latitude":-3.085339,
     "geom:longitude":26.423878,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Maniema Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-4.024511,
     "lbl:longitude":26.107414,
     "lbl:max_zoom":10.0,
@@ -40,6 +46,9 @@
         "\u041c\u0430\u043d\u0438\u0435\u043c\u0430"
     ],
     "name:deu_x_preferred":[
+        "Maniema"
+    ],
+    "name:eng_x_preferred":[
         "Maniema"
     ],
     "name:eng_x_variant":[
@@ -152,7 +161,7 @@
     ],
     "wof:country":"CD",
     "wof:created":1473878896,
-    "wof:geomhash":"d9e76abe50f2493e6b9c2cadaa22b6d7",
+    "wof:geomhash":"3b7cfb2970ca30c1383c941d673871e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -162,7 +171,7 @@
         }
     ],
     "wof:id":1091680093,
-    "wof:lastmodified":1607982033,
+    "wof:lastmodified":1694497935,
     "wof:name":"Maniema",
     "wof:parent_id":85670007,
     "wof:placetype":"county",

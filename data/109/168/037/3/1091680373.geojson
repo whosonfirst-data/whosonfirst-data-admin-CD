@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.822026,
-    "geom:area_square_m":10105886983.348259,
+    "geom:area_square_m":10105886974.546431,
     "geom:bbox":"22.948618,-6.771739,24.174755,-5.627717",
     "geom:latitude":-6.151192,
     "geom:longitude":23.517575,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Tshilenge Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-5.998019,
     "lbl:longitude":23.253905,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tshilenge"
+    ],
     "name:eng_x_variant":[
         "Tshilenge"
     ],
@@ -52,7 +61,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878911,
-    "wof:geomhash":"a0ee2f33c72385417d3a26c8e59e9b45",
+    "wof:geomhash":"8b1fc21a09c6de6d2da13f23c0faa1ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1091680373,
-    "wof:lastmodified":1628266733,
+    "wof:lastmodified":1694498076,
     "wof:name":"Tshilenge",
     "wof:parent_id":85670011,
     "wof:placetype":"county",

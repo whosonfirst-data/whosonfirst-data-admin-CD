@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011231,
-    "geom:area_square_m":138082751.588445,
+    "geom:area_square_m":138082751.588451,
     "geom:bbox":"23.530778,-6.17251,23.68386,-6.050338",
     "geom:latitude":-6.116437,
     "geom:longitude":23.595878,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Mbuji-Mayi Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-6.117906,
     "lbl:longitude":23.595908,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
         "Mbuji-Mayi"
     ],
     "name:deu_x_preferred":[
+        "Mbuji-Mayi"
+    ],
+    "name:eng_x_preferred":[
         "Mbuji-Mayi"
     ],
     "name:eng_x_variant":[
@@ -179,7 +188,7 @@
     ],
     "wof:country":"CD",
     "wof:created":1473878909,
-    "wof:geomhash":"f1fe2b5274c85055b9a6ba04c8b5b0d5",
+    "wof:geomhash":"64c00f0d56e2d31a9f7b590033587599",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -189,7 +198,7 @@
         }
     ],
     "wof:id":1091680367,
-    "wof:lastmodified":1608696100,
+    "wof:lastmodified":1694497946,
     "wof:name":"Mbuji-Mayi",
     "wof:parent_id":85670011,
     "wof:placetype":"county",

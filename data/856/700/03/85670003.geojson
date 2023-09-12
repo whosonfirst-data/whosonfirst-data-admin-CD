@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.162339,
-    "geom:area_square_m":63726802498.73288,
+    "geom:area_square_m":63726811178.917725,
     "geom:bbox":"26.821237,-4.999953,29.410897,-1.666668",
     "geom:latitude":-3.21684,
     "geom:longitude":28.245863,
     "gn:population":3909135,
     "iso:country":"CD",
     "label:eng_x_preferred_longname":[
-        "Sud-Kivu Province"
+        "South Kivu Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "KV"
@@ -308,7 +311,7 @@
         "wk:page":"South Kivu"
     },
     "wof:country":"CD",
-    "wof:geomhash":"3d2f085fa6dd60345444937dfd6a45be",
+    "wof:geomhash":"de7ff8aa26338900dc3ef83103bdcf57",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -327,7 +330,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1690865795,
+    "wof:lastmodified":1694493259,
     "wof:name":"Sud-Kivu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.810696,
-    "geom:area_square_m":108728895400.119858,
+    "geom:area_square_m":108728898923.35553,
     "geom:bbox":"21.830956,-5.849517,25.112399,-1.697475",
     "geom:latitude":-3.482299,
     "geom:longitude":23.604989,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Sankuru Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-3.387096,
     "lbl:longitude":23.574004,
     "lbl:max_zoom":10.0,
@@ -155,7 +161,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878913,
-    "wof:geomhash":"c81e7f3154d563d583cea24025d9807f",
+    "wof:geomhash":"65e31a0a6b066db42588ddd795beba49",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":1091680399,
-    "wof:lastmodified":1690865810,
+    "wof:lastmodified":1694498106,
     "wof:name":"Sankuru",
     "wof:parent_id":85670011,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.494111,
-    "geom:area_square_m":153762957068.85614,
+    "geom:area_square_m":153762959764.881622,
     "geom:bbox":"19.689837,-7.90143,23.739047,-2.338978",
     "geom:latitude":-5.412631,
     "geom:longitude":21.622069,
@@ -13,6 +13,9 @@
     "iso:country":"CD",
     "label:eng_x_preferred_longname":[
         "Kasa\u00ef-Occidental Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "KC"
@@ -60,7 +63,7 @@
         "\u039a\u03b1\u03c3\u03ac\u03b9-\u039f\u03be\u03b9\u03bd\u03c4\u03ad\u03bd\u03c4\u03b1\u03bb"
     ],
     "name:eng_x_preferred":[
-        "Kasa\u00ef-Occidental Province"
+        "Kasa\u00ef-Occidental"
     ],
     "name:eng_x_variant":[
         "Kasa\u00ef-Occidental"
@@ -276,7 +279,7 @@
         "wk:page":"Kasai-Occidental"
     },
     "wof:country":"CD",
-    "wof:geomhash":"54eae38f18947c520731f38076fcdc00",
+    "wof:geomhash":"751c618202f4312c690b4977eda72f8a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -295,7 +298,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1690865797,
+    "wof:lastmodified":1694493129,
     "wof:name":"Kasa\u00ef-Occidental",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

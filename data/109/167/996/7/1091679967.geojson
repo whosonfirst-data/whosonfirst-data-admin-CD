@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004706,
-    "geom:area_square_m":58130271.673375,
+    "geom:area_square_m":58130271.673371,
     "geom:bbox":"28.7917340401,-2.56116864101,28.8928972319,-2.46854181517",
     "geom:latitude":-2.512223,
     "geom:longitude":28.837461,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Bukavu Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-2.506312,
     "lbl:longitude":28.829809,
     "lbl:max_zoom":10.0,
@@ -55,6 +61,9 @@
         "Bukavu"
     ],
     "name:deu_x_preferred":[
+        "Bukavu"
+    ],
+    "name:eng_x_preferred":[
         "Bukavu"
     ],
     "name:eng_x_variant":[
@@ -179,7 +188,7 @@
     "wof:concordances":{},
     "wof:country":"CD",
     "wof:created":1473878891,
-    "wof:geomhash":"be097da8fcdefe3c07b0419df4b24312",
+    "wof:geomhash":"9021eba77d4419f25983fdb8e5dbdb0b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -189,7 +198,7 @@
         }
     ],
     "wof:id":1091679967,
-    "wof:lastmodified":1566636213,
+    "wof:lastmodified":1694497837,
     "wof:name":"Bukavu",
     "wof:parent_id":85670003,
     "wof:placetype":"county",

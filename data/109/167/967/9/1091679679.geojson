@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.112079,
-    "geom:area_square_m":199188058709.52301,
+    "geom:area_square_m":199188063125.376495,
     "geom:bbox":"22.247273,-2.111984,28.154467,2.396249",
     "geom:latitude":0.480696,
     "geom:longitude":25.207169,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Tshopo Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":1.038753,
     "lbl:longitude":23.93341,
     "lbl:max_zoom":10.0,
@@ -149,7 +155,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878879,
-    "wof:geomhash":"f6ae7fe6de59fde533ed4ef76cec8202",
+    "wof:geomhash":"0799d46dd81fba98f793420ca92979e8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":1091679679,
-    "wof:lastmodified":1690865814,
+    "wof:lastmodified":1694497838,
     "wof:name":"Tshopo",
     "wof:parent_id":85669979,
     "wof:placetype":"county",

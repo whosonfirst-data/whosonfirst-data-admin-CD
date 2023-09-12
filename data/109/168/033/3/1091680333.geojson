@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.011601,
-    "geom:area_square_m":121694326035.413818,
+    "geom:area_square_m":121694327808.267349,
     "geom:bbox":"25.484,-13.455999,29.810988,-7.622685",
     "geom:latitude":-10.471073,
     "geom:longitude":27.825966,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Haut-Katanga Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-10.146119,
     "lbl:longitude":27.854345,
     "lbl:max_zoom":10.0,
@@ -161,7 +167,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878907,
-    "wof:geomhash":"7e7db26165fe20072040a1bf90e9b45e",
+    "wof:geomhash":"7a0e6736f80246acad5cc81fb51e14f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":1091680333,
-    "wof:lastmodified":1690865811,
+    "wof:lastmodified":1694497837,
     "wof:name":"Haut-Katanga",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

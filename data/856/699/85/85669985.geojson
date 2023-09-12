@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":24.115367,
-    "geom:area_square_m":297169435957.252014,
+    "geom:area_square_m":297169440406.624146,
     "geom:bbox":"15.888019,-8.111235,21.007121,-0.743107",
     "geom:latitude":-4.400431,
     "geom:longitude":18.361398,
@@ -13,6 +13,9 @@
     "iso:country":"CD",
     "label:eng_x_preferred_longname":[
         "Bandundu Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "BN"
@@ -57,7 +60,7 @@
         "\u039c\u03c0\u03b1\u03bd\u03c4\u03bf\u03cd\u03bd\u03c4\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
-        "Bandundu Province"
+        "Bandundu"
     ],
     "name:eng_x_variant":[
         "Bandundu"
@@ -286,7 +289,7 @@
         "wk:page":"Bandundu Province"
     },
     "wof:country":"CD",
-    "wof:geomhash":"7ebd62bcbd3fae7a3b5889a4a56abc36",
+    "wof:geomhash":"18db0624d312016ea2d648bcae08bbc4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -305,7 +308,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1690865798,
+    "wof:lastmodified":1694493260,
     "wof:name":"Bandundu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

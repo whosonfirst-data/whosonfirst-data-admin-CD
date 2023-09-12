@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00522,
-    "geom:area_square_m":64358008.186339,
+    "geom:area_square_m":64358124.351081,
     "geom:bbox":"15.301732,-4.440332,15.377324,-4.322249",
     "geom:latitude":-4.382317,
     "geom:longitude":15.340377,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Mont Amba Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-4.385621,
     "lbl:longitude":15.339809,
     "lbl:max_zoom":10.0,
@@ -27,6 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Mont Amba"
+    ],
     "name:eng_x_variant":[
         "Kinshasa"
     ],
@@ -46,7 +55,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878841,
-    "wof:geomhash":"9b6aeabbd36c5993ea6dea6a4fa2b6f9",
+    "wof:geomhash":"899c94616d66e6b96cc98892324763fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1091679251,
-    "wof:lastmodified":1628266687,
+    "wof:lastmodified":1694498074,
     "wof:name":"Mont Amba",
     "wof:parent_id":85669997,
     "wof:placetype":"county",
