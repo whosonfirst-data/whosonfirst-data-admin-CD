@@ -1397,7 +1397,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"243",
     "statoids:ds":"ZRE",
     "statoids:fifa":"COD",
@@ -1471,7 +1471,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694492080,
+    "wof:lastmodified":1694639533,
     "wof:name":"Democratic Republic of the Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

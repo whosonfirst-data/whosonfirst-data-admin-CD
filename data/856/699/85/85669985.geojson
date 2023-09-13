@@ -62,9 +62,6 @@
     "name:eng_x_preferred":[
         "Bandundu"
     ],
-    "name:eng_x_variant":[
-        "Bandundu"
-    ],
     "name:epo_x_preferred":[
         "Provinco Bandundu"
     ],
@@ -308,7 +305,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694493260,
+    "wof:lastmodified":1694639832,
     "wof:name":"Bandundu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

@@ -20,6 +20,9 @@
     "label:eng_x_preferred_shortcode":[
         "KR"
     ],
+    "label:eng_x_variant_longname":[
+        "Kasa\u00ef-Oriental Province"
+    ],
     "lbl:latitude":-3.355948,
     "lbl:longitude":23.548798,
     "lbl:min_zoom":8.0,
@@ -291,7 +294,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694493173,
+    "wof:lastmodified":1694639832,
     "wof:name":"Kasa\u00ef-Oriental",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

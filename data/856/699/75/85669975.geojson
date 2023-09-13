@@ -20,6 +20,9 @@
     "label:eng_x_preferred_shortcode":[
         "EQ"
     ],
+    "label:eng_x_variant_longname":[
+        "\u00c9quateur Province"
+    ],
     "lbl:latitude":1.069646,
     "lbl:longitude":20.217009,
     "lbl:min_zoom":8.0,
@@ -278,7 +281,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694493173,
+    "wof:lastmodified":1694639832,
     "wof:name":"\u00c9quateur",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

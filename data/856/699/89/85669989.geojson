@@ -65,9 +65,6 @@
     "name:eng_x_preferred":[
         "Kasa\u00ef-Occidental"
     ],
-    "name:eng_x_variant":[
-        "Kasa\u00ef-Occidental"
-    ],
     "name:epo_x_preferred":[
         "Provinco Kasa\u00ef-Occidental"
     ],
@@ -298,7 +295,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694493129,
+    "wof:lastmodified":1694639831,
     "wof:name":"Kasa\u00ef-Occidental",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

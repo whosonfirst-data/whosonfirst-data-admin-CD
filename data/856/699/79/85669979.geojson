@@ -20,6 +20,9 @@
     "label:eng_x_preferred_shortcode":[
         "HC"
     ],
+    "label:eng_x_variant_longname":[
+        "Orientale Province"
+    ],
     "lbl:latitude":2.49465,
     "lbl:longitude":26.270935,
     "lbl:min_zoom":8.0,
@@ -315,7 +318,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694493259,
+    "wof:lastmodified":1694639832,
     "wof:name":"Orientale",
     "wof:parent_id":85632643,
     "wof:placetype":"region",
