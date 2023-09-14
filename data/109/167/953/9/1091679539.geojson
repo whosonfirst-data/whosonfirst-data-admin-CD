@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.234907,
-    "geom:area_square_m":101810211116.155945,
+    "geom:area_square_m":101810206632.80954,
     "geom:bbox":"16.504,-2.001266,20.714799,2.126356",
     "geom:latitude":0.231318,
     "geom:longitude":18.918523,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "\u00c9quateur Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":0.482946,
     "lbl:longitude":19.120948,
     "lbl:max_zoom":10.0,
@@ -211,7 +217,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878863,
-    "wof:geomhash":"6a9591d098d287d7a2b990e2ad73f1f7",
+    "wof:geomhash":"b6ffc18c88bbedd88db7d8b84fc10698",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -221,7 +227,7 @@
         }
     ],
     "wof:id":1091679539,
-    "wof:lastmodified":1690865812,
+    "wof:lastmodified":1694497837,
     "wof:name":"Equateur",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029292,
-    "geom:area_square_m":362186716.455748,
+    "geom:area_square_m":362185723.731218,
     "geom:bbox":"29.354173,0.376409,29.552191,0.585495",
     "geom:latitude":0.474896,
     "geom:longitude":29.455469,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Beni Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":0.470215,
     "lbl:longitude":29.453583,
     "lbl:max_zoom":10.0,
@@ -41,6 +47,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03ad\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Beni"
     ],
     "name:eng_x_variant":[
         "Beni",
@@ -131,7 +140,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878888,
-    "wof:geomhash":"52aea30f91ba5e52df08566c29ec8514",
+    "wof:geomhash":"c71f8da2ed24f3fa9952df268e6bba03",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +150,7 @@
         }
     ],
     "wof:id":1091679907,
-    "wof:lastmodified":1636501437,
+    "wof:lastmodified":1694498107,
     "wof:name":"Beni",
     "wof:parent_id":85670021,
     "wof:placetype":"county",

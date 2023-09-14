@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016891,
-    "geom:area_square_m":208863572.837833,
+    "geom:area_square_m":208863441.08914,
     "geom:bbox":"29.188938,0.060648,29.365308,0.214711",
     "geom:latitude":0.139275,
     "geom:longitude":29.285439,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Butembo Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":0.145953,
     "lbl:longitude":29.301396,
     "lbl:max_zoom":10.0,
@@ -34,6 +40,9 @@
         "Butembo"
     ],
     "name:deu_x_preferred":[
+        "Butembo"
+    ],
+    "name:eng_x_preferred":[
         "Butembo"
     ],
     "name:eng_x_variant":[
@@ -111,7 +120,7 @@
     "wof:concordances":{},
     "wof:country":"CD",
     "wof:created":1473878889,
-    "wof:geomhash":"ada95038ce6759fd5afdc4d7625dfe97",
+    "wof:geomhash":"269a13b41e27f09003a3748626c249e2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":1091679941,
-    "wof:lastmodified":1636501438,
+    "wof:lastmodified":1694498107,
     "wof:name":"Butembo",
     "wof:parent_id":85670021,
     "wof:placetype":"county",

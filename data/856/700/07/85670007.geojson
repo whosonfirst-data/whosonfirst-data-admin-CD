@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.364374,
-    "geom:area_square_m":127936236780.815643,
+    "geom:area_square_m":127936236780.813843,
     "geom:bbox":"24.450684,-4.999953,28.824525,-0.090123",
     "geom:latitude":-3.096537,
     "geom:longitude":26.409727,
@@ -13,6 +13,9 @@
     "iso:country":"CD",
     "label:eng_x_preferred_longname":[
         "Maniema Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "MA"
@@ -299,6 +302,18 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
+    "statoids:areakm":132520,
+    "statoids:areami":51166,
+    "statoids:capital":"Kindu",
+    "statoids:country":"CD",
+    "statoids:date":"2005-12-01",
+    "statoids:gec":"CG10",
+    "statoids:hasc":"CD.MN",
+    "statoids:iso":"MA",
+    "statoids:name":"Maniema",
+    "statoids:population":1908770,
+    "statoids:timezone":"+2",
+    "statoids:type":"province",
     "unlc:subdivision":"CD-MA",
     "wd:wordcount":179,
     "wof:belongsto":[
@@ -310,7 +325,7 @@
         "fips:code":"",
         "gn:id":209610,
         "gp:id":20069831,
-        "hasc:id":"CD.",
+        "hasc:id":"CD.MN",
         "qs_pg:id":236536,
         "unlc:id":"CD-MA",
         "wd:id":"Q130566",
@@ -320,7 +335,7 @@
         1091680093
     ],
     "wof:country":"CD",
-    "wof:geomhash":"4e747ad3b5430f1eb6c860df5685c36f",
+    "wof:geomhash":"1cb783ed6643a314ec47062deda9f477",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -339,7 +354,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1690865796,
+    "wof:lastmodified":1694493163,
     "wof:name":"Maniema",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

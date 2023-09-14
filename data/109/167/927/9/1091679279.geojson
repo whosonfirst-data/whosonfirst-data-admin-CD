@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011354,
-    "geom:area_square_m":139677236.516531,
+    "geom:area_square_m":139677236.516533,
     "geom:bbox":"12.9847881957,-5.87864094122,13.1143690804,-5.75964388146",
     "geom:latitude":-5.813407,
     "geom:longitude":13.053489,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Boma Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-5.811469,
     "lbl:longitude":13.054725,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Boma"
     ],
     "name:deu_x_preferred":[
+        "Boma"
+    ],
+    "name:eng_x_preferred":[
         "Boma"
     ],
     "name:eng_x_variant":[
@@ -74,7 +83,7 @@
     "wof:concordances":{},
     "wof:country":"CD",
     "wof:created":1473878846,
-    "wof:geomhash":"66712337e908d32d13ae7ca76ae4f76d",
+    "wof:geomhash":"aee93a249813780dea2bdfeda115ba31",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":1091679279,
-    "wof:lastmodified":1566636218,
+    "wof:lastmodified":1694497838,
     "wof:name":"Boma",
     "wof:parent_id":85669993,
     "wof:placetype":"county",

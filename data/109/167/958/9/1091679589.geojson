@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062039,
-    "geom:area_square_m":765040696.140783,
+    "geom:area_square_m":765040564.599927,
     "geom:bbox":"18.546,3.968718,18.867956,4.386678",
     "geom:latitude":4.219689,
     "geom:longitude":18.698297,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Zongo Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":4.219433,
     "lbl:longitude":18.70074,
     "lbl:max_zoom":10.0,
@@ -41,6 +47,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0396\u03cc\u03bd\u03b3\u03ba\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Zongo"
     ],
     "name:eng_x_variant":[
         "Zongo",
@@ -102,7 +111,7 @@
     "wof:concordances":{},
     "wof:country":"CD",
     "wof:created":1473878870,
-    "wof:geomhash":"b23a16e36fb5a8f72f9b28b9cd4bda73",
+    "wof:geomhash":"4779d78da035972f77a2a07d134dd3b1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":1091679589,
-    "wof:lastmodified":1636501438,
+    "wof:lastmodified":1694498107,
     "wof:name":"Zongo",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

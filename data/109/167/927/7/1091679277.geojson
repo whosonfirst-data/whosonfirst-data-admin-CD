@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005236,
-    "geom:area_square_m":64411929.653952,
+    "geom:area_square_m":64411929.653948,
     "geom:bbox":"13.4261499603,-5.89567823642,13.5511509597,-5.78807988755",
     "geom:latitude":-5.845924,
     "geom:longitude":13.469166,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Matadi Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-5.848698,
     "lbl:longitude":13.458744,
     "lbl:max_zoom":10.0,
@@ -49,6 +55,9 @@
         "Matadi"
     ],
     "name:deu_x_preferred":[
+        "Matadi"
+    ],
+    "name:eng_x_preferred":[
         "Matadi"
     ],
     "name:eng_x_variant":[
@@ -178,7 +187,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878844,
-    "wof:geomhash":"ae412f4fa55285cd5baf008705304ad3",
+    "wof:geomhash":"72afc6405fb1d5d18db45d653dd46cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -188,7 +197,7 @@
         }
     ],
     "wof:id":1091679277,
-    "wof:lastmodified":1566636218,
+    "wof:lastmodified":1694497838,
     "wof:name":"Matadi",
     "wof:parent_id":85669993,
     "wof:placetype":"county",

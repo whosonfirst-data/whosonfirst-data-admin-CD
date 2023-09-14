@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.602495,
-    "geom:area_square_m":56567276240.622414,
+    "geom:area_square_m":56567276240.622101,
     "geom:bbox":"21.4004599197,-7.89598998835,23.7584023198,-4.19886107822",
     "geom:latitude":-6.23082,
     "geom:longitude":22.489633,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Lulua Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-6.697044,
     "lbl:longitude":22.373783,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
         "Lulua"
     ],
     "name:deu_x_preferred":[
+        "Lulua"
+    ],
+    "name:eng_x_preferred":[
         "Lulua"
     ],
     "name:eng_x_variant":[
@@ -59,7 +68,7 @@
     "wof:concordances":{},
     "wof:country":"CD",
     "wof:created":1473878919,
-    "wof:geomhash":"1b7ef74e64a66e53409d00e6d47c3e0d",
+    "wof:geomhash":"fe0552a8d1225ae0d4ca05e5c0c4f3fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1091680517,
-    "wof:lastmodified":1566636211,
+    "wof:lastmodified":1694497837,
     "wof:name":"Lulua",
     "wof:parent_id":85669989,
     "wof:placetype":"county",

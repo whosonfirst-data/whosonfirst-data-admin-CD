@@ -5,17 +5,23 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":32.877839,
-    "geom:area_square_m":406244938541.162537,
+    "geom:area_square_m":406244933351.374512,
     "geom:bbox":"16.524971,-2.522895,24.421538,5.15519",
     "geom:latitude":1.046565,
     "geom:longitude":20.605892,
     "gn:population":7500000,
     "iso:country":"CD",
     "label:eng_x_preferred_longname":[
-        "\u00c9quateur Province"
+        "Equater Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "EQ"
+    ],
+    "label:eng_x_variant_longname":[
+        "\u00c9quateur Province"
     ],
     "lbl:latitude":1.069646,
     "lbl:longitude":20.217009,
@@ -57,7 +63,7 @@
         "\u00c9quateur"
     ],
     "name:eng_x_preferred":[
-        "\u00c9quateur Province"
+        "Equater"
     ],
     "name:eng_x_variant":[
         "\u00c9quateur"
@@ -256,7 +262,7 @@
         "wk:page":"\u00c9quateur (former province)"
     },
     "wof:country":"CD",
-    "wof:geomhash":"c657f78a2a46567d9e4e47aa9d55329f",
+    "wof:geomhash":"47a7805af5b2abb23107062c875d9aaf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -275,7 +281,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1690865797,
+    "wof:lastmodified":1694639832,
     "wof:name":"\u00c9quateur",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.887821,
-    "geom:area_square_m":97145895231.746857,
+    "geom:area_square_m":97145890345.180359,
     "geom:bbox":"19.680137,-7.298905,22.535791,-2.309603",
     "geom:latitude":-4.950164,
     "geom:longitude":21.104946,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Kasai Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-4.90027,
     "lbl:longitude":20.964716,
     "lbl:max_zoom":10.0,
@@ -40,6 +46,9 @@
         "Kasai"
     ],
     "name:deu_x_preferred":[
+        "Kasai"
+    ],
+    "name:eng_x_preferred":[
         "Kasai"
     ],
     "name:eng_x_variant":[
@@ -114,7 +123,7 @@
     "wof:concordances":{},
     "wof:country":"CD",
     "wof:created":1473878920,
-    "wof:geomhash":"01779a947b4b8ad72571f4fe436ee9d7",
+    "wof:geomhash":"08124ce3bba2e1beb53656ecfd781d2d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -124,7 +133,7 @@
         }
     ],
     "wof:id":1091680543,
-    "wof:lastmodified":1636501435,
+    "wof:lastmodified":1694498106,
     "wof:name":"Kasai",
     "wof:parent_id":85669989,
     "wof:placetype":"county",

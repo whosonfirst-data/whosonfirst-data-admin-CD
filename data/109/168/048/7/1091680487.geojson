@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061729,
-    "geom:area_square_m":759259323.827188,
+    "geom:area_square_m":759259323.827207,
     "geom:bbox":"22.2465106897,-6.04372854538,22.684011427,-5.74810792367",
     "geom:latitude":-5.894537,
     "geom:longitude":22.469245,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Kananga Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-5.898503,
     "lbl:longitude":22.436171,
     "lbl:max_zoom":10.0,
@@ -52,6 +58,9 @@
         "Kananga"
     ],
     "name:deu_x_preferred":[
+        "Kananga"
+    ],
+    "name:eng_x_preferred":[
         "Kananga"
     ],
     "name:eng_x_variant":[
@@ -184,7 +193,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878917,
-    "wof:geomhash":"d28d7bb4b2848274c73452f42b62e5b1",
+    "wof:geomhash":"dca8a16233ed786ff97e0d09fa4a22e2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -194,7 +203,7 @@
         }
     ],
     "wof:id":1091680487,
-    "wof:lastmodified":1566636204,
+    "wof:lastmodified":1694497836,
     "wof:name":"Kananga",
     "wof:parent_id":85669989,
     "wof:placetype":"county",

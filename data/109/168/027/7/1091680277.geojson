@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.952554,
-    "geom:area_square_m":109545626858.846649,
+    "geom:area_square_m":109545629154.526001,
     "geom:bbox":"23.640091,-10.129915,27.8542,-6.144041",
     "geom:latitude":-8.236583,
     "geom:longitude":25.429034,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Haut-Lomami Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-8.202505,
     "lbl:longitude":25.39684,
     "lbl:max_zoom":10.0,
@@ -155,7 +161,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878904,
-    "wof:geomhash":"b59d618c329260c4e6d6d652cc0b48f6",
+    "wof:geomhash":"2d6fdae327dcbc75fc5f2cff9c53f9fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":1091680277,
-    "wof:lastmodified":1690865811,
+    "wof:lastmodified":1694497837,
     "wof:name":"Haut-Lomami",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

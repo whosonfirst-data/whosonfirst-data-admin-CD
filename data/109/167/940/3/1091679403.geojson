@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006676,
-    "geom:area_square_m":82229884.631565,
+    "geom:area_square_m":82229949.509145,
     "geom:bbox":"18.751197,-5.106999,18.861473,-5.007687",
     "geom:latitude":-5.057854,
     "geom:longitude":18.802861,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Kwilu Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-5.058873,
     "lbl:longitude":18.802861,
     "lbl:max_zoom":10.0,
@@ -164,7 +170,7 @@
     },
     "wof:country":"CD",
     "wof:created":1473878856,
-    "wof:geomhash":"6a2caf825461e32d9909979d5f8af113",
+    "wof:geomhash":"f49dc1bc197bd5a8078112e23bb676f5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":1091679403,
-    "wof:lastmodified":1690865814,
+    "wof:lastmodified":1694498107,
     "wof:name":"Kikwit",
     "wof:parent_id":85669985,
     "wof:placetype":"county",

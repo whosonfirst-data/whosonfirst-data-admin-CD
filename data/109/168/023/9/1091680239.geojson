@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.533957,
-    "geom:area_square_m":79683788881.69902,
+    "geom:area_square_m":79683790316.923752,
     "geom:bbox":"21.74475,-11.251,24.575339,-7.63722",
     "geom:latitude":-9.465037,
     "geom:longitude":23.019407,
     "iso:country":"CD",
+    "label:eng_x_preferred_longname":[
+        "Lualaba Administrative Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "administrative zone"
+    ],
     "lbl:latitude":-9.492156,
     "lbl:longitude":23.046147,
     "lbl:max_zoom":10.0,
@@ -41,6 +47,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03c5\u03b1\u03bb\u03ac\u03bc\u03c0\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lualaba"
     ],
     "name:eng_x_variant":[
         "Lualaba"
@@ -99,7 +108,7 @@
     "wof:concordances":{},
     "wof:country":"CD",
     "wof:created":1473878903,
-    "wof:geomhash":"02acc2ba0641c595c970b92c4ac31919",
+    "wof:geomhash":"1f450c5816c3b1a42ed2ea882d4843e1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":1091680239,
-    "wof:lastmodified":1636501434,
+    "wof:lastmodified":1694498105,
     "wof:name":"Lualaba",
     "wof:parent_id":85670015,
     "wof:placetype":"county",
