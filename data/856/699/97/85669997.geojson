@@ -157,11 +157,13 @@
         "gn:id":2314300,
         "gp:id":2344982,
         "hasc:id":"CD.KN",
+        "iso:code":"CD-KN",
         "qs_pg:id":423622,
         "unlc:id":"CD-KN",
         "wd:id":"Q3091458",
         "wk:page":"Kinshasa (commune)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CD",
     "wof:geomhash":"f579d950728252ee052bf1fbb99f9b4f",
     "wof:hierarchy":[
@@ -182,7 +184,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694493129,
+    "wof:lastmodified":1695884326,
     "wof:name":"Kinshasa City",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

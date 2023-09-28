@@ -305,11 +305,13 @@
         "gn:id":205413,
         "gp:id":20069829,
         "hasc:id":"CD.KV",
+        "iso:code":"CD-SK",
         "qs_pg:id":1117316,
         "unlc:id":"CD-SK",
         "wd:id":"Q488326",
         "wk:page":"South Kivu"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CD",
     "wof:geomhash":"de7ff8aa26338900dc3ef83103bdcf57",
     "wof:hierarchy":[
@@ -330,7 +332,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694493259,
+    "wof:lastmodified":1695884883,
     "wof:name":"Sud-Kivu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

@@ -270,11 +270,13 @@
         "gn:id":214139,
         "gp:id":2344979,
         "hasc:id":"CD.KC",
+        "iso:code":"CD-KC",
         "qs_pg:id":318363,
         "unlc:id":"CD-KW",
         "wd:id":"Q130576",
         "wk:page":"Kasai-Occidental"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CD",
     "wof:geomhash":"751c618202f4312c690b4977eda72f8a",
     "wof:hierarchy":[
@@ -295,7 +297,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694639831,
+    "wof:lastmodified":1695884326,
     "wof:name":"Kasa\u00ef-Occidental",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

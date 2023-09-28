@@ -256,11 +256,13 @@
         "gn:id":216661,
         "gp:id":2344978,
         "hasc:id":"CD.EQ",
+        "iso:code":"CD-EQ",
         "qs_pg:id":423620,
         "unlc:id":"CD-EQ",
         "wd:id":"Q139626",
         "wk:page":"\u00c9quateur (former province)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CD",
     "wof:geomhash":"47a7805af5b2abb23107062c875d9aaf",
     "wof:hierarchy":[
@@ -281,7 +283,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694639832,
+    "wof:lastmodified":1695884501,
     "wof:name":"\u00c9quateur",
     "wof:parent_id":85632643,
     "wof:placetype":"region",
