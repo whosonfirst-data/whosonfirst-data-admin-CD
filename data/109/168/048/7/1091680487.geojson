@@ -191,6 +191,7 @@
     "wof:concordances":{
         "hasc:id":"CD.LL.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878917,
     "wof:geomhash":"dca8a16233ed786ff97e0d09fa4a22e2",
@@ -203,7 +204,7 @@
         }
     ],
     "wof:id":1091680487,
-    "wof:lastmodified":1694497836,
+    "wof:lastmodified":1695886284,
     "wof:name":"Kananga",
     "wof:parent_id":85669989,
     "wof:placetype":"county",

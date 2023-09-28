@@ -179,6 +179,7 @@
     "wof:concordances":{
         "hasc:id":"CD.ET.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878861,
     "wof:geomhash":"5e28657e5c3d12b17891267b07c5e3c8",
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":1091679473,
-    "wof:lastmodified":1694497838,
+    "wof:lastmodified":1695886287,
     "wof:name":"Mbandaka",
     "wof:parent_id":85669975,
     "wof:placetype":"county",

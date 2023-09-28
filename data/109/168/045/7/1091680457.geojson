@@ -114,6 +114,7 @@
     "wof:concordances":{
         "hasc:id":"CD.LM.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878916,
     "wof:geomhash":"a26f8aafd5f99180b77eb4be2d4cf208",
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1091680457,
-    "wof:lastmodified":1694498106,
+    "wof:lastmodified":1695886779,
     "wof:name":"Mwene-Ditu",
     "wof:parent_id":85670011,
     "wof:placetype":"county",

@@ -162,6 +162,7 @@
     "wof:concordances":{
         "hasc:id":"CD.HK.LI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878900,
     "wof:geomhash":"6de3070804c816b51779fb7471057b16",
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1091680181,
-    "wof:lastmodified":1694497837,
+    "wof:lastmodified":1695886285,
     "wof:name":"Likasi",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

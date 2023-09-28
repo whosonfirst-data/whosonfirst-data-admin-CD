@@ -153,6 +153,7 @@
         "hasc:id":"CD.TO.TS",
         "wd:id":"Q630900"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878879,
     "wof:geomhash":"0799d46dd81fba98f793420ca92979e8",
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1091679679,
-    "wof:lastmodified":1694497838,
+    "wof:lastmodified":1695886288,
     "wof:name":"Tshopo",
     "wof:parent_id":85669979,
     "wof:placetype":"county",

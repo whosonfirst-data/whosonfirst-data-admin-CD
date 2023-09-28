@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"CD.KN.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878839,
     "wof:geomhash":"03cbd3f05657d2c73baafe7e3cb128c4",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1091679241,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886291,
     "wof:name":"Funa",
     "wof:parent_id":85669997,
     "wof:placetype":"county",

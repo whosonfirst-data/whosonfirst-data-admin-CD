@@ -177,6 +177,7 @@
     "wof:concordances":{
         "hasc:id":"CD.MN.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878895,
     "wof:geomhash":"56bcc43174394e020aaba21f25ce4e37",
@@ -189,7 +190,7 @@
         }
     ],
     "wof:id":1091680071,
-    "wof:lastmodified":1694498106,
+    "wof:lastmodified":1695886778,
     "wof:name":"Kindu",
     "wof:parent_id":85670007,
     "wof:placetype":"county",

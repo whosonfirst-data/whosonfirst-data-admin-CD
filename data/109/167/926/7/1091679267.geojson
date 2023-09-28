@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"CD.KN.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878843,
     "wof:geomhash":"6ed367701e5c6d9baa3562f9ca5eefc4",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1091679267,
-    "wof:lastmodified":1694498076,
+    "wof:lastmodified":1695886414,
     "wof:name":"Tshangu",
     "wof:parent_id":85669997,
     "wof:placetype":"county",

@@ -186,6 +186,7 @@
     "wof:concordances":{
         "hasc:id":"CD.NK.GO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878885,
     "wof:geomhash":"830e92910d531017572c4f97fab0023f",
@@ -198,7 +199,7 @@
         }
     ],
     "wof:id":1091679837,
-    "wof:lastmodified":1694497837,
+    "wof:lastmodified":1695886287,
     "wof:name":"Goma",
     "wof:parent_id":85670021,
     "wof:placetype":"county",
