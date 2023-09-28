@@ -1433,6 +1433,7 @@
         "hasc:id":"CD",
         "icao:code":"9Q",
         "ioc:id":"COD",
+        "iso:code":"CD",
         "itu:id":"COD",
         "loc:id":"n80061022",
         "m49:code":"180",
@@ -1446,6 +1447,7 @@
         "wk:page":"Democratic Republic of the Congo",
         "wmo:id":"ZR"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CD",
     "wof:country_alpha3":"COD",
     "wof:geom_alt":[
@@ -1471,7 +1473,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694639533,
+    "wof:lastmodified":1695881190,
     "wof:name":"Democratic Republic of the Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
