@@ -218,6 +218,7 @@
     "wof:concordances":{
         "hasc:id":"CD.HK.LB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878898,
     "wof:geomhash":"208b67e2fae878e8535172926044bf64",
@@ -230,7 +231,7 @@
         }
     ],
     "wof:id":1091680141,
-    "wof:lastmodified":1694497836,
+    "wof:lastmodified":1695886284,
     "wof:name":"Lubumbashi",
     "wof:parent_id":85670015,
     "wof:placetype":"county",

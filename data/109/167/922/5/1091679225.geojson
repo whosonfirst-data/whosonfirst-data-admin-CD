@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"CD.KN.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878838,
     "wof:geomhash":"7837152fd5db1845aa40f62a5c054df5",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1091679225,
-    "wof:lastmodified":1694498073,
+    "wof:lastmodified":1695886340,
     "wof:name":"Lukunga",
     "wof:parent_id":85669997,
     "wof:placetype":"county",

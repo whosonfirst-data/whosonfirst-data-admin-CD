@@ -326,11 +326,13 @@
         "gn:id":209610,
         "gp:id":20069831,
         "hasc:id":"CD.MN",
+        "iso:code":"CD-MA",
         "qs_pg:id":236536,
         "unlc:id":"CD-MA",
         "wd:id":"Q130566",
         "wk:page":"Maniema"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1091680093
     ],
@@ -354,7 +356,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694493163,
+    "wof:lastmodified":1695884464,
     "wof:name":"Maniema",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"CD.KN.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878841,
     "wof:geomhash":"899c94616d66e6b96cc98892324763fa",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1091679251,
-    "wof:lastmodified":1694498074,
+    "wof:lastmodified":1695886351,
     "wof:name":"Mont Amba",
     "wof:parent_id":85669997,
     "wof:placetype":"county",

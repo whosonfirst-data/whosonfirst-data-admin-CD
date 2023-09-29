@@ -138,6 +138,7 @@
     "wof:concordances":{
         "hasc:id":"CD.NK.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878888,
     "wof:geomhash":"c71f8da2ed24f3fa9952df268e6bba03",
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1091679907,
-    "wof:lastmodified":1694498107,
+    "wof:lastmodified":1695886780,
     "wof:name":"Beni",
     "wof:parent_id":85670021,
     "wof:placetype":"county",

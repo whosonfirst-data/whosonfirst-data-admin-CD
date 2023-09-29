@@ -59,6 +59,7 @@
     "wof:concordances":{
         "hasc:id":"CD.KO.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878911,
     "wof:geomhash":"8b1fc21a09c6de6d2da13f23c0faa1ac",
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1091680373,
-    "wof:lastmodified":1694498076,
+    "wof:lastmodified":1695886414,
     "wof:name":"Tshilenge",
     "wof:parent_id":85670011,
     "wof:placetype":"county",

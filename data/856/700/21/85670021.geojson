@@ -335,11 +335,13 @@
         "gn:id":206938,
         "gp:id":20069830,
         "hasc:id":"CD.NK",
+        "iso:code":"CD-NK",
         "qs_pg:id":1295984,
         "unlc:id":"CD-NK",
         "wd:id":"Q130625",
         "wk:page":"North Kivu"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CD",
     "wof:geomhash":"dbd9257305c2f0e92dee840c75308d83",
     "wof:hierarchy":[
@@ -360,7 +362,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694493260,
+    "wof:lastmodified":1695884883,
     "wof:name":"Nord-Kivu",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

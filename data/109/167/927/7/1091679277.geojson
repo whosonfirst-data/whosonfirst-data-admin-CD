@@ -185,6 +185,7 @@
     "wof:concordances":{
         "hasc:id":"CD.BC.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878844,
     "wof:geomhash":"72afc6405fb1d5d18db45d653dd46cbb",
@@ -197,7 +198,7 @@
         }
     ],
     "wof:id":1091679277,
-    "wof:lastmodified":1694497838,
+    "wof:lastmodified":1695886288,
     "wof:name":"Matadi",
     "wof:parent_id":85669993,
     "wof:placetype":"county",

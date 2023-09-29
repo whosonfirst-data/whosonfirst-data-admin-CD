@@ -293,11 +293,13 @@
         "gn:id":216139,
         "gp:id":2344985,
         "hasc:id":"CD.HC",
+        "iso:code":"CD-OR",
         "qs_pg:id":219525,
         "unlc:id":"CD-OR",
         "wd:id":"Q831370",
         "wk:page":"Orientale Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CD",
     "wof:geomhash":"62104184264be324b502833c9c06734d",
     "wof:hierarchy":[
@@ -318,7 +320,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1694639832,
+    "wof:lastmodified":1695884883,
     "wof:name":"Orientale",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

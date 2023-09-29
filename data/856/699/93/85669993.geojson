@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.435272,
-    "geom:area_square_m":54609392669.683418,
+    "geom:area_square_m":54609396986.918365,
     "geom:bbox":"12.210555,-6.051928,16.278676,-4.277102",
     "geom:latitude":-5.277159,
     "geom:longitude":14.312602,
@@ -318,14 +318,16 @@
         "gn:id":2317277,
         "gp:id":2344984,
         "hasc:id":"CD.BC",
+        "iso:code":"CD-BC",
         "iso:id":"CD-BC",
         "qs_pg:id":229366,
         "unlc:id":"CD-BC",
         "wd:id":"Q130588",
         "wk:page":"Kongo Central"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CD",
-    "wof:geomhash":"bcea9d8395ba92360dfce455edc387fc",
+    "wof:geomhash":"5922b9f76725b28bba4300cd5c44b181",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -344,7 +346,7 @@
         "lin",
         "kon"
     ],
-    "wof:lastmodified":1690865796,
+    "wof:lastmodified":1695884326,
     "wof:name":"Bas-Congo",
     "wof:parent_id":85632643,
     "wof:placetype":"region",

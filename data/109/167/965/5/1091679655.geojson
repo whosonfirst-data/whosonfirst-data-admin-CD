@@ -218,6 +218,7 @@
     "wof:concordances":{
         "hasc:id":"CD.TO.KI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878877,
     "wof:geomhash":"a158848f3c2f690871673156d7412c5f",
@@ -230,7 +231,7 @@
         }
     ],
     "wof:id":1091679655,
-    "wof:lastmodified":1694497837,
+    "wof:lastmodified":1695886287,
     "wof:name":"Kisangani",
     "wof:parent_id":85669979,
     "wof:placetype":"county",

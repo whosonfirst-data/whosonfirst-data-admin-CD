@@ -170,6 +170,7 @@
         "hasc:id":"CD.LM.KB",
         "wd:id":"Q241886"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CD",
     "wof:created":1473878914,
     "wof:geomhash":"74e76823440b874c8216f8565b372b11",
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1091680435,
-    "wof:lastmodified":1694498106,
+    "wof:lastmodified":1695886779,
     "wof:name":"Kabinda",
     "wof:parent_id":85670011,
     "wof:placetype":"county",
