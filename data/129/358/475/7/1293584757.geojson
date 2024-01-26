@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":2310804
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2255991
+        ]
+    },
     "wof:country":"CD",
     "wof:geomhash":"6a66ad926848aed6aefbef96bc89723f",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1293584757,
-    "wof:lastmodified":1566634411,
+    "wof:lastmodified":1706239386,
     "wof:name":"Nzala",
     "wof:parent_id":1092013827,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327314971
+    ],
     "wof:tags":[]
 },
   "bbox": [
