@@ -47,6 +47,9 @@
     "name:spa_x_preferred":[
         "Simia"
     ],
+    "name:und_x_variant":[
+        "Sinia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -57,6 +60,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8022313
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            205518
+        ]
     },
     "wof:country":"CD",
     "wof:geomhash":"8647e4f9bfb768925ca18d971514e801",
@@ -70,13 +78,15 @@
         }
     ],
     "wof:id":1260193247,
-    "wof:lastmodified":1566635719,
+    "wof:lastmodified":1706239386,
     "wof:name":"Simia",
     "wof:parent_id":1091679755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-cd",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360257559
+    ],
     "wof:tags":[]
 },
   "bbox": [
